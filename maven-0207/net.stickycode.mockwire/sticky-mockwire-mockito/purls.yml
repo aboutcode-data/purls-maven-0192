@@ -1,0 +1,6 @@
+- pkg:maven/net.stickycode.mockwire/sticky-mockwire-mockito@3.2
+- pkg:maven/net.stickycode.mockwire/sticky-mockwire-mockito@3.2?classifier=sources
+- pkg:maven/net.stickycode.mockwire/sticky-mockwire-mockito@4.3
+- pkg:maven/net.stickycode.mockwire/sticky-mockwire-mockito@4.3?classifier=sources
+- pkg:maven/net.stickycode.mockwire/sticky-mockwire-mockito@5.1
+- pkg:maven/net.stickycode.mockwire/sticky-mockwire-mockito@5.1?classifier=sources

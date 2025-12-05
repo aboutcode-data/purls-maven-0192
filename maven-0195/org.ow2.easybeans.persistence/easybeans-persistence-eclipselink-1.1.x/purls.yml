@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.easybeans.persistence/easybeans-persistence-eclipselink-1.1.x@1.0.0
+- pkg:maven/org.ow2.easybeans.persistence/easybeans-persistence-eclipselink-1.1.x@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.jscsi/storagepool@2.2
+- pkg:maven/org.jscsi/storagepool@2.2?classifier=sources

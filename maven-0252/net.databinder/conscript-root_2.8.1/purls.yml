@@ -1,0 +1,4 @@
+- pkg:maven/net.databinder/conscript-root_2.8.1@0.3.0
+- pkg:maven/net.databinder/conscript-root_2.8.1@0.3.0?classifier=sources
+- pkg:maven/net.databinder/conscript-root_2.8.1@0.3.1
+- pkg:maven/net.databinder/conscript-root_2.8.1@0.3.1?classifier=sources

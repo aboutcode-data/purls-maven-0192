@@ -1,0 +1,3 @@
+- pkg:maven/org.entando.entando/entando-archetype-portal-bootstrap@3.2.0-01?classifier=sources
+- pkg:maven/org.entando.entando/entando-archetype-portal-bootstrap@3.2.0?classifier=sources
+- pkg:maven/org.entando.entando/entando-archetype-portal-bootstrap@4.0.0?classifier=sources

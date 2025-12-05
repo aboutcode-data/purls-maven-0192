@@ -1,0 +1,2 @@
+- pkg:maven/eu.interedition/text@1.1
+- pkg:maven/eu.interedition/text@1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.features-runner/features-runner-core@0.1
+- pkg:maven/org.features-runner/features-runner-core@0.1?classifier=sources

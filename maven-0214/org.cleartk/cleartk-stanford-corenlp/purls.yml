@@ -1,0 +1,8 @@
+- pkg:maven/org.cleartk/cleartk-stanford-corenlp@0.7.0
+- pkg:maven/org.cleartk/cleartk-stanford-corenlp@0.7.0?classifier=sources
+- pkg:maven/org.cleartk/cleartk-stanford-corenlp@0.7.1
+- pkg:maven/org.cleartk/cleartk-stanford-corenlp@0.7.1?classifier=sources
+- pkg:maven/org.cleartk/cleartk-stanford-corenlp@0.8.0
+- pkg:maven/org.cleartk/cleartk-stanford-corenlp@0.8.0?classifier=sources
+- pkg:maven/org.cleartk/cleartk-stanford-corenlp@2.0.0
+- pkg:maven/org.cleartk/cleartk-stanford-corenlp@2.0.0?classifier=sources

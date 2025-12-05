@@ -1,0 +1,4 @@
+- pkg:maven/org.bitbucket.dollar/dollar-lang@1.0-beta2
+- pkg:maven/org.bitbucket.dollar/dollar-lang@1.0-beta2?classifier=sources
+- pkg:maven/org.bitbucket.dollar/dollar-lang@1.0-beta3
+- pkg:maven/org.bitbucket.dollar/dollar-lang@1.0-beta3?classifier=sources

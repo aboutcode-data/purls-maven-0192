@@ -1,0 +1,10 @@
+- pkg:maven/org.ow2.weblab.webservices/tika-normaliser@1.7.2-RC1?classifier=sources
+- pkg:maven/org.ow2.weblab.webservices/tika-normaliser@1.7.2-RC1?type=war
+- pkg:maven/org.ow2.weblab.webservices/tika-normaliser@1.8-RC1?classifier=sources
+- pkg:maven/org.ow2.weblab.webservices/tika-normaliser@1.8-RC1?type=war
+- pkg:maven/org.ow2.weblab.webservices/tika-normaliser@1.8.1?classifier=sources
+- pkg:maven/org.ow2.weblab.webservices/tika-normaliser@1.8.1?type=war
+- pkg:maven/org.ow2.weblab.webservices/tika-normaliser@1.8.2?classifier=sources
+- pkg:maven/org.ow2.weblab.webservices/tika-normaliser@1.8.2?type=war
+- pkg:maven/org.ow2.weblab.webservices/tika-normaliser@1.8?classifier=sources
+- pkg:maven/org.ow2.weblab.webservices/tika-normaliser@1.8?type=war

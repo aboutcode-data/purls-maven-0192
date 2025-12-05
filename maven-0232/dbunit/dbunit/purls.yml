@@ -1,0 +1,6 @@
+- pkg:maven/dbunit/dbunit@1.5
+- pkg:maven/dbunit/dbunit@1.5.1
+- pkg:maven/dbunit/dbunit@1.5.5
+- pkg:maven/dbunit/dbunit@2.0
+- pkg:maven/dbunit/dbunit@2.1
+- pkg:maven/dbunit/dbunit@2.1?classifier=sources

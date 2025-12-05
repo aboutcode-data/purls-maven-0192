@@ -1,0 +1,4 @@
+- pkg:maven/emma/emma@2.0.4217
+- pkg:maven/emma/emma@2.0.5312
+- pkg:maven/emma/emma@2.1.5320
+- pkg:maven/emma/emma@2.1.5320?classifier=sources

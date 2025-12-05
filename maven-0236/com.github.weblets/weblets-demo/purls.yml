@@ -1,0 +1,4 @@
+- pkg:maven/com.github.weblets/weblets-demo@1.2?classifier=sources
+- pkg:maven/com.github.weblets/weblets-demo@1.2?type=war
+- pkg:maven/com.github.weblets/weblets-demo@1.3?classifier=sources
+- pkg:maven/com.github.weblets/weblets-demo@1.3?type=war

@@ -1,0 +1,16 @@
+- pkg:maven/org.objectweb.fractal.cecilia.toolchain/task-codegen@1.0
+- pkg:maven/org.objectweb.fractal.cecilia.toolchain/task-codegen@1.0?classifier=sources
+- pkg:maven/org.objectweb.fractal.cecilia.toolchain/task-codegen@1.1
+- pkg:maven/org.objectweb.fractal.cecilia.toolchain/task-codegen@1.1?classifier=sources
+- pkg:maven/org.objectweb.fractal.cecilia.toolchain/task-codegen@1.2
+- pkg:maven/org.objectweb.fractal.cecilia.toolchain/task-codegen@1.2.1
+- pkg:maven/org.objectweb.fractal.cecilia.toolchain/task-codegen@1.2.1?classifier=sources
+- pkg:maven/org.objectweb.fractal.cecilia.toolchain/task-codegen@1.2?classifier=sources
+- pkg:maven/org.objectweb.fractal.cecilia.toolchain/task-codegen@2.0-alpha-1
+- pkg:maven/org.objectweb.fractal.cecilia.toolchain/task-codegen@2.0-alpha-1?classifier=sources
+- pkg:maven/org.objectweb.fractal.cecilia.toolchain/task-codegen@2.0-alpha-2
+- pkg:maven/org.objectweb.fractal.cecilia.toolchain/task-codegen@2.0-alpha-2?classifier=sources
+- pkg:maven/org.objectweb.fractal.cecilia.toolchain/task-codegen@2.0-alpha-3
+- pkg:maven/org.objectweb.fractal.cecilia.toolchain/task-codegen@2.0-alpha-3?classifier=sources
+- pkg:maven/org.objectweb.fractal.cecilia.toolchain/task-codegen@2.0-alpha-4
+- pkg:maven/org.objectweb.fractal.cecilia.toolchain/task-codegen@2.0-alpha-4?classifier=sources

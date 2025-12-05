@@ -1,0 +1,3 @@
+- pkg:maven/org.ow2.novabpm.admin/exo.bpm.resources@4.0?type=war
+- pkg:maven/org.ow2.novabpm.admin/exo.bpm.resources@4.1.1?type=war
+- pkg:maven/org.ow2.novabpm.admin/exo.bpm.resources@4.1?type=war

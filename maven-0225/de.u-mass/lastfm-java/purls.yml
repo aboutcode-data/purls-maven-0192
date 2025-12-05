@@ -1,0 +1,2 @@
+- pkg:maven/de.u-mass/lastfm-java@0.1.2
+- pkg:maven/de.u-mass/lastfm-java@0.1.2?classifier=sources

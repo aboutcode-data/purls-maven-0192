@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.citrus.tool/maven-autoconfig-plugin@1.0.10
+- pkg:maven/com.alibaba.citrus.tool/maven-autoconfig-plugin@1.0.10?classifier=sources

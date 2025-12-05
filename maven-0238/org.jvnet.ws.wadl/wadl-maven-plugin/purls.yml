@@ -1,0 +1,4 @@
+- pkg:maven/org.jvnet.ws.wadl/wadl-maven-plugin@1.1
+- pkg:maven/org.jvnet.ws.wadl/wadl-maven-plugin@1.1.1
+- pkg:maven/org.jvnet.ws.wadl/wadl-maven-plugin@1.1.1?classifier=sources
+- pkg:maven/org.jvnet.ws.wadl/wadl-maven-plugin@1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.stanbol/org.apache.stanbol.enhancer.engines.paoding.token@0.10.0
+- pkg:maven/org.apache.stanbol/org.apache.stanbol.enhancer.engines.paoding.token@0.10.0?classifier=sources

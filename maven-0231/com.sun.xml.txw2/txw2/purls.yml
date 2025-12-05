@@ -1,0 +1,8 @@
+- pkg:maven/com.sun.xml.txw2/txw2@20070616
+- pkg:maven/com.sun.xml.txw2/txw2@20070616?classifier=sources
+- pkg:maven/com.sun.xml.txw2/txw2@20070624
+- pkg:maven/com.sun.xml.txw2/txw2@20070624?classifier=sources
+- pkg:maven/com.sun.xml.txw2/txw2@20090102
+- pkg:maven/com.sun.xml.txw2/txw2@20090102?classifier=sources
+- pkg:maven/com.sun.xml.txw2/txw2@20110809
+- pkg:maven/com.sun.xml.txw2/txw2@20110809?classifier=sources

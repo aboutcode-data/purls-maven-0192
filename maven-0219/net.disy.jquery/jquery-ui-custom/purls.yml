@@ -1,0 +1,2 @@
+- pkg:maven/net.disy.jquery/jquery-ui-custom@1.8.2
+- pkg:maven/net.disy.jquery/jquery-ui-custom@1.8.2?classifier=sources

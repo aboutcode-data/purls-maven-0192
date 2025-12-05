@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.geronimo.applications/demo@1.2-beta?classifier=sources
+- pkg:maven/org.apache.geronimo.applications/demo@1.2-beta?type=war

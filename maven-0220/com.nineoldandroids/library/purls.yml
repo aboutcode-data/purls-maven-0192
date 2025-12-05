@@ -1,0 +1,6 @@
+- pkg:maven/com.nineoldandroids/library@2.2.0
+- pkg:maven/com.nineoldandroids/library@2.2.0?classifier=sources
+- pkg:maven/com.nineoldandroids/library@2.3.0
+- pkg:maven/com.nineoldandroids/library@2.3.0?classifier=sources
+- pkg:maven/com.nineoldandroids/library@2.4.0
+- pkg:maven/com.nineoldandroids/library@2.4.0?classifier=sources

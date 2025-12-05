@@ -1,0 +1,2 @@
+- pkg:maven/com.ovea.tajin/tajin-js@1.0.b12?classifier=sources
+- pkg:maven/com.ovea.tajin/tajin-js@1.0.b12?type=war

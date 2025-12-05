@@ -1,0 +1,2 @@
+- pkg:maven/org.andromda.bootstrap.templateengines/andromda-templateengine-velocity@3.2
+- pkg:maven/org.andromda.bootstrap.templateengines/andromda-templateengine-velocity@3.3

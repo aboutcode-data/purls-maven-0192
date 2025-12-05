@@ -1,0 +1,2 @@
+- pkg:maven/com.pcl-solutions.maven.wagons/rsync-maven-wagon@1.0
+- pkg:maven/com.pcl-solutions.maven.wagons/rsync-maven-wagon@1.0?classifier=sources

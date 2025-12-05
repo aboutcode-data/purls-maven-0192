@@ -1,0 +1,6 @@
+- pkg:maven/com.sun.xml.ws/webservices-extra-jdk-packages@2.1-b12
+- pkg:maven/com.sun.xml.ws/webservices-extra-jdk-packages@2.1-b13
+- pkg:maven/com.sun.xml.ws/webservices-extra-jdk-packages@2.1-b14
+- pkg:maven/com.sun.xml.ws/webservices-extra-jdk-packages@2.1-b15
+- pkg:maven/com.sun.xml.ws/webservices-extra-jdk-packages@2.1-b16
+- pkg:maven/com.sun.xml.ws/webservices-extra-jdk-packages@2.1-b16?classifier=sources

@@ -1,0 +1,14 @@
+- pkg:maven/org.jboss.aerogear/aerogear-controller@1.0.0
+- pkg:maven/org.jboss.aerogear/aerogear-controller@1.0.0.Alpha
+- pkg:maven/org.jboss.aerogear/aerogear-controller@1.0.0.Alpha?classifier=sources
+- pkg:maven/org.jboss.aerogear/aerogear-controller@1.0.0.CR1
+- pkg:maven/org.jboss.aerogear/aerogear-controller@1.0.0.CR1?classifier=sources
+- pkg:maven/org.jboss.aerogear/aerogear-controller@1.0.0.M1
+- pkg:maven/org.jboss.aerogear/aerogear-controller@1.0.0.M1?classifier=sources
+- pkg:maven/org.jboss.aerogear/aerogear-controller@1.0.0.M8
+- pkg:maven/org.jboss.aerogear/aerogear-controller@1.0.0.M8?classifier=sources
+- pkg:maven/org.jboss.aerogear/aerogear-controller@1.0.0?classifier=sources
+- pkg:maven/org.jboss.aerogear/aerogear-controller@1.0.1
+- pkg:maven/org.jboss.aerogear/aerogear-controller@1.0.1?classifier=sources
+- pkg:maven/org.jboss.aerogear/aerogear-controller@1.0.2
+- pkg:maven/org.jboss.aerogear/aerogear-controller@1.0.2?classifier=sources

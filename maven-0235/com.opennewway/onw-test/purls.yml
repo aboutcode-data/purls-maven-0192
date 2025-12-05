@@ -1,0 +1,2 @@
+- pkg:maven/com.opennewway/onw-test@1.0d11
+- pkg:maven/com.opennewway/onw-test@1.0d11?classifier=sources

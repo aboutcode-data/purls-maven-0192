@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode/kryo@1.04
+- pkg:maven/com.googlecode/kryo@1.04?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.cloudbees.event/cloudbees-event-api@1.0
+- pkg:maven/com.cloudbees.event/cloudbees-event-api@1.0?classifier=sources
+- pkg:maven/com.cloudbees.event/cloudbees-event-api@1.1
+- pkg:maven/com.cloudbees.event/cloudbees-event-api@1.1?classifier=sources

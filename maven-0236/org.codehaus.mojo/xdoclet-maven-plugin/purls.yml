@@ -1,0 +1,4 @@
+- pkg:maven/org.codehaus.mojo/xdoclet-maven-plugin@1.0
+- pkg:maven/org.codehaus.mojo/xdoclet-maven-plugin@1.0-alpha-1
+- pkg:maven/org.codehaus.mojo/xdoclet-maven-plugin@1.0-alpha-2
+- pkg:maven/org.codehaus.mojo/xdoclet-maven-plugin@1.0?classifier=sources

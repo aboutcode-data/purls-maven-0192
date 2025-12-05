@@ -1,0 +1,1 @@
+- pkg:maven/org.hibernate/ejb3-persistence@1.0.2.GA?classifier=sources

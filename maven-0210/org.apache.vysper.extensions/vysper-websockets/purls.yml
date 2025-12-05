@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.vysper.extensions/vysper-websockets@0.7
+- pkg:maven/org.apache.vysper.extensions/vysper-websockets@0.7?classifier=sources

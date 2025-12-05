@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.sarasvati.thirdparty.netbeans/visual@7.3
+- pkg:maven/com.googlecode.sarasvati.thirdparty.netbeans/visual@7.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.nan21.dnet/nan21.dnet.core.welcome@1.0.2?classifier=sources
+- pkg:maven/net.nan21.dnet/nan21.dnet.core.welcome@1.0.2?type=war

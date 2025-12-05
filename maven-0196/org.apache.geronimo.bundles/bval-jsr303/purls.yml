@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.geronimo.bundles/bval-jsr303@0.3_1-incubating
+- pkg:maven/org.apache.geronimo.bundles/bval-jsr303@0.3_1-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.geronimo.bundles/bval-jsr303@0.3_1-incubating?classifier=sources
+- pkg:maven/org.apache.geronimo.bundles/bval-jsr303@0.4_1
+- pkg:maven/org.apache.geronimo.bundles/bval-jsr303@0.4_1?classifier=source-release&type=zip
+- pkg:maven/org.apache.geronimo.bundles/bval-jsr303@0.4_1?classifier=sources

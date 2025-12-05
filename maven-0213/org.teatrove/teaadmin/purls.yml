@@ -1,0 +1,2 @@
+- pkg:maven/org.teatrove/teaadmin@4.1.2
+- pkg:maven/org.teatrove/teaadmin@4.1.2?classifier=sources

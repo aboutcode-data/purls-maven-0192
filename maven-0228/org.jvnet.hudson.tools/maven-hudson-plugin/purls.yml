@@ -1,0 +1,8 @@
+- pkg:maven/org.jvnet.hudson.tools/maven-hudson-plugin@2.0-alpha-2
+- pkg:maven/org.jvnet.hudson.tools/maven-hudson-plugin@2.0-alpha-2?classifier=sources
+- pkg:maven/org.jvnet.hudson.tools/maven-hudson-plugin@2.0-alpha-4
+- pkg:maven/org.jvnet.hudson.tools/maven-hudson-plugin@2.0-alpha-4?classifier=sources
+- pkg:maven/org.jvnet.hudson.tools/maven-hudson-plugin@6.1.5
+- pkg:maven/org.jvnet.hudson.tools/maven-hudson-plugin@6.1.5?classifier=sources
+- pkg:maven/org.jvnet.hudson.tools/maven-hudson-plugin@6.1.7
+- pkg:maven/org.jvnet.hudson.tools/maven-hudson-plugin@6.1.7?classifier=sources

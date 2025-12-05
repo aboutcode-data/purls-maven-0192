@@ -1,0 +1,2 @@
+- pkg:maven/com.eaio.uuid/uuid@3.2
+- pkg:maven/com.eaio.uuid/uuid@3.2?classifier=sources

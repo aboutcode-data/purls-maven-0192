@@ -1,0 +1,2 @@
+- pkg:maven/de.ovgu.dke.glue/glue-apitest@0.2.3
+- pkg:maven/de.ovgu.dke.glue/glue-apitest@0.2.3?classifier=sources

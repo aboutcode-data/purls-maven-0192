@@ -1,0 +1,6 @@
+- pkg:maven/org.kevoree.library.cloud/org.kevoree.library.cloud.system@3.5.0
+- pkg:maven/org.kevoree.library.cloud/org.kevoree.library.cloud.system@3.5.0?classifier=sources
+- pkg:maven/org.kevoree.library.cloud/org.kevoree.library.cloud.system@3.5.1
+- pkg:maven/org.kevoree.library.cloud/org.kevoree.library.cloud.system@3.5.1?classifier=sources
+- pkg:maven/org.kevoree.library.cloud/org.kevoree.library.cloud.system@3.5.2
+- pkg:maven/org.kevoree.library.cloud/org.kevoree.library.cloud.system@3.5.2?classifier=sources

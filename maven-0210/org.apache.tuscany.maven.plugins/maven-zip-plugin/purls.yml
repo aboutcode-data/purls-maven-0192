@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.tuscany.maven.plugins/maven-zip-plugin@alpha1
+- pkg:maven/org.apache.tuscany.maven.plugins/maven-zip-plugin@alpha1?classifier=sources
+- pkg:maven/org.apache.tuscany.maven.plugins/maven-zip-plugin@alpha2
+- pkg:maven/org.apache.tuscany.maven.plugins/maven-zip-plugin@alpha2?classifier=sources

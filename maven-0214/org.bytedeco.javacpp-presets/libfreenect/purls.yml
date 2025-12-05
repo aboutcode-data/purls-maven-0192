@@ -1,0 +1,2 @@
+- pkg:maven/org.bytedeco.javacpp-presets/libfreenect@0.4-0.8
+- pkg:maven/org.bytedeco.javacpp-presets/libfreenect@0.4-0.8?classifier=sources

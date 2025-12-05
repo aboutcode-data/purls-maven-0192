@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.testium/testium-soapui-plugin@0.3.7
+- pkg:maven/net.sf.testium/testium-soapui-plugin@0.3.7?classifier=sources

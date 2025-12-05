@@ -1,0 +1,2 @@
+- pkg:maven/io.github.johnkil/android-appmsg@1.1?classifier=sources
+- pkg:maven/io.github.johnkil/android-appmsg@1.1?type=aar

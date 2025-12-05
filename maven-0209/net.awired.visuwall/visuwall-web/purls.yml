@@ -1,0 +1,8 @@
+- pkg:maven/net.awired.visuwall/visuwall-web@0.2.1?classifier=sources
+- pkg:maven/net.awired.visuwall/visuwall-web@0.2.1?type=war
+- pkg:maven/net.awired.visuwall/visuwall-web@0.3.1?classifier=sources
+- pkg:maven/net.awired.visuwall/visuwall-web@0.3.1?type=war
+- pkg:maven/net.awired.visuwall/visuwall-web@0.3.2?classifier=sources
+- pkg:maven/net.awired.visuwall/visuwall-web@0.3.2?type=war
+- pkg:maven/net.awired.visuwall/visuwall-web@0.3?classifier=sources
+- pkg:maven/net.awired.visuwall/visuwall-web@0.3?type=war

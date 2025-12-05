@@ -1,0 +1,6 @@
+- pkg:maven/ua.gradsoft/fixture-state-management_2.9.1@0.5.0
+- pkg:maven/ua.gradsoft/fixture-state-management_2.9.1@0.5.0?classifier=sources
+- pkg:maven/ua.gradsoft/fixture-state-management_2.9.1@0.5.1
+- pkg:maven/ua.gradsoft/fixture-state-management_2.9.1@0.5.1?classifier=sources
+- pkg:maven/ua.gradsoft/fixture-state-management_2.9.1@0.5.2
+- pkg:maven/ua.gradsoft/fixture-state-management_2.9.1@0.5.2?classifier=sources

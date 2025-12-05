@@ -1,0 +1,14 @@
+- pkg:maven/javax.interceptor/javax.interceptor-api@1.2
+- pkg:maven/javax.interceptor/javax.interceptor-api@1.2-b01
+- pkg:maven/javax.interceptor/javax.interceptor-api@1.2-b01?classifier=sources
+- pkg:maven/javax.interceptor/javax.interceptor-api@1.2-b02
+- pkg:maven/javax.interceptor/javax.interceptor-api@1.2-b02?classifier=sources
+- pkg:maven/javax.interceptor/javax.interceptor-api@1.2-b03
+- pkg:maven/javax.interceptor/javax.interceptor-api@1.2-b03?classifier=sources
+- pkg:maven/javax.interceptor/javax.interceptor-api@1.2-b04
+- pkg:maven/javax.interceptor/javax.interceptor-api@1.2-b04?classifier=sources
+- pkg:maven/javax.interceptor/javax.interceptor-api@1.2-b05
+- pkg:maven/javax.interceptor/javax.interceptor-api@1.2-b05?classifier=sources
+- pkg:maven/javax.interceptor/javax.interceptor-api@1.2-b06
+- pkg:maven/javax.interceptor/javax.interceptor-api@1.2-b06?classifier=sources
+- pkg:maven/javax.interceptor/javax.interceptor-api@1.2?classifier=sources

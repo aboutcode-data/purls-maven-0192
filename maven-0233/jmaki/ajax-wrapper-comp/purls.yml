@@ -1,0 +1,2 @@
+- pkg:maven/jmaki/ajax-wrapper-comp@1.0rc1
+- pkg:maven/jmaki/ajax-wrapper-comp@1.0rc1?classifier=sources

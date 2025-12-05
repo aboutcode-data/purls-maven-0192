@@ -1,0 +1,5 @@
+- pkg:maven/plexus/plexus-xmlrpc@1.0-alpha-2
+- pkg:maven/plexus/plexus-xmlrpc@1.0-alpha-5
+- pkg:maven/plexus/plexus-xmlrpc@1.0-beta-1
+- pkg:maven/plexus/plexus-xmlrpc@1.0-beta-2
+- pkg:maven/plexus/plexus-xmlrpc@1.0-beta-3

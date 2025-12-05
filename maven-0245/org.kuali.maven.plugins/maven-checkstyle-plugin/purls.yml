@@ -1,0 +1,2 @@
+- pkg:maven/org.kuali.maven.plugins/maven-checkstyle-plugin@2.6.1
+- pkg:maven/org.kuali.maven.plugins/maven-checkstyle-plugin@2.6.1?classifier=sources

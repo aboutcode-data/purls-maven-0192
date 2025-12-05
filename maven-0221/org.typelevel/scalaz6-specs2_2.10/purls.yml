@@ -1,0 +1,2 @@
+- pkg:maven/org.typelevel/scalaz6-specs2_2.10@0.1
+- pkg:maven/org.typelevel/scalaz6-specs2_2.10@0.1?classifier=sources

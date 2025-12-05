@@ -1,0 +1,16 @@
+- pkg:maven/io.vertx/vertx-hazelcast@2.1M1
+- pkg:maven/io.vertx/vertx-hazelcast@2.1M1?classifier=sources
+- pkg:maven/io.vertx/vertx-hazelcast@2.1M2
+- pkg:maven/io.vertx/vertx-hazelcast@2.1M2?classifier=sources
+- pkg:maven/io.vertx/vertx-hazelcast@2.1M3
+- pkg:maven/io.vertx/vertx-hazelcast@2.1M3?classifier=sources
+- pkg:maven/io.vertx/vertx-hazelcast@2.1M4
+- pkg:maven/io.vertx/vertx-hazelcast@2.1M4?classifier=sources
+- pkg:maven/io.vertx/vertx-hazelcast@2.1M5
+- pkg:maven/io.vertx/vertx-hazelcast@2.1M5?classifier=sources
+- pkg:maven/io.vertx/vertx-hazelcast@2.1RC1
+- pkg:maven/io.vertx/vertx-hazelcast@2.1RC1?classifier=sources
+- pkg:maven/io.vertx/vertx-hazelcast@2.1RC2
+- pkg:maven/io.vertx/vertx-hazelcast@2.1RC2?classifier=sources
+- pkg:maven/io.vertx/vertx-hazelcast@2.1RC3
+- pkg:maven/io.vertx/vertx-hazelcast@2.1RC3?classifier=sources

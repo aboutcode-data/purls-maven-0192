@@ -1,0 +1,2 @@
+- pkg:maven/net.derquinse.bocas/bocas-jdbc@1.2.2
+- pkg:maven/net.derquinse.bocas/bocas-jdbc@1.2.2?classifier=sources

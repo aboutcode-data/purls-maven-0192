@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jruby@1.1.2_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jruby@1.1.2_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jruby@1.1.2_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jruby@1.1.2_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jruby@1.4.0_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jruby@1.4.0_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jruby@1.5.2_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jruby@1.5.6_1

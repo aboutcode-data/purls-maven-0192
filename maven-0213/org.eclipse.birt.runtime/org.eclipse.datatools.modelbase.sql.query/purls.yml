@@ -1,0 +1,8 @@
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.modelbase.sql.query@1.1.2.v201110151315
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.modelbase.sql.query@1.1.2.v201110151315?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.modelbase.sql.query@1.1.3.v201206060918
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.modelbase.sql.query@1.1.3.v201206060918?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.modelbase.sql.query@1.1.3.v201208230742
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.modelbase.sql.query@1.1.3.v201208230742?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.modelbase.sql.query@1.1.4.v201212120619
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.modelbase.sql.query@1.1.4.v201212120619?classifier=sources

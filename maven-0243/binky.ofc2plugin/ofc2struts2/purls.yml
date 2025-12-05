@@ -1,0 +1,2 @@
+- pkg:maven/binky.ofc2plugin/ofc2struts2@1.0-SNAPSHOT
+- pkg:maven/binky.ofc2plugin/ofc2struts2@1.0-SNAPSHOT?classifier=sources

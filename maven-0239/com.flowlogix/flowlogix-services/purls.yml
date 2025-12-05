@@ -1,0 +1,8 @@
+- pkg:maven/com.flowlogix/flowlogix-services@0.8.6
+- pkg:maven/com.flowlogix/flowlogix-services@0.8.6?classifier=sources
+- pkg:maven/com.flowlogix/flowlogix-services@0.8.7
+- pkg:maven/com.flowlogix/flowlogix-services@0.8.7?classifier=sources
+- pkg:maven/com.flowlogix/flowlogix-services@0.8.8
+- pkg:maven/com.flowlogix/flowlogix-services@0.8.8?classifier=sources
+- pkg:maven/com.flowlogix/flowlogix-services@0.9-obsolete
+- pkg:maven/com.flowlogix/flowlogix-services@0.9-obsolete?classifier=sources

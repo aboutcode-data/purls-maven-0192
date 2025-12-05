@@ -1,0 +1,4 @@
+- pkg:maven/net.ericaro/diezel-core@1.0.0-beta-1
+- pkg:maven/net.ericaro/diezel-core@1.0.0-beta-1?classifier=sources
+- pkg:maven/net.ericaro/diezel-core@1.0.0-beta-2
+- pkg:maven/net.ericaro/diezel-core@1.0.0-beta-2?classifier=sources

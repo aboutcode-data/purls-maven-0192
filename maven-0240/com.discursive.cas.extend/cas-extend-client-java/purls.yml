@@ -1,0 +1,5 @@
+- pkg:maven/com.discursive.cas.extend/cas-extend-client-java@2.1.1
+- pkg:maven/com.discursive.cas.extend/cas-extend-client-java@2.1.1?classifier=sources
+- pkg:maven/com.discursive.cas.extend/cas-extend-client-java@2.2
+- pkg:maven/com.discursive.cas.extend/cas-extend-client-java@2.2.1
+- pkg:maven/com.discursive.cas.extend/cas-extend-client-java@2.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.netflix.karyon/karyon-netty-jersey-blocking@2.0.02
+- pkg:maven/com.netflix.karyon/karyon-netty-jersey-blocking@2.0.02?classifier=sources

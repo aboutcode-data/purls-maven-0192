@@ -1,0 +1,2 @@
+- pkg:maven/net.osgiliath.wrappers/net.osgiliath.wrapper.hibernate.validator.cdi.osgi@0.0.5
+- pkg:maven/net.osgiliath.wrappers/net.osgiliath.wrapper.hibernate.validator.cdi.osgi@0.0.5?classifier=sources

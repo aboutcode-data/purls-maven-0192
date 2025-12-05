@@ -1,0 +1,4 @@
+- pkg:maven/blissed/blissed@1.0-beta-1.20020815.040849
+- pkg:maven/blissed/blissed@1.0-beta-1?classifier=src&type=tar.gz
+- pkg:maven/blissed/blissed@1.0-beta-1?classifier=src&type=zip
+- pkg:maven/blissed/blissed@1.0-beta-3

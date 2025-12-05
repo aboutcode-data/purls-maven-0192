@@ -1,0 +1,4 @@
+- pkg:maven/org.zkoss.zkforge/timeplotz@1.0_2
+- pkg:maven/org.zkoss.zkforge/timeplotz@1.0_2?classifier=sources
+- pkg:maven/org.zkoss.zkforge/timeplotz@1.1_50
+- pkg:maven/org.zkoss.zkforge/timeplotz@1.1_50?classifier=sources

@@ -1,0 +1,9 @@
+- pkg:maven/commons-discovery/commons-discovery@0.1
+- pkg:maven/commons-discovery/commons-discovery@0.2
+- pkg:maven/commons-discovery/commons-discovery@0.2?classifier=sources
+- pkg:maven/commons-discovery/commons-discovery@0.4
+- pkg:maven/commons-discovery/commons-discovery@0.4?classifier=sources
+- pkg:maven/commons-discovery/commons-discovery@0.5
+- pkg:maven/commons-discovery/commons-discovery@0.5?classifier=sources
+- pkg:maven/commons-discovery/commons-discovery@20030211.213356
+- pkg:maven/commons-discovery/commons-discovery@20040218.194635

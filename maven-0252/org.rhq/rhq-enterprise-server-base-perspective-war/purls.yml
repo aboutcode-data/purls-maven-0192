@@ -1,0 +1,16 @@
+- pkg:maven/org.rhq/rhq-enterprise-server-base-perspective-war@3.0.0.B04?type=war
+- pkg:maven/org.rhq/rhq-enterprise-server-base-perspective-war@3.0.0.B05?type=war
+- pkg:maven/org.rhq/rhq-enterprise-server-base-perspective-war@3.0.0.B06?type=war
+- pkg:maven/org.rhq/rhq-enterprise-server-base-perspective-war@3.0.0.EmbJopr2?type=war
+- pkg:maven/org.rhq/rhq-enterprise-server-base-perspective-war@3.0.0.EmbJopr3?type=war
+- pkg:maven/org.rhq/rhq-enterprise-server-base-perspective-war@3.0.0.EmbJopr4?type=war
+- pkg:maven/org.rhq/rhq-enterprise-server-base-perspective-war@3.0.0.EmbJopr5?type=war
+- pkg:maven/org.rhq/rhq-enterprise-server-base-perspective-war@3.0.0?type=war
+- pkg:maven/org.rhq/rhq-enterprise-server-base-perspective-war@3.0.1.GA?type=war
+- pkg:maven/org.rhq/rhq-enterprise-server-base-perspective-war@4.0.0.B02?type=war
+- pkg:maven/org.rhq/rhq-enterprise-server-base-perspective-war@4.0.0.Beta1?type=war
+- pkg:maven/org.rhq/rhq-enterprise-server-base-perspective-war@4.0.1?type=war
+- pkg:maven/org.rhq/rhq-enterprise-server-base-perspective-war@4.2.0?type=war
+- pkg:maven/org.rhq/rhq-enterprise-server-base-perspective-war@4.3.0?type=war
+- pkg:maven/org.rhq/rhq-enterprise-server-base-perspective-war@4.4.0?type=war
+- pkg:maven/org.rhq/rhq-enterprise-server-base-perspective-war@4.5.1?type=war

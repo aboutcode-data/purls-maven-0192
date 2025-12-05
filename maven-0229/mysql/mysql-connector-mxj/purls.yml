@@ -1,0 +1,2 @@
+- pkg:maven/mysql/mysql-connector-mxj@5.0.12
+- pkg:maven/mysql/mysql-connector-mxj@5.0.12?classifier=sources

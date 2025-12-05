@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.myfaces.orchestra/myfaces-orchestra-core15@1.0
+- pkg:maven/org.apache.myfaces.orchestra/myfaces-orchestra-core15@1.0?classifier=sources

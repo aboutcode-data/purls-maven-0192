@@ -1,0 +1,2 @@
+- pkg:maven/org.lazydog.mbean/mbean-utility@1.2
+- pkg:maven/org.lazydog.mbean/mbean-utility@1.2?classifier=sources

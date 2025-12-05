@@ -1,0 +1,2 @@
+- pkg:maven/com.barchart.wrap/barchart-wrap-jgit@2.3.1-build001
+- pkg:maven/com.barchart.wrap/barchart-wrap-jgit@2.3.1-build001?classifier=sources

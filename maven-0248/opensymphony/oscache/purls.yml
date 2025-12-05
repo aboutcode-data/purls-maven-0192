@@ -1,0 +1,10 @@
+- pkg:maven/opensymphony/oscache@2.0.2
+- pkg:maven/opensymphony/oscache@2.1
+- pkg:maven/opensymphony/oscache@2.1.1
+- pkg:maven/opensymphony/oscache@2.1rc1?classifier=sources
+- pkg:maven/opensymphony/oscache@2.3
+- pkg:maven/opensymphony/oscache@2.3?classifier=sources
+- pkg:maven/opensymphony/oscache@2.4
+- pkg:maven/opensymphony/oscache@2.4.1
+- pkg:maven/opensymphony/oscache@2.4.1?classifier=sources
+- pkg:maven/opensymphony/oscache@2.4?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.nakedobjects/expenses-webapp@3.0.2?classifier=sources
+- pkg:maven/org.nakedobjects/expenses-webapp@3.0.2?type=war
+- pkg:maven/org.nakedobjects/expenses-webapp@3.0.3?classifier=sources
+- pkg:maven/org.nakedobjects/expenses-webapp@3.0.3?type=war

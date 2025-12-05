@@ -1,0 +1,8 @@
+- pkg:maven/com.lihaoyi/utest_2.11@0.1.3
+- pkg:maven/com.lihaoyi/utest_2.11@0.1.3-JS
+- pkg:maven/com.lihaoyi/utest_2.11@0.1.3-JS?classifier=sources
+- pkg:maven/com.lihaoyi/utest_2.11@0.1.3?classifier=sources
+- pkg:maven/com.lihaoyi/utest_2.11@0.1.4
+- pkg:maven/com.lihaoyi/utest_2.11@0.1.4-JS
+- pkg:maven/com.lihaoyi/utest_2.11@0.1.4-JS?classifier=sources
+- pkg:maven/com.lihaoyi/utest_2.11@0.1.4?classifier=sources

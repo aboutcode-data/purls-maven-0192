@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.maven.util/jboss-maven-utils@1.0.0
+- pkg:maven/org.jboss.maven.util/jboss-maven-utils@1.0.0?classifier=sources

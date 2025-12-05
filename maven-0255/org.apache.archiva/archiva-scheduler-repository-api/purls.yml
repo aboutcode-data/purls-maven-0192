@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.archiva/archiva-scheduler-repository-api@1.4-M4
+- pkg:maven/org.apache.archiva/archiva-scheduler-repository-api@1.4-M4?classifier=sources
+- pkg:maven/org.apache.archiva/archiva-scheduler-repository-api@2.0.0
+- pkg:maven/org.apache.archiva/archiva-scheduler-repository-api@2.0.0?classifier=sources
+- pkg:maven/org.apache.archiva/archiva-scheduler-repository-api@2.0.1
+- pkg:maven/org.apache.archiva/archiva-scheduler-repository-api@2.0.1?classifier=sources

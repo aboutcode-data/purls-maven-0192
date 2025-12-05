@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.tuscany.sca/tuscany-distribution-all@2.0.1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.tuscany.sca/tuscany-distribution-all@2.0.1?classifier=src&type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/org.hudsonci.plugins/sfee@1.0.5-h-1?classifier=sources
+- pkg:maven/org.hudsonci.plugins/sfee@1.0.5-h-2?classifier=sources

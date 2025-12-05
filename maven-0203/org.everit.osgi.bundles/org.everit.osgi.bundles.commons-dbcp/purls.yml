@@ -1,0 +1,2 @@
+- pkg:maven/org.everit.osgi.bundles/org.everit.osgi.bundles.commons-dbcp@1.4-v20140203
+- pkg:maven/org.everit.osgi.bundles/org.everit.osgi.bundles.commons-dbcp@1.4-v20140203?classifier=sources

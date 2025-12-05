@@ -1,0 +1,2 @@
+- pkg:maven/info.cukes/scala-calculator@1.0.0.RC16
+- pkg:maven/info.cukes/scala-calculator@1.0.0.RC16?classifier=sources

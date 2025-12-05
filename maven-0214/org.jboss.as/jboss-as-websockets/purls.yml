@@ -1,0 +1,12 @@
+- pkg:maven/org.jboss.as/jboss-as-websockets@0.1.Alpha2
+- pkg:maven/org.jboss.as/jboss-as-websockets@0.1.Alpha2?classifier=sources
+- pkg:maven/org.jboss.as/jboss-as-websockets@0.1.Alpha3
+- pkg:maven/org.jboss.as/jboss-as-websockets@0.1.Alpha3?classifier=sources
+- pkg:maven/org.jboss.as/jboss-as-websockets@0.1.Alpha4
+- pkg:maven/org.jboss.as/jboss-as-websockets@0.1.Alpha4?classifier=sources
+- pkg:maven/org.jboss.as/jboss-as-websockets@0.1.Alpha5
+- pkg:maven/org.jboss.as/jboss-as-websockets@0.1.Alpha5?classifier=sources
+- pkg:maven/org.jboss.as/jboss-as-websockets@0.1.Alpha6
+- pkg:maven/org.jboss.as/jboss-as-websockets@0.1.Alpha6?classifier=sources
+- pkg:maven/org.jboss.as/jboss-as-websockets@0.2.Alpha1
+- pkg:maven/org.jboss.as/jboss-as-websockets@0.2.Alpha1?classifier=sources

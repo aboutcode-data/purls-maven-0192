@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.jasmine.monitoring/jasmine-monitoring-installer-geoclient@1.2.1-M6
+- pkg:maven/org.ow2.jasmine.monitoring/jasmine-monitoring-installer-geoclient@1.2.1-M6?classifier=sources

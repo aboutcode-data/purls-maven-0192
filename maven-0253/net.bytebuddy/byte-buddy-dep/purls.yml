@@ -1,0 +1,2 @@
+- pkg:maven/net.bytebuddy/byte-buddy-dep@0.1
+- pkg:maven/net.bytebuddy/byte-buddy-dep@0.1?classifier=sources

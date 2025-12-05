@@ -1,0 +1,2 @@
+- pkg:maven/com.unister.semweb/DRUMS@0.4.2
+- pkg:maven/com.unister.semweb/DRUMS@0.4.2?classifier=sources

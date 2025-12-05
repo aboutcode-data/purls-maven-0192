@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.isorelax@20050913_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.isorelax@20050913_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.isorelax@20050913_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.isorelax@20050913_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.isorelax@20090621_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.isorelax@20090621_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.isorelax@20090621_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.isorelax@20090621_1?classifier=src&type=zip

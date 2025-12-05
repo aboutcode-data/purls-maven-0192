@@ -1,0 +1,2 @@
+- pkg:maven/com.google.code.maven-play-plugin.org.apache.hadoop/hadoop-test@0.20.2-with-200-826
+- pkg:maven/com.google.code.maven-play-plugin.org.apache.hadoop/hadoop-test@0.20.2-with-200-826?classifier=sources

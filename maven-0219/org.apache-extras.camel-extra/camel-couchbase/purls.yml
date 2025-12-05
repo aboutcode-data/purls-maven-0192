@@ -1,0 +1,2 @@
+- pkg:maven/org.apache-extras.camel-extra/camel-couchbase@2.13.0
+- pkg:maven/org.apache-extras.camel-extra/camel-couchbase@2.13.0?classifier=sources

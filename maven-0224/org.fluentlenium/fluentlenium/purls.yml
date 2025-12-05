@@ -1,0 +1,2 @@
+- pkg:maven/org.fluentlenium/fluentlenium@0.5.4
+- pkg:maven/org.fluentlenium/fluentlenium@0.5.4?classifier=sources

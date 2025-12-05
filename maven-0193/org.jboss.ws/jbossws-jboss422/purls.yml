@@ -1,0 +1,8 @@
+- pkg:maven/org.jboss.ws/jbossws-jboss422@3.0.2.GA
+- pkg:maven/org.jboss.ws/jbossws-jboss422@3.0.2.GA?classifier=sources
+- pkg:maven/org.jboss.ws/jbossws-jboss422@3.0.3.GA
+- pkg:maven/org.jboss.ws/jbossws-jboss422@3.0.3.GA?classifier=sources
+- pkg:maven/org.jboss.ws/jbossws-jboss422@3.0.4.GA
+- pkg:maven/org.jboss.ws/jbossws-jboss422@3.0.4.GA?classifier=sources
+- pkg:maven/org.jboss.ws/jbossws-jboss422@3.0.5.GA
+- pkg:maven/org.jboss.ws/jbossws-jboss422@3.0.5.GA?classifier=sources

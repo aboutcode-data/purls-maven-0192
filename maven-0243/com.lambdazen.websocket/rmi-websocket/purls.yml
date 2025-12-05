@@ -1,0 +1,2 @@
+- pkg:maven/com.lambdazen.websocket/rmi-websocket@1.0
+- pkg:maven/com.lambdazen.websocket/rmi-websocket@1.0?classifier=sources

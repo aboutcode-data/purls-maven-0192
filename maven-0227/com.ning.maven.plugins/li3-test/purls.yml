@@ -1,0 +1,8 @@
+- pkg:maven/com.ning.maven.plugins/li3-test@0.0.10
+- pkg:maven/com.ning.maven.plugins/li3-test@0.0.10?classifier=sources
+- pkg:maven/com.ning.maven.plugins/li3-test@0.0.12
+- pkg:maven/com.ning.maven.plugins/li3-test@0.0.12?classifier=sources
+- pkg:maven/com.ning.maven.plugins/li3-test@0.0.13
+- pkg:maven/com.ning.maven.plugins/li3-test@0.0.13?classifier=sources
+- pkg:maven/com.ning.maven.plugins/li3-test@0.0.9
+- pkg:maven/com.ning.maven.plugins/li3-test@0.0.9?classifier=sources

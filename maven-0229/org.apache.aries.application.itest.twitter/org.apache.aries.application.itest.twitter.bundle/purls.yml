@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.aries.application.itest.twitter/org.apache.aries.application.itest.twitter.bundle@0.3
+- pkg:maven/org.apache.aries.application.itest.twitter/org.apache.aries.application.itest.twitter.bundle@0.3?classifier=sources

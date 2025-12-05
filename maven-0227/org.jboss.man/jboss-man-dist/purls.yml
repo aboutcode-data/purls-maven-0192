@@ -1,0 +1,6 @@
+- pkg:maven/org.jboss.man/jboss-man-dist@2.0.0.CR1?classifier=src&type=zip
+- pkg:maven/org.jboss.man/jboss-man-dist@2.0.0.CR2?classifier=src&type=zip
+- pkg:maven/org.jboss.man/jboss-man-dist@2.0.0.CR3?classifier=src&type=zip
+- pkg:maven/org.jboss.man/jboss-man-dist@2.0.0.CR4?classifier=src&type=zip
+- pkg:maven/org.jboss.man/jboss-man-dist@2.0.0.CR5?classifier=src&type=zip
+- pkg:maven/org.jboss.man/jboss-man-dist@2.0.0.GA?classifier=src&type=zip

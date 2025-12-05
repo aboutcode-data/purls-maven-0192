@@ -1,0 +1,2 @@
+- pkg:maven/net.jxta/jxta-jxse@2.5
+- pkg:maven/net.jxta/jxta-jxse@2.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.fiestacabin.dropwizard.quartz/dropwizard-quartz@0.6.1
+- pkg:maven/com.fiestacabin.dropwizard.quartz/dropwizard-quartz@0.6.1?classifier=sources

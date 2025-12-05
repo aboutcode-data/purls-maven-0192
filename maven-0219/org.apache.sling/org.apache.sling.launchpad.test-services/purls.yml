@@ -1,0 +1,5 @@
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.test-services@2.0.6-incubator
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.test-services@2.0.6-incubator?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.test-services@2.0.8
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.test-services@2.0.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.test-services@2.0.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.hawt/hawtio-file-dynamic-jaxb@1.2-M3
+- pkg:maven/io.hawt/hawtio-file-dynamic-jaxb@1.2-M3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/eu.numberfour.maven.plugins/jscoverage-cobertura-maven-plugin@1.2.0
+- pkg:maven/eu.numberfour.maven.plugins/jscoverage-cobertura-maven-plugin@1.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.dockingframes/docking-frames-demo-tutorial@1.0.8
+- pkg:maven/org.dockingframes/docking-frames-demo-tutorial@1.0.8?classifier=sources

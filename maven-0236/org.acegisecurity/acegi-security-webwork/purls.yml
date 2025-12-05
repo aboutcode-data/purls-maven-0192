@@ -1,0 +1,2 @@
+- pkg:maven/org.acegisecurity/acegi-security-webwork@0.1
+- pkg:maven/org.acegisecurity/acegi-security-webwork@0.1?classifier=sources

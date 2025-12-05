@@ -1,0 +1,4 @@
+- pkg:maven/net.sf.mastif/mastif-i2b2@1.4
+- pkg:maven/net.sf.mastif/mastif-i2b2@1.4?classifier=sources
+- pkg:maven/net.sf.mastif/mastif-i2b2@1.6
+- pkg:maven/net.sf.mastif/mastif-i2b2@1.6?classifier=sources

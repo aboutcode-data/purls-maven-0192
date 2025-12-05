@@ -1,0 +1,2 @@
+- pkg:maven/maven/maven-pmd-plugin@1.10
+- pkg:maven/maven/maven-pmd-plugin@1.9?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hapi@0.5.1_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hapi@0.5.1_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hapi@0.5.1_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hapi@0.5.1_5

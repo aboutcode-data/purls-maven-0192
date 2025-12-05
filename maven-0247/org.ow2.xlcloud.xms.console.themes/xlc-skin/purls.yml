@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.xlcloud.xms.console.themes/xlc-skin@1.0.0
+- pkg:maven/org.ow2.xlcloud.xms.console.themes/xlc-skin@1.0.0?classifier=sources

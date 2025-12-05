@@ -1,0 +1,2 @@
+- pkg:maven/org.karora/cooee@1.1
+- pkg:maven/org.karora/cooee@1.1?classifier=sources

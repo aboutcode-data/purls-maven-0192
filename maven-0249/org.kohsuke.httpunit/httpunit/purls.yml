@@ -1,0 +1,4 @@
+- pkg:maven/org.kohsuke.httpunit/httpunit@1.7-patch-1
+- pkg:maven/org.kohsuke.httpunit/httpunit@1.7-patch-1?classifier=sources
+- pkg:maven/org.kohsuke.httpunit/httpunit@1.7-patch-2
+- pkg:maven/org.kohsuke.httpunit/httpunit@1.7-patch-2?classifier=sources

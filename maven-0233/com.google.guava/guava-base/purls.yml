@@ -1,0 +1,2 @@
+- pkg:maven/com.google.guava/guava-base@r03
+- pkg:maven/com.google.guava/guava-base@r03?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/jboss/jboss-common@1.0
+- pkg:maven/jboss/jboss-common@3.2.1
+- pkg:maven/jboss/jboss-common@3.2.3
+- pkg:maven/jboss/jboss-common@4.0.0
+- pkg:maven/jboss/jboss-common@4.0.2
+- pkg:maven/jboss/jboss-common@4.2.2.GA

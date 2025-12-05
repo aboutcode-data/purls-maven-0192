@@ -1,0 +1,2 @@
+- pkg:maven/net.evilengineers.templates4j/templates4j@1.0.0
+- pkg:maven/net.evilengineers.templates4j/templates4j@1.0.0?classifier=sources

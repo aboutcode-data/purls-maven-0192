@@ -1,0 +1,2 @@
+- pkg:maven/dk.apaq.printing/printing-facade-ps@1.2.6
+- pkg:maven/dk.apaq.printing/printing-facade-ps@1.2.6?classifier=sources

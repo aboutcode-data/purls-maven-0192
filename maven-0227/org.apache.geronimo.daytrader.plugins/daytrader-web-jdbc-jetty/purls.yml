@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.geronimo.daytrader.plugins/daytrader-web-jdbc-jetty@2.2.1?classifier=sources

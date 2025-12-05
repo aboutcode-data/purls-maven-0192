@@ -1,0 +1,2 @@
+- pkg:maven/se.vgregion.my-usd-issues/my-usd-issues-core-module-portlet@1.4?classifier=sources
+- pkg:maven/se.vgregion.my-usd-issues/my-usd-issues-core-module-portlet@1.4?type=war

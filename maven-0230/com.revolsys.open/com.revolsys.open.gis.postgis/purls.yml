@@ -1,0 +1,6 @@
+- pkg:maven/com.revolsys.open/com.revolsys.open.gis.postgis@2011.11.07.RELEASE
+- pkg:maven/com.revolsys.open/com.revolsys.open.gis.postgis@2011.11.07.RELEASE?classifier=sources
+- pkg:maven/com.revolsys.open/com.revolsys.open.gis.postgis@2011.11.16.RELEASE
+- pkg:maven/com.revolsys.open/com.revolsys.open.gis.postgis@2011.11.16.RELEASE?classifier=sources
+- pkg:maven/com.revolsys.open/com.revolsys.open.gis.postgis@2011.11.17.RELEASE
+- pkg:maven/com.revolsys.open/com.revolsys.open.gis.postgis@2011.11.17.RELEASE?classifier=sources

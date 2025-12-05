@@ -1,0 +1,2 @@
+- pkg:maven/org.bytedeco.javacpp-presets/flycapture@1.7.17-0.8
+- pkg:maven/org.bytedeco.javacpp-presets/flycapture@1.7.17-0.8?classifier=sources

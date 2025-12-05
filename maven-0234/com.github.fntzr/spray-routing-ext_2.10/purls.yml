@@ -1,0 +1,2 @@
+- pkg:maven/com.github.fntzr/spray-routing-ext_2.10@0.1
+- pkg:maven/com.github.fntzr/spray-routing-ext_2.10@0.1?classifier=sources

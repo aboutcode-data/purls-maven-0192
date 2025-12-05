@@ -1,0 +1,6 @@
+- pkg:maven/org.jadira.cloning/cloning@3.1.0.CR10
+- pkg:maven/org.jadira.cloning/cloning@3.1.0.CR10?classifier=sources
+- pkg:maven/org.jadira.cloning/cloning@3.1.0.CR8
+- pkg:maven/org.jadira.cloning/cloning@3.1.0.CR8?classifier=sources
+- pkg:maven/org.jadira.cloning/cloning@3.1.0.CR9
+- pkg:maven/org.jadira.cloning/cloning@3.1.0.CR9?classifier=sources

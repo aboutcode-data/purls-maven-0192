@@ -1,0 +1,4 @@
+- pkg:maven/org.seleniumhq.selenium/selenium-android-client@2.0a7
+- pkg:maven/org.seleniumhq.selenium/selenium-android-client@2.0a7?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-android-client@2.0b1
+- pkg:maven/org.seleniumhq.selenium/selenium-android-client@2.0b1?classifier=sources

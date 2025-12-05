@@ -1,0 +1,4 @@
+- pkg:maven/org.jboss.shrinkwrap/shrinkwrap-extension-mobicents-sip-servlets-1x@1.0.0-alpha-12
+- pkg:maven/org.jboss.shrinkwrap/shrinkwrap-extension-mobicents-sip-servlets-1x@1.0.0-alpha-12?classifier=sources
+- pkg:maven/org.jboss.shrinkwrap/shrinkwrap-extension-mobicents-sip-servlets-1x@1.0.0-alpha-13
+- pkg:maven/org.jboss.shrinkwrap/shrinkwrap-extension-mobicents-sip-servlets-1x@1.0.0-alpha-13?classifier=sources

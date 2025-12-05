@@ -1,0 +1,6 @@
+- pkg:maven/net.sf.xslthl/xslthl@1.3.0
+- pkg:maven/net.sf.xslthl/xslthl@2.0.0
+- pkg:maven/net.sf.xslthl/xslthl@2.0.1
+- pkg:maven/net.sf.xslthl/xslthl@2.0.2
+- pkg:maven/net.sf.xslthl/xslthl@2.1.0
+- pkg:maven/net.sf.xslthl/xslthl@2.1.0?classifier=sources

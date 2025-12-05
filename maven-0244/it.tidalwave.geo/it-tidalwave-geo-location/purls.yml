@@ -1,0 +1,5 @@
+- pkg:maven/it.tidalwave.geo/it-tidalwave-geo-location@1.5.38?classifier=sources
+- pkg:maven/it.tidalwave.geo/it-tidalwave-geo-location@1.5.39?classifier=sources
+- pkg:maven/it.tidalwave.geo/it-tidalwave-geo-location@1.5.40?classifier=sources
+- pkg:maven/it.tidalwave.geo/it-tidalwave-geo-location@1.5.41?classifier=sources
+- pkg:maven/it.tidalwave.geo/it-tidalwave-geo-location@1.5.42?classifier=sources

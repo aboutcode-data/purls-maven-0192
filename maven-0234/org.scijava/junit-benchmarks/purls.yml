@@ -1,0 +1,2 @@
+- pkg:maven/org.scijava/junit-benchmarks@0.7.3-scijava
+- pkg:maven/org.scijava/junit-benchmarks@0.7.3-scijava?classifier=sources

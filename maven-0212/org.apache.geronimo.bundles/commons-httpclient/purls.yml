@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.geronimo.bundles/commons-httpclient@3.1_1
+- pkg:maven/org.apache.geronimo.bundles/commons-httpclient@3.1_1?classifier=source-release&type=zip
+- pkg:maven/org.apache.geronimo.bundles/commons-httpclient@3.1_1?classifier=sources
+- pkg:maven/org.apache.geronimo.bundles/commons-httpclient@3.1_2
+- pkg:maven/org.apache.geronimo.bundles/commons-httpclient@3.1_2?classifier=source-release&type=zip
+- pkg:maven/org.apache.geronimo.bundles/commons-httpclient@3.1_2?classifier=sources

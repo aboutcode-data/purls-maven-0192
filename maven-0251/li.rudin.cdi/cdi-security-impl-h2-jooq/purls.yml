@@ -1,0 +1,6 @@
+- pkg:maven/li.rudin.cdi/cdi-security-impl-h2-jooq@1.0
+- pkg:maven/li.rudin.cdi/cdi-security-impl-h2-jooq@1.0?classifier=sources
+- pkg:maven/li.rudin.cdi/cdi-security-impl-h2-jooq@1.2
+- pkg:maven/li.rudin.cdi/cdi-security-impl-h2-jooq@1.2?classifier=sources
+- pkg:maven/li.rudin.cdi/cdi-security-impl-h2-jooq@2.0
+- pkg:maven/li.rudin.cdi/cdi-security-impl-h2-jooq@2.0?classifier=sources

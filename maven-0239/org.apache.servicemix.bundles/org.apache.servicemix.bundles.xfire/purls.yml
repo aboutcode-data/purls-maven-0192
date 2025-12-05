@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xfire@1.2.5_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xfire@1.2.5_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xfire@1.2.6_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xfire@1.2.6_1?classifier=sources

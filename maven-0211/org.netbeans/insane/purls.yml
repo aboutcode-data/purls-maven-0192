@@ -1,0 +1,2 @@
+- pkg:maven/org.netbeans/insane@RELEASE73
+- pkg:maven/org.netbeans/insane@RELEASE73?classifier=sources

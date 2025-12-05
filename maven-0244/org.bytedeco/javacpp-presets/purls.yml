@@ -1,0 +1,1 @@
+- pkg:maven/org.bytedeco/javacpp-presets@0.8?classifier=src&type=zip

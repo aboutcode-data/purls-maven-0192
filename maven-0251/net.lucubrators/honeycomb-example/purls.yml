@@ -1,0 +1,4 @@
+- pkg:maven/net.lucubrators/honeycomb-example@0.5.2?classifier=sources
+- pkg:maven/net.lucubrators/honeycomb-example@0.5.2?type=war
+- pkg:maven/net.lucubrators/honeycomb-example@0.51?classifier=sources
+- pkg:maven/net.lucubrators/honeycomb-example@0.51?type=war

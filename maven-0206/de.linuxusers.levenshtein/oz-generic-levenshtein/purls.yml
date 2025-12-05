@@ -1,0 +1,2 @@
+- pkg:maven/de.linuxusers.levenshtein/oz-generic-levenshtein@0.4.0
+- pkg:maven/de.linuxusers.levenshtein/oz-generic-levenshtein@0.4.0?classifier=sources

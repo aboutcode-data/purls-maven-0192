@@ -1,0 +1,2 @@
+- pkg:maven/me.bazhenov.groovy-shell/groovy-shell-client@1.2
+- pkg:maven/me.bazhenov.groovy-shell/groovy-shell-client@1.2?classifier=sources

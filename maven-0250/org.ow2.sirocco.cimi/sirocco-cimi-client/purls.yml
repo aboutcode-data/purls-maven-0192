@@ -1,0 +1,3 @@
+- pkg:maven/org.ow2.sirocco.cimi/sirocco-cimi-client@0.6.3?classifier=source-release&type=zip
+- pkg:maven/org.ow2.sirocco.cimi/sirocco-cimi-client@0.6.4?classifier=source-release&type=zip
+- pkg:maven/org.ow2.sirocco.cimi/sirocco-cimi-client@0.6.5?classifier=source-release&type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.vxquery/apache-vxquery-benchmark@0.3-incubating
+- pkg:maven/org.apache.vxquery/apache-vxquery-benchmark@0.3-incubating?classifier=sources

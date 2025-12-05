@@ -1,0 +1,2 @@
+- pkg:maven/org.meruvian.yama/yama-jaxrs@1.0.3?classifier=sources
+- pkg:maven/org.meruvian.yama/yama-jaxrs@1.0.3?type=war

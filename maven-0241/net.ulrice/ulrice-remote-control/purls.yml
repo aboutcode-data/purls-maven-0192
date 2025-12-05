@@ -1,0 +1,2 @@
+- pkg:maven/net.ulrice/ulrice-remote-control@0.2.5.18
+- pkg:maven/net.ulrice/ulrice-remote-control@0.2.5.18?classifier=sources

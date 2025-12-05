@@ -1,0 +1,2 @@
+- pkg:maven/com.github.venkatramanm/ocr@1.11
+- pkg:maven/com.github.venkatramanm/ocr@1.11?classifier=sources

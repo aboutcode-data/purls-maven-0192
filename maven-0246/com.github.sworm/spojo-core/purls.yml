@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sworm/spojo-core@1.0.6
+- pkg:maven/com.github.sworm/spojo-core@1.0.6?classifier=sources

@@ -1,0 +1,16 @@
+- pkg:maven/org.jboss.resteasy/resteasy-jaxrs-testsuite@3.0-beta-1
+- pkg:maven/org.jboss.resteasy/resteasy-jaxrs-testsuite@3.0-beta-2
+- pkg:maven/org.jboss.resteasy/resteasy-jaxrs-testsuite@3.0-beta-3
+- pkg:maven/org.jboss.resteasy/resteasy-jaxrs-testsuite@3.0-beta-4
+- pkg:maven/org.jboss.resteasy/resteasy-jaxrs-testsuite@3.0-beta-5
+- pkg:maven/org.jboss.resteasy/resteasy-jaxrs-testsuite@3.0-beta-6
+- pkg:maven/org.jboss.resteasy/resteasy-jaxrs-testsuite@3.0-rc-1
+- pkg:maven/org.jboss.resteasy/resteasy-jaxrs-testsuite@3.0.0.Final
+- pkg:maven/org.jboss.resteasy/resteasy-jaxrs-testsuite@3.0.1.Final
+- pkg:maven/org.jboss.resteasy/resteasy-jaxrs-testsuite@3.0.2.Final
+- pkg:maven/org.jboss.resteasy/resteasy-jaxrs-testsuite@3.0.3.Final
+- pkg:maven/org.jboss.resteasy/resteasy-jaxrs-testsuite@3.0.4.Final
+- pkg:maven/org.jboss.resteasy/resteasy-jaxrs-testsuite@3.0.5.Final
+- pkg:maven/org.jboss.resteasy/resteasy-jaxrs-testsuite@3.0.6.Final
+- pkg:maven/org.jboss.resteasy/resteasy-jaxrs-testsuite@3.0.7.Final
+- pkg:maven/org.jboss.resteasy/resteasy-jaxrs-testsuite@3.0.8.Final

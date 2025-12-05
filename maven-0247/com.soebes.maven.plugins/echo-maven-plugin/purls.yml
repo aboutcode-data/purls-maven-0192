@@ -1,0 +1,2 @@
+- pkg:maven/com.soebes.maven.plugins/echo-maven-plugin@0.2
+- pkg:maven/com.soebes.maven.plugins/echo-maven-plugin@0.2?classifier=sources

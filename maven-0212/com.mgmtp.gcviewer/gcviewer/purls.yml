@@ -1,0 +1,2 @@
+- pkg:maven/com.mgmtp.gcviewer/gcviewer@1.32-rc-1
+- pkg:maven/com.mgmtp.gcviewer/gcviewer@1.32-rc-1?classifier=sources

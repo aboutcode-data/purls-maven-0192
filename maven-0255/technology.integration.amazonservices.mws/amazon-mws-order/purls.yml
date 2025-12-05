@@ -1,0 +1,2 @@
+- pkg:maven/technology.integration.amazonservices.mws/amazon-mws-order@1.0
+- pkg:maven/technology.integration.amazonservices.mws/amazon-mws-order@1.0?classifier=sources

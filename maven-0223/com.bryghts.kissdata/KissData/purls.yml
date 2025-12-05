@@ -1,0 +1,2 @@
+- pkg:maven/com.bryghts.kissdata/KissData@0.1.0rc2
+- pkg:maven/com.bryghts.kissdata/KissData@0.1.0rc2?classifier=sources

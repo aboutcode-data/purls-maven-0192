@@ -1,0 +1,2 @@
+- pkg:maven/fr.opensagres/sample-assembly-descriptor@0.9.1
+- pkg:maven/fr.opensagres/sample-assembly-descriptor@0.9.1?classifier=sources

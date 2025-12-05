@@ -1,0 +1,2 @@
+- pkg:maven/com.octo.mtg/mtg-site-skin@1
+- pkg:maven/com.octo.mtg/mtg-site-skin@1?classifier=sources

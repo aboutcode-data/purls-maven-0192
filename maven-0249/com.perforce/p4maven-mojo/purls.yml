@@ -1,0 +1,2 @@
+- pkg:maven/com.perforce/p4maven-mojo@2011.1.297684
+- pkg:maven/com.perforce/p4maven-mojo@2011.1.297684?classifier=sources

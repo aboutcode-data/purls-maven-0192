@@ -1,0 +1,2 @@
+- pkg:maven/com.sematext/sematext-metrics@0.1
+- pkg:maven/com.sematext/sematext-metrics@0.1?classifier=sources

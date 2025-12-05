@@ -1,0 +1,2 @@
+- pkg:maven/dk.eobjects.metamodel/MetaModel-dbase@1.2
+- pkg:maven/dk.eobjects.metamodel/MetaModel-dbase@1.2?classifier=sources

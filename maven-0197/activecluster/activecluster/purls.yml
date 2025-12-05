@@ -1,0 +1,6 @@
+- pkg:maven/activecluster/activecluster@1.0?classifier=src&type=tar.gz
+- pkg:maven/activecluster/activecluster@1.0?classifier=src&type=zip
+- pkg:maven/activecluster/activecluster@1.1-20050524.034300
+- pkg:maven/activecluster/activecluster@20040408.185106
+- pkg:maven/activecluster/activecluster@20040423.075722
+- pkg:maven/activecluster/activecluster@4.0.2

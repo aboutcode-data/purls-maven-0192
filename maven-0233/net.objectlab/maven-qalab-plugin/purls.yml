@@ -1,0 +1,5 @@
+- pkg:maven/net.objectlab/maven-qalab-plugin@0.9.1?classifier=sources
+- pkg:maven/net.objectlab/maven-qalab-plugin@1.0
+- pkg:maven/net.objectlab/maven-qalab-plugin@1.0?classifier=sources
+- pkg:maven/net.objectlab/maven-qalab-plugin@2.0?classifier=sources
+- pkg:maven/net.objectlab/maven-qalab-plugin@2.1?classifier=sources

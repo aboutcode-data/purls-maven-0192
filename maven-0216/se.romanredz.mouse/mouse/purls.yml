@@ -1,0 +1,2 @@
+- pkg:maven/se.romanredz.mouse/mouse@1.5.1
+- pkg:maven/se.romanredz.mouse/mouse@1.5.1?classifier=sources

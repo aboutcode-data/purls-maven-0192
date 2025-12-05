@@ -1,0 +1,2 @@
+- pkg:maven/org.biojava/biojava3-core@3.0
+- pkg:maven/org.biojava/biojava3-core@3.0?classifier=sources

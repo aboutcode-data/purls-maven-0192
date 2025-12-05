@@ -1,0 +1,6 @@
+- pkg:maven/org.mortbay.jetty/jetty-assembly@7.0.0.pre5?classifier=src&type=tar.gz
+- pkg:maven/org.mortbay.jetty/jetty-assembly@7.0.0.pre5?classifier=src&type=zip
+- pkg:maven/org.mortbay.jetty/jetty-assembly@7.0.0pre2?classifier=src&type=tar.gz
+- pkg:maven/org.mortbay.jetty/jetty-assembly@7.0.0pre2?classifier=src&type=zip
+- pkg:maven/org.mortbay.jetty/jetty-assembly@7.0.0pre3?classifier=src&type=tar.gz
+- pkg:maven/org.mortbay.jetty/jetty-assembly@7.0.0pre3?classifier=src&type=zip

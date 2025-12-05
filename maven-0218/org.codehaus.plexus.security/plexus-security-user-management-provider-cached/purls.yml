@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.plexus.security/plexus-security-user-management-provider-cached@1.0-alpha-11
+- pkg:maven/org.codehaus.plexus.security/plexus-security-user-management-provider-cached@1.0-alpha-11?classifier=sources

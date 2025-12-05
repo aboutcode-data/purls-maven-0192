@@ -1,0 +1,6 @@
+- pkg:maven/net.sf.opk/jdbc-populator@1.0
+- pkg:maven/net.sf.opk/jdbc-populator@1.0?classifier=sources
+- pkg:maven/net.sf.opk/jdbc-populator@2.0
+- pkg:maven/net.sf.opk/jdbc-populator@2.0?classifier=sources
+- pkg:maven/net.sf.opk/jdbc-populator@3.0
+- pkg:maven/net.sf.opk/jdbc-populator@3.0?classifier=sources

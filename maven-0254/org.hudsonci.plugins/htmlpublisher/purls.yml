@@ -1,0 +1,2 @@
+- pkg:maven/org.hudsonci.plugins/htmlpublisher@1.0-h-1?classifier=sources
+- pkg:maven/org.hudsonci.plugins/htmlpublisher@1.1?classifier=sources

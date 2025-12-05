@@ -1,0 +1,2 @@
+- pkg:maven/org.knallgrau.utils/textcat@1.0.1
+- pkg:maven/org.knallgrau.utils/textcat@1.0.1?classifier=sources

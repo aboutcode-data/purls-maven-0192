@@ -1,0 +1,4 @@
+- pkg:maven/com.stanfy.android/gradle-plugin-java-robolectric@1.0
+- pkg:maven/com.stanfy.android/gradle-plugin-java-robolectric@1.0?classifier=sources
+- pkg:maven/com.stanfy.android/gradle-plugin-java-robolectric@2.0
+- pkg:maven/com.stanfy.android/gradle-plugin-java-robolectric@2.0?classifier=sources

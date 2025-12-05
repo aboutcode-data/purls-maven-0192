@@ -1,0 +1,2 @@
+- pkg:maven/net.java.dev.textile-j/textile-j@2.2.864
+- pkg:maven/net.java.dev.textile-j/textile-j@2.2.864?classifier=sources

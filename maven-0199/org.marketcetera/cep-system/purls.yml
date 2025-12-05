@@ -1,0 +1,4 @@
+- pkg:maven/org.marketcetera/cep-system@2.2.0
+- pkg:maven/org.marketcetera/cep-system@2.2.0?classifier=sources
+- pkg:maven/org.marketcetera/cep-system@2.4.0
+- pkg:maven/org.marketcetera/cep-system@2.4.0?classifier=sources

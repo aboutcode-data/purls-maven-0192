@@ -1,0 +1,8 @@
+- pkg:maven/net.thucydides.maven.plugins/thucydides-dashboard-maven-plugin@0.9.214
+- pkg:maven/net.thucydides.maven.plugins/thucydides-dashboard-maven-plugin@0.9.214?classifier=sources
+- pkg:maven/net.thucydides.maven.plugins/thucydides-dashboard-maven-plugin@0.9.215
+- pkg:maven/net.thucydides.maven.plugins/thucydides-dashboard-maven-plugin@0.9.215?classifier=sources
+- pkg:maven/net.thucydides.maven.plugins/thucydides-dashboard-maven-plugin@0.9.220
+- pkg:maven/net.thucydides.maven.plugins/thucydides-dashboard-maven-plugin@0.9.220-RC1
+- pkg:maven/net.thucydides.maven.plugins/thucydides-dashboard-maven-plugin@0.9.220-RC1?classifier=sources
+- pkg:maven/net.thucydides.maven.plugins/thucydides-dashboard-maven-plugin@0.9.220?classifier=sources

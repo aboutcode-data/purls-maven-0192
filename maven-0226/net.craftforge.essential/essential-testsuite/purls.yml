@@ -1,0 +1,2 @@
+- pkg:maven/net.craftforge.essential/essential-testsuite@1.0
+- pkg:maven/net.craftforge.essential/essential-testsuite@1.0?classifier=sources

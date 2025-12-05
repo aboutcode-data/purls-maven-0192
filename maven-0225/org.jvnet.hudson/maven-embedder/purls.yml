@@ -1,0 +1,2 @@
+- pkg:maven/org.jvnet.hudson/maven-embedder@2.0.4-hudson-1
+- pkg:maven/org.jvnet.hudson/maven-embedder@2.0.4-hudson-1?classifier=sources

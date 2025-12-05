@@ -1,0 +1,17 @@
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/module-signer@1.6.10
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/module-signer@40
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/module-signer@41
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/module-signer@42
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/module-signer@42?classifier=sources
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/module-signer@43
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/module-signer@43?classifier=sources
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/module-signer@44
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/module-signer@44?classifier=sources
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/module-signer@45
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/module-signer@45?classifier=sources
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/module-signer@46
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/module-signer@46?classifier=sources
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/module-signer@47
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/module-signer@47?classifier=sources
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/module-signer@48
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/module-signer@48?classifier=sources

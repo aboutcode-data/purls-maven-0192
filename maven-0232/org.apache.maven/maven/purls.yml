@@ -1,0 +1,12 @@
+- pkg:maven/org.apache.maven/maven@2.0.10?classifier=src&type=tar.gz
+- pkg:maven/org.apache.maven/maven@2.0.10?classifier=src&type=zip
+- pkg:maven/org.apache.maven/maven@2.0.11?classifier=src&type=tar.gz
+- pkg:maven/org.apache.maven/maven@2.0.11?classifier=src&type=zip
+- pkg:maven/org.apache.maven/maven@2.0.8?classifier=src&type=tar.gz
+- pkg:maven/org.apache.maven/maven@2.0.8?classifier=src&type=zip
+- pkg:maven/org.apache.maven/maven@2.0.9?classifier=src&type=tar.gz
+- pkg:maven/org.apache.maven/maven@2.0.9?classifier=src&type=zip
+- pkg:maven/org.apache.maven/maven@3.0-alpha-1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.maven/maven@3.0-alpha-1?classifier=src&type=zip
+- pkg:maven/org.apache.maven/maven@3.0-alpha-2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.maven/maven@3.0-alpha-2?classifier=src&type=zip

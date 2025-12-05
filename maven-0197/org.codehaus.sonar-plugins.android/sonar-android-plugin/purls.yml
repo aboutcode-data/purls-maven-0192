@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.sonar-plugins.android/sonar-android-plugin@0.1?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins.android/sonar-android-plugin@1.0?classifier=sources

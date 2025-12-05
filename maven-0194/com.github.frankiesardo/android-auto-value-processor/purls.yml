@@ -1,0 +1,2 @@
+- pkg:maven/com.github.frankiesardo/android-auto-value-processor@0.1
+- pkg:maven/com.github.frankiesardo/android-auto-value-processor@0.1?classifier=sources

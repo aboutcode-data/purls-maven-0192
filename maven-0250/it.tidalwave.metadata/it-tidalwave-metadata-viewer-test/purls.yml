@@ -1,0 +1,5 @@
+- pkg:maven/it.tidalwave.metadata/it-tidalwave-metadata-viewer-test@1.0.13?classifier=sources
+- pkg:maven/it.tidalwave.metadata/it-tidalwave-metadata-viewer-test@1.0.14?classifier=sources
+- pkg:maven/it.tidalwave.metadata/it-tidalwave-metadata-viewer-test@1.0.15?classifier=sources
+- pkg:maven/it.tidalwave.metadata/it-tidalwave-metadata-viewer-test@1.0.16?classifier=sources
+- pkg:maven/it.tidalwave.metadata/it-tidalwave-metadata-viewer-test@1.0.17?classifier=sources

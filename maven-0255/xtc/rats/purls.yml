@@ -1,0 +1,4 @@
+- pkg:maven/xtc/rats@1.15.0
+- pkg:maven/xtc/rats@1.15.0?classifier=sources
+- pkg:maven/xtc/rats@2.3.1
+- pkg:maven/xtc/rats@2.3.1?classifier=sources
