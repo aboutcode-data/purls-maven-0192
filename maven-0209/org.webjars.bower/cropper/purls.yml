@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.bower/cropper@1.0.0-rc.1
 - pkg:maven/org.webjars.bower/cropper@1.0.0-rc.1?classifier=sources
+- pkg:maven/org.webjars.bower/cropper@2.3.0
+- pkg:maven/org.webjars.bower/cropper@2.3.0?classifier=sources
+- pkg:maven/org.webjars.bower/cropper@2.3.2
+- pkg:maven/org.webjars.bower/cropper@2.3.2?classifier=sources

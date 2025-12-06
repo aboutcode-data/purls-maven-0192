@@ -1,0 +1,2 @@
+- pkg:maven/org.ranksys/JavaFM@0.4
+- pkg:maven/org.ranksys/JavaFM@0.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jazorp/jazorp@0.1.0
+- pkg:maven/io.github.jazorp/jazorp@0.1.0?classifier=sources

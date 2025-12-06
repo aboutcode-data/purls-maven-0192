@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/jsonld@0.3.26
 - pkg:maven/org.webjars.bower/jsonld@0.3.26?classifier=sources
+- pkg:maven/org.webjars.bower/jsonld@0.4.6
+- pkg:maven/org.webjars.bower/jsonld@0.4.6?classifier=sources

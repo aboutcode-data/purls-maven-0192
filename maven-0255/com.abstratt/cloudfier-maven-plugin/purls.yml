@@ -4,3 +4,5 @@
 - pkg:maven/com.abstratt/cloudfier-maven-plugin@0.11.3?classifier=sources
 - pkg:maven/com.abstratt/cloudfier-maven-plugin@0.12.0
 - pkg:maven/com.abstratt/cloudfier-maven-plugin@0.12.0?classifier=sources
+- pkg:maven/com.abstratt/cloudfier-maven-plugin@1.0.5
+- pkg:maven/com.abstratt/cloudfier-maven-plugin@1.0.8

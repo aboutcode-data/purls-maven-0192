@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.wicket/wicket-eclipse-settings@2
 - pkg:maven/org.apache.wicket/wicket-eclipse-settings@2?classifier=source-release&type=zip
 - pkg:maven/org.apache.wicket/wicket-eclipse-settings@2?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-eclipse-settings@3
+- pkg:maven/org.apache.wicket/wicket-eclipse-settings@3?classifier=sources

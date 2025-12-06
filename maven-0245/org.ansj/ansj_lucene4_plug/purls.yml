@@ -1,0 +1,2 @@
+- pkg:maven/org.ansj/ansj_lucene4_plug@5.0.2
+- pkg:maven/org.ansj/ansj_lucene4_plug@5.0.2?classifier=sources

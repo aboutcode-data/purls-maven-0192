@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.bower/devbridge-autocomplete@1.2.18?classifier=sources
 - pkg:maven/org.webjars.bower/devbridge-autocomplete@1.2.21
 - pkg:maven/org.webjars.bower/devbridge-autocomplete@1.2.21?classifier=sources
+- pkg:maven/org.webjars.bower/devbridge-autocomplete@1.2.26
+- pkg:maven/org.webjars.bower/devbridge-autocomplete@1.2.26?classifier=sources

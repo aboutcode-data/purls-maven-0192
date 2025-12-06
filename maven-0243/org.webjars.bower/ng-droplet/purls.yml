@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.bower/ng-droplet@0.5.16
+- pkg:maven/org.webjars.bower/ng-droplet@0.5.16?classifier=sources
 - pkg:maven/org.webjars.bower/ng-droplet@0.5.9
 - pkg:maven/org.webjars.bower/ng-droplet@0.5.9?classifier=sources

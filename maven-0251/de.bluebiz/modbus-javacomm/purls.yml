@@ -1,0 +1,2 @@
+- pkg:maven/de.bluebiz/modbus-javacomm@1.5
+- pkg:maven/de.bluebiz/modbus-javacomm@1.5?classifier=sources

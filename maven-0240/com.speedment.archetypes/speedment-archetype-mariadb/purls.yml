@@ -1,0 +1,5 @@
+- pkg:maven/com.speedment.archetypes/speedment-archetype-mariadb@3.0.0
+- pkg:maven/com.speedment.archetypes/speedment-archetype-mariadb@3.0.0-EA
+- pkg:maven/com.speedment.archetypes/speedment-archetype-mariadb@3.0.0-EA2
+- pkg:maven/com.speedment.archetypes/speedment-archetype-mariadb@3.0.0-EA?classifier=sources
+- pkg:maven/com.speedment.archetypes/speedment-archetype-mariadb@3.0.1

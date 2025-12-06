@@ -1,0 +1,2 @@
+- pkg:maven/tech.arauk.ark/arel@1.0.0-beta1
+- pkg:maven/tech.arauk.ark/arel@1.0.0-beta1?classifier=sources

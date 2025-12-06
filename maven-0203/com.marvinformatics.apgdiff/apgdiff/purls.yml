@@ -1,0 +1,2 @@
+- pkg:maven/com.marvinformatics.apgdiff/apgdiff@2.5.0.20160618
+- pkg:maven/com.marvinformatics.apgdiff/apgdiff@2.5.0.20160618?classifier=sources

@@ -36,3 +36,7 @@
 - pkg:maven/net.sf.jranges/jranges@0.5.0?classifier=sources
 - pkg:maven/net.sf.jranges/jranges@0.6.1
 - pkg:maven/net.sf.jranges/jranges@0.6.1?classifier=sources
+- pkg:maven/net.sf.jranges/jranges@0.7.1
+- pkg:maven/net.sf.jranges/jranges@0.7.1?classifier=sources
+- pkg:maven/net.sf.jranges/jranges@0.8.0
+- pkg:maven/net.sf.jranges/jranges@0.8.0?classifier=sources

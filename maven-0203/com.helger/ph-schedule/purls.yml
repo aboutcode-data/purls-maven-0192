@@ -22,3 +22,7 @@
 - pkg:maven/com.helger/ph-schedule@2.0.0?classifier=sources
 - pkg:maven/com.helger/ph-schedule@2.1.0
 - pkg:maven/com.helger/ph-schedule@2.1.0?classifier=sources
+- pkg:maven/com.helger/ph-schedule@3.0.0
+- pkg:maven/com.helger/ph-schedule@3.0.0?classifier=sources
+- pkg:maven/com.helger/ph-schedule@3.5.0
+- pkg:maven/com.helger/ph-schedule@3.5.0?classifier=sources

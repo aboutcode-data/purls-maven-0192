@@ -1,0 +1,2 @@
+- pkg:maven/com.gethalfpint/dropwizard-views-jade@0.9.1-1
+- pkg:maven/com.gethalfpint/dropwizard-views-jade@0.9.1-1?classifier=sources

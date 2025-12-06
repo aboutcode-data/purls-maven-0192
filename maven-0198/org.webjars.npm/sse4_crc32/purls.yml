@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/sse4_crc32@5.0.0
+- pkg:maven/org.webjars.npm/sse4_crc32@5.0.0?classifier=sources

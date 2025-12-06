@@ -8,3 +8,5 @@
 - pkg:maven/org.bytedeco.javacpp-presets/tesseract@3.03-rc1-1.0?classifier=sources
 - pkg:maven/org.bytedeco.javacpp-presets/tesseract@3.04-1.1
 - pkg:maven/org.bytedeco.javacpp-presets/tesseract@3.04-1.1?classifier=sources
+- pkg:maven/org.bytedeco.javacpp-presets/tesseract@3.04.01-1.2
+- pkg:maven/org.bytedeco.javacpp-presets/tesseract@3.04.01-1.2?classifier=sources

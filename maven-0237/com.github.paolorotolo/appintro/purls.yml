@@ -20,3 +20,9 @@
 - pkg:maven/com.github.paolorotolo/appintro@3.2.0?type=aar
 - pkg:maven/com.github.paolorotolo/appintro@3.3.0?classifier=sources
 - pkg:maven/com.github.paolorotolo/appintro@3.3.0?type=aar
+- pkg:maven/com.github.paolorotolo/appintro@3.4.0?classifier=sources
+- pkg:maven/com.github.paolorotolo/appintro@3.4.0?type=aar
+- pkg:maven/com.github.paolorotolo/appintro@4.0.0?classifier=sources
+- pkg:maven/com.github.paolorotolo/appintro@4.0.0?type=aar
+- pkg:maven/com.github.paolorotolo/appintro@4.1.0?classifier=sources
+- pkg:maven/com.github.paolorotolo/appintro@4.1.0?type=aar

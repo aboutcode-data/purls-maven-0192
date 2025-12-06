@@ -1,0 +1,2 @@
+- pkg:maven/cn.kxlove/spring-boot-beetl-start@1.0.0
+- pkg:maven/cn.kxlove/spring-boot-beetl-start@1.0.0?classifier=sources

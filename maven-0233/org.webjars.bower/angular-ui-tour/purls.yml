@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/angular-ui-tour@0.0.2
+- pkg:maven/org.webjars.bower/angular-ui-tour@0.0.2?classifier=sources
+- pkg:maven/org.webjars.bower/angular-ui-tour@0.5.5
+- pkg:maven/org.webjars.bower/angular-ui-tour@0.5.5?classifier=sources

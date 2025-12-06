@@ -1,0 +1,14 @@
+- pkg:maven/com.graphaware.neo4j/neo4j-to-elasticsearch@3.0.1.38.2
+- pkg:maven/com.graphaware.neo4j/neo4j-to-elasticsearch@3.0.1.38.2?classifier=sources
+- pkg:maven/com.graphaware.neo4j/neo4j-to-elasticsearch@3.0.1.38.3
+- pkg:maven/com.graphaware.neo4j/neo4j-to-elasticsearch@3.0.1.38.3?classifier=sources
+- pkg:maven/com.graphaware.neo4j/neo4j-to-elasticsearch@3.0.1.38.4
+- pkg:maven/com.graphaware.neo4j/neo4j-to-elasticsearch@3.0.1.38.4?classifier=sources
+- pkg:maven/com.graphaware.neo4j/neo4j-to-elasticsearch@3.0.3.39.4
+- pkg:maven/com.graphaware.neo4j/neo4j-to-elasticsearch@3.0.3.39.4?classifier=sources
+- pkg:maven/com.graphaware.neo4j/neo4j-to-elasticsearch@3.0.3.39.5
+- pkg:maven/com.graphaware.neo4j/neo4j-to-elasticsearch@3.0.3.39.5?classifier=sources
+- pkg:maven/com.graphaware.neo4j/neo4j-to-elasticsearch@3.0.4.43.6
+- pkg:maven/com.graphaware.neo4j/neo4j-to-elasticsearch@3.0.4.43.6?classifier=sources
+- pkg:maven/com.graphaware.neo4j/neo4j-to-elasticsearch@3.0.6.43.6
+- pkg:maven/com.graphaware.neo4j/neo4j-to-elasticsearch@3.0.6.43.6?classifier=sources

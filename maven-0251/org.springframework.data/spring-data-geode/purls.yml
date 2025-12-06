@@ -1,0 +1,4 @@
+- pkg:maven/org.springframework.data/spring-data-geode@1.0.0.APACHE-GEODE-INCUBATING-M2
+- pkg:maven/org.springframework.data/spring-data-geode@1.0.0.APACHE-GEODE-INCUBATING-M2?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-geode@1.0.0.APACHE-GEODE-INCUBATING-M3
+- pkg:maven/org.springframework.data/spring-data-geode@1.0.0.APACHE-GEODE-INCUBATING-M3?classifier=sources

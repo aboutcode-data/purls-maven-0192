@@ -1,0 +1,2 @@
+- pkg:maven/org.drombler.acp/drombler-acp-core-data@0.8
+- pkg:maven/org.drombler.acp/drombler-acp-core-data@0.8?classifier=sources

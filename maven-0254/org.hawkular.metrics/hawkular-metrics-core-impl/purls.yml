@@ -18,5 +18,7 @@
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-core-impl@0.7.0.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-core-impl@0.8.0.Final
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-core-impl@0.8.0.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-core-impl@0.8.1.Final
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-core-impl@0.8.1.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-core-impl@0.9.0.Final
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-core-impl@0.9.0.Final?classifier=sources

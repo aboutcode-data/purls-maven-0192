@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/lightbox@2.8.2
+- pkg:maven/org.webjars.bower/lightbox@2.8.2?classifier=sources

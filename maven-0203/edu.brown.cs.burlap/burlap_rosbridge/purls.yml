@@ -1,0 +1,6 @@
+- pkg:maven/edu.brown.cs.burlap/burlap_rosbridge@2.1.0
+- pkg:maven/edu.brown.cs.burlap/burlap_rosbridge@2.1.0?classifier=sources
+- pkg:maven/edu.brown.cs.burlap/burlap_rosbridge@3.0.0
+- pkg:maven/edu.brown.cs.burlap/burlap_rosbridge@3.0.0?classifier=sources
+- pkg:maven/edu.brown.cs.burlap/burlap_rosbridge@3.0.1
+- pkg:maven/edu.brown.cs.burlap/burlap_rosbridge@3.0.1?classifier=sources

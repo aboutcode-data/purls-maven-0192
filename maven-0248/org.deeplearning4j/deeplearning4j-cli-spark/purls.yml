@@ -1,0 +1,4 @@
+- pkg:maven/org.deeplearning4j/deeplearning4j-cli-spark@0.4-rc3.10
+- pkg:maven/org.deeplearning4j/deeplearning4j-cli-spark@0.4-rc3.10?classifier=sources
+- pkg:maven/org.deeplearning4j/deeplearning4j-cli-spark@0.4-rc3.9
+- pkg:maven/org.deeplearning4j/deeplearning4j-cli-spark@0.4-rc3.9?classifier=sources

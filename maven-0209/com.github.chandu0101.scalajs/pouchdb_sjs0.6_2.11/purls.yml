@@ -1,2 +1,6 @@
 - pkg:maven/com.github.chandu0101.scalajs/pouchdb_sjs0.6_2.11@0.1.0
 - pkg:maven/com.github.chandu0101.scalajs/pouchdb_sjs0.6_2.11@0.1.0?classifier=sources
+- pkg:maven/com.github.chandu0101.scalajs/pouchdb_sjs0.6_2.11@2016.4.0
+- pkg:maven/com.github.chandu0101.scalajs/pouchdb_sjs0.6_2.11@2016.4.0?classifier=sources
+- pkg:maven/com.github.chandu0101.scalajs/pouchdb_sjs0.6_2.11@2016.8.0
+- pkg:maven/com.github.chandu0101.scalajs/pouchdb_sjs0.6_2.11@2016.8.0?classifier=sources

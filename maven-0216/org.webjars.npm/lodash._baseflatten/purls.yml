@@ -1,0 +1,8 @@
+- pkg:maven/org.webjars.npm/lodash._baseflatten@3.0.0
+- pkg:maven/org.webjars.npm/lodash._baseflatten@3.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/lodash._baseflatten@3.1.4
+- pkg:maven/org.webjars.npm/lodash._baseflatten@3.1.4?classifier=sources
+- pkg:maven/org.webjars.npm/lodash._baseflatten@4.1.0
+- pkg:maven/org.webjars.npm/lodash._baseflatten@4.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/lodash._baseflatten@4.2.1
+- pkg:maven/org.webjars.npm/lodash._baseflatten@4.2.1?classifier=sources

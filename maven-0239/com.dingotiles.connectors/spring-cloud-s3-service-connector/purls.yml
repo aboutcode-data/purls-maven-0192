@@ -1,0 +1,2 @@
+- pkg:maven/com.dingotiles.connectors/spring-cloud-s3-service-connector@0.1.1
+- pkg:maven/com.dingotiles.connectors/spring-cloud-s3-service-connector@0.1.1?classifier=sources

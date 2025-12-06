@@ -1,0 +1,2 @@
+- pkg:maven/org.zalando.stups.io.fabric8/docker-maven-plugin@0.15.2-zal-1
+- pkg:maven/org.zalando.stups.io.fabric8/docker-maven-plugin@0.15.2-zal-1?classifier=sources

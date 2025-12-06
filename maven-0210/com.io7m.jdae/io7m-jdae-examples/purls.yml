@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.jdae/io7m-jdae-examples@0.1.1
+- pkg:maven/com.io7m.jdae/io7m-jdae-examples@0.1.1?classifier=sources

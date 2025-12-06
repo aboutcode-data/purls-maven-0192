@@ -1,0 +1,4 @@
+- pkg:maven/ug.co.intelworld/HmacAuth@1.0
+- pkg:maven/ug.co.intelworld/HmacAuth@1.0?classifier=sources
+- pkg:maven/ug.co.intelworld/HmacAuth@2.0
+- pkg:maven/ug.co.intelworld/HmacAuth@2.0?classifier=sources

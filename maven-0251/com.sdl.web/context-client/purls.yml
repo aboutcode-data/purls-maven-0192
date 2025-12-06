@@ -1,0 +1,4 @@
+- pkg:maven/com.sdl.web/context-client@8.2.0-1012
+- pkg:maven/com.sdl.web/context-client@8.2.0-1012?classifier=sources
+- pkg:maven/com.sdl.web/context-client@8.3.0-1008
+- pkg:maven/com.sdl.web/context-client@8.3.0-1008?classifier=sources

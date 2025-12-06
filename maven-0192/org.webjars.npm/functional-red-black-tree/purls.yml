@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/functional-red-black-tree@1.0.1
+- pkg:maven/org.webjars.npm/functional-red-black-tree@1.0.1?classifier=sources

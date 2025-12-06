@@ -13,3 +13,9 @@
 - pkg:maven/org.jboss.aerogear.unifiedpush/unifiedpush-parent@1.1.0-beta.3?classifier=source-release&type=zip
 - pkg:maven/org.jboss.aerogear.unifiedpush/unifiedpush-parent@1.1.0-beta.4?classifier=source-release&type=zip
 - pkg:maven/org.jboss.aerogear.unifiedpush/unifiedpush-parent@1.1.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.aerogear.unifiedpush/unifiedpush-parent@1.1.1.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.aerogear.unifiedpush/unifiedpush-parent@1.1.2?classifier=source-release&type=zip
+- pkg:maven/org.jboss.aerogear.unifiedpush/unifiedpush-parent@1.1.3.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.aerogear.unifiedpush/unifiedpush-parent@1.2.0-alpha.1?classifier=source-release&type=zip
+- pkg:maven/org.jboss.aerogear.unifiedpush/unifiedpush-parent@1.2.0-alpha.2?classifier=source-release&type=zip
+- pkg:maven/org.jboss.aerogear.unifiedpush/unifiedpush-parent@1.2.0-alpha.3?classifier=source-release&type=zip

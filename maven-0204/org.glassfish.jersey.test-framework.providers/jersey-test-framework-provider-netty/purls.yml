@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-netty@2.23.2
+- pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-netty@2.23.2?classifier=sources

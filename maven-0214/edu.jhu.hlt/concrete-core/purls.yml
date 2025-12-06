@@ -1,3 +1,7 @@
+- pkg:maven/edu.jhu.hlt/concrete-core@4.10
+- pkg:maven/edu.jhu.hlt/concrete-core@4.10-rework
+- pkg:maven/edu.jhu.hlt/concrete-core@4.10-rework?classifier=sources
+- pkg:maven/edu.jhu.hlt/concrete-core@4.10?classifier=sources
 - pkg:maven/edu.jhu.hlt/concrete-core@4.2.3
 - pkg:maven/edu.jhu.hlt/concrete-core@4.2.3?classifier=sources
 - pkg:maven/edu.jhu.hlt/concrete-core@4.2.4
@@ -13,4 +17,10 @@
 - pkg:maven/edu.jhu.hlt/concrete-core@4.8
 - pkg:maven/edu.jhu.hlt/concrete-core@4.8-RC1
 - pkg:maven/edu.jhu.hlt/concrete-core@4.8-RC1?classifier=sources
+- pkg:maven/edu.jhu.hlt/concrete-core@4.8-hc
+- pkg:maven/edu.jhu.hlt/concrete-core@4.8-hc-fix
+- pkg:maven/edu.jhu.hlt/concrete-core@4.8-hc-fix?classifier=sources
+- pkg:maven/edu.jhu.hlt/concrete-core@4.8-hc?classifier=sources
 - pkg:maven/edu.jhu.hlt/concrete-core@4.8?classifier=sources
+- pkg:maven/edu.jhu.hlt/concrete-core@4.9
+- pkg:maven/edu.jhu.hlt/concrete-core@4.9?classifier=sources

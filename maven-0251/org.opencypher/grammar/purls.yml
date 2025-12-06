@@ -1,0 +1,2 @@
+- pkg:maven/org.opencypher/grammar@1.0.0-M02
+- pkg:maven/org.opencypher/grammar@1.0.0-M02?classifier=sources

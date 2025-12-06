@@ -1,0 +1,6 @@
+- pkg:maven/info.archinnov/integration-test-2_2@5.0.0
+- pkg:maven/info.archinnov/integration-test-2_2@5.0.0?classifier=sources
+- pkg:maven/info.archinnov/integration-test-2_2@5.1.0
+- pkg:maven/info.archinnov/integration-test-2_2@5.1.0?classifier=sources
+- pkg:maven/info.archinnov/integration-test-2_2@5.1.1
+- pkg:maven/info.archinnov/integration-test-2_2@5.1.1?classifier=sources

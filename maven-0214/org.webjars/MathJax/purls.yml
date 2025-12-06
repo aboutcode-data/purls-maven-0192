@@ -1,1 +1,2 @@
 - pkg:maven/org.webjars/MathJax@2.5.3
+- pkg:maven/org.webjars/MathJax@2.6.1

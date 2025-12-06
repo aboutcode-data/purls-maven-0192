@@ -1,0 +1,4 @@
+- pkg:maven/com.io7m.jsx/io7m-jsx-parser-api@0.6.0
+- pkg:maven/com.io7m.jsx/io7m-jsx-parser-api@0.6.0?classifier=sources
+- pkg:maven/com.io7m.jsx/io7m-jsx-parser-api@0.7.0
+- pkg:maven/com.io7m.jsx/io7m-jsx-parser-api@0.7.0?classifier=sources

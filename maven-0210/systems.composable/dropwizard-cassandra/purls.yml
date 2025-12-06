@@ -1,0 +1,8 @@
+- pkg:maven/systems.composable/dropwizard-cassandra@3.0.0
+- pkg:maven/systems.composable/dropwizard-cassandra@3.0.0?classifier=sources
+- pkg:maven/systems.composable/dropwizard-cassandra@3.0.1
+- pkg:maven/systems.composable/dropwizard-cassandra@3.0.1?classifier=sources
+- pkg:maven/systems.composable/dropwizard-cassandra@3.0.2
+- pkg:maven/systems.composable/dropwizard-cassandra@3.0.2?classifier=sources
+- pkg:maven/systems.composable/dropwizard-cassandra@4.0.0
+- pkg:maven/systems.composable/dropwizard-cassandra@4.0.0?classifier=sources

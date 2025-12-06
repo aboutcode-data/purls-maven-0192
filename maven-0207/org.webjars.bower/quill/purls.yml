@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/quill@1.0.0-rc.2
+- pkg:maven/org.webjars.bower/quill@1.0.0-rc.2?classifier=sources

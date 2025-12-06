@@ -1,0 +1,2 @@
+- pkg:maven/com.github.calimero/calimero-device@2.3-beta
+- pkg:maven/com.github.calimero/calimero-device@2.3-beta?classifier=sources

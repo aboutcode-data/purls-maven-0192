@@ -1,0 +1,1 @@
+- pkg:maven/com.linecorp.armeria/armeria-tomcat@0.29.0.Final?classifier=sources

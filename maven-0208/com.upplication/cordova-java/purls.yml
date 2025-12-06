@@ -1,0 +1,2 @@
+- pkg:maven/com.upplication/cordova-java@0.0.2
+- pkg:maven/com.upplication/cordova-java@0.0.2?classifier=sources

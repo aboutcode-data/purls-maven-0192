@@ -12,3 +12,11 @@
 - pkg:maven/org.tinygroup/org.tinygroup.tinyuiweb@2.0.29?type=war
 - pkg:maven/org.tinygroup/org.tinygroup.tinyuiweb@2.0.30?classifier=sources
 - pkg:maven/org.tinygroup/org.tinygroup.tinyuiweb@2.0.30?type=war
+- pkg:maven/org.tinygroup/org.tinygroup.tinyuiweb@2.0.31?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.tinyuiweb@2.0.31?type=war
+- pkg:maven/org.tinygroup/org.tinygroup.tinyuiweb@2.1.0?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.tinyuiweb@2.1.0?type=war
+- pkg:maven/org.tinygroup/org.tinygroup.tinyuiweb@2.1.1?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.tinyuiweb@2.1.1?type=war
+- pkg:maven/org.tinygroup/org.tinygroup.tinyuiweb@2.2.0?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.tinyuiweb@2.2.0?type=war

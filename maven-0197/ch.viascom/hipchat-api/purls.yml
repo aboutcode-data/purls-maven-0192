@@ -1,0 +1,6 @@
+- pkg:maven/ch.viascom/hipchat-api@2.0.0-ALPHA
+- pkg:maven/ch.viascom/hipchat-api@2.0.0-ALPHA?classifier=sources
+- pkg:maven/ch.viascom/hipchat-api@2.0.1-BETA
+- pkg:maven/ch.viascom/hipchat-api@2.0.1-BETA?classifier=sources
+- pkg:maven/ch.viascom/hipchat-api@2.0.2-BETA
+- pkg:maven/ch.viascom/hipchat-api@2.0.2-BETA?classifier=sources

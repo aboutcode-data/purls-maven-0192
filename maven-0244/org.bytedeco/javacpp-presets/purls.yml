@@ -4,3 +4,4 @@
 - pkg:maven/org.bytedeco/javacpp-presets@0.9?classifier=src&type=zip
 - pkg:maven/org.bytedeco/javacpp-presets@1.0?classifier=src&type=zip
 - pkg:maven/org.bytedeco/javacpp-presets@1.1?classifier=src&type=zip
+- pkg:maven/org.bytedeco/javacpp-presets@1.2?classifier=src&type=zip

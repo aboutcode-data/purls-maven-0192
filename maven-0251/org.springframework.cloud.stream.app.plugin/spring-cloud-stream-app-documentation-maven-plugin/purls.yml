@@ -1,0 +1,2 @@
+- pkg:maven/org.springframework.cloud.stream.app.plugin/spring-cloud-stream-app-documentation-maven-plugin@1.0.2.RELEASE
+- pkg:maven/org.springframework.cloud.stream.app.plugin/spring-cloud-stream-app-documentation-maven-plugin@1.0.2.RELEASE?classifier=sources

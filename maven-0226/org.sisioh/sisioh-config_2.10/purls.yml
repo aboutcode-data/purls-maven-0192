@@ -6,3 +6,5 @@
 - pkg:maven/org.sisioh/sisioh-config_2.10@0.0.4?classifier=sources
 - pkg:maven/org.sisioh/sisioh-config_2.10@0.0.7
 - pkg:maven/org.sisioh/sisioh-config_2.10@0.0.7?classifier=sources
+- pkg:maven/org.sisioh/sisioh-config_2.10@0.0.8
+- pkg:maven/org.sisioh/sisioh-config_2.10@0.0.8?classifier=sources

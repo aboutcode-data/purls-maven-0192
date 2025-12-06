@@ -1,0 +1,8 @@
+- pkg:maven/io.verizon.quiver/codecs_2.11@5.4.10
+- pkg:maven/io.verizon.quiver/codecs_2.11@5.4.10?classifier=sources
+- pkg:maven/io.verizon.quiver/codecs_2.11@5.4.11
+- pkg:maven/io.verizon.quiver/codecs_2.11@5.4.11?classifier=sources
+- pkg:maven/io.verizon.quiver/codecs_2.11@5.4.6
+- pkg:maven/io.verizon.quiver/codecs_2.11@5.4.6?classifier=sources
+- pkg:maven/io.verizon.quiver/codecs_2.11@5.4.9
+- pkg:maven/io.verizon.quiver/codecs_2.11@5.4.9?classifier=sources

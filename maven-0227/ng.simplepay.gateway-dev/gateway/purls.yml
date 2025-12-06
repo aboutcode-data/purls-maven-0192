@@ -1,0 +1,2 @@
+- pkg:maven/ng.simplepay.gateway-dev/gateway@2.0.2?classifier=sources
+- pkg:maven/ng.simplepay.gateway-dev/gateway@2.0.2?type=aar

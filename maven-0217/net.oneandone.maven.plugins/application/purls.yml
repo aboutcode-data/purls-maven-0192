@@ -12,3 +12,5 @@
 - pkg:maven/net.oneandone.maven.plugins/application@1.5.2?classifier=sources
 - pkg:maven/net.oneandone.maven.plugins/application@1.6.0
 - pkg:maven/net.oneandone.maven.plugins/application@1.6.0?classifier=sources
+- pkg:maven/net.oneandone.maven.plugins/application@1.6.1
+- pkg:maven/net.oneandone.maven.plugins/application@1.6.1?classifier=sources

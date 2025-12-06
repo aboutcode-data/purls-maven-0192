@@ -20,3 +20,5 @@
 - pkg:maven/com.coverity/ondemand-maven-plugin@1.3.749?classifier=sources
 - pkg:maven/com.coverity/ondemand-maven-plugin@1.4.782
 - pkg:maven/com.coverity/ondemand-maven-plugin@1.4.782?classifier=sources
+- pkg:maven/com.coverity/ondemand-maven-plugin@1.5.60
+- pkg:maven/com.coverity/ondemand-maven-plugin@1.5.60?classifier=sources

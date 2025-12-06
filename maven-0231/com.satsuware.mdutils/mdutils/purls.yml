@@ -1,0 +1,2 @@
+- pkg:maven/com.satsuware.mdutils/mdutils@0.3.2?classifier=sources
+- pkg:maven/com.satsuware.mdutils/mdutils@0.3.2?type=aar

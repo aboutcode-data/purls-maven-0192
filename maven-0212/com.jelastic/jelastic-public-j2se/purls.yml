@@ -10,3 +10,9 @@
 - pkg:maven/com.jelastic/jelastic-public-j2se@3.3?classifier=sources
 - pkg:maven/com.jelastic/jelastic-public-j2se@4.0
 - pkg:maven/com.jelastic/jelastic-public-j2se@4.0?classifier=sources
+- pkg:maven/com.jelastic/jelastic-public-j2se@4.6
+- pkg:maven/com.jelastic/jelastic-public-j2se@4.6?classifier=sources
+- pkg:maven/com.jelastic/jelastic-public-j2se@4.7
+- pkg:maven/com.jelastic/jelastic-public-j2se@4.7?classifier=sources
+- pkg:maven/com.jelastic/jelastic-public-j2se@4.8
+- pkg:maven/com.jelastic/jelastic-public-j2se@4.8?classifier=sources

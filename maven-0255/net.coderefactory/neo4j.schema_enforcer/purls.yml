@@ -1,0 +1,2 @@
+- pkg:maven/net.coderefactory/neo4j.schema_enforcer@0.0.1
+- pkg:maven/net.coderefactory/neo4j.schema_enforcer@0.0.1?classifier=sources

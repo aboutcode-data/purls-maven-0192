@@ -1,0 +1,4 @@
+- pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-xsede-oauth2@3.3.0.2?classifier=sources
+- pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-xsede-oauth2@3.3.0.2?type=war
+- pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-xsede-oauth2@3.3?classifier=sources
+- pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-xsede-oauth2@3.3?type=war

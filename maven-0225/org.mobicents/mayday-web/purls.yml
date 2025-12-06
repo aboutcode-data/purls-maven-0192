@@ -1,0 +1,6 @@
+- pkg:maven/org.mobicents/mayday-web@1.0.2?type=war
+- pkg:maven/org.mobicents/mayday-web@1.0.3?type=war
+- pkg:maven/org.mobicents/mayday-web@1.0.4?type=war
+- pkg:maven/org.mobicents/mayday-web@1.0.5?type=war
+- pkg:maven/org.mobicents/mayday-web@1.0.6?type=war
+- pkg:maven/org.mobicents/mayday-web@1.0.7?type=war

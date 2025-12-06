@@ -32,3 +32,6 @@
 - pkg:maven/org.codehaus.mojo/cassandra-maven-plugin@2.1.7-1
 - pkg:maven/org.codehaus.mojo/cassandra-maven-plugin@2.1.7-1?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo/cassandra-maven-plugin@2.1.7-1?classifier=sources
+- pkg:maven/org.codehaus.mojo/cassandra-maven-plugin@3.5
+- pkg:maven/org.codehaus.mojo/cassandra-maven-plugin@3.5?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo/cassandra-maven-plugin@3.5?classifier=sources

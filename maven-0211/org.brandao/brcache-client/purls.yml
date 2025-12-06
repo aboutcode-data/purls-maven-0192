@@ -1,0 +1,2 @@
+- pkg:maven/org.brandao/brcache-client@1.0-b3
+- pkg:maven/org.brandao/brcache-client@1.0-b3?classifier=sources

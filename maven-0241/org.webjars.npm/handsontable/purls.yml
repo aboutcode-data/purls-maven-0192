@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/handsontable@0.28.0
+- pkg:maven/org.webjars.npm/handsontable@0.28.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/fi.vtt.nubomedia.kurento/arfilterdemo@1.0.0
+- pkg:maven/fi.vtt.nubomedia.kurento/arfilterdemo@1.0.0?classifier=sources
+- pkg:maven/fi.vtt.nubomedia.kurento/arfilterdemo@1.0.1
+- pkg:maven/fi.vtt.nubomedia.kurento/arfilterdemo@1.0.1?classifier=sources

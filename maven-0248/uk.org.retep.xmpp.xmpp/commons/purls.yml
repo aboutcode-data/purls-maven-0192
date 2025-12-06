@@ -1,0 +1,2 @@
+- pkg:maven/uk.org.retep.xmpp.xmpp/commons@9.11
+- pkg:maven/uk.org.retep.xmpp.xmpp/commons@9.11?classifier=sources

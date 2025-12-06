@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/alpha-shape@1.0.0
+- pkg:maven/org.webjars.npm/alpha-shape@1.0.0?classifier=sources

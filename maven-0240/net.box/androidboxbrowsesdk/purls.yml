@@ -1,0 +1,2 @@
+- pkg:maven/net.box/androidboxbrowsesdk@1.0.0?classifier=sources
+- pkg:maven/net.box/androidboxbrowsesdk@1.0.0?type=aar

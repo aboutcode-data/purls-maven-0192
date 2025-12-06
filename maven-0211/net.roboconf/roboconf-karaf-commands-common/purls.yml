@@ -1,0 +1,2 @@
+- pkg:maven/net.roboconf/roboconf-karaf-commands-common@0.7
+- pkg:maven/net.roboconf/roboconf-karaf-commands-common@0.7?classifier=sources

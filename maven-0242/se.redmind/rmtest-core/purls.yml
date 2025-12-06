@@ -12,3 +12,5 @@
 - pkg:maven/se.redmind/rmtest-core@1.0.7?classifier=sources
 - pkg:maven/se.redmind/rmtest-core@1.0.8
 - pkg:maven/se.redmind/rmtest-core@1.0.8?classifier=sources
+- pkg:maven/se.redmind/rmtest-core@2.0.0
+- pkg:maven/se.redmind/rmtest-core@2.0.0?classifier=sources

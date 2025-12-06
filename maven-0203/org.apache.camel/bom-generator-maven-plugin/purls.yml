@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel/bom-generator-maven-plugin@2.18.0
+- pkg:maven/org.apache.camel/bom-generator-maven-plugin@2.18.0?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.npm/outlayer@1.4.2
 - pkg:maven/org.webjars.npm/outlayer@1.4.2?classifier=sources
+- pkg:maven/org.webjars.npm/outlayer@2.0.0
+- pkg:maven/org.webjars.npm/outlayer@2.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/outlayer@2.1.0
+- pkg:maven/org.webjars.npm/outlayer@2.1.0?classifier=sources

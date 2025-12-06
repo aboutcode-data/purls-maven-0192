@@ -1,3 +1,5 @@
+- pkg:maven/de.bwaldvogel/liblinear@1.7.1
+- pkg:maven/de.bwaldvogel/liblinear@1.7.1?classifier=sources
 - pkg:maven/de.bwaldvogel/liblinear@1.8
 - pkg:maven/de.bwaldvogel/liblinear@1.8?classifier=sources
 - pkg:maven/de.bwaldvogel/liblinear@1.91

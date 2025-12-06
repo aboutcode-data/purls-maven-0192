@@ -1,0 +1,1 @@
+- pkg:maven/com.graphaware.integration.es/elasticsearch-to-neo4j@2.2.1.0?classifier=sources

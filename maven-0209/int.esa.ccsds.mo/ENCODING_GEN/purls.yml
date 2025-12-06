@@ -5,4 +5,6 @@
 - pkg:maven/int.esa.ccsds.mo/ENCODING_GEN@1.0.2-FC
 - pkg:maven/int.esa.ccsds.mo/ENCODING_GEN@1.0.2-FC?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/ENCODING_GEN@1.0.2?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/ENCODING_GEN@1.0.3
+- pkg:maven/int.esa.ccsds.mo/ENCODING_GEN@1.0.3?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/ENCODING_GEN@1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-standalone-gateway@1.2.0.Final?type=war
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-standalone-gateway@1.2.1.Final?type=war

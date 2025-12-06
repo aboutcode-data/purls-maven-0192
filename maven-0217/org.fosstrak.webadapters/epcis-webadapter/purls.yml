@@ -1,0 +1,2 @@
+- pkg:maven/org.fosstrak.webadapters/epcis-webadapter@0.1.0?classifier=sources
+- pkg:maven/org.fosstrak.webadapters/epcis-webadapter@0.1.0?type=war

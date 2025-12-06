@@ -4,3 +4,5 @@
 - pkg:maven/com.coherentlogic.usaspending.client/usaspending-client-core@0.8.1-RELEASE?classifier=sources
 - pkg:maven/com.coherentlogic.usaspending.client/usaspending-client-core@1.0.1-RELEASE
 - pkg:maven/com.coherentlogic.usaspending.client/usaspending-client-core@1.0.1-RELEASE?classifier=sources
+- pkg:maven/com.coherentlogic.usaspending.client/usaspending-client-core@1.0.4-RELEASE
+- pkg:maven/com.coherentlogic.usaspending.client/usaspending-client-core@1.0.4-RELEASE?classifier=sources

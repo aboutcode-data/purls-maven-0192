@@ -1,0 +1,2 @@
+- pkg:maven/com.torchmind.mango/observable@1.0
+- pkg:maven/com.torchmind.mango/observable@1.0?classifier=sources

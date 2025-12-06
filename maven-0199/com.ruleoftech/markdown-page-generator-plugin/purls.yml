@@ -1,3 +1,5 @@
+- pkg:maven/com.ruleoftech/markdown-page-generator-plugin@0.10
+- pkg:maven/com.ruleoftech/markdown-page-generator-plugin@0.10?classifier=sources
 - pkg:maven/com.ruleoftech/markdown-page-generator-plugin@0.4
 - pkg:maven/com.ruleoftech/markdown-page-generator-plugin@0.4?classifier=sources
 - pkg:maven/com.ruleoftech/markdown-page-generator-plugin@0.6

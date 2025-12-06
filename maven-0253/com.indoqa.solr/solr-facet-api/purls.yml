@@ -1,0 +1,2 @@
+- pkg:maven/com.indoqa.solr/solr-facet-api@0.1
+- pkg:maven/com.indoqa.solr/solr-facet-api@0.1?classifier=sources

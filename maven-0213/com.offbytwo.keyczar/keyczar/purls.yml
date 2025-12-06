@@ -1,0 +1,2 @@
+- pkg:maven/com.offbytwo.keyczar/keyczar@0.71g
+- pkg:maven/com.offbytwo.keyczar/keyczar@0.71g?classifier=sources

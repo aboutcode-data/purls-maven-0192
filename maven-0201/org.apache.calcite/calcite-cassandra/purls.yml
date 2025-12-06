@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.calcite/calcite-cassandra@1.10.0
+- pkg:maven/org.apache.calcite/calcite-cassandra@1.10.0?classifier=sources
+- pkg:maven/org.apache.calcite/calcite-cassandra@1.7.0
+- pkg:maven/org.apache.calcite/calcite-cassandra@1.7.0?classifier=sources
+- pkg:maven/org.apache.calcite/calcite-cassandra@1.8.0
+- pkg:maven/org.apache.calcite/calcite-cassandra@1.8.0?classifier=sources
+- pkg:maven/org.apache.calcite/calcite-cassandra@1.9.0
+- pkg:maven/org.apache.calcite/calcite-cassandra@1.9.0?classifier=sources

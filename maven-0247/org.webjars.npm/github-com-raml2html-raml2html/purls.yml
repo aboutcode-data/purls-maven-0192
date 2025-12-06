@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/github-com-raml2html-raml2html@2.5.0
+- pkg:maven/org.webjars.npm/github-com-raml2html-raml2html@2.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-raml2html-raml2html@3.0.0
+- pkg:maven/org.webjars.npm/github-com-raml2html-raml2html@3.0.0?classifier=sources

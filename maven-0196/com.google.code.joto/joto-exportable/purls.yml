@@ -1,0 +1,2 @@
+- pkg:maven/com.google.code.joto/joto-exportable@1.0.0
+- pkg:maven/com.google.code.joto/joto-exportable@1.0.0?classifier=sources

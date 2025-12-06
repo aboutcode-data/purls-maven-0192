@@ -1,2 +1,10 @@
 - pkg:maven/com.github.loyada.dollarx/dollarx-java@0.1
 - pkg:maven/com.github.loyada.dollarx/dollarx-java@0.1?classifier=sources
+- pkg:maven/com.github.loyada.dollarx/dollarx-java@0.2
+- pkg:maven/com.github.loyada.dollarx/dollarx-java@0.21
+- pkg:maven/com.github.loyada.dollarx/dollarx-java@0.21?classifier=sources
+- pkg:maven/com.github.loyada.dollarx/dollarx-java@0.2?classifier=sources
+- pkg:maven/com.github.loyada.dollarx/dollarx-java@0.3
+- pkg:maven/com.github.loyada.dollarx/dollarx-java@0.30
+- pkg:maven/com.github.loyada.dollarx/dollarx-java@0.30?classifier=sources
+- pkg:maven/com.github.loyada.dollarx/dollarx-java@0.3?classifier=sources

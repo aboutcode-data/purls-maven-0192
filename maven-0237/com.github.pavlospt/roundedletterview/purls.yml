@@ -1,2 +1,4 @@
 - pkg:maven/com.github.pavlospt/roundedletterview@1.0
 - pkg:maven/com.github.pavlospt/roundedletterview@1.1
+- pkg:maven/com.github.pavlospt/roundedletterview@1.2?classifier=sources
+- pkg:maven/com.github.pavlospt/roundedletterview@1.2?type=aar

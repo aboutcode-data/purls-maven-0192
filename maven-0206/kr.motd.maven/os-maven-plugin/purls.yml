@@ -20,3 +20,5 @@
 - pkg:maven/kr.motd.maven/os-maven-plugin@1.4.0.Final?classifier=sources
 - pkg:maven/kr.motd.maven/os-maven-plugin@1.4.1.Final
 - pkg:maven/kr.motd.maven/os-maven-plugin@1.4.1.Final?classifier=sources
+- pkg:maven/kr.motd.maven/os-maven-plugin@1.5.0.Final
+- pkg:maven/kr.motd.maven/os-maven-plugin@1.5.0.Final?classifier=sources

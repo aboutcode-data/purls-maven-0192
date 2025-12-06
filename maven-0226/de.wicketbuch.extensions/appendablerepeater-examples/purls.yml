@@ -1,0 +1,8 @@
+- pkg:maven/de.wicketbuch.extensions/appendablerepeater-examples@1.2.5.wicket4?classifier=sources
+- pkg:maven/de.wicketbuch.extensions/appendablerepeater-examples@1.2.5.wicket4?type=war
+- pkg:maven/de.wicketbuch.extensions/appendablerepeater-examples@1.2.5.wicket5?classifier=sources
+- pkg:maven/de.wicketbuch.extensions/appendablerepeater-examples@1.2.5.wicket5?type=war
+- pkg:maven/de.wicketbuch.extensions/appendablerepeater-examples@1.2.5.wicket6?classifier=sources
+- pkg:maven/de.wicketbuch.extensions/appendablerepeater-examples@1.2.5.wicket6?type=war
+- pkg:maven/de.wicketbuch.extensions/appendablerepeater-examples@1.2.5.wicket7?classifier=sources
+- pkg:maven/de.wicketbuch.extensions/appendablerepeater-examples@1.2.5.wicket7?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/org.terracotta.management/monitoring-service@2.5.0
+- pkg:maven/org.terracotta.management/monitoring-service@2.5.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/se.mtm.addons/mtm-dotify-addons@1.0.0
+- pkg:maven/se.mtm.addons/mtm-dotify-addons@1.0.0?classifier=sources

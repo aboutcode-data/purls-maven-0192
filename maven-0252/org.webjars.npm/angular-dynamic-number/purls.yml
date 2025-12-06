@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/angular-dynamic-number@1.12.2
+- pkg:maven/org.webjars.npm/angular-dynamic-number@1.12.2?classifier=sources

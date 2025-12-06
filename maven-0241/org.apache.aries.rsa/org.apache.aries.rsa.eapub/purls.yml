@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.aries.rsa/org.apache.aries.rsa.eapub@1.9.0
+- pkg:maven/org.apache.aries.rsa/org.apache.aries.rsa.eapub@1.9.0?classifier=sources

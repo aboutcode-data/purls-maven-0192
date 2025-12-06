@@ -1,3 +1,5 @@
+- pkg:maven/org.chiknrice/jen8583@0.0.4.1
+- pkg:maven/org.chiknrice/jen8583@0.0.4.1?classifier=sources
 - pkg:maven/org.chiknrice/jen8583@0.0.8
 - pkg:maven/org.chiknrice/jen8583@0.0.8?classifier=sources
 - pkg:maven/org.chiknrice/jen8583@0.0.9

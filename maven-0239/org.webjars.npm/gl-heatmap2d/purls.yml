@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/gl-heatmap2d@1.0.2
+- pkg:maven/org.webjars.npm/gl-heatmap2d@1.0.2?classifier=sources

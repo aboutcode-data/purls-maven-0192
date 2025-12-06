@@ -1,0 +1,4 @@
+- pkg:maven/ee.sk.digidoc/jdigidoc@3.12.0
+- pkg:maven/ee.sk.digidoc/jdigidoc@3.12.0?classifier=sources
+- pkg:maven/ee.sk.digidoc/jdigidoc@3.12.1
+- pkg:maven/ee.sk.digidoc/jdigidoc@3.12.1?classifier=sources

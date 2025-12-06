@@ -1,0 +1,2 @@
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.zosRequestLogging@1.0.13
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.zosRequestLogging@1.0.14

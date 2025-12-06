@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/angular-flippy@2.0.6
+- pkg:maven/org.webjars.bower/angular-flippy@2.0.6?classifier=sources

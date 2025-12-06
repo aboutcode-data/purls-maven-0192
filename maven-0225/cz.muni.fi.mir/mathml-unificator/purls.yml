@@ -1,0 +1,4 @@
+- pkg:maven/cz.muni.fi.mir/mathml-unificator@1.0.0
+- pkg:maven/cz.muni.fi.mir/mathml-unificator@1.0.0?classifier=sources
+- pkg:maven/cz.muni.fi.mir/mathml-unificator@1.1.0
+- pkg:maven/cz.muni.fi.mir/mathml-unificator@1.1.0?classifier=sources

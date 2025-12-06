@@ -1,0 +1,8 @@
+- pkg:maven/com.github.thesmartenergy/sparql-generate-jena@0.10
+- pkg:maven/com.github.thesmartenergy/sparql-generate-jena@0.10?classifier=sources
+- pkg:maven/com.github.thesmartenergy/sparql-generate-jena@0.9
+- pkg:maven/com.github.thesmartenergy/sparql-generate-jena@0.9?classifier=sources
+- pkg:maven/com.github.thesmartenergy/sparql-generate-jena@1.0
+- pkg:maven/com.github.thesmartenergy/sparql-generate-jena@1.0?classifier=sources
+- pkg:maven/com.github.thesmartenergy/sparql-generate-jena@1.1
+- pkg:maven/com.github.thesmartenergy/sparql-generate-jena@1.1?classifier=sources

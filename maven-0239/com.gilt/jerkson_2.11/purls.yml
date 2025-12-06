@@ -3,4 +3,10 @@
 - pkg:maven/com.gilt/jerkson_2.11@0.6.7
 - pkg:maven/com.gilt/jerkson_2.11@0.6.7?classifier=sources
 - pkg:maven/com.gilt/jerkson_2.11@0.6.8
+- pkg:maven/com.gilt/jerkson_2.11@0.6.8-1
+- pkg:maven/com.gilt/jerkson_2.11@0.6.8-1?classifier=sources
+- pkg:maven/com.gilt/jerkson_2.11@0.6.8-2
+- pkg:maven/com.gilt/jerkson_2.11@0.6.8-2?classifier=sources
 - pkg:maven/com.gilt/jerkson_2.11@0.6.8?classifier=sources
+- pkg:maven/com.gilt/jerkson_2.11@0.6.9
+- pkg:maven/com.gilt/jerkson_2.11@0.6.9?classifier=sources

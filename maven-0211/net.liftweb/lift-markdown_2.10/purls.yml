@@ -15,6 +15,8 @@
 - pkg:maven/net.liftweb/lift-markdown_2.10@2.6.1?classifier=sources
 - pkg:maven/net.liftweb/lift-markdown_2.10@2.6.2
 - pkg:maven/net.liftweb/lift-markdown_2.10@2.6.2?classifier=sources
+- pkg:maven/net.liftweb/lift-markdown_2.10@2.6.3
+- pkg:maven/net.liftweb/lift-markdown_2.10@2.6.3?classifier=sources
 - pkg:maven/net.liftweb/lift-markdown_2.10@2.6?classifier=sources
 - pkg:maven/net.liftweb/lift-markdown_2.10@3.0-M0
 - pkg:maven/net.liftweb/lift-markdown_2.10@3.0-M0?classifier=sources

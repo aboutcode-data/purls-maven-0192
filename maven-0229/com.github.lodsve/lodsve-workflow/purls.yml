@@ -1,0 +1,2 @@
+- pkg:maven/com.github.lodsve/lodsve-workflow@2.5.4
+- pkg:maven/com.github.lodsve/lodsve-workflow@2.5.4?classifier=sources

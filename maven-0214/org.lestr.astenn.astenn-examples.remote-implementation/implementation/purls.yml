@@ -1,2 +1,8 @@
+- pkg:maven/org.lestr.astenn.astenn-examples.remote-implementation/implementation@1.0.0?classifier=sources
+- pkg:maven/org.lestr.astenn.astenn-examples.remote-implementation/implementation@1.0.0?type=war
+- pkg:maven/org.lestr.astenn.astenn-examples.remote-implementation/implementation@1.0.1?classifier=sources
+- pkg:maven/org.lestr.astenn.astenn-examples.remote-implementation/implementation@1.0.1?type=war
+- pkg:maven/org.lestr.astenn.astenn-examples.remote-implementation/implementation@1.0.2?classifier=sources
+- pkg:maven/org.lestr.astenn.astenn-examples.remote-implementation/implementation@1.0.2?type=war
 - pkg:maven/org.lestr.astenn.astenn-examples.remote-implementation/implementation@1.0.3?classifier=sources
 - pkg:maven/org.lestr.astenn.astenn-examples.remote-implementation/implementation@1.0.3?type=war

@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/github-com-manolo-paper-elements@1.0.7
+- pkg:maven/org.webjars.bower/github-com-manolo-paper-elements@1.0.7.lc
+- pkg:maven/org.webjars.bower/github-com-manolo-paper-elements@1.0.7.lc?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-manolo-paper-elements@1.0.7?classifier=sources
