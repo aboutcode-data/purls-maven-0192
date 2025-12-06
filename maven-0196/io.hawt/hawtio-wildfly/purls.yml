@@ -1,0 +1,12 @@
+- pkg:maven/io.hawt/hawtio-wildfly@1.4.48?type=war
+- pkg:maven/io.hawt/hawtio-wildfly@1.4.49?type=war
+- pkg:maven/io.hawt/hawtio-wildfly@1.4.50?type=war
+- pkg:maven/io.hawt/hawtio-wildfly@1.4.51?type=war
+- pkg:maven/io.hawt/hawtio-wildfly@1.4.52?type=war
+- pkg:maven/io.hawt/hawtio-wildfly@1.4.53?type=war
+- pkg:maven/io.hawt/hawtio-wildfly@1.4.54?type=war
+- pkg:maven/io.hawt/hawtio-wildfly@1.4.55?type=war
+- pkg:maven/io.hawt/hawtio-wildfly@1.4.56?type=war
+- pkg:maven/io.hawt/hawtio-wildfly@1.4.57?type=war
+- pkg:maven/io.hawt/hawtio-wildfly@1.4.58?type=war
+- pkg:maven/io.hawt/hawtio-wildfly@2.0.0?type=war

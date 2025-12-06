@@ -1,0 +1,2 @@
+- pkg:maven/com.rockerhieu.rvadapter/library@1.0?classifier=sources
+- pkg:maven/com.rockerhieu.rvadapter/library@1.0?type=aar

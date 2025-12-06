@@ -1,0 +1,6 @@
+- pkg:maven/org.appverse.web.tools.codegenerator/appverse-web-tools-code-generator@1.4-RELEASE
+- pkg:maven/org.appverse.web.tools.codegenerator/appverse-web-tools-code-generator@1.4-RELEASE?classifier=sources
+- pkg:maven/org.appverse.web.tools.codegenerator/appverse-web-tools-code-generator@1.5.3-RELEASE
+- pkg:maven/org.appverse.web.tools.codegenerator/appverse-web-tools-code-generator@1.5.3-RELEASE?classifier=sources
+- pkg:maven/org.appverse.web.tools.codegenerator/appverse-web-tools-code-generator@1.5.4-RELEASE
+- pkg:maven/org.appverse.web.tools.codegenerator/appverse-web-tools-code-generator@1.5.4-RELEASE?classifier=sources

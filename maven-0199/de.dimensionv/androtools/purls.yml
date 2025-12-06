@@ -1,0 +1,12 @@
+- pkg:maven/de.dimensionv/androtools@1.0.0?classifier=sources
+- pkg:maven/de.dimensionv/androtools@1.0.0?type=aar
+- pkg:maven/de.dimensionv/androtools@1.0.1?classifier=sources
+- pkg:maven/de.dimensionv/androtools@1.0.1?type=aar
+- pkg:maven/de.dimensionv/androtools@1.1.0?classifier=sources
+- pkg:maven/de.dimensionv/androtools@1.1.0?type=aar
+- pkg:maven/de.dimensionv/androtools@1.1.1?classifier=sources
+- pkg:maven/de.dimensionv/androtools@1.1.1?type=aar
+- pkg:maven/de.dimensionv/androtools@2.0.0?classifier=sources
+- pkg:maven/de.dimensionv/androtools@2.0.0?type=aar
+- pkg:maven/de.dimensionv/androtools@2.0.1?classifier=sources
+- pkg:maven/de.dimensionv/androtools@2.0.1?type=aar

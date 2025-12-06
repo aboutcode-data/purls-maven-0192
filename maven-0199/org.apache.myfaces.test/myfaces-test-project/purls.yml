@@ -5,3 +5,4 @@
 - pkg:maven/org.apache.myfaces.test/myfaces-test-project@1.0.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.test/myfaces-test-project@1.0.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.myfaces.test/myfaces-test-project@1.0.6?classifier=source-release&type=zip
+- pkg:maven/org.apache.myfaces.test/myfaces-test-project@1.0.7?classifier=source-release&type=zip

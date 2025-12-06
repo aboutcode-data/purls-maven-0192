@@ -1,0 +1,2 @@
+- pkg:maven/nz.net.osnz.common/default-property-initializer@1.1
+- pkg:maven/nz.net.osnz.common/default-property-initializer@1.1?classifier=sources

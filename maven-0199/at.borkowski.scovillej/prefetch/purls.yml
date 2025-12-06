@@ -1,0 +1,2 @@
+- pkg:maven/at.borkowski.scovillej/prefetch@0.0.3
+- pkg:maven/at.borkowski.scovillej/prefetch@0.0.3?classifier=sources

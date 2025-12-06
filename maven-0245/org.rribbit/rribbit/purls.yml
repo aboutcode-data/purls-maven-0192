@@ -6,3 +6,5 @@
 - pkg:maven/org.rribbit/rribbit@2.6.0?classifier=sources
 - pkg:maven/org.rribbit/rribbit@2.7.0
 - pkg:maven/org.rribbit/rribbit@2.7.0?classifier=sources
+- pkg:maven/org.rribbit/rribbit@3.0.0
+- pkg:maven/org.rribbit/rribbit@3.0.0?classifier=sources

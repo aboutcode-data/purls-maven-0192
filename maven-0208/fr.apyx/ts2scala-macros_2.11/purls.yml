@@ -1,0 +1,2 @@
+- pkg:maven/fr.apyx/ts2scala-macros_2.11@0.3.0
+- pkg:maven/fr.apyx/ts2scala-macros_2.11@0.3.0?classifier=sources

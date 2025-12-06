@@ -1,0 +1,2 @@
+- pkg:maven/io.github.morgaroth/metrics-statsd-support_2.10@1.5.0
+- pkg:maven/io.github.morgaroth/metrics-statsd-support_2.10@1.5.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/fr.sertelon.akr/android-keystore-recovery@1.4.0
+- pkg:maven/fr.sertelon.akr/android-keystore-recovery@1.4.0?classifier=sources

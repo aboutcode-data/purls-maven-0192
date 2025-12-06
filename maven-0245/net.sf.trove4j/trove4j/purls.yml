@@ -1,5 +1,9 @@
 - pkg:maven/net.sf.trove4j/trove4j@2.0.2
 - pkg:maven/net.sf.trove4j/trove4j@2.0.2?classifier=sources
+- pkg:maven/net.sf.trove4j/trove4j@2.0.4
+- pkg:maven/net.sf.trove4j/trove4j@2.0.4?classifier=sources
+- pkg:maven/net.sf.trove4j/trove4j@2.1.0
+- pkg:maven/net.sf.trove4j/trove4j@2.1.0?classifier=sources
 - pkg:maven/net.sf.trove4j/trove4j@3.0.1
 - pkg:maven/net.sf.trove4j/trove4j@3.0.1?classifier=sources
 - pkg:maven/net.sf.trove4j/trove4j@3.0.2

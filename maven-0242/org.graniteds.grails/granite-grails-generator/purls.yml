@@ -1,0 +1,2 @@
+- pkg:maven/org.graniteds.grails/granite-grails-generator@2.0.0.GA
+- pkg:maven/org.graniteds.grails/granite-grails-generator@2.0.0.GA?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/form-data@0.1.4
+- pkg:maven/org.webjars.npm/form-data@0.1.4?classifier=sources
+- pkg:maven/org.webjars.npm/form-data@1.0.0-rc3
+- pkg:maven/org.webjars.npm/form-data@1.0.0-rc3?classifier=sources

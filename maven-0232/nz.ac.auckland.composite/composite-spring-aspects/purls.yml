@@ -1,2 +1,3 @@
 - pkg:maven/nz.ac.auckland.composite/composite-spring-aspects@5.2
 - pkg:maven/nz.ac.auckland.composite/composite-spring-aspects@5.3
+- pkg:maven/nz.ac.auckland.composite/composite-spring-aspects@6.1

@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.maven.plugin-testing/maven-plugin-testing@2.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.plugin-testing/maven-plugin-testing@3.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.plugin-testing/maven-plugin-testing@3.1.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.plugin-testing/maven-plugin-testing@3.2.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.plugin-testing/maven-plugin-testing@3.3.0?classifier=source-release&type=zip

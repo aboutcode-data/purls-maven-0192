@@ -1,0 +1,8 @@
+- pkg:maven/io.apiman/apiman-manager-api-war-jetty8@1.0.0.Beta1?classifier=sources
+- pkg:maven/io.apiman/apiman-manager-api-war-jetty8@1.0.0.Beta1?type=war
+- pkg:maven/io.apiman/apiman-manager-api-war-jetty8@1.0.0.Beta2?type=war
+- pkg:maven/io.apiman/apiman-manager-api-war-jetty8@1.0.0.Final?type=war
+- pkg:maven/io.apiman/apiman-manager-api-war-jetty8@1.0.1.Final?type=war
+- pkg:maven/io.apiman/apiman-manager-api-war-jetty8@1.0.2.Final?type=war
+- pkg:maven/io.apiman/apiman-manager-api-war-jetty8@1.0.3.Final?type=war
+- pkg:maven/io.apiman/apiman-manager-api-war-jetty8@1.1.0.RC1?type=war

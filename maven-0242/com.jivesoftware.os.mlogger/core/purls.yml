@@ -1,0 +1,2 @@
+- pkg:maven/com.jivesoftware.os.mlogger/core@0.14
+- pkg:maven/com.jivesoftware.os.mlogger/core@0.14?classifier=sources

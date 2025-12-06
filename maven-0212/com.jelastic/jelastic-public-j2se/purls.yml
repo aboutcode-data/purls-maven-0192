@@ -1,0 +1,12 @@
+- pkg:maven/com.jelastic/jelastic-public-j2se@2.2
+- pkg:maven/com.jelastic/jelastic-public-j2se@2.2?classifier=sources
+- pkg:maven/com.jelastic/jelastic-public-j2se@2.5
+- pkg:maven/com.jelastic/jelastic-public-j2se@2.5?classifier=sources
+- pkg:maven/com.jelastic/jelastic-public-j2se@3.1
+- pkg:maven/com.jelastic/jelastic-public-j2se@3.1?classifier=sources
+- pkg:maven/com.jelastic/jelastic-public-j2se@3.3
+- pkg:maven/com.jelastic/jelastic-public-j2se@3.3.1
+- pkg:maven/com.jelastic/jelastic-public-j2se@3.3.1?classifier=sources
+- pkg:maven/com.jelastic/jelastic-public-j2se@3.3?classifier=sources
+- pkg:maven/com.jelastic/jelastic-public-j2se@4.0
+- pkg:maven/com.jelastic/jelastic-public-j2se@4.0?classifier=sources

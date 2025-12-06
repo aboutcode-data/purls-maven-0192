@@ -1,0 +1,2 @@
+- pkg:maven/tech.anima/jackson-datatype-tinytypes@1.1.0
+- pkg:maven/tech.anima/jackson-datatype-tinytypes@1.1.0?classifier=sources

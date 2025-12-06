@@ -1,0 +1,6 @@
+- pkg:maven/info.freelibrary/freelib-resources@0.0.8
+- pkg:maven/info.freelibrary/freelib-resources@0.0.8?classifier=sources
+- pkg:maven/info.freelibrary/freelib-resources@0.0.9
+- pkg:maven/info.freelibrary/freelib-resources@0.0.9?classifier=sources
+- pkg:maven/info.freelibrary/freelib-resources@0.1.0
+- pkg:maven/info.freelibrary/freelib-resources@0.1.0?classifier=sources

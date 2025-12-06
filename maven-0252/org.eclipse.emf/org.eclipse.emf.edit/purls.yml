@@ -1,0 +1,8 @@
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.edit@2.10.1
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.edit@2.10.1-v20140901-1055
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.edit@2.10.1-v20140901-1055?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.edit@2.10.1-v20150123-0452
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.edit@2.10.1-v20150123-0452?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.edit@2.10.1?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.edit@2.11.0-v20150123-0357
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.edit@2.11.0-v20150123-0357?classifier=sources

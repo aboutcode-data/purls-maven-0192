@@ -1,1 +1,4 @@
 - pkg:maven/org.ow2.petals/petals-jmx-commons@1.6.1?classifier=sources
+- pkg:maven/org.ow2.petals/petals-jmx-commons@1.6.2
+- pkg:maven/org.ow2.petals/petals-jmx-commons@1.6.2?classifier=source-release&type=zip
+- pkg:maven/org.ow2.petals/petals-jmx-commons@1.6.2?classifier=sources

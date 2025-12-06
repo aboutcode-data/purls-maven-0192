@@ -1,0 +1,4 @@
+- pkg:maven/org.siqisource/stone-sdk@1.0.4?classifier=sources
+- pkg:maven/org.siqisource/stone-sdk@1.0.4?type=war
+- pkg:maven/org.siqisource/stone-sdk@1.0.4a?classifier=sources
+- pkg:maven/org.siqisource/stone-sdk@1.0.4a?type=war

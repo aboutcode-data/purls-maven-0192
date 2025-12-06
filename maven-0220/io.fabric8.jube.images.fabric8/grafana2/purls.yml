@@ -1,0 +1,11 @@
+- pkg:maven/io.fabric8.jube.images.fabric8/grafana2@2.2.10
+- pkg:maven/io.fabric8.jube.images.fabric8/grafana2@2.2.11
+- pkg:maven/io.fabric8.jube.images.fabric8/grafana2@2.2.12
+- pkg:maven/io.fabric8.jube.images.fabric8/grafana2@2.2.14
+- pkg:maven/io.fabric8.jube.images.fabric8/grafana2@2.2.15.1
+- pkg:maven/io.fabric8.jube.images.fabric8/grafana2@2.2.16
+- pkg:maven/io.fabric8.jube.images.fabric8/grafana2@2.2.17
+- pkg:maven/io.fabric8.jube.images.fabric8/grafana2@2.2.18
+- pkg:maven/io.fabric8.jube.images.fabric8/grafana2@2.2.19
+- pkg:maven/io.fabric8.jube.images.fabric8/grafana2@2.2.23.1
+- pkg:maven/io.fabric8.jube.images.fabric8/grafana2@2.2.9.1

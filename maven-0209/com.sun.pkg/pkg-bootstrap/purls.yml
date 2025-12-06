@@ -32,4 +32,6 @@
 - pkg:maven/com.sun.pkg/pkg-bootstrap@1.122-55.2842?classifier=sources
 - pkg:maven/com.sun.pkg/pkg-bootstrap@1.122-56.2852
 - pkg:maven/com.sun.pkg/pkg-bootstrap@1.122-56.2852?classifier=sources
+- pkg:maven/com.sun.pkg/pkg-bootstrap@1.122-57.2889
+- pkg:maven/com.sun.pkg/pkg-bootstrap@1.122-57.2889?classifier=sources
 - pkg:maven/com.sun.pkg/pkg-bootstrap@1.129-44.2634

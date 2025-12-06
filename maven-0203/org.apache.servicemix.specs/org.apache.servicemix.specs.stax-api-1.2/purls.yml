@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.stax-api-1.2@2.3.0?classifier=sources
 - pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.stax-api-1.2@2.4.0
 - pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.stax-api-1.2@2.4.0?classifier=sources
+- pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.stax-api-1.2@2.5.0
+- pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.stax-api-1.2@2.5.0?classifier=sources

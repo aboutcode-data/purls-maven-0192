@@ -1,0 +1,2 @@
+- pkg:maven/com.github.fracpete/graphviz-treevisualize-weka-package@2014.8.1
+- pkg:maven/com.github.fracpete/graphviz-treevisualize-weka-package@2014.8.1?classifier=sources

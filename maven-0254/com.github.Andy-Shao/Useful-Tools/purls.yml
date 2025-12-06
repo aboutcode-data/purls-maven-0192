@@ -1,0 +1,10 @@
+- pkg:maven/com.github.Andy-Shao/Useful-Tools@1.0
+- pkg:maven/com.github.Andy-Shao/Useful-Tools@1.0?classifier=sources
+- pkg:maven/com.github.Andy-Shao/Useful-Tools@1.1
+- pkg:maven/com.github.Andy-Shao/Useful-Tools@1.1?classifier=sources
+- pkg:maven/com.github.Andy-Shao/Useful-Tools@2.0
+- pkg:maven/com.github.Andy-Shao/Useful-Tools@2.0?classifier=sources
+- pkg:maven/com.github.Andy-Shao/Useful-Tools@3.0
+- pkg:maven/com.github.Andy-Shao/Useful-Tools@3.0?classifier=sources
+- pkg:maven/com.github.Andy-Shao/Useful-Tools@4.0
+- pkg:maven/com.github.Andy-Shao/Useful-Tools@4.0?classifier=sources

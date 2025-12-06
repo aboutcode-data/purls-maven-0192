@@ -1,0 +1,2 @@
+- pkg:maven/de.is24.common/appmon4j-metrics@1.59
+- pkg:maven/de.is24.common/appmon4j-metrics@1.59?classifier=sources

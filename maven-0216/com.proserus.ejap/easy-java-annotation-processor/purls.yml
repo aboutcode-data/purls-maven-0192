@@ -1,0 +1,2 @@
+- pkg:maven/com.proserus.ejap/easy-java-annotation-processor@0.3
+- pkg:maven/com.proserus.ejap/easy-java-annotation-processor@0.3?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/net.kemitix/kxssh@0.1.1-RELEASE
+- pkg:maven/net.kemitix/kxssh@0.1.1-RELEASE?classifier=sources
+- pkg:maven/net.kemitix/kxssh@0.2.0-RELEASE
+- pkg:maven/net.kemitix/kxssh@0.2.0-RELEASE?classifier=sources
+- pkg:maven/net.kemitix/kxssh@0.2.1
+- pkg:maven/net.kemitix/kxssh@0.2.1?classifier=sources
+- pkg:maven/net.kemitix/kxssh@0.2.2
+- pkg:maven/net.kemitix/kxssh@0.2.2?classifier=sources

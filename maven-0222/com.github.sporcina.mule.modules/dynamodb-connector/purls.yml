@@ -1,0 +1,1 @@
+- pkg:maven/com.github.sporcina.mule.modules/dynamodb-connector@1.0?classifier=sources

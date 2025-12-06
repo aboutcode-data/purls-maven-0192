@@ -1,0 +1,4 @@
+- pkg:maven/com.eowise/gradle-imagemagick@0.3.0
+- pkg:maven/com.eowise/gradle-imagemagick@0.3.0?classifier=sources
+- pkg:maven/com.eowise/gradle-imagemagick@0.4.0
+- pkg:maven/com.eowise/gradle-imagemagick@0.4.0?classifier=sources

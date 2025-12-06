@@ -22,6 +22,11 @@
 - pkg:maven/com.sun.jersey.archetypes/jersey-quickstart-grizzly2@1.17.1
 - pkg:maven/com.sun.jersey.archetypes/jersey-quickstart-grizzly2@1.18
 - pkg:maven/com.sun.jersey.archetypes/jersey-quickstart-grizzly2@1.18.1
+- pkg:maven/com.sun.jersey.archetypes/jersey-quickstart-grizzly2@1.18.2
+- pkg:maven/com.sun.jersey.archetypes/jersey-quickstart-grizzly2@1.18.3
+- pkg:maven/com.sun.jersey.archetypes/jersey-quickstart-grizzly2@1.18.4
+- pkg:maven/com.sun.jersey.archetypes/jersey-quickstart-grizzly2@1.18.4?classifier=sources
+- pkg:maven/com.sun.jersey.archetypes/jersey-quickstart-grizzly2@1.19
 - pkg:maven/com.sun.jersey.archetypes/jersey-quickstart-grizzly2@1.7
 - pkg:maven/com.sun.jersey.archetypes/jersey-quickstart-grizzly2@1.7-ea05
 - pkg:maven/com.sun.jersey.archetypes/jersey-quickstart-grizzly2@1.7-ea06

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.levkhomich/akka-tracing-play_2.10@0.4
+- pkg:maven/com.github.levkhomich/akka-tracing-play_2.10@0.4?classifier=sources

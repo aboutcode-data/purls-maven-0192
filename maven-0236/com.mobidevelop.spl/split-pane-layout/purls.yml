@@ -1,0 +1,2 @@
+- pkg:maven/com.mobidevelop.spl/split-pane-layout@1.0.0?classifier=sources
+- pkg:maven/com.mobidevelop.spl/split-pane-layout@1.0.0?type=aar

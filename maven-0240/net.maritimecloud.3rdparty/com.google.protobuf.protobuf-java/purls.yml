@@ -1,0 +1,2 @@
+- pkg:maven/net.maritimecloud.3rdparty/com.google.protobuf.protobuf-java@2.6.0
+- pkg:maven/net.maritimecloud.3rdparty/com.google.protobuf.protobuf-java@2.6.0?classifier=sources

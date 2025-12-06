@@ -1,0 +1,2 @@
+- pkg:maven/com.apm4all.tracy/tracy-publisher@0.0-alpha
+- pkg:maven/com.apm4all.tracy/tracy-publisher@0.0-alpha?classifier=sources

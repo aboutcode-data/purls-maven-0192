@@ -1,0 +1,6 @@
+- pkg:maven/org.jboss.weld.se/weld-se-tests@2.3.1.Final
+- pkg:maven/org.jboss.weld.se/weld-se-tests@2.3.1.Final?classifier=sources
+- pkg:maven/org.jboss.weld.se/weld-se-tests@3.0.0.Alpha13
+- pkg:maven/org.jboss.weld.se/weld-se-tests@3.0.0.Alpha13?classifier=sources
+- pkg:maven/org.jboss.weld.se/weld-se-tests@3.0.0.Alpha14
+- pkg:maven/org.jboss.weld.se/weld-se-tests@3.0.0.Alpha14?classifier=sources

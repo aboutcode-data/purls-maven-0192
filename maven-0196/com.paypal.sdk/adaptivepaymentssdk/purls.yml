@@ -12,3 +12,7 @@
 - pkg:maven/com.paypal.sdk/adaptivepaymentssdk@2.5.106?classifier=sources
 - pkg:maven/com.paypal.sdk/adaptivepaymentssdk@2.6.110
 - pkg:maven/com.paypal.sdk/adaptivepaymentssdk@2.6.110?classifier=sources
+- pkg:maven/com.paypal.sdk/adaptivepaymentssdk@2.7.117
+- pkg:maven/com.paypal.sdk/adaptivepaymentssdk@2.7.117?classifier=sources
+- pkg:maven/com.paypal.sdk/adaptivepaymentssdk@2.8.117
+- pkg:maven/com.paypal.sdk/adaptivepaymentssdk@2.8.117?classifier=sources

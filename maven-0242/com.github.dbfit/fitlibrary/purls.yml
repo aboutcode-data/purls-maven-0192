@@ -1,0 +1,2 @@
+- pkg:maven/com.github.dbfit/fitlibrary@20091020
+- pkg:maven/com.github.dbfit/fitlibrary@20091020?classifier=sources

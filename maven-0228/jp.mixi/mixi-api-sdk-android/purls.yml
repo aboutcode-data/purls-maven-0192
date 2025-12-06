@@ -1,0 +1,4 @@
+- pkg:maven/jp.mixi/mixi-api-sdk-android@1.0.0?classifier=sources
+- pkg:maven/jp.mixi/mixi-api-sdk-android@1.0.0?type=aar
+- pkg:maven/jp.mixi/mixi-api-sdk-android@1.8.0?classifier=sources
+- pkg:maven/jp.mixi/mixi-api-sdk-android@1.8.0?type=aar

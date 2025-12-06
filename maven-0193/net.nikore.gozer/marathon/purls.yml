@@ -1,0 +1,2 @@
+- pkg:maven/net.nikore.gozer/marathon@1.0.0
+- pkg:maven/net.nikore.gozer/marathon@1.0.0?classifier=sources

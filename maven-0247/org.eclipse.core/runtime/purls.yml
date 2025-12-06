@@ -1,3 +1,5 @@
+- pkg:maven/org.eclipse.core/runtime@3.10.0-v20140318-2214
+- pkg:maven/org.eclipse.core/runtime@3.10.0-v20140318-2214?classifier=sources
 - pkg:maven/org.eclipse.core/runtime@3.2.0-v20060603
 - pkg:maven/org.eclipse.core/runtime@3.3.100-v20070530
 - pkg:maven/org.eclipse.core/runtime@3.9.0-v20130326-1255

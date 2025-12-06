@@ -1,0 +1,2 @@
+- pkg:maven/com.atlassian.amps/test-codegen-jar-classes@5.0.18
+- pkg:maven/com.atlassian.amps/test-codegen-jar-classes@5.0.18?classifier=sources

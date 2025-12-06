@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-js/scalajs-dom_sjs0.6.0-M1_2.10@0.7.0
+- pkg:maven/org.scala-js/scalajs-dom_sjs0.6.0-M1_2.10@0.7.0?classifier=sources

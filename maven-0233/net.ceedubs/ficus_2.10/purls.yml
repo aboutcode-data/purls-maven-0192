@@ -24,3 +24,5 @@
 - pkg:maven/net.ceedubs/ficus_2.10@1.0.0-M5
 - pkg:maven/net.ceedubs/ficus_2.10@1.0.0-M5?classifier=sources
 - pkg:maven/net.ceedubs/ficus_2.10@1.0.0?classifier=sources
+- pkg:maven/net.ceedubs/ficus_2.10@1.0.1
+- pkg:maven/net.ceedubs/ficus_2.10@1.0.1?classifier=sources

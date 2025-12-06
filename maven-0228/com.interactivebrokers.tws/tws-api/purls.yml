@@ -1,0 +1,2 @@
+- pkg:maven/com.interactivebrokers.tws/tws-api@9.72.05
+- pkg:maven/com.interactivebrokers.tws/tws-api@9.72.05?classifier=sources

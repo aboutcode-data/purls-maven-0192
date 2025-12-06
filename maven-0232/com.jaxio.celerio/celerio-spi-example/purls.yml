@@ -1,0 +1,2 @@
+- pkg:maven/com.jaxio.celerio/celerio-spi-example@4.0.2
+- pkg:maven/com.jaxio.celerio/celerio-spi-example@4.0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.bedework/bw-caldav-util@4.0.2
+- pkg:maven/org.bedework/bw-caldav-util@4.0.2?classifier=sources

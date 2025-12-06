@@ -1,0 +1,2 @@
+- pkg:maven/net.boeckling/crc-64@1.0.0
+- pkg:maven/net.boeckling/crc-64@1.0.0?classifier=sources

@@ -28,5 +28,7 @@
 - pkg:maven/com.btaz.util/data-util@0.3.23?classifier=sources
 - pkg:maven/com.btaz.util/data-util@0.3.24
 - pkg:maven/com.btaz.util/data-util@0.3.24?classifier=sources
+- pkg:maven/com.btaz.util/data-util@0.3.25
+- pkg:maven/com.btaz.util/data-util@0.3.25?classifier=sources
 - pkg:maven/com.btaz.util/data-util@0.3.9
 - pkg:maven/com.btaz.util/data-util@0.3.9?classifier=sources

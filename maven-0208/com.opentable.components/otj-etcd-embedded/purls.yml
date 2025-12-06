@@ -1,0 +1,6 @@
+- pkg:maven/com.opentable.components/otj-etcd-embedded@0.4.6-OT-2
+- pkg:maven/com.opentable.components/otj-etcd-embedded@0.4.6-OT-2?classifier=sources
+- pkg:maven/com.opentable.components/otj-etcd-embedded@0.4.6-OT-3
+- pkg:maven/com.opentable.components/otj-etcd-embedded@0.4.6-OT-3?classifier=sources
+- pkg:maven/com.opentable.components/otj-etcd-embedded@2.0.0-RC1-OT-1
+- pkg:maven/com.opentable.components/otj-etcd-embedded@2.0.0-RC1-OT-1?classifier=sources

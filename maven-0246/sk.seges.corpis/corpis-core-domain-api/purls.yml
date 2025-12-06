@@ -2,3 +2,5 @@
 - pkg:maven/sk.seges.corpis/corpis-core-domain-api@1.2.1?classifier=sources
 - pkg:maven/sk.seges.corpis/corpis-core-domain-api@1.2.2
 - pkg:maven/sk.seges.corpis/corpis-core-domain-api@1.2.2?classifier=sources
+- pkg:maven/sk.seges.corpis/corpis-core-domain-api@2.0.0
+- pkg:maven/sk.seges.corpis/corpis-core-domain-api@2.0.0?classifier=sources

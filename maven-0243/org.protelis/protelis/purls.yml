@@ -1,0 +1,8 @@
+- pkg:maven/org.protelis/protelis@4.0.0
+- pkg:maven/org.protelis/protelis@4.0.0?classifier=sources
+- pkg:maven/org.protelis/protelis@4.0.1
+- pkg:maven/org.protelis/protelis@4.0.1?classifier=sources
+- pkg:maven/org.protelis/protelis@5.0.0
+- pkg:maven/org.protelis/protelis@5.0.0?classifier=sources
+- pkg:maven/org.protelis/protelis@6.0.0
+- pkg:maven/org.protelis/protelis@6.0.0?classifier=sources

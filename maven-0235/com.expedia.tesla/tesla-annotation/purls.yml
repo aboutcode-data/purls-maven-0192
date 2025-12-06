@@ -1,0 +1,2 @@
+- pkg:maven/com.expedia.tesla/tesla-annotation@4.0
+- pkg:maven/com.expedia.tesla/tesla-annotation@4.0?classifier=sources

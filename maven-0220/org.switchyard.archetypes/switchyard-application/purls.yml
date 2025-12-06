@@ -10,3 +10,11 @@
 - pkg:maven/org.switchyard.archetypes/switchyard-application@1.1.0.CR1?classifier=sources
 - pkg:maven/org.switchyard.archetypes/switchyard-application@1.1.0.Final?classifier=sources
 - pkg:maven/org.switchyard.archetypes/switchyard-application@1.1.0.M4?classifier=sources
+- pkg:maven/org.switchyard.archetypes/switchyard-application@2.0.0.Alpha1?classifier=sources
+- pkg:maven/org.switchyard.archetypes/switchyard-application@2.0.0.Alpha2?classifier=sources
+- pkg:maven/org.switchyard.archetypes/switchyard-application@2.0.0.Alpha3?classifier=sources
+- pkg:maven/org.switchyard.archetypes/switchyard-application@2.0.0.Beta1?classifier=sources
+- pkg:maven/org.switchyard.archetypes/switchyard-application@2.0.0.CR1?classifier=sources
+- pkg:maven/org.switchyard.archetypes/switchyard-application@2.0.0.Final?classifier=sources
+- pkg:maven/org.switchyard.archetypes/switchyard-application@2.0.1.redhat-620133?classifier=sources
+- pkg:maven/org.switchyard.archetypes/switchyard-application@2.0.1.redhat-621084?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.zalando.stups.org.jolokia/docker-maven-plugin@0.13.3-zal-1
+- pkg:maven/org.zalando.stups.org.jolokia/docker-maven-plugin@0.13.3-zal-1?classifier=sources
+- pkg:maven/org.zalando.stups.org.jolokia/docker-maven-plugin@0.13.4-zal-1
+- pkg:maven/org.zalando.stups.org.jolokia/docker-maven-plugin@0.13.4-zal-1?classifier=sources
+- pkg:maven/org.zalando.stups.org.jolokia/docker-maven-plugin@0.13.7-zal-1
+- pkg:maven/org.zalando.stups.org.jolokia/docker-maven-plugin@0.13.7-zal-1?classifier=sources

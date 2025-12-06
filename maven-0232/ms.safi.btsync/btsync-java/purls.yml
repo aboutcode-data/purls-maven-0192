@@ -1,0 +1,2 @@
+- pkg:maven/ms.safi.btsync/btsync-java@0.1
+- pkg:maven/ms.safi.btsync/btsync-java@0.1?classifier=sources

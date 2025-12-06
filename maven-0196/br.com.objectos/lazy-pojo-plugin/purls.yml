@@ -1,0 +1,2 @@
+- pkg:maven/br.com.objectos/lazy-pojo-plugin@0.3.0
+- pkg:maven/br.com.objectos/lazy-pojo-plugin@0.3.0?classifier=sources

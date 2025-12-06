@@ -1,0 +1,1 @@
+- pkg:maven/io.astefanutti.camel.cdi/web-jetty@1.1.0?type=war

@@ -96,3 +96,17 @@
 - pkg:maven/org.elasticsearch/elasticsearch-transport-thrift@2.0.0.RC2?type=zip
 - pkg:maven/org.elasticsearch/elasticsearch-transport-thrift@2.0.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-transport-thrift@2.0.0?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-transport-thrift@2.2.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-transport-thrift@2.2.0?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-transport-thrift@2.3.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-transport-thrift@2.3.0?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-transport-thrift@2.4.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-transport-thrift@2.4.0?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-transport-thrift@2.4.1?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-transport-thrift@2.4.1?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-transport-thrift@2.5.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-transport-thrift@2.5.0?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-transport-thrift@2.6.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-transport-thrift@2.6.0?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-transport-thrift@2.7.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-transport-thrift@2.7.0?type=zip

@@ -1,0 +1,8 @@
+- pkg:maven/com.helger/ph-schematron-validator@2.8.0
+- pkg:maven/com.helger/ph-schematron-validator@2.8.0?classifier=sources
+- pkg:maven/com.helger/ph-schematron-validator@2.8.1
+- pkg:maven/com.helger/ph-schematron-validator@2.8.1?classifier=sources
+- pkg:maven/com.helger/ph-schematron-validator@3.0.0
+- pkg:maven/com.helger/ph-schematron-validator@3.0.0?classifier=sources
+- pkg:maven/com.helger/ph-schematron-validator@3.0.1
+- pkg:maven/com.helger/ph-schematron-validator@3.0.1?classifier=sources

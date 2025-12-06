@@ -1,0 +1,2 @@
+- pkg:maven/name.wramner.log4j/FlushAppender@1.0
+- pkg:maven/name.wramner.log4j/FlushAppender@1.0?classifier=sources

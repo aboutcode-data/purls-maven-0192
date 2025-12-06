@@ -1,0 +1,2 @@
+- pkg:maven/io.wcm/io.wcm.testing.sling-mock-resolvertype.jackrabbit@1.0.0
+- pkg:maven/io.wcm/io.wcm.testing.sling-mock-resolvertype.jackrabbit@1.0.0?classifier=sources

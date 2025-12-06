@@ -1,0 +1,2 @@
+- pkg:maven/org.spark-project.zeromq/zeromq-scala-binding_2.10@0.0.7-spark
+- pkg:maven/org.spark-project.zeromq/zeromq-scala-binding_2.10@0.0.7-spark?classifier=sources

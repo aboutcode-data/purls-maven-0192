@@ -1,0 +1,2 @@
+- pkg:maven/com.graphaware.neo4j/neo4j-graphaware-runtime-module-maven-archetype@2.0.3.4
+- pkg:maven/com.graphaware.neo4j/neo4j-graphaware-runtime-module-maven-archetype@2.0.3.4?classifier=sources

@@ -26,3 +26,4 @@
 - pkg:maven/org.appfuse/appfuse-service@2.2?classifier=sources
 - pkg:maven/org.appfuse/appfuse-service@3.0.0
 - pkg:maven/org.appfuse/appfuse-service@3.0.0?classifier=sources
+- pkg:maven/org.appfuse/appfuse-service@3.5.0

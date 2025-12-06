@@ -1,0 +1,4 @@
+- pkg:maven/ar.com.crypticmind/scala-swagger-modelgen_2.11@0.1
+- pkg:maven/ar.com.crypticmind/scala-swagger-modelgen_2.11@0.1?classifier=sources
+- pkg:maven/ar.com.crypticmind/scala-swagger-modelgen_2.11@0.2
+- pkg:maven/ar.com.crypticmind/scala-swagger-modelgen_2.11@0.2?classifier=sources

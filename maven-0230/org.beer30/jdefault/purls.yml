@@ -1,2 +1,4 @@
 - pkg:maven/org.beer30/jdefault@1.0.0
 - pkg:maven/org.beer30/jdefault@1.0.0?classifier=sources
+- pkg:maven/org.beer30/jdefault@2.0.0
+- pkg:maven/org.beer30/jdefault@2.0.0?classifier=sources

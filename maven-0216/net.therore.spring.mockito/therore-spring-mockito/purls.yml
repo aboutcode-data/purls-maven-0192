@@ -1,0 +1,6 @@
+- pkg:maven/net.therore.spring.mockito/therore-spring-mockito@1.0
+- pkg:maven/net.therore.spring.mockito/therore-spring-mockito@1.0?classifier=sources
+- pkg:maven/net.therore.spring.mockito/therore-spring-mockito@1.1.0
+- pkg:maven/net.therore.spring.mockito/therore-spring-mockito@1.1.0?classifier=sources
+- pkg:maven/net.therore.spring.mockito/therore-spring-mockito@1.2.0
+- pkg:maven/net.therore.spring.mockito/therore-spring-mockito@1.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.testfx/testfx-junit@4.0.1-alpha
+- pkg:maven/org.testfx/testfx-junit@4.0.1-alpha?classifier=sources

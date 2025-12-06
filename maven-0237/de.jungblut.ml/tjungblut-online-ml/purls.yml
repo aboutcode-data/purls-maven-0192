@@ -1,0 +1,2 @@
+- pkg:maven/de.jungblut.ml/tjungblut-online-ml@0.2
+- pkg:maven/de.jungblut.ml/tjungblut-online-ml@0.2?classifier=sources

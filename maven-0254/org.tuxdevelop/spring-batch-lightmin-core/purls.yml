@@ -1,0 +1,2 @@
+- pkg:maven/org.tuxdevelop/spring-batch-lightmin-core@0.1.0
+- pkg:maven/org.tuxdevelop/spring-batch-lightmin-core@0.1.0?classifier=sources

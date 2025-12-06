@@ -1,0 +1,2 @@
+- pkg:maven/com.github.slezier/SequenceDiagramPlugin@0.1
+- pkg:maven/com.github.slezier/SequenceDiagramPlugin@0.1?classifier=sources

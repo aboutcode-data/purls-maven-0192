@@ -1,0 +1,4 @@
+- pkg:maven/org.membrane-soa/service-proxy-core@4.0.99
+- pkg:maven/org.membrane-soa/service-proxy-core@4.0.99?classifier=sources
+- pkg:maven/org.membrane-soa/service-proxy-core@4.1.0
+- pkg:maven/org.membrane-soa/service-proxy-core@4.1.0?classifier=sources

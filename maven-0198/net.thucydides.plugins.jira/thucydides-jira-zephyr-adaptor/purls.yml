@@ -8,3 +8,5 @@
 - pkg:maven/net.thucydides.plugins.jira/thucydides-jira-zephyr-adaptor@0.9.220?classifier=sources
 - pkg:maven/net.thucydides.plugins.jira/thucydides-jira-zephyr-adaptor@0.9.228
 - pkg:maven/net.thucydides.plugins.jira/thucydides-jira-zephyr-adaptor@0.9.228?classifier=sources
+- pkg:maven/net.thucydides.plugins.jira/thucydides-jira-zephyr-adaptor@0.9.244
+- pkg:maven/net.thucydides.plugins.jira/thucydides-jira-zephyr-adaptor@0.9.244?classifier=sources

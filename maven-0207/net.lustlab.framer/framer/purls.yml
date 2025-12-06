@@ -1,0 +1,2 @@
+- pkg:maven/net.lustlab.framer/framer@0.1.7
+- pkg:maven/net.lustlab.framer/framer@0.1.7?classifier=sources

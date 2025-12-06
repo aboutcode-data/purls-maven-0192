@@ -1,0 +1,2 @@
+- pkg:maven/io.apptik.comm/android-log@0.6.0a?classifier=sources
+- pkg:maven/io.apptik.comm/android-log@0.6.0a?type=aar

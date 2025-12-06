@@ -1,0 +1,2 @@
+- pkg:maven/com.otsdc/ots-java-sdk@1.1
+- pkg:maven/com.otsdc/ots-java-sdk@1.1?classifier=sources

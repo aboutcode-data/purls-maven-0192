@@ -1,0 +1,2 @@
+- pkg:maven/com.mediamiser/pull-client@0.0.0
+- pkg:maven/com.mediamiser/pull-client@0.0.0?classifier=sources

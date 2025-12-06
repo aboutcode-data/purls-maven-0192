@@ -1,0 +1,2 @@
+- pkg:maven/com.github.fsbarata/ndktest-gradle-plugin@1.0.0
+- pkg:maven/com.github.fsbarata/ndktest-gradle-plugin@1.0.0?classifier=sources

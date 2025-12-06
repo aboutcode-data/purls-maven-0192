@@ -1,0 +1,4 @@
+- pkg:maven/io.ifar.kafkalog/kafkalog@0
+- pkg:maven/io.ifar.kafkalog/kafkalog@0?classifier=sources
+- pkg:maven/io.ifar.kafkalog/kafkalog@1
+- pkg:maven/io.ifar.kafkalog/kafkalog@1?classifier=sources

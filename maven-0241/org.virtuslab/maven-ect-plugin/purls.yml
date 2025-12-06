@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab/maven-ect-plugin@1.5.3
+- pkg:maven/org.virtuslab/maven-ect-plugin@1.5.3?classifier=sources

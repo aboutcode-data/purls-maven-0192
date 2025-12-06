@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.activemq.examples.soak/artemis-jms-soak-example@1.0.0
+- pkg:maven/org.apache.activemq.examples.soak/artemis-jms-soak-example@1.0.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.soak/artemis-jms-soak-example@1.1.0
+- pkg:maven/org.apache.activemq.examples.soak/artemis-jms-soak-example@1.1.0?classifier=sources

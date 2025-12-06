@@ -1,0 +1,2 @@
+- pkg:maven/com.percolate/caffeine@0.3.3?classifier=sources
+- pkg:maven/com.percolate/caffeine@0.3.3?type=aar

@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.leshan/leshan-client@0.1.10
+- pkg:maven/org.eclipse.leshan/leshan-client@0.1.10?classifier=sources
+- pkg:maven/org.eclipse.leshan/leshan-client@0.1.11-M1
+- pkg:maven/org.eclipse.leshan/leshan-client@0.1.11-M1?classifier=sources

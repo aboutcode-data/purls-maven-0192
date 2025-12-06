@@ -1,0 +1,4 @@
+- pkg:maven/org.mdedetrich/java-premailer-wrapper@1.0_1.8.4
+- pkg:maven/org.mdedetrich/java-premailer-wrapper@1.0_1.8.4?classifier=sources
+- pkg:maven/org.mdedetrich/java-premailer-wrapper@1.1_1.8.4
+- pkg:maven/org.mdedetrich/java-premailer-wrapper@1.1_1.8.4?classifier=sources

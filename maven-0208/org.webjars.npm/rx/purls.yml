@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/rx@2.5.3
+- pkg:maven/org.webjars.npm/rx@2.5.3?classifier=sources
+- pkg:maven/org.webjars.npm/rx@4.0.6
+- pkg:maven/org.webjars.npm/rx@4.0.6?classifier=sources

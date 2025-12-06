@@ -1,0 +1,2 @@
+- pkg:maven/br.ufc.quixada.npi/npi-core-api@0.1.0
+- pkg:maven/br.ufc.quixada.npi/npi-core-api@0.1.0?classifier=sources

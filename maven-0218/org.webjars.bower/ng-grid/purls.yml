@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.bower/ng-grid@2.0.11
+- pkg:maven/org.webjars.bower/ng-grid@2.0.11?classifier=sources
+- pkg:maven/org.webjars.bower/ng-grid@2.0.14
+- pkg:maven/org.webjars.bower/ng-grid@2.0.14?classifier=sources
+- pkg:maven/org.webjars.bower/ng-grid@3.0.7
+- pkg:maven/org.webjars.bower/ng-grid@3.0.7?classifier=sources

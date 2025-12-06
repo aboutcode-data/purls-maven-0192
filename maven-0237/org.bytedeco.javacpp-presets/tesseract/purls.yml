@@ -1,0 +1,10 @@
+- pkg:maven/org.bytedeco.javacpp-presets/tesseract@3.03-rc1-0.10
+- pkg:maven/org.bytedeco.javacpp-presets/tesseract@3.03-rc1-0.10?classifier=sources
+- pkg:maven/org.bytedeco.javacpp-presets/tesseract@3.03-rc1-0.11
+- pkg:maven/org.bytedeco.javacpp-presets/tesseract@3.03-rc1-0.11?classifier=sources
+- pkg:maven/org.bytedeco.javacpp-presets/tesseract@3.03-rc1-0.9
+- pkg:maven/org.bytedeco.javacpp-presets/tesseract@3.03-rc1-0.9?classifier=sources
+- pkg:maven/org.bytedeco.javacpp-presets/tesseract@3.03-rc1-1.0
+- pkg:maven/org.bytedeco.javacpp-presets/tesseract@3.03-rc1-1.0?classifier=sources
+- pkg:maven/org.bytedeco.javacpp-presets/tesseract@3.04-1.1
+- pkg:maven/org.bytedeco.javacpp-presets/tesseract@3.04-1.1?classifier=sources

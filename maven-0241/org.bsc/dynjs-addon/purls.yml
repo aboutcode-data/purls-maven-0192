@@ -1,0 +1,8 @@
+- pkg:maven/org.bsc/dynjs-addon@1.0.0
+- pkg:maven/org.bsc/dynjs-addon@1.0.0?classifier=sources
+- pkg:maven/org.bsc/dynjs-addon@2.6.0.Final
+- pkg:maven/org.bsc/dynjs-addon@2.6.0.Final?classifier=sources
+- pkg:maven/org.bsc/dynjs-addon@2.7.2.Final
+- pkg:maven/org.bsc/dynjs-addon@2.7.2.Final?classifier=sources
+- pkg:maven/org.bsc/dynjs-addon@2.8.0.Final
+- pkg:maven/org.bsc/dynjs-addon@2.8.0.Final?classifier=sources

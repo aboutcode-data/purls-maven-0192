@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.jlog/io7m-jlog-core@3.1.0
+- pkg:maven/com.io7m.jlog/io7m-jlog-core@3.1.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/net.thucydides.maven.plugins/thucydides-dashboard-maven-plugin@0.9.220-RC1
 - pkg:maven/net.thucydides.maven.plugins/thucydides-dashboard-maven-plugin@0.9.220-RC1?classifier=sources
 - pkg:maven/net.thucydides.maven.plugins/thucydides-dashboard-maven-plugin@0.9.220?classifier=sources
+- pkg:maven/net.thucydides.maven.plugins/thucydides-dashboard-maven-plugin@0.9.252
+- pkg:maven/net.thucydides.maven.plugins/thucydides-dashboard-maven-plugin@0.9.252?classifier=sources

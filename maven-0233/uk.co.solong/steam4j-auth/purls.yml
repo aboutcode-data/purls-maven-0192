@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.solong/steam4j-auth@2.0.22
+- pkg:maven/uk.co.solong/steam4j-auth@2.0.22?classifier=sources

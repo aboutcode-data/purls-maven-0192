@@ -1,0 +1,4 @@
+- pkg:maven/eu.codlab/mutex_shared@0.9.1?classifier=sources
+- pkg:maven/eu.codlab/mutex_shared@0.9.1?type=aar
+- pkg:maven/eu.codlab/mutex_shared@0.9?classifier=sources
+- pkg:maven/eu.codlab/mutex_shared@0.9?type=aar

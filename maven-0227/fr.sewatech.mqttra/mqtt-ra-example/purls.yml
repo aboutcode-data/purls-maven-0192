@@ -1,0 +1,2 @@
+- pkg:maven/fr.sewatech.mqttra/mqtt-ra-example@1.0.0-alpha?classifier=sources
+- pkg:maven/fr.sewatech.mqttra/mqtt-ra-example@1.0.0-alpha?type=war

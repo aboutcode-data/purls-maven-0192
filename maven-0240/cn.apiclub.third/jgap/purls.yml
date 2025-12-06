@@ -1,0 +1,2 @@
+- pkg:maven/cn.apiclub.third/jgap@3.6.2
+- pkg:maven/cn.apiclub.third/jgap@3.6.2?classifier=sources

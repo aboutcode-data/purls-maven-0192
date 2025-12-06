@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.bower/toaster@0.4.10
+- pkg:maven/org.webjars.bower/toaster@0.4.10?classifier=sources
+- pkg:maven/org.webjars.bower/toaster@0.4.13
+- pkg:maven/org.webjars.bower/toaster@0.4.13?classifier=sources
+- pkg:maven/org.webjars.bower/toaster@0.4.15
+- pkg:maven/org.webjars.bower/toaster@0.4.15?classifier=sources

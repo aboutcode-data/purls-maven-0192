@@ -1,0 +1,4 @@
+- pkg:maven/com.kifile.android.utils/utils@0.1?type=aar
+- pkg:maven/com.kifile.android.utils/utils@0.2?type=aar
+- pkg:maven/com.kifile.android.utils/utils@0.3?type=aar
+- pkg:maven/com.kifile.android.utils/utils@beta?type=aar

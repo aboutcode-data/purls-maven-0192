@@ -2,3 +2,7 @@
 - pkg:maven/org.webjars/tinymce-jquery@4.0.10
 - pkg:maven/org.webjars/tinymce-jquery@4.0.12
 - pkg:maven/org.webjars/tinymce-jquery@4.0.16
+- pkg:maven/org.webjars/tinymce-jquery@4.1.7
+- pkg:maven/org.webjars/tinymce-jquery@4.1.7-1
+- pkg:maven/org.webjars/tinymce-jquery@4.2.6
+- pkg:maven/org.webjars/tinymce-jquery@4.3.1

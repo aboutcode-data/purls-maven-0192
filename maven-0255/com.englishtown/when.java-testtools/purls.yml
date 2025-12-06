@@ -1,2 +1,10 @@
 - pkg:maven/com.englishtown/when.java-testtools@1.0.0
 - pkg:maven/com.englishtown/when.java-testtools@1.0.0?classifier=sources
+- pkg:maven/com.englishtown/when.java-testtools@2.0.0
+- pkg:maven/com.englishtown/when.java-testtools@2.0.0?classifier=sources
+- pkg:maven/com.englishtown/when.java-testtools@3.0.0
+- pkg:maven/com.englishtown/when.java-testtools@3.0.0-RC1
+- pkg:maven/com.englishtown/when.java-testtools@3.0.0-RC1?classifier=sources
+- pkg:maven/com.englishtown/when.java-testtools@3.0.0?classifier=sources
+- pkg:maven/com.englishtown/when.java-testtools@3.0.1
+- pkg:maven/com.englishtown/when.java-testtools@3.0.1?classifier=sources

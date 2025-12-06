@@ -1,0 +1,6 @@
+- pkg:maven/biz.kasual/materialnumberpicker@1.0.0?classifier=sources
+- pkg:maven/biz.kasual/materialnumberpicker@1.0.0?type=aar
+- pkg:maven/biz.kasual/materialnumberpicker@1.1.0?classifier=sources
+- pkg:maven/biz.kasual/materialnumberpicker@1.1.0?type=aar
+- pkg:maven/biz.kasual/materialnumberpicker@1.1.1?classifier=sources
+- pkg:maven/biz.kasual/materialnumberpicker@1.1.1?type=aar

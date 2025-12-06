@@ -1,0 +1,2 @@
+- pkg:maven/io.advantageous.qbit/qbit-kafka@0.9.1.RELEASE
+- pkg:maven/io.advantageous.qbit/qbit-kafka@0.9.1.RELEASE?classifier=sources

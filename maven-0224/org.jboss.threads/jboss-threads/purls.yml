@@ -32,3 +32,14 @@
 - pkg:maven/org.jboss.threads/jboss-threads@2.1.0.Final?classifier=sources
 - pkg:maven/org.jboss.threads/jboss-threads@2.1.1.Final
 - pkg:maven/org.jboss.threads/jboss-threads@2.1.1.Final?classifier=sources
+- pkg:maven/org.jboss.threads/jboss-threads@2.1.2.Final
+- pkg:maven/org.jboss.threads/jboss-threads@2.1.2.Final?classifier=sources
+- pkg:maven/org.jboss.threads/jboss-threads@2.2.0.Beta1
+- pkg:maven/org.jboss.threads/jboss-threads@2.2.0.Beta1?classifier=source-release&type=zip
+- pkg:maven/org.jboss.threads/jboss-threads@2.2.0.Beta1?classifier=sources
+- pkg:maven/org.jboss.threads/jboss-threads@2.2.0.Final
+- pkg:maven/org.jboss.threads/jboss-threads@2.2.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.threads/jboss-threads@2.2.0.Final?classifier=sources
+- pkg:maven/org.jboss.threads/jboss-threads@2.2.1.Final
+- pkg:maven/org.jboss.threads/jboss-threads@2.2.1.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.threads/jboss-threads@2.2.1.Final?classifier=sources

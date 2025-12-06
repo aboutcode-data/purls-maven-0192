@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/react-quill@0.2.2
+- pkg:maven/org.webjars.npm/react-quill@0.2.2?classifier=sources

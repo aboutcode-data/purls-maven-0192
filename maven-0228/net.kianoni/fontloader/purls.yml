@@ -1,0 +1,2 @@
+- pkg:maven/net.kianoni/fontloader@0.3.0?classifier=sources
+- pkg:maven/net.kianoni/fontloader@0.3.0?type=aar

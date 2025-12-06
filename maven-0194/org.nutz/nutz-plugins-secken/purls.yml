@@ -1,0 +1,6 @@
+- pkg:maven/org.nutz/nutz-plugins-secken@1.b.52
+- pkg:maven/org.nutz/nutz-plugins-secken@1.b.52.r2
+- pkg:maven/org.nutz/nutz-plugins-secken@1.b.52.r2?classifier=sources
+- pkg:maven/org.nutz/nutz-plugins-secken@1.b.52?classifier=sources
+- pkg:maven/org.nutz/nutz-plugins-secken@1.b.53
+- pkg:maven/org.nutz/nutz-plugins-secken@1.b.53?classifier=sources

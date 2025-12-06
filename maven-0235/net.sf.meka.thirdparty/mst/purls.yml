@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.meka.thirdparty/mst@4.0
+- pkg:maven/net.sf.meka.thirdparty/mst@4.0?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/ca.ucalgary.ispia/rebac@0.0.3?classifier=sources
 - pkg:maven/ca.ucalgary.ispia/rebac@0.1.2
 - pkg:maven/ca.ucalgary.ispia/rebac@0.1.2?classifier=sources
+- pkg:maven/ca.ucalgary.ispia/rebac@0.1.4
+- pkg:maven/ca.ucalgary.ispia/rebac@0.1.4?classifier=sources
+- pkg:maven/ca.ucalgary.ispia/rebac@0.1.7
+- pkg:maven/ca.ucalgary.ispia/rebac@0.1.7?classifier=sources

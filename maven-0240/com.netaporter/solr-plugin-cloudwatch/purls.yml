@@ -1,0 +1,2 @@
+- pkg:maven/com.netaporter/solr-plugin-cloudwatch@0.1
+- pkg:maven/com.netaporter/solr-plugin-cloudwatch@0.1?classifier=sources

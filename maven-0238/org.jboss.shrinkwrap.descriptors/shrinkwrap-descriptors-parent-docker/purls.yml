@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.shrinkwrap.descriptors/shrinkwrap-descriptors-parent-docker@1.0.0-alpha-1?classifier=source-release&type=zip
+- pkg:maven/org.jboss.shrinkwrap.descriptors/shrinkwrap-descriptors-parent-docker@1.0.0-alpha-2?classifier=source-release&type=zip

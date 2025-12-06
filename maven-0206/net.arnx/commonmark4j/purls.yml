@@ -1,0 +1,2 @@
+- pkg:maven/net.arnx/commonmark4j@0.21.0
+- pkg:maven/net.arnx/commonmark4j@0.21.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.vaadin.addon/vaadin-touchkit-agpl@3.0.0-beta1
 - pkg:maven/com.vaadin.addon/vaadin-touchkit-agpl@3.0.0-beta1?classifier=sources
+- pkg:maven/com.vaadin.addon/vaadin-touchkit-agpl@4.0.0.alpha3?classifier=sources
+- pkg:maven/com.vaadin.addon/vaadin-touchkit-agpl@4.0.0.alpha3?type=zip

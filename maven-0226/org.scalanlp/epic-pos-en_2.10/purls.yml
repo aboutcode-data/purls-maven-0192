@@ -1,0 +1,6 @@
+- pkg:maven/org.scalanlp/epic-pos-en_2.10@0.1
+- pkg:maven/org.scalanlp/epic-pos-en_2.10@0.1?classifier=sources
+- pkg:maven/org.scalanlp/epic-pos-en_2.10@2015.1.25
+- pkg:maven/org.scalanlp/epic-pos-en_2.10@2015.1.25?classifier=sources
+- pkg:maven/org.scalanlp/epic-pos-en_2.10@2015.2.19
+- pkg:maven/org.scalanlp/epic-pos-en_2.10@2015.2.19?classifier=sources

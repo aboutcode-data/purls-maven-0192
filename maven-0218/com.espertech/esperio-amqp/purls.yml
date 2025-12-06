@@ -10,3 +10,11 @@
 - pkg:maven/com.espertech/esperio-amqp@4.8.0?classifier=sources
 - pkg:maven/com.espertech/esperio-amqp@4.9.0
 - pkg:maven/com.espertech/esperio-amqp@4.9.0?classifier=sources
+- pkg:maven/com.espertech/esperio-amqp@5.0.0
+- pkg:maven/com.espertech/esperio-amqp@5.0.0?classifier=sources
+- pkg:maven/com.espertech/esperio-amqp@5.1.0
+- pkg:maven/com.espertech/esperio-amqp@5.1.0?classifier=sources
+- pkg:maven/com.espertech/esperio-amqp@5.2.0
+- pkg:maven/com.espertech/esperio-amqp@5.2.0?classifier=sources
+- pkg:maven/com.espertech/esperio-amqp@5.3.0
+- pkg:maven/com.espertech/esperio-amqp@5.3.0?classifier=sources

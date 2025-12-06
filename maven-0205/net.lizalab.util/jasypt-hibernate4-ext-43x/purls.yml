@@ -1,0 +1,2 @@
+- pkg:maven/net.lizalab.util/jasypt-hibernate4-ext-43x@1.0.0
+- pkg:maven/net.lizalab.util/jasypt-hibernate4-ext-43x@1.0.0?classifier=sources

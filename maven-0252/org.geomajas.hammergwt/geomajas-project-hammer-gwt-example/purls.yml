@@ -1,0 +1,2 @@
+- pkg:maven/org.geomajas.hammergwt/geomajas-project-hammer-gwt-example@1.0.0?classifier=sources
+- pkg:maven/org.geomajas.hammergwt/geomajas-project-hammer-gwt-example@1.0.0?type=war

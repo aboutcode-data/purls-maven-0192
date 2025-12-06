@@ -1,0 +1,4 @@
+- pkg:maven/com.liferay.mobile/liferay-sdk-builder-sample@6.2.0.1
+- pkg:maven/com.liferay.mobile/liferay-sdk-builder-sample@6.2.0.1?classifier=sources
+- pkg:maven/com.liferay.mobile/liferay-sdk-builder-sample@6.2.0.2
+- pkg:maven/com.liferay.mobile/liferay-sdk-builder-sample@6.2.0.2?classifier=sources

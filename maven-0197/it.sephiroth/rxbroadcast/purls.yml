@@ -1,0 +1,2 @@
+- pkg:maven/it.sephiroth/rxbroadcast@0.0.2?classifier=sources
+- pkg:maven/it.sephiroth/rxbroadcast@0.0.2?type=aar

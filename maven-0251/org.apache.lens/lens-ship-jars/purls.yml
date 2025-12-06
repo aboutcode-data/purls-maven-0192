@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.lens/lens-ship-jars@2.4.0-beta
+- pkg:maven/org.apache.lens/lens-ship-jars@2.4.0-beta?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/edu.ucar/jj2000@5.2
+- pkg:maven/edu.ucar/jj2000@5.2?classifier=sources

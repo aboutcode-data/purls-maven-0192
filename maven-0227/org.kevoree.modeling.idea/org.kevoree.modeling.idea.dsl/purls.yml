@@ -1,0 +1,8 @@
+- pkg:maven/org.kevoree.modeling.idea/org.kevoree.modeling.idea.dsl@10
+- pkg:maven/org.kevoree.modeling.idea/org.kevoree.modeling.idea.dsl@10?classifier=sources
+- pkg:maven/org.kevoree.modeling.idea/org.kevoree.modeling.idea.dsl@13
+- pkg:maven/org.kevoree.modeling.idea/org.kevoree.modeling.idea.dsl@13?classifier=sources
+- pkg:maven/org.kevoree.modeling.idea/org.kevoree.modeling.idea.dsl@15
+- pkg:maven/org.kevoree.modeling.idea/org.kevoree.modeling.idea.dsl@15?classifier=sources
+- pkg:maven/org.kevoree.modeling.idea/org.kevoree.modeling.idea.dsl@18
+- pkg:maven/org.kevoree.modeling.idea/org.kevoree.modeling.idea.dsl@18?classifier=sources

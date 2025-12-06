@@ -14,6 +14,10 @@
 - pkg:maven/org.jboss.resteasy.example.oauth/database-service@3.0.0.Final?type=war
 - pkg:maven/org.jboss.resteasy.example.oauth/database-service@3.0.1.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy.example.oauth/database-service@3.0.1.Final?type=war
+- pkg:maven/org.jboss.resteasy.example.oauth/database-service@3.0.10.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy.example.oauth/database-service@3.0.10.Final?type=war
+- pkg:maven/org.jboss.resteasy.example.oauth/database-service@3.0.11.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy.example.oauth/database-service@3.0.11.Final?type=war
 - pkg:maven/org.jboss.resteasy.example.oauth/database-service@3.0.2.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy.example.oauth/database-service@3.0.2.Final?type=war
 - pkg:maven/org.jboss.resteasy.example.oauth/database-service@3.0.3.Final?classifier=sources
@@ -28,3 +32,5 @@
 - pkg:maven/org.jboss.resteasy.example.oauth/database-service@3.0.7.Final?type=war
 - pkg:maven/org.jboss.resteasy.example.oauth/database-service@3.0.8.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy.example.oauth/database-service@3.0.8.Final?type=war
+- pkg:maven/org.jboss.resteasy.example.oauth/database-service@3.0.9.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy.example.oauth/database-service@3.0.9.Final?type=war

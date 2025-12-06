@@ -1,0 +1,2 @@
+- pkg:maven/com.github.fracpete/vfsjfilechooser2@0.2.7
+- pkg:maven/com.github.fracpete/vfsjfilechooser2@0.2.7?classifier=sources

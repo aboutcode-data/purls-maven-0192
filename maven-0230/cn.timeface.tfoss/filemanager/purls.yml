@@ -1,0 +1,4 @@
+- pkg:maven/cn.timeface.tfoss/filemanager@1.0.0?classifier=sources
+- pkg:maven/cn.timeface.tfoss/filemanager@1.0.0?type=aar
+- pkg:maven/cn.timeface.tfoss/filemanager@1.1.0?classifier=sources
+- pkg:maven/cn.timeface.tfoss/filemanager@1.1.0?type=aar

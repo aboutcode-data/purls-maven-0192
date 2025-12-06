@@ -1,0 +1,2 @@
+- pkg:maven/com.mytechia/mytechia_commons_library@1.0.8
+- pkg:maven/com.mytechia/mytechia_commons_library@1.0.8?classifier=sources

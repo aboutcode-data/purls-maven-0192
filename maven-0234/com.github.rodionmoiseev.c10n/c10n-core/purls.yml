@@ -1,0 +1,2 @@
+- pkg:maven/com.github.rodionmoiseev.c10n/c10n-core@1.2
+- pkg:maven/com.github.rodionmoiseev.c10n/c10n-core@1.2?classifier=sources

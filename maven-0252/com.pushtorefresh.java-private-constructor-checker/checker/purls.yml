@@ -1,0 +1,4 @@
+- pkg:maven/com.pushtorefresh.java-private-constructor-checker/checker@1.0.0
+- pkg:maven/com.pushtorefresh.java-private-constructor-checker/checker@1.0.0?classifier=sources
+- pkg:maven/com.pushtorefresh.java-private-constructor-checker/checker@1.1.0
+- pkg:maven/com.pushtorefresh.java-private-constructor-checker/checker@1.1.0?classifier=sources

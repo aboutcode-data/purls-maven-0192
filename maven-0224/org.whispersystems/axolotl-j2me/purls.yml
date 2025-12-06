@@ -1,0 +1,2 @@
+- pkg:maven/org.whispersystems/axolotl-j2me@0.2.0
+- pkg:maven/org.whispersystems/axolotl-j2me@0.2.0?classifier=sources

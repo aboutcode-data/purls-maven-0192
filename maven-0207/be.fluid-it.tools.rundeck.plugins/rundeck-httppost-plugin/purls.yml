@@ -1,0 +1,2 @@
+- pkg:maven/be.fluid-it.tools.rundeck.plugins/rundeck-httppost-plugin@0.1-1
+- pkg:maven/be.fluid-it.tools.rundeck.plugins/rundeck-httppost-plugin@0.1-1?classifier=sources

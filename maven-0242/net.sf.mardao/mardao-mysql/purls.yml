@@ -10,3 +10,5 @@
 - pkg:maven/net.sf.mardao/mardao-mysql@2.3.2?classifier=sources
 - pkg:maven/net.sf.mardao/mardao-mysql@2.3.3
 - pkg:maven/net.sf.mardao/mardao-mysql@2.3.3?classifier=sources
+- pkg:maven/net.sf.mardao/mardao-mysql@2.3.6
+- pkg:maven/net.sf.mardao/mardao-mysql@2.3.6?classifier=sources

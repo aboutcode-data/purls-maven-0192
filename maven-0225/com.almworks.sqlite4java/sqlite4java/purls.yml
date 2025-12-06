@@ -4,3 +4,5 @@
 - pkg:maven/com.almworks.sqlite4java/sqlite4java@0.213?classifier=sources
 - pkg:maven/com.almworks.sqlite4java/sqlite4java@0.282
 - pkg:maven/com.almworks.sqlite4java/sqlite4java@0.282?classifier=sources
+- pkg:maven/com.almworks.sqlite4java/sqlite4java@1.0.392
+- pkg:maven/com.almworks.sqlite4java/sqlite4java@1.0.392?classifier=sources

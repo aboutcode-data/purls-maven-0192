@@ -1,0 +1,2 @@
+- pkg:maven/org.hibernate.ogm/hibernate-ogm-redis@5.0.0.Alpha1
+- pkg:maven/org.hibernate.ogm/hibernate-ogm-redis@5.0.0.Alpha1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/it.sephiroth.android.library.disklrumulticache/disklrumulticache@1.0.2?type=aar
+- pkg:maven/it.sephiroth.android.library.disklrumulticache/disklrumulticache@1.0.3?type=aar
+- pkg:maven/it.sephiroth.android.library.disklrumulticache/disklrumulticache@1.0.5?type=aar
+- pkg:maven/it.sephiroth.android.library.disklrumulticache/disklrumulticache@1.0.6?type=aar

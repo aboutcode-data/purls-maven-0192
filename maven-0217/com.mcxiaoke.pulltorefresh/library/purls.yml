@@ -1,2 +1,6 @@
 - pkg:maven/com.mcxiaoke.pulltorefresh/library@2.5.0?classifier=sources
 - pkg:maven/com.mcxiaoke.pulltorefresh/library@2.5.0?type=aar
+- pkg:maven/com.mcxiaoke.pulltorefresh/library@2.5.3?classifier=sources
+- pkg:maven/com.mcxiaoke.pulltorefresh/library@2.5.3?type=aar
+- pkg:maven/com.mcxiaoke.pulltorefresh/library@2.5.4?classifier=sources
+- pkg:maven/com.mcxiaoke.pulltorefresh/library@2.5.4?type=aar

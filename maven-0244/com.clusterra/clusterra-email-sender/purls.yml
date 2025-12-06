@@ -1,0 +1,4 @@
+- pkg:maven/com.clusterra/clusterra-email-sender@1.0.13.RELEASE
+- pkg:maven/com.clusterra/clusterra-email-sender@1.0.13.RELEASE?classifier=sources
+- pkg:maven/com.clusterra/clusterra-email-sender@1.2.0.RELEASE
+- pkg:maven/com.clusterra/clusterra-email-sender@1.2.0.RELEASE?classifier=sources

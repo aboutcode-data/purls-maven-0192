@@ -1,0 +1,2 @@
+- pkg:maven/de.alpharogroup/resourcebundle.inspector@1.0.1
+- pkg:maven/de.alpharogroup/resourcebundle.inspector@1.0.1?classifier=sources

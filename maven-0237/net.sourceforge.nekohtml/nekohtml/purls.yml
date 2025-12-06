@@ -20,6 +20,10 @@
 - pkg:maven/net.sourceforge.nekohtml/nekohtml@1.9.19?classifier=sources
 - pkg:maven/net.sourceforge.nekohtml/nekohtml@1.9.20
 - pkg:maven/net.sourceforge.nekohtml/nekohtml@1.9.20?classifier=sources
+- pkg:maven/net.sourceforge.nekohtml/nekohtml@1.9.21
+- pkg:maven/net.sourceforge.nekohtml/nekohtml@1.9.21?classifier=sources
+- pkg:maven/net.sourceforge.nekohtml/nekohtml@1.9.22
+- pkg:maven/net.sourceforge.nekohtml/nekohtml@1.9.22?classifier=sources
 - pkg:maven/net.sourceforge.nekohtml/nekohtml@1.9.7
 - pkg:maven/net.sourceforge.nekohtml/nekohtml@1.9.7?classifier=sources
 - pkg:maven/net.sourceforge.nekohtml/nekohtml@1.9.8
