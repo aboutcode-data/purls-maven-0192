@@ -1,0 +1,2 @@
+- pkg:maven/com.tmiyapub/bytes-regex@0.0.1
+- pkg:maven/com.tmiyapub/bytes-regex@0.0.1?classifier=sources

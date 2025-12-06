@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.intro.universal@3.3.1
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.intro.universal@3.3.1?classifier=sources

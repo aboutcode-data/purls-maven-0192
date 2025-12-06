@@ -1,0 +1,5 @@
+- pkg:maven/org.jboss.as/patch-gen-parent@2.0.1.Alpha1?classifier=source-release&type=zip
+- pkg:maven/org.jboss.as/patch-gen-parent@2.0.1.Alpha2?classifier=source-release&type=zip
+- pkg:maven/org.jboss.as/patch-gen-parent@2.0.1.Alpha3?classifier=source-release&type=zip
+- pkg:maven/org.jboss.as/patch-gen-parent@2.0.1.Alpha4?classifier=source-release&type=zip
+- pkg:maven/org.jboss.as/patch-gen-parent@2.0.1.Alpha5?classifier=source-release&type=zip

@@ -1,0 +1,6 @@
+- pkg:maven/org.glassfish.jersey.media/jersey-media-json-binding@2.26-b04
+- pkg:maven/org.glassfish.jersey.media/jersey-media-json-binding@2.26-b04?classifier=sources
+- pkg:maven/org.glassfish.jersey.media/jersey-media-json-binding@2.26-b05
+- pkg:maven/org.glassfish.jersey.media/jersey-media-json-binding@2.26-b05?classifier=sources
+- pkg:maven/org.glassfish.jersey.media/jersey-media-json-binding@2.26-b06
+- pkg:maven/org.glassfish.jersey.media/jersey-media-json-binding@2.26-b06?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.clojure/core.specs.alpha@0.1.10
+- pkg:maven/org.clojure/core.specs.alpha@0.1.10?classifier=sources
+- pkg:maven/org.clojure/core.specs.alpha@0.1.5
+- pkg:maven/org.clojure/core.specs.alpha@0.1.5?classifier=sources

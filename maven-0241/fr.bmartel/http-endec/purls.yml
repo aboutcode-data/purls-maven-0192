@@ -1,0 +1,4 @@
+- pkg:maven/fr.bmartel/http-endec@1.03
+- pkg:maven/fr.bmartel/http-endec@1.03?classifier=sources
+- pkg:maven/fr.bmartel/http-endec@1.04
+- pkg:maven/fr.bmartel/http-endec@1.04?classifier=sources

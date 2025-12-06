@@ -1,0 +1,2 @@
+- pkg:maven/de.beyondjava/angularfaces-2.1.12-documentation@2.1.12?classifier=sources
+- pkg:maven/de.beyondjava/angularfaces-2.1.12-documentation@2.1.12?type=war

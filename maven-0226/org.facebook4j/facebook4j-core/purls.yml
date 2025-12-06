@@ -82,3 +82,7 @@
 - pkg:maven/org.facebook4j/facebook4j-core@2.4.6?classifier=sources
 - pkg:maven/org.facebook4j/facebook4j-core@2.4.7
 - pkg:maven/org.facebook4j/facebook4j-core@2.4.7?classifier=sources
+- pkg:maven/org.facebook4j/facebook4j-core@2.4.8
+- pkg:maven/org.facebook4j/facebook4j-core@2.4.8?classifier=sources
+- pkg:maven/org.facebook4j/facebook4j-core@2.4.9
+- pkg:maven/org.facebook4j/facebook4j-core@2.4.9?classifier=sources

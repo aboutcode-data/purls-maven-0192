@@ -1,0 +1,2 @@
+- pkg:maven/com.zaxxer/HikariCP-java9ea@2.6.1
+- pkg:maven/com.zaxxer/HikariCP-java9ea@2.6.1?classifier=sources

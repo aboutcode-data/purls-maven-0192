@@ -10,3 +10,7 @@
 - pkg:maven/fi.vtt.nubomedia/webrtcpeer-android@1.0.6?type=aar
 - pkg:maven/fi.vtt.nubomedia/webrtcpeer-android@1.0.9?classifier=sources
 - pkg:maven/fi.vtt.nubomedia/webrtcpeer-android@1.0.9?type=aar
+- pkg:maven/fi.vtt.nubomedia/webrtcpeer-android@1.1.1?classifier=sources
+- pkg:maven/fi.vtt.nubomedia/webrtcpeer-android@1.1.1?type=aar
+- pkg:maven/fi.vtt.nubomedia/webrtcpeer-android@1.1.2?classifier=sources
+- pkg:maven/fi.vtt.nubomedia/webrtcpeer-android@1.1.2?type=aar

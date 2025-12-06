@@ -1,2 +1,4 @@
 - pkg:maven/org.iternine/jeppetto-dao-dynamodb@0.9-rc1
 - pkg:maven/org.iternine/jeppetto-dao-dynamodb@0.9-rc1?classifier=sources
+- pkg:maven/org.iternine/jeppetto-dao-dynamodb@0.9-rc2
+- pkg:maven/org.iternine/jeppetto-dao-dynamodb@0.9-rc2?classifier=sources

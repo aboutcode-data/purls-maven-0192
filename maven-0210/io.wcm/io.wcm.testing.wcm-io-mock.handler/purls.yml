@@ -6,3 +6,9 @@
 - pkg:maven/io.wcm/io.wcm.testing.wcm-io-mock.handler@0.5.2?classifier=sources
 - pkg:maven/io.wcm/io.wcm.testing.wcm-io-mock.handler@0.5.4
 - pkg:maven/io.wcm/io.wcm.testing.wcm-io-mock.handler@0.5.4?classifier=sources
+- pkg:maven/io.wcm/io.wcm.testing.wcm-io-mock.handler@0.6.0
+- pkg:maven/io.wcm/io.wcm.testing.wcm-io-mock.handler@0.6.0?classifier=sources
+- pkg:maven/io.wcm/io.wcm.testing.wcm-io-mock.handler@1.0.0
+- pkg:maven/io.wcm/io.wcm.testing.wcm-io-mock.handler@1.0.0?classifier=sources
+- pkg:maven/io.wcm/io.wcm.testing.wcm-io-mock.handler@1.0.2
+- pkg:maven/io.wcm/io.wcm.testing.wcm-io-mock.handler@1.0.2?classifier=sources

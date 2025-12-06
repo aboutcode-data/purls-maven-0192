@@ -1,2 +1,4 @@
 - pkg:maven/com.object0r.toortools.http/toortools-http@1.0
 - pkg:maven/com.object0r.toortools.http/toortools-http@1.0?classifier=sources
+- pkg:maven/com.object0r.toortools.http/toortools-http@1.1
+- pkg:maven/com.object0r.toortools.http/toortools-http@1.1?classifier=sources

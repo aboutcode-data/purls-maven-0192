@@ -1,0 +1,8 @@
+- pkg:maven/org.scala-lang.modules/scala-partest_2.12@1.0.17
+- pkg:maven/org.scala-lang.modules/scala-partest_2.12@1.0.17?classifier=sources
+- pkg:maven/org.scala-lang.modules/scala-partest_2.12@1.0.18
+- pkg:maven/org.scala-lang.modules/scala-partest_2.12@1.0.18?classifier=sources
+- pkg:maven/org.scala-lang.modules/scala-partest_2.12@1.1.0
+- pkg:maven/org.scala-lang.modules/scala-partest_2.12@1.1.0?classifier=sources
+- pkg:maven/org.scala-lang.modules/scala-partest_2.12@1.1.1
+- pkg:maven/org.scala-lang.modules/scala-partest_2.12@1.1.1?classifier=sources

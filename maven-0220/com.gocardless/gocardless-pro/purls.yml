@@ -86,3 +86,13 @@
 - pkg:maven/com.gocardless/gocardless-pro@1.8.0?classifier=sources
 - pkg:maven/com.gocardless/gocardless-pro@1.9.0
 - pkg:maven/com.gocardless/gocardless-pro@1.9.0?classifier=sources
+- pkg:maven/com.gocardless/gocardless-pro@2.0.0
+- pkg:maven/com.gocardless/gocardless-pro@2.0.0?classifier=sources
+- pkg:maven/com.gocardless/gocardless-pro@2.1.0
+- pkg:maven/com.gocardless/gocardless-pro@2.1.0?classifier=sources
+- pkg:maven/com.gocardless/gocardless-pro@2.2.0
+- pkg:maven/com.gocardless/gocardless-pro@2.2.0?classifier=sources
+- pkg:maven/com.gocardless/gocardless-pro@2.3.0
+- pkg:maven/com.gocardless/gocardless-pro@2.3.0?classifier=sources
+- pkg:maven/com.gocardless/gocardless-pro@2.4.0
+- pkg:maven/com.gocardless/gocardless-pro@2.4.0?classifier=sources

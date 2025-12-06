@@ -1,1 +1,2 @@
+- pkg:maven/org.corpus-tools/pepperModules-EXMARaLDAModules@1.1.10?classifier=sources
 - pkg:maven/org.corpus-tools/pepperModules-EXMARaLDAModules@1.1.9?classifier=sources

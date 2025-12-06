@@ -1,0 +1,2 @@
+- pkg:maven/org.arquillian.algeron/arquillian-algeron-parent@1.0.0.Alpha5?classifier=source-release&type=zip
+- pkg:maven/org.arquillian.algeron/arquillian-algeron-parent@1.0.0?classifier=source-release&type=zip

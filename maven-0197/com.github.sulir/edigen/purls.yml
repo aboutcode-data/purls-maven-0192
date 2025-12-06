@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sulir/edigen@1.1
+- pkg:maven/com.github.sulir/edigen@1.1?classifier=sources

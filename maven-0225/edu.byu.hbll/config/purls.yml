@@ -1,0 +1,2 @@
+- pkg:maven/edu.byu.hbll/config@3.1.1
+- pkg:maven/edu.byu.hbll/config@3.1.1?classifier=sources

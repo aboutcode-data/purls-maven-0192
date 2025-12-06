@@ -1,2 +1,12 @@
 - pkg:maven/se.mtm.addons/mtm-dotify-addons@1.0.0
 - pkg:maven/se.mtm.addons/mtm-dotify-addons@1.0.0?classifier=sources
+- pkg:maven/se.mtm.addons/mtm-dotify-addons@1.1.0
+- pkg:maven/se.mtm.addons/mtm-dotify-addons@1.1.0?classifier=sources
+- pkg:maven/se.mtm.addons/mtm-dotify-addons@1.2.0
+- pkg:maven/se.mtm.addons/mtm-dotify-addons@1.2.0?classifier=sources
+- pkg:maven/se.mtm.addons/mtm-dotify-addons@2.0.0
+- pkg:maven/se.mtm.addons/mtm-dotify-addons@2.0.0?classifier=sources
+- pkg:maven/se.mtm.addons/mtm-dotify-addons@2.1.0
+- pkg:maven/se.mtm.addons/mtm-dotify-addons@2.1.0?classifier=sources
+- pkg:maven/se.mtm.addons/mtm-dotify-addons@2.2.0
+- pkg:maven/se.mtm.addons/mtm-dotify-addons@2.2.0?classifier=sources

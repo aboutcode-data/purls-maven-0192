@@ -1,0 +1,4 @@
+- pkg:maven/io.openshift/openshift-test-utils@1
+- pkg:maven/io.openshift/openshift-test-utils@1?classifier=sources
+- pkg:maven/io.openshift/openshift-test-utils@2
+- pkg:maven/io.openshift/openshift-test-utils@2?classifier=sources

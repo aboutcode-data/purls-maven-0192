@@ -1,0 +1,14 @@
+- pkg:maven/com.ireul.nerf/nerf@0.1.20170602
+- pkg:maven/com.ireul.nerf/nerf@0.1.20170602?classifier=sources
+- pkg:maven/com.ireul.nerf/nerf@0.1.20170603
+- pkg:maven/com.ireul.nerf/nerf@0.1.20170603?classifier=sources
+- pkg:maven/com.ireul.nerf/nerf@0.1.20170604
+- pkg:maven/com.ireul.nerf/nerf@0.1.20170604?classifier=sources
+- pkg:maven/com.ireul.nerf/nerf@0.1.20170605
+- pkg:maven/com.ireul.nerf/nerf@0.1.20170605?classifier=sources
+- pkg:maven/com.ireul.nerf/nerf@0.1.20170607
+- pkg:maven/com.ireul.nerf/nerf@0.1.20170607?classifier=sources
+- pkg:maven/com.ireul.nerf/nerf@0.1.20170608
+- pkg:maven/com.ireul.nerf/nerf@0.1.20170608?classifier=sources
+- pkg:maven/com.ireul.nerf/nerf@0.1.20170609
+- pkg:maven/com.ireul.nerf/nerf@0.1.20170609?classifier=sources

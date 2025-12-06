@@ -1,0 +1,2 @@
+- pkg:maven/org.onetwo4j/onetwo-rocketmq@4.3.7
+- pkg:maven/org.onetwo4j/onetwo-rocketmq@4.3.7?classifier=sources

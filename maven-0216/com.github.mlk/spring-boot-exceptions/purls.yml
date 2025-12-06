@@ -1,0 +1,16 @@
+- pkg:maven/com.github.mlk/spring-boot-exceptions@0.0.10
+- pkg:maven/com.github.mlk/spring-boot-exceptions@0.0.10?classifier=sources
+- pkg:maven/com.github.mlk/spring-boot-exceptions@0.0.9
+- pkg:maven/com.github.mlk/spring-boot-exceptions@0.0.9?classifier=sources
+- pkg:maven/com.github.mlk/spring-boot-exceptions@0.1.43
+- pkg:maven/com.github.mlk/spring-boot-exceptions@0.1.43?classifier=sources
+- pkg:maven/com.github.mlk/spring-boot-exceptions@1.0.%24System.env.CIRCLE_BUILD_NUM
+- pkg:maven/com.github.mlk/spring-boot-exceptions@1.0.%24System.env.CIRCLE_BUILD_NUM?classifier=sources
+- pkg:maven/com.github.mlk/spring-boot-exceptions@1.1.46
+- pkg:maven/com.github.mlk/spring-boot-exceptions@1.1.46?classifier=sources
+- pkg:maven/com.github.mlk/spring-boot-exceptions@1.1.47
+- pkg:maven/com.github.mlk/spring-boot-exceptions@1.1.47?classifier=sources
+- pkg:maven/com.github.mlk/spring-boot-exceptions@1.1.48
+- pkg:maven/com.github.mlk/spring-boot-exceptions@1.1.48?classifier=sources
+- pkg:maven/com.github.mlk/spring-boot-exceptions@1.1.53
+- pkg:maven/com.github.mlk/spring-boot-exceptions@1.1.53?classifier=sources

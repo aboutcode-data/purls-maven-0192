@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.swarm/camel-reactive-streams@2017.6.0
+- pkg:maven/org.wildfly.swarm/camel-reactive-streams@2017.6.1

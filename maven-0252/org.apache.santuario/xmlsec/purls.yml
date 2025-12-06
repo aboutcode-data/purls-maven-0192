@@ -60,3 +60,6 @@
 - pkg:maven/org.apache.santuario/xmlsec@2.0.7
 - pkg:maven/org.apache.santuario/xmlsec@2.0.7?classifier=source-release&type=zip
 - pkg:maven/org.apache.santuario/xmlsec@2.0.7?classifier=sources
+- pkg:maven/org.apache.santuario/xmlsec@2.0.8
+- pkg:maven/org.apache.santuario/xmlsec@2.0.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.santuario/xmlsec@2.0.8?classifier=sources

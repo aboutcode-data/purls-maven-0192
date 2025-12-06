@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/angular-block-ui@0.2.2
+- pkg:maven/org.webjars.npm/angular-block-ui@0.2.2?classifier=sources

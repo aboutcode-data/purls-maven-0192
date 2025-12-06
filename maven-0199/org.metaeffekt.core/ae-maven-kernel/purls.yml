@@ -1,2 +1,4 @@
 - pkg:maven/org.metaeffekt.core/ae-maven-kernel@0.1.0
 - pkg:maven/org.metaeffekt.core/ae-maven-kernel@0.1.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-maven-kernel@0.2.0
+- pkg:maven/org.metaeffekt.core/ae-maven-kernel@0.2.0?classifier=sources

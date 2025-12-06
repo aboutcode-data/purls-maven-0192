@@ -1,0 +1,2 @@
+- pkg:maven/net.therore.logback/therore-logback@1.0.0
+- pkg:maven/net.therore.logback/therore-logback@1.0.0?classifier=sources

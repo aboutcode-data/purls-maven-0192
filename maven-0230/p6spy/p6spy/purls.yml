@@ -26,3 +26,5 @@
 - pkg:maven/p6spy/p6spy@3.0.0-rc2?type=zip
 - pkg:maven/p6spy/p6spy@3.0.0-rc3?classifier=sources
 - pkg:maven/p6spy/p6spy@3.0.0-rc3?type=zip
+- pkg:maven/p6spy/p6spy@3.0.0?classifier=sources
+- pkg:maven/p6spy/p6spy@3.0.0?type=zip

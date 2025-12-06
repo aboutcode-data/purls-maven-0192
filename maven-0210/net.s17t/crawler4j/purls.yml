@@ -1,0 +1,2 @@
+- pkg:maven/net.s17t/crawler4j@1.0.0
+- pkg:maven/net.s17t/crawler4j@1.0.0?classifier=sources

@@ -7,6 +7,7 @@
 - pkg:maven/org.apache.mahout/mahout@0.12.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.mahout/mahout@0.12.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.mahout/mahout@0.12.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.mahout/mahout@0.13.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.mahout/mahout@0.3?classifier=src&type=tar.gz
 - pkg:maven/org.apache.mahout/mahout@0.3?classifier=src&type=zip
 - pkg:maven/org.apache.mahout/mahout@0.5?classifier=source-release&type=zip

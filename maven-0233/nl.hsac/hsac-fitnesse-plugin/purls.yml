@@ -12,3 +12,11 @@
 - pkg:maven/nl.hsac/hsac-fitnesse-plugin@1.13.0?classifier=sources
 - pkg:maven/nl.hsac/hsac-fitnesse-plugin@1.14.0
 - pkg:maven/nl.hsac/hsac-fitnesse-plugin@1.14.0?classifier=sources
+- pkg:maven/nl.hsac/hsac-fitnesse-plugin@1.15.0
+- pkg:maven/nl.hsac/hsac-fitnesse-plugin@1.15.0?classifier=sources
+- pkg:maven/nl.hsac/hsac-fitnesse-plugin@1.16.0
+- pkg:maven/nl.hsac/hsac-fitnesse-plugin@1.16.0?classifier=sources
+- pkg:maven/nl.hsac/hsac-fitnesse-plugin@1.17.0
+- pkg:maven/nl.hsac/hsac-fitnesse-plugin@1.17.0?classifier=sources
+- pkg:maven/nl.hsac/hsac-fitnesse-plugin@1.18.0
+- pkg:maven/nl.hsac/hsac-fitnesse-plugin@1.18.0?classifier=sources

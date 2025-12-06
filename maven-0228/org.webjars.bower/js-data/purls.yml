@@ -2,6 +2,8 @@
 - pkg:maven/org.webjars.bower/js-data@1.6.1?classifier=sources
 - pkg:maven/org.webjars.bower/js-data@1.8.0
 - pkg:maven/org.webjars.bower/js-data@1.8.0?classifier=sources
+- pkg:maven/org.webjars.bower/js-data@2.10.0
+- pkg:maven/org.webjars.bower/js-data@2.10.0?classifier=sources
 - pkg:maven/org.webjars.bower/js-data@2.3.0
 - pkg:maven/org.webjars.bower/js-data@2.3.0?classifier=sources
 - pkg:maven/org.webjars.bower/js-data@2.8.2

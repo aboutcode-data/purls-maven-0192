@@ -1,0 +1,4 @@
+- pkg:maven/cn.flyzy2005/daoutil@1.0.0
+- pkg:maven/cn.flyzy2005/daoutil@1.0.0?classifier=sources
+- pkg:maven/cn.flyzy2005/daoutil@7
+- pkg:maven/cn.flyzy2005/daoutil@7?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/io.airlift/testing-postgresql-server@0.2?classifier=sources
 - pkg:maven/io.airlift/testing-postgresql-server@0.3
 - pkg:maven/io.airlift/testing-postgresql-server@0.3?classifier=sources
+- pkg:maven/io.airlift/testing-postgresql-server@0.4
+- pkg:maven/io.airlift/testing-postgresql-server@0.4?classifier=sources
+- pkg:maven/io.airlift/testing-postgresql-server@9.6.1-1
+- pkg:maven/io.airlift/testing-postgresql-server@9.6.1-1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure/iot-service-client@1.2.18
+- pkg:maven/com.microsoft.azure/iot-service-client@1.2.18?classifier=sources

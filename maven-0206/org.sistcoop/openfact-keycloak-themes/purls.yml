@@ -1,0 +1,4 @@
+- pkg:maven/org.sistcoop/openfact-keycloak-themes@1.0.0.Final
+- pkg:maven/org.sistcoop/openfact-keycloak-themes@1.0.0.Final?classifier=sources
+- pkg:maven/org.sistcoop/openfact-keycloak-themes@1.0.RC1
+- pkg:maven/org.sistcoop/openfact-keycloak-themes@1.0.RC1?classifier=sources

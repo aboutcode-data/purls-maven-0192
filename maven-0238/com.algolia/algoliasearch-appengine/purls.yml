@@ -2,6 +2,8 @@
 - pkg:maven/com.algolia/algoliasearch-appengine@2.0.0?classifier=sources
 - pkg:maven/com.algolia/algoliasearch-appengine@2.1.0
 - pkg:maven/com.algolia/algoliasearch-appengine@2.1.0?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-appengine@2.10.0
+- pkg:maven/com.algolia/algoliasearch-appengine@2.10.0?classifier=sources
 - pkg:maven/com.algolia/algoliasearch-appengine@2.2.0
 - pkg:maven/com.algolia/algoliasearch-appengine@2.2.0?classifier=sources
 - pkg:maven/com.algolia/algoliasearch-appengine@2.2.1
@@ -14,3 +16,15 @@
 - pkg:maven/com.algolia/algoliasearch-appengine@2.4.0?classifier=sources
 - pkg:maven/com.algolia/algoliasearch-appengine@2.4.1
 - pkg:maven/com.algolia/algoliasearch-appengine@2.4.1?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-appengine@2.5.0
+- pkg:maven/com.algolia/algoliasearch-appengine@2.5.0?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-appengine@2.6.0
+- pkg:maven/com.algolia/algoliasearch-appengine@2.6.0?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-appengine@2.6.1
+- pkg:maven/com.algolia/algoliasearch-appengine@2.6.1?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-appengine@2.7.0
+- pkg:maven/com.algolia/algoliasearch-appengine@2.7.0?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-appengine@2.8.0
+- pkg:maven/com.algolia/algoliasearch-appengine@2.8.0?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-appengine@2.9.0
+- pkg:maven/com.algolia/algoliasearch-appengine@2.9.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.iz2use/autoregister_2.11@0.0.2
+- pkg:maven/com.iz2use/autoregister_2.11@0.0.2?classifier=sources
+- pkg:maven/com.iz2use/autoregister_2.11@0.0.4
+- pkg:maven/com.iz2use/autoregister_2.11@0.0.4?classifier=sources
+- pkg:maven/com.iz2use/autoregister_2.11@0.0.6
+- pkg:maven/com.iz2use/autoregister_2.11@0.0.6?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/ru.noties/debug-remove@3.0.0
+- pkg:maven/ru.noties/debug-remove@3.0.0?classifier=sources

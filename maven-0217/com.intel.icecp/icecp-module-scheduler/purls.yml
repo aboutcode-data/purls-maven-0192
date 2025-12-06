@@ -1,0 +1,2 @@
+- pkg:maven/com.intel.icecp/icecp-module-scheduler@0.4.3
+- pkg:maven/com.intel.icecp/icecp-module-scheduler@0.4.3?classifier=sources

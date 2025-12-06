@@ -1,0 +1,2 @@
+- pkg:maven/org.tonicsoft.ebay/ebaysdkcore@981.0.0
+- pkg:maven/org.tonicsoft.ebay/ebaysdkcore@981.0.0?classifier=sources

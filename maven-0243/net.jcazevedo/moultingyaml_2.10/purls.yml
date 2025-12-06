@@ -1,2 +1,6 @@
 - pkg:maven/net.jcazevedo/moultingyaml_2.10@0.3.0
 - pkg:maven/net.jcazevedo/moultingyaml_2.10@0.3.0?classifier=sources
+- pkg:maven/net.jcazevedo/moultingyaml_2.10@0.3.1
+- pkg:maven/net.jcazevedo/moultingyaml_2.10@0.3.1?classifier=sources
+- pkg:maven/net.jcazevedo/moultingyaml_2.10@0.4.0
+- pkg:maven/net.jcazevedo/moultingyaml_2.10@0.4.0?classifier=sources

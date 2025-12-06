@@ -1,0 +1,2 @@
+- pkg:maven/org.orienteer/orienteer-logger-server@1.2
+- pkg:maven/org.orienteer/orienteer-logger-server@1.2?classifier=sources

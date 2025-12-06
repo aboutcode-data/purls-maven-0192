@@ -33,3 +33,4 @@
 - pkg:maven/org.jooby/coverage-report@1.0.0.CR6
 - pkg:maven/org.jooby/coverage-report@1.0.0.CR7
 - pkg:maven/org.jooby/coverage-report@1.0.0.CR8
+- pkg:maven/org.jooby/coverage-report@1.1.2

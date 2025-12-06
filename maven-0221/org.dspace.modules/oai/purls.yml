@@ -44,3 +44,4 @@
 - pkg:maven/org.dspace.modules/oai@6.0-rc2?type=war
 - pkg:maven/org.dspace.modules/oai@6.0-rc3?type=war
 - pkg:maven/org.dspace.modules/oai@6.0-rc4?type=war
+- pkg:maven/org.dspace.modules/oai@6.0?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/com.icexls/icexls@1.0
+- pkg:maven/com.icexls/icexls@1.0?classifier=sources

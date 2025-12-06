@@ -12,3 +12,5 @@
 - pkg:maven/com.cisco.oss.foundation.queue/queue-api@1.1.0-1?classifier=sources
 - pkg:maven/com.cisco.oss.foundation.queue/queue-api@1.1.1-0
 - pkg:maven/com.cisco.oss.foundation.queue/queue-api@1.1.1-0?classifier=sources
+- pkg:maven/com.cisco.oss.foundation.queue/queue-api@1.1.1-2
+- pkg:maven/com.cisco.oss.foundation.queue/queue-api@1.1.1-2?classifier=sources

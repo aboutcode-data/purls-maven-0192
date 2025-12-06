@@ -4,3 +4,5 @@
 - pkg:maven/org.knowm/dropwizard-sundial@0.9.2.0?classifier=sources
 - pkg:maven/org.knowm/dropwizard-sundial@1.0.0.0
 - pkg:maven/org.knowm/dropwizard-sundial@1.0.0.0?classifier=sources
+- pkg:maven/org.knowm/dropwizard-sundial@1.1.0.0
+- pkg:maven/org.knowm/dropwizard-sundial@1.1.0.0?classifier=sources

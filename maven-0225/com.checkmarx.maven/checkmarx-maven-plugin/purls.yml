@@ -1,0 +1,4 @@
+- pkg:maven/com.checkmarx.maven/checkmarx-maven-plugin@8.41.0
+- pkg:maven/com.checkmarx.maven/checkmarx-maven-plugin@8.41.0?classifier=sources
+- pkg:maven/com.checkmarx.maven/checkmarx-maven-plugin@8.42.0
+- pkg:maven/com.checkmarx.maven/checkmarx-maven-plugin@8.42.0?classifier=sources

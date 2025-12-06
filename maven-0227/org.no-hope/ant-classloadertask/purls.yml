@@ -1,0 +1,2 @@
+- pkg:maven/org.no-hope/ant-classloadertask@1.0-RC2
+- pkg:maven/org.no-hope/ant-classloadertask@1.0-RC2?classifier=sources

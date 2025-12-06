@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/google-closure-library@20160315.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/google-closure-library@20160911.0.0
 - pkg:maven/org.webjars.npm/google-closure-library@20160911.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/google-closure-library@20170124.0.0
+- pkg:maven/org.webjars.npm/google-closure-library@20170124.0.0?classifier=sources

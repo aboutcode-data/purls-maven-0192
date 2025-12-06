@@ -2,3 +2,11 @@
 - pkg:maven/com.yashoid/network@1.0.0?type=aar
 - pkg:maven/com.yashoid/network@1.0.1?classifier=sources
 - pkg:maven/com.yashoid/network@1.0.1?type=aar
+- pkg:maven/com.yashoid/network@1.0.2?classifier=sources
+- pkg:maven/com.yashoid/network@1.0.2?type=aar
+- pkg:maven/com.yashoid/network@1.1.0?classifier=sources
+- pkg:maven/com.yashoid/network@1.1.0?type=aar
+- pkg:maven/com.yashoid/network@1.2.0?classifier=sources
+- pkg:maven/com.yashoid/network@1.2.0?type=aar
+- pkg:maven/com.yashoid/network@1.2.1?classifier=sources
+- pkg:maven/com.yashoid/network@1.2.1?type=aar

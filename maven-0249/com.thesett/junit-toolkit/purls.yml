@@ -46,3 +46,5 @@
 - pkg:maven/com.thesett/junit-toolkit@0.9.12?classifier=sources
 - pkg:maven/com.thesett/junit-toolkit@0.9.32
 - pkg:maven/com.thesett/junit-toolkit@0.9.32?classifier=sources
+- pkg:maven/com.thesett/junit-toolkit@0.9.52
+- pkg:maven/com.thesett/junit-toolkit@0.9.52?classifier=sources

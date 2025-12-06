@@ -1,2 +1,4 @@
 - pkg:maven/com.tomgibara.permute/permute@1.0.0
 - pkg:maven/com.tomgibara.permute/permute@1.0.0?classifier=sources
+- pkg:maven/com.tomgibara.permute/permute@2.0.0
+- pkg:maven/com.tomgibara.permute/permute@2.0.0?classifier=sources

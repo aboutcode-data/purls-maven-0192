@@ -7,3 +7,4 @@
 - pkg:maven/io.symcpe.hendrix/nifi-lmm-interceptor@0.0.30?classifier=sources
 - pkg:maven/io.symcpe.hendrix/nifi-lmm-interceptor@0.0.32?classifier=sources
 - pkg:maven/io.symcpe.hendrix/nifi-lmm-interceptor@0.0.33?classifier=sources
+- pkg:maven/io.symcpe.hendrix/nifi-lmm-interceptor@0.0.34?classifier=sources

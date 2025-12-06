@@ -2,3 +2,5 @@
 - pkg:maven/it.tidalwave.blueshades/it-tidalwave-blueshades-boot@1.0-ALPHA-7?classifier=sources
 - pkg:maven/it.tidalwave.blueshades/it-tidalwave-blueshades-boot@1.0-ALPHA-8
 - pkg:maven/it.tidalwave.blueshades/it-tidalwave-blueshades-boot@1.0-ALPHA-8?classifier=sources
+- pkg:maven/it.tidalwave.blueshades/it-tidalwave-blueshades-boot@1.0-ALPHA-9
+- pkg:maven/it.tidalwave.blueshades/it-tidalwave-blueshades-boot@1.0-ALPHA-9?classifier=sources

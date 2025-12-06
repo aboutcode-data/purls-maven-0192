@@ -1,0 +1,2 @@
+- pkg:maven/au.edu.uq.rcc/nimrodok-interface@1.0
+- pkg:maven/au.edu.uq.rcc/nimrodok-interface@1.0?classifier=sources

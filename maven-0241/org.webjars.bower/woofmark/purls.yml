@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/woofmark@3.0.2
 - pkg:maven/org.webjars.bower/woofmark@3.0.2?classifier=sources
+- pkg:maven/org.webjars.bower/woofmark@4.2.3
+- pkg:maven/org.webjars.bower/woofmark@4.2.3?classifier=sources

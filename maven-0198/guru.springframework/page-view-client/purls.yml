@@ -1,0 +1,2 @@
+- pkg:maven/guru.springframework/page-view-client@0.0.2
+- pkg:maven/guru.springframework/page-view-client@0.0.2?classifier=sources

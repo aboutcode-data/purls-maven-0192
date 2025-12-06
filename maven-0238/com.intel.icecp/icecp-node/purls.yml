@@ -1,0 +1,4 @@
+- pkg:maven/com.intel.icecp/icecp-node@0.12.12
+- pkg:maven/com.intel.icecp/icecp-node@0.12.12?classifier=sources
+- pkg:maven/com.intel.icecp/icecp-node@0.13.0
+- pkg:maven/com.intel.icecp/icecp-node@0.13.0?classifier=sources

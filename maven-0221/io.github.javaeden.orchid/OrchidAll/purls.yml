@@ -1,0 +1,2 @@
+- pkg:maven/io.github.javaeden.orchid/OrchidAll@v0.1.0
+- pkg:maven/io.github.javaeden.orchid/OrchidAll@v0.1.0?classifier=sources

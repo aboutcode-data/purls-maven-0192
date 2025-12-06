@@ -1,0 +1,4 @@
+- pkg:maven/io.vulpine.lib/Jackfish@1.0.0
+- pkg:maven/io.vulpine.lib/Jackfish@1.0.0?classifier=sources
+- pkg:maven/io.vulpine.lib/Jackfish@1.1.0
+- pkg:maven/io.vulpine.lib/Jackfish@1.1.0?classifier=sources

@@ -4,3 +4,9 @@
 - pkg:maven/org.apache.johnzon/johnzon-maven-plugin@0.9.4?classifier=sources
 - pkg:maven/org.apache.johnzon/johnzon-maven-plugin@0.9.5
 - pkg:maven/org.apache.johnzon/johnzon-maven-plugin@0.9.5?classifier=sources
+- pkg:maven/org.apache.johnzon/johnzon-maven-plugin@1.0.0
+- pkg:maven/org.apache.johnzon/johnzon-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/org.apache.johnzon/johnzon-maven-plugin@1.1.0
+- pkg:maven/org.apache.johnzon/johnzon-maven-plugin@1.1.0?classifier=sources
+- pkg:maven/org.apache.johnzon/johnzon-maven-plugin@1.1.1
+- pkg:maven/org.apache.johnzon/johnzon-maven-plugin@1.1.1?classifier=sources

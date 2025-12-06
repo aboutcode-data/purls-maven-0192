@@ -1,0 +1,4 @@
+- pkg:maven/org.leapframework/leap-htpl@0.6.1b
+- pkg:maven/org.leapframework/leap-htpl@0.6.1b?classifier=sources
+- pkg:maven/org.leapframework/leap-htpl@0.6.2b
+- pkg:maven/org.leapframework/leap-htpl@0.6.2b?classifier=sources

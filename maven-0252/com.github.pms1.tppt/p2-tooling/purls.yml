@@ -1,0 +1,2 @@
+- pkg:maven/com.github.pms1.tppt/p2-tooling@0.1.0
+- pkg:maven/com.github.pms1.tppt/p2-tooling@0.1.0?classifier=sources

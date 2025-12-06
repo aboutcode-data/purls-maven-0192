@@ -8,3 +8,8 @@
 - pkg:maven/com.webcohesion.enunciate/enunciate-simple-archetype@2.4.0?classifier=sources
 - pkg:maven/com.webcohesion.enunciate/enunciate-simple-archetype@2.5.0?classifier=sources
 - pkg:maven/com.webcohesion.enunciate/enunciate-simple-archetype@2.6.0?classifier=sources
+- pkg:maven/com.webcohesion.enunciate/enunciate-simple-archetype@2.7.0?classifier=sources
+- pkg:maven/com.webcohesion.enunciate/enunciate-simple-archetype@2.8.0?classifier=sources
+- pkg:maven/com.webcohesion.enunciate/enunciate-simple-archetype@2.8.1?classifier=sources
+- pkg:maven/com.webcohesion.enunciate/enunciate-simple-archetype@2.9.0?classifier=sources
+- pkg:maven/com.webcohesion.enunciate/enunciate-simple-archetype@2.9.1?classifier=sources

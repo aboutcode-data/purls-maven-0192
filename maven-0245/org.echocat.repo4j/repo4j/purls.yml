@@ -1,0 +1,2 @@
+- pkg:maven/org.echocat.repo4j/repo4j@0.1
+- pkg:maven/org.echocat.repo4j/repo4j@0.1?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/com.github.gianttreelp/bukkitdependencyloader@0.2-b3
+- pkg:maven/com.github.gianttreelp/bukkitdependencyloader@0.2-b3?classifier=sources
+- pkg:maven/com.github.gianttreelp/bukkitdependencyloader@0.2-b6
+- pkg:maven/com.github.gianttreelp/bukkitdependencyloader@0.2-b6?classifier=sources
+- pkg:maven/com.github.gianttreelp/bukkitdependencyloader@0.3-b29
+- pkg:maven/com.github.gianttreelp/bukkitdependencyloader@0.3-b29?classifier=sources
+- pkg:maven/com.github.gianttreelp/bukkitdependencyloader@0.5-b29
+- pkg:maven/com.github.gianttreelp/bukkitdependencyloader@0.5-b29?classifier=sources

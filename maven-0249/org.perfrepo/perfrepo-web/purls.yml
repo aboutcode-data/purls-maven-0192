@@ -6,3 +6,5 @@
 - pkg:maven/org.perfrepo/perfrepo-web@1.5?type=war
 - pkg:maven/org.perfrepo/perfrepo-web@1.6?classifier=sources
 - pkg:maven/org.perfrepo/perfrepo-web@1.6?type=war
+- pkg:maven/org.perfrepo/perfrepo-web@1.7?classifier=sources
+- pkg:maven/org.perfrepo/perfrepo-web@1.7?type=war

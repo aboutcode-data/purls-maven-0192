@@ -1,0 +1,2 @@
+- pkg:maven/co.luminositylabs.oss.maven.plugins/payara-micro-maven-plugin@0.0.1
+- pkg:maven/co.luminositylabs.oss.maven.plugins/payara-micro-maven-plugin@0.0.1?classifier=sources

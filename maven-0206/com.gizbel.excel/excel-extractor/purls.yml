@@ -1,0 +1,2 @@
+- pkg:maven/com.gizbel.excel/excel-extractor@1.0.0
+- pkg:maven/com.gizbel.excel/excel-extractor@1.0.0?classifier=sources

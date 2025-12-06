@@ -1,0 +1,2 @@
+- pkg:maven/io.joynr.smrf.java/smrf-core@0.1.3
+- pkg:maven/io.joynr.smrf.java/smrf-core@0.1.3?classifier=sources

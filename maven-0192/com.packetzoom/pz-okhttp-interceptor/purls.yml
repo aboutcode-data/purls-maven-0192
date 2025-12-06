@@ -1,2 +1,13 @@
+- pkg:maven/com.packetzoom/pz-okhttp-interceptor@3.2.11?type=aar
+- pkg:maven/com.packetzoom/pz-okhttp-interceptor@3.2.13?type=aar
+- pkg:maven/com.packetzoom/pz-okhttp-interceptor@3.2.15?type=aar
+- pkg:maven/com.packetzoom/pz-okhttp-interceptor@3.2.17?type=aar
+- pkg:maven/com.packetzoom/pz-okhttp-interceptor@3.2.19?type=aar
+- pkg:maven/com.packetzoom/pz-okhttp-interceptor@3.2.23?type=aar
+- pkg:maven/com.packetzoom/pz-okhttp-interceptor@3.2.25?type=aar
+- pkg:maven/com.packetzoom/pz-okhttp-interceptor@3.2.27?type=aar
+- pkg:maven/com.packetzoom/pz-okhttp-interceptor@3.2.29?type=aar
+- pkg:maven/com.packetzoom/pz-okhttp-interceptor@3.2.31?type=aar
+- pkg:maven/com.packetzoom/pz-okhttp-interceptor@3.2.33?type=aar
 - pkg:maven/com.packetzoom/pz-okhttp-interceptor@3.2.7?type=aar
 - pkg:maven/com.packetzoom/pz-okhttp-interceptor@3.2.9?type=aar

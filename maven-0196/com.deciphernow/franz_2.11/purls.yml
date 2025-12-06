@@ -1,0 +1,2 @@
+- pkg:maven/com.deciphernow/franz_2.11@1.0.0
+- pkg:maven/com.deciphernow/franz_2.11@1.0.0?classifier=sources

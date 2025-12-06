@@ -1,0 +1,4 @@
+- pkg:maven/no.mnemonic.commons/logging-log4j@0.1.0
+- pkg:maven/no.mnemonic.commons/logging-log4j@0.1.0?classifier=sources
+- pkg:maven/no.mnemonic.commons/logging-log4j@0.1.1
+- pkg:maven/no.mnemonic.commons/logging-log4j@0.1.1?classifier=sources

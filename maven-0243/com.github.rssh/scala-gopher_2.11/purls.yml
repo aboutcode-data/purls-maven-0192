@@ -1,6 +1,8 @@
 - pkg:maven/com.github.rssh/scala-gopher_2.11@0.99.0
 - pkg:maven/com.github.rssh/scala-gopher_2.11@0.99.0?classifier=sources
 - pkg:maven/com.github.rssh/scala-gopher_2.11@0.99.1
+- pkg:maven/com.github.rssh/scala-gopher_2.11@0.99.10
+- pkg:maven/com.github.rssh/scala-gopher_2.11@0.99.10?classifier=sources
 - pkg:maven/com.github.rssh/scala-gopher_2.11@0.99.1?classifier=sources
 - pkg:maven/com.github.rssh/scala-gopher_2.11@0.99.2
 - pkg:maven/com.github.rssh/scala-gopher_2.11@0.99.2?classifier=sources
@@ -14,3 +16,5 @@
 - pkg:maven/com.github.rssh/scala-gopher_2.11@0.99.6?classifier=sources
 - pkg:maven/com.github.rssh/scala-gopher_2.11@0.99.7
 - pkg:maven/com.github.rssh/scala-gopher_2.11@0.99.7?classifier=sources
+- pkg:maven/com.github.rssh/scala-gopher_2.11@0.99.8
+- pkg:maven/com.github.rssh/scala-gopher_2.11@0.99.8?classifier=sources

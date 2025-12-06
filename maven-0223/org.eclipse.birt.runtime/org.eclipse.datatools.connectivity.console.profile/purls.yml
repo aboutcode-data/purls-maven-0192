@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity.console.profile@1.0.10.v201109250955
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity.console.profile@1.0.10.v201109250955?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity.console.profile@1.1.0.201603142002
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity.console.profile@1.1.0.201603142002?classifier=sources

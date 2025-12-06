@@ -14,3 +14,5 @@
 - pkg:maven/io.verizon.journal/core_2.11@2.3.7?classifier=sources
 - pkg:maven/io.verizon.journal/core_2.11@2.3.9
 - pkg:maven/io.verizon.journal/core_2.11@2.3.9?classifier=sources
+- pkg:maven/io.verizon.journal/core_2.11@3.0.18
+- pkg:maven/io.verizon.journal/core_2.11@3.0.18?classifier=sources

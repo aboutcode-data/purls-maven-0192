@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.jiapi/jiapi-file@0.5.2
+- pkg:maven/net.sf.jiapi/jiapi-file@0.5.2?classifier=sources

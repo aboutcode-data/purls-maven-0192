@@ -1,0 +1,2 @@
+- pkg:maven/com.x5dev/chunk-springmvc@0.1.0
+- pkg:maven/com.x5dev/chunk-springmvc@0.1.0?classifier=sources

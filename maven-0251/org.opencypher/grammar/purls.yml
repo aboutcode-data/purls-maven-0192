@@ -1,2 +1,10 @@
 - pkg:maven/org.opencypher/grammar@1.0.0-M02
 - pkg:maven/org.opencypher/grammar@1.0.0-M02?classifier=sources
+- pkg:maven/org.opencypher/grammar@1.0.0-M03
+- pkg:maven/org.opencypher/grammar@1.0.0-M03?classifier=sources
+- pkg:maven/org.opencypher/grammar@1.0.0-M04
+- pkg:maven/org.opencypher/grammar@1.0.0-M04?classifier=sources
+- pkg:maven/org.opencypher/grammar@1.0.0-M05
+- pkg:maven/org.opencypher/grammar@1.0.0-M05?classifier=sources
+- pkg:maven/org.opencypher/grammar@1.0.0-M06
+- pkg:maven/org.opencypher/grammar@1.0.0-M06?classifier=sources

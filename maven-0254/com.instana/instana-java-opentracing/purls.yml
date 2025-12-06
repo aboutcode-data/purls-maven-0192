@@ -1,0 +1,6 @@
+- pkg:maven/com.instana/instana-java-opentracing@0.20.2
+- pkg:maven/com.instana/instana-java-opentracing@0.20.2?classifier=sources
+- pkg:maven/com.instana/instana-java-opentracing@0.20.7
+- pkg:maven/com.instana/instana-java-opentracing@0.20.7?classifier=sources
+- pkg:maven/com.instana/instana-java-opentracing@0.30.0
+- pkg:maven/com.instana/instana-java-opentracing@0.30.0?classifier=sources

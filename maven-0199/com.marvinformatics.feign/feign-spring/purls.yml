@@ -1,0 +1,2 @@
+- pkg:maven/com.marvinformatics.feign/feign-spring@0.1
+- pkg:maven/com.marvinformatics.feign/feign-spring@0.1?classifier=sources

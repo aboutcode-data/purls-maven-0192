@@ -6,5 +6,15 @@
 - pkg:maven/org.webjars.bower/elfinder@2.1.12?classifier=sources
 - pkg:maven/org.webjars.bower/elfinder@2.1.14
 - pkg:maven/org.webjars.bower/elfinder@2.1.14?classifier=sources
+- pkg:maven/org.webjars.bower/elfinder@2.1.20
+- pkg:maven/org.webjars.bower/elfinder@2.1.20-src
+- pkg:maven/org.webjars.bower/elfinder@2.1.20-src?classifier=sources
+- pkg:maven/org.webjars.bower/elfinder@2.1.20?classifier=sources
+- pkg:maven/org.webjars.bower/elfinder@2.1.21
+- pkg:maven/org.webjars.bower/elfinder@2.1.21?classifier=sources
+- pkg:maven/org.webjars.bower/elfinder@2.1.22
+- pkg:maven/org.webjars.bower/elfinder@2.1.22?classifier=sources
+- pkg:maven/org.webjars.bower/elfinder@2.1.23
+- pkg:maven/org.webjars.bower/elfinder@2.1.23?classifier=sources
 - pkg:maven/org.webjars.bower/elfinder@2.1.9
 - pkg:maven/org.webjars.bower/elfinder@2.1.9?classifier=sources

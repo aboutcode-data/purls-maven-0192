@@ -1,0 +1,2 @@
+- pkg:maven/br.eti.clairton/gson-hypermedia@1.1.0
+- pkg:maven/br.eti.clairton/gson-hypermedia@1.1.0?classifier=sources

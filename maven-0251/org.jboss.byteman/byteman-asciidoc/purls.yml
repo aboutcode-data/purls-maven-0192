@@ -1,2 +1,4 @@
+- pkg:maven/org.jboss.byteman/byteman-asciidoc@3.0.10
 - pkg:maven/org.jboss.byteman/byteman-asciidoc@3.0.5
 - pkg:maven/org.jboss.byteman/byteman-asciidoc@3.0.6
+- pkg:maven/org.jboss.byteman/byteman-asciidoc@3.0.9

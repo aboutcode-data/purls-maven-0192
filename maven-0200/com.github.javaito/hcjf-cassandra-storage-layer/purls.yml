@@ -1,0 +1,2 @@
+- pkg:maven/com.github.javaito/hcjf-cassandra-storage-layer@1.0
+- pkg:maven/com.github.javaito/hcjf-cassandra-storage-layer@1.0?classifier=sources

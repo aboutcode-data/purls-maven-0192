@@ -1,0 +1,2 @@
+- pkg:maven/com.kasisoft/com.kasisoft.libs.fmx@0.1
+- pkg:maven/com.kasisoft/com.kasisoft.libs.fmx@0.1?classifier=sources

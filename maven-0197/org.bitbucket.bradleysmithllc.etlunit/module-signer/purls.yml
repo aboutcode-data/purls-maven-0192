@@ -31,3 +31,5 @@
 - pkg:maven/org.bitbucket.bradleysmithllc.etlunit/module-signer@55?classifier=sources
 - pkg:maven/org.bitbucket.bradleysmithllc.etlunit/module-signer@56
 - pkg:maven/org.bitbucket.bradleysmithllc.etlunit/module-signer@56?classifier=sources
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/module-signer@57
+- pkg:maven/org.bitbucket.bradleysmithllc.etlunit/module-signer@57?classifier=sources
