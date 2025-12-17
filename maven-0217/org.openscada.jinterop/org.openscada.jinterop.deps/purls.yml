@@ -1,0 +1,2 @@
+- pkg:maven/org.openscada.jinterop/org.openscada.jinterop.deps@1.5.0
+- pkg:maven/org.openscada.jinterop/org.openscada.jinterop.deps@1.5.0?classifier=sources

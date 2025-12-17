@@ -38,3 +38,7 @@
 - pkg:maven/org.apache.sshd/apache-sshd@1.4.0?classifier=src&type=zip
 - pkg:maven/org.apache.sshd/apache-sshd@1.6.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.sshd/apache-sshd@1.6.0?classifier=src&type=zip
+- pkg:maven/org.apache.sshd/apache-sshd@1.7.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.sshd/apache-sshd@1.7.0?classifier=src&type=zip
+- pkg:maven/org.apache.sshd/apache-sshd@2.0.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.sshd/apache-sshd@2.0.0?classifier=src&type=zip

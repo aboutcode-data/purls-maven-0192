@@ -88,3 +88,7 @@
 - pkg:maven/com.github.docker-java/docker-java@3.0.8?classifier=sources
 - pkg:maven/com.github.docker-java/docker-java@3.0.9
 - pkg:maven/com.github.docker-java/docker-java@3.0.9?classifier=sources
+- pkg:maven/com.github.docker-java/docker-java@3.1.0-rc-2
+- pkg:maven/com.github.docker-java/docker-java@3.1.0-rc-2?classifier=sources
+- pkg:maven/com.github.docker-java/docker-java@3.1.0-rc-3
+- pkg:maven/com.github.docker-java/docker-java@3.1.0-rc-3?classifier=sources

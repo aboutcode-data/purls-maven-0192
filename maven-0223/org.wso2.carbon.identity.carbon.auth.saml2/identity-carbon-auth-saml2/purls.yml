@@ -1,0 +1,5 @@
+- pkg:maven/org.wso2.carbon.identity.carbon.auth.saml2/identity-carbon-auth-saml2@5.2.5?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.carbon.auth.saml2/identity-carbon-auth-saml2@5.2.6?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.carbon.auth.saml2/identity-carbon-auth-saml2@5.2.7?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.carbon.auth.saml2/identity-carbon-auth-saml2@5.2.8?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.carbon.auth.saml2/identity-carbon-auth-saml2@5.2.9?classifier=source-release&type=zip

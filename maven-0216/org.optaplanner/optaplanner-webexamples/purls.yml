@@ -124,3 +124,9 @@
 - pkg:maven/org.optaplanner/optaplanner-webexamples@7.5.0.Final?type=war
 - pkg:maven/org.optaplanner/optaplanner-webexamples@7.5.0.t018?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-webexamples@7.5.0.t018?type=war
+- pkg:maven/org.optaplanner/optaplanner-webexamples@7.6.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-webexamples@7.6.0.Final?type=war
+- pkg:maven/org.optaplanner/optaplanner-webexamples@7.6.0.t022?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-webexamples@7.6.0.t022?type=war
+- pkg:maven/org.optaplanner/optaplanner-webexamples@7.7.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-webexamples@7.7.0.Final?type=war

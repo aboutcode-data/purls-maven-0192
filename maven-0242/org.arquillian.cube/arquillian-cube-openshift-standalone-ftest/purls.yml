@@ -5,6 +5,7 @@
 - pkg:maven/org.arquillian.cube/arquillian-cube-openshift-standalone-ftest@1.10.0
 - pkg:maven/org.arquillian.cube/arquillian-cube-openshift-standalone-ftest@1.11.0
 - pkg:maven/org.arquillian.cube/arquillian-cube-openshift-standalone-ftest@1.12.0
+- pkg:maven/org.arquillian.cube/arquillian-cube-openshift-standalone-ftest@1.13.0
 - pkg:maven/org.arquillian.cube/arquillian-cube-openshift-standalone-ftest@1.2.0
 - pkg:maven/org.arquillian.cube/arquillian-cube-openshift-standalone-ftest@1.3.0
 - pkg:maven/org.arquillian.cube/arquillian-cube-openshift-standalone-ftest@1.3.1

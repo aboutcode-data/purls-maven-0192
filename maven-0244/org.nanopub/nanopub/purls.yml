@@ -13,6 +13,10 @@
 - pkg:maven/org.nanopub/nanopub@1.14?classifier=sources
 - pkg:maven/org.nanopub/nanopub@1.15
 - pkg:maven/org.nanopub/nanopub@1.15?classifier=sources
+- pkg:maven/org.nanopub/nanopub@1.16
+- pkg:maven/org.nanopub/nanopub@1.16?classifier=sources
+- pkg:maven/org.nanopub/nanopub@1.17
+- pkg:maven/org.nanopub/nanopub@1.17?classifier=sources
 - pkg:maven/org.nanopub/nanopub@1.1?classifier=sources
 - pkg:maven/org.nanopub/nanopub@1.2
 - pkg:maven/org.nanopub/nanopub@1.2?classifier=sources

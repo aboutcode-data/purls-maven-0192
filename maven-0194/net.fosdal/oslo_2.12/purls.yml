@@ -1,0 +1,2 @@
+- pkg:maven/net.fosdal/oslo_2.12@0.5.5
+- pkg:maven/net.fosdal/oslo_2.12@0.5.5?classifier=sources

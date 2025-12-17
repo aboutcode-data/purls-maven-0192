@@ -1,2 +1,4 @@
 - pkg:maven/com.jlhood/metrics-cloudwatch@1.0.0
 - pkg:maven/com.jlhood/metrics-cloudwatch@1.0.0?classifier=sources
+- pkg:maven/com.jlhood/metrics-cloudwatch@1.0.1
+- pkg:maven/com.jlhood/metrics-cloudwatch@1.0.1?classifier=sources

@@ -10,3 +10,7 @@
 - pkg:maven/com.soundcloud/cosine-lsh-join-spark_2.10@1.0.1?classifier=sources
 - pkg:maven/com.soundcloud/cosine-lsh-join-spark_2.10@1.0.2
 - pkg:maven/com.soundcloud/cosine-lsh-join-spark_2.10@1.0.2?classifier=sources
+- pkg:maven/com.soundcloud/cosine-lsh-join-spark_2.10@1.0.4
+- pkg:maven/com.soundcloud/cosine-lsh-join-spark_2.10@1.0.4?classifier=sources
+- pkg:maven/com.soundcloud/cosine-lsh-join-spark_2.10@1.0.5
+- pkg:maven/com.soundcloud/cosine-lsh-join-spark_2.10@1.0.5?classifier=sources

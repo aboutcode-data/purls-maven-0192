@@ -1,0 +1,2 @@
+- pkg:maven/no.difi.oxalis/oxalis-extension-example@4.0.1
+- pkg:maven/no.difi.oxalis/oxalis-extension-example@4.0.1?classifier=sources

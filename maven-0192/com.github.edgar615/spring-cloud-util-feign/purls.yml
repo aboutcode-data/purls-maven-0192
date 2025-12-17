@@ -1,0 +1,2 @@
+- pkg:maven/com.github.edgar615/spring-cloud-util-feign@0.2.4
+- pkg:maven/com.github.edgar615/spring-cloud-util-feign@0.2.4?classifier=sources

@@ -28,5 +28,9 @@
 - pkg:maven/com.googlecode.the-fascinator/fascinator-portal@1.2?type=war
 - pkg:maven/com.googlecode.the-fascinator/fascinator-portal@1.3?classifier=sources
 - pkg:maven/com.googlecode.the-fascinator/fascinator-portal@1.3?type=war
+- pkg:maven/com.googlecode.the-fascinator/fascinator-portal@1.4.1?classifier=sources
+- pkg:maven/com.googlecode.the-fascinator/fascinator-portal@1.4.1?type=war
 - pkg:maven/com.googlecode.the-fascinator/fascinator-portal@1.4?classifier=sources
 - pkg:maven/com.googlecode.the-fascinator/fascinator-portal@1.4?type=war
+- pkg:maven/com.googlecode.the-fascinator/fascinator-portal@1.5?classifier=sources
+- pkg:maven/com.googlecode.the-fascinator/fascinator-portal@1.5?type=war

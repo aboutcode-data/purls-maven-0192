@@ -102,3 +102,7 @@
 - pkg:maven/org.molgenis/molgenis-app@5.2.1?type=war
 - pkg:maven/org.molgenis/molgenis-app@5.2.2?classifier=sources
 - pkg:maven/org.molgenis/molgenis-app@5.2.2?type=war
+- pkg:maven/org.molgenis/molgenis-app@6.0.0?classifier=sources
+- pkg:maven/org.molgenis/molgenis-app@6.0.0?type=war
+- pkg:maven/org.molgenis/molgenis-app@6.1.0?classifier=sources
+- pkg:maven/org.molgenis/molgenis-app@6.1.0?type=war

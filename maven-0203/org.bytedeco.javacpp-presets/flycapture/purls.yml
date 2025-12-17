@@ -1,5 +1,9 @@
 - pkg:maven/org.bytedeco.javacpp-presets/flycapture@1.7.17-0.8
 - pkg:maven/org.bytedeco.javacpp-presets/flycapture@1.7.17-0.8?classifier=sources
+- pkg:maven/org.bytedeco.javacpp-presets/flycapture@2.11.3.121-1.4
+- pkg:maven/org.bytedeco.javacpp-presets/flycapture@2.11.3.121-1.4.1
+- pkg:maven/org.bytedeco.javacpp-presets/flycapture@2.11.3.121-1.4.1?classifier=sources
+- pkg:maven/org.bytedeco.javacpp-presets/flycapture@2.11.3.121-1.4?classifier=sources
 - pkg:maven/org.bytedeco.javacpp-presets/flycapture@2.6.3.4-0.9
 - pkg:maven/org.bytedeco.javacpp-presets/flycapture@2.6.3.4-0.9?classifier=sources
 - pkg:maven/org.bytedeco.javacpp-presets/flycapture@2.7.3.13-0.10

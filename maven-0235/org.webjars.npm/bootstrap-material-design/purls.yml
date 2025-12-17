@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/bootstrap-material-design@0.5.9?classifier=sources
 - pkg:maven/org.webjars.npm/bootstrap-material-design@4.0.1
 - pkg:maven/org.webjars.npm/bootstrap-material-design@4.0.1?classifier=sources
+- pkg:maven/org.webjars.npm/bootstrap-material-design@4.1.1
+- pkg:maven/org.webjars.npm/bootstrap-material-design@4.1.1?classifier=sources

@@ -6,3 +6,9 @@
 - pkg:maven/com.linkedin.pegasus/restli-disruptor@11.0.17?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-disruptor@17.0.4
 - pkg:maven/com.linkedin.pegasus/restli-disruptor@17.0.4?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-disruptor@19.0.3
+- pkg:maven/com.linkedin.pegasus/restli-disruptor@19.0.3?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-disruptor@20.0.4
+- pkg:maven/com.linkedin.pegasus/restli-disruptor@20.0.4?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-disruptor@21.0.0
+- pkg:maven/com.linkedin.pegasus/restli-disruptor@21.0.0?classifier=sources

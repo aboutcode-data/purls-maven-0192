@@ -1,0 +1,2 @@
+- pkg:maven/com.arxanfintech/tomago-sdk-java@1.5.1
+- pkg:maven/com.arxanfintech/tomago-sdk-java@1.5.1?classifier=sources

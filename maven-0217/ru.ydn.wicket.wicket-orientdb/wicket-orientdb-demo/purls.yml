@@ -4,3 +4,5 @@
 - pkg:maven/ru.ydn.wicket.wicket-orientdb/wicket-orientdb-demo@1.1?type=war
 - pkg:maven/ru.ydn.wicket.wicket-orientdb/wicket-orientdb-demo@1.2?classifier=sources
 - pkg:maven/ru.ydn.wicket.wicket-orientdb/wicket-orientdb-demo@1.2?type=war
+- pkg:maven/ru.ydn.wicket.wicket-orientdb/wicket-orientdb-demo@1.3?classifier=sources
+- pkg:maven/ru.ydn.wicket.wicket-orientdb/wicket-orientdb-demo@1.3?type=war

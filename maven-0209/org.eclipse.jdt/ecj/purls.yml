@@ -4,5 +4,9 @@
 - pkg:maven/org.eclipse.jdt/ecj@3.13.0?classifier=sources
 - pkg:maven/org.eclipse.jdt/ecj@3.13.100
 - pkg:maven/org.eclipse.jdt/ecj@3.13.100?classifier=sources
+- pkg:maven/org.eclipse.jdt/ecj@3.13.101
+- pkg:maven/org.eclipse.jdt/ecj@3.13.101?classifier=sources
+- pkg:maven/org.eclipse.jdt/ecj@3.13.102
+- pkg:maven/org.eclipse.jdt/ecj@3.13.102?classifier=sources
 - pkg:maven/org.eclipse.jdt/ecj@3.13.50
 - pkg:maven/org.eclipse.jdt/ecj@3.13.50?classifier=sources

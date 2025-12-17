@@ -1,0 +1,4 @@
+- pkg:maven/io.druid.extensions/druid-basic-security@0.12.0
+- pkg:maven/io.druid.extensions/druid-basic-security@0.12.0?classifier=sources
+- pkg:maven/io.druid.extensions/druid-basic-security@0.12.1
+- pkg:maven/io.druid.extensions/druid-basic-security@0.12.1?classifier=sources

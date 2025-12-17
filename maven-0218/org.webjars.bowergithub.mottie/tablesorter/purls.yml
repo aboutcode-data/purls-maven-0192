@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.mottie/tablesorter@2.27.7
+- pkg:maven/org.webjars.bowergithub.mottie/tablesorter@2.27.7?classifier=sources
+- pkg:maven/org.webjars.bowergithub.mottie/tablesorter@2.30.3
+- pkg:maven/org.webjars.bowergithub.mottie/tablesorter@2.30.3?classifier=sources

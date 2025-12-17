@@ -1,2 +1,4 @@
 - pkg:maven/net.savantly/spring-fixtures@0.0.1-RELEASE
 - pkg:maven/net.savantly/spring-fixtures@0.0.1-RELEASE?classifier=sources
+- pkg:maven/net.savantly/spring-fixtures@1.0.0-RELEASE
+- pkg:maven/net.savantly/spring-fixtures@1.0.0-RELEASE?classifier=sources

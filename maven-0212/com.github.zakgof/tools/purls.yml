@@ -2,3 +2,5 @@
 - pkg:maven/com.github.zakgof/tools@0.3.2?classifier=sources
 - pkg:maven/com.github.zakgof/tools@0.3.3.android
 - pkg:maven/com.github.zakgof/tools@0.3.3.android?classifier=sources
+- pkg:maven/com.github.zakgof/tools@0.4.0
+- pkg:maven/com.github.zakgof/tools@0.4.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/ws.ament.hammock/bootstrap-weld3@1.5?classifier=sources
 - pkg:maven/ws.ament.hammock/bootstrap-weld3@2.0
 - pkg:maven/ws.ament.hammock/bootstrap-weld3@2.0?classifier=sources
+- pkg:maven/ws.ament.hammock/bootstrap-weld3@2.1
+- pkg:maven/ws.ament.hammock/bootstrap-weld3@2.1?classifier=sources

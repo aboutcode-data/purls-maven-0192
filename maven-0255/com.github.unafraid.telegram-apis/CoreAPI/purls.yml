@@ -1,0 +1,2 @@
+- pkg:maven/com.github.unafraid.telegram-apis/CoreAPI@1.0.2
+- pkg:maven/com.github.unafraid.telegram-apis/CoreAPI@1.0.2?classifier=sources

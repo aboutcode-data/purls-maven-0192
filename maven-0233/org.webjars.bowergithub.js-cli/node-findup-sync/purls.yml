@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.js-cli/node-findup-sync@0.4.2
+- pkg:maven/org.webjars.bowergithub.js-cli/node-findup-sync@0.4.2?classifier=sources

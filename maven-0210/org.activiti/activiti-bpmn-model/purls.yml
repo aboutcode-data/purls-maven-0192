@@ -60,3 +60,7 @@
 - pkg:maven/org.activiti/activiti-bpmn-model@7-201711-EA?classifier=sources
 - pkg:maven/org.activiti/activiti-bpmn-model@7-201712-EA
 - pkg:maven/org.activiti/activiti-bpmn-model@7-201712-EA?classifier=sources
+- pkg:maven/org.activiti/activiti-bpmn-model@7-201801-EA
+- pkg:maven/org.activiti/activiti-bpmn-model@7-201801-EA?classifier=sources
+- pkg:maven/org.activiti/activiti-bpmn-model@7-201802-EA
+- pkg:maven/org.activiti/activiti-bpmn-model@7-201802-EA?classifier=sources

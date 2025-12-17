@@ -1,0 +1,2 @@
+- pkg:maven/com.networknt/datasource@1.5.15
+- pkg:maven/com.networknt/datasource@1.5.15?classifier=sources

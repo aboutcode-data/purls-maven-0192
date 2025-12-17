@@ -1,2 +1,4 @@
 - pkg:maven/ru.noties/lazy@1.0.0
 - pkg:maven/ru.noties/lazy@1.0.0?classifier=sources
+- pkg:maven/ru.noties/lazy@1.1.0
+- pkg:maven/ru.noties/lazy@1.1.0?classifier=sources

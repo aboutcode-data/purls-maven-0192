@@ -1,0 +1,8 @@
+- pkg:maven/cz.net21.ttulka.recexp/recursive-expressions@0.0.0-beta
+- pkg:maven/cz.net21.ttulka.recexp/recursive-expressions@0.0.0-beta?classifier=sources
+- pkg:maven/cz.net21.ttulka.recexp/recursive-expressions@0.0.1-beta
+- pkg:maven/cz.net21.ttulka.recexp/recursive-expressions@0.0.1-beta?classifier=sources
+- pkg:maven/cz.net21.ttulka.recexp/recursive-expressions@0.0.2-beta
+- pkg:maven/cz.net21.ttulka.recexp/recursive-expressions@0.0.2-beta?classifier=sources
+- pkg:maven/cz.net21.ttulka.recexp/recursive-expressions@1.0.0
+- pkg:maven/cz.net21.ttulka.recexp/recursive-expressions@1.0.0?classifier=sources

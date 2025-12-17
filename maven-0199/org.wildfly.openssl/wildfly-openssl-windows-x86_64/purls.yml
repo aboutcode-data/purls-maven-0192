@@ -14,3 +14,6 @@
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-windows-x86_64@1.0.1.Final
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-windows-x86_64@1.0.2.Final
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-windows-x86_64@1.0.3.Final
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-windows-x86_64@1.0.4.Final
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-windows-x86_64@1.0.5.Final
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-windows-x86_64@1.0.6.Final

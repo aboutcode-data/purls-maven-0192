@@ -1,0 +1,2 @@
+- pkg:maven/is.cir/ciris-refined_native0.3_2.11@0.10.0
+- pkg:maven/is.cir/ciris-refined_native0.3_2.11@0.10.0?classifier=sources

@@ -1,4 +1,12 @@
 - pkg:maven/org.combinators/cls-scala-presentation-play-git_2.12@1.0.0-RC1
 - pkg:maven/org.combinators/cls-scala-presentation-play-git_2.12@1.0.0-RC1%2B1-00659e19
 - pkg:maven/org.combinators/cls-scala-presentation-play-git_2.12@1.0.0-RC1%2B1-00659e19?classifier=sources
+- pkg:maven/org.combinators/cls-scala-presentation-play-git_2.12@1.0.0-RC1%2B3-c1845815
+- pkg:maven/org.combinators/cls-scala-presentation-play-git_2.12@1.0.0-RC1%2B3-c1845815?classifier=sources
+- pkg:maven/org.combinators/cls-scala-presentation-play-git_2.12@1.0.0-RC1%2B4-9e43a41d
+- pkg:maven/org.combinators/cls-scala-presentation-play-git_2.12@1.0.0-RC1%2B4-9e43a41d?classifier=sources
+- pkg:maven/org.combinators/cls-scala-presentation-play-git_2.12@1.0.0-RC1%2B7-039ae932
+- pkg:maven/org.combinators/cls-scala-presentation-play-git_2.12@1.0.0-RC1%2B7-039ae932?classifier=sources
+- pkg:maven/org.combinators/cls-scala-presentation-play-git_2.12@1.0.0-RC1%2B8-63d5cf0b
+- pkg:maven/org.combinators/cls-scala-presentation-play-git_2.12@1.0.0-RC1%2B8-63d5cf0b?classifier=sources
 - pkg:maven/org.combinators/cls-scala-presentation-play-git_2.12@1.0.0-RC1?classifier=sources

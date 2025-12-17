@@ -11,3 +11,5 @@
 - pkg:maven/br.com.ppm/ppm-commons@2.0.2?classifier=sources
 - pkg:maven/br.com.ppm/ppm-commons@2.0.3
 - pkg:maven/br.com.ppm/ppm-commons@2.0.3?classifier=sources
+- pkg:maven/br.com.ppm/ppm-commons@2.1.0
+- pkg:maven/br.com.ppm/ppm-commons@2.1.0?classifier=sources

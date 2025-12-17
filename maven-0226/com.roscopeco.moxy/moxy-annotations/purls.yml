@@ -1,0 +1,4 @@
+- pkg:maven/com.roscopeco.moxy/moxy-annotations@0.88.0
+- pkg:maven/com.roscopeco.moxy/moxy-annotations@0.88.0?classifier=sources
+- pkg:maven/com.roscopeco.moxy/moxy-annotations@0.88.1
+- pkg:maven/com.roscopeco.moxy/moxy-annotations@0.88.1?classifier=sources

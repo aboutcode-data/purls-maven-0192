@@ -1,0 +1,2 @@
+- pkg:maven/org.uma.jmetalsp/jmetalsp-observeddata@2.0
+- pkg:maven/org.uma.jmetalsp/jmetalsp-observeddata@2.0?classifier=sources

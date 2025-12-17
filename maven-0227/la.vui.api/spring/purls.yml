@@ -1,0 +1,2 @@
+- pkg:maven/la.vui.api/spring@1.0.0
+- pkg:maven/la.vui.api/spring@1.0.0?classifier=sources

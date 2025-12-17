@@ -1,0 +1,6 @@
+- pkg:maven/net.amygdalum/testrecorder-runtime@0.5.0
+- pkg:maven/net.amygdalum/testrecorder-runtime@0.5.0?classifier=sources
+- pkg:maven/net.amygdalum/testrecorder-runtime@0.6.0
+- pkg:maven/net.amygdalum/testrecorder-runtime@0.6.0?classifier=sources
+- pkg:maven/net.amygdalum/testrecorder-runtime@0.7.0
+- pkg:maven/net.amygdalum/testrecorder-runtime@0.7.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.lucee/commons-io@2.1
 - pkg:maven/org.lucee/commons-io@2.4.0
+- pkg:maven/org.lucee/commons-io@2.5.0
+- pkg:maven/org.lucee/commons-io@2.6.0

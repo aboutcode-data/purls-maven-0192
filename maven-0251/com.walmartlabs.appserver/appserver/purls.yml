@@ -1,0 +1,2 @@
+- pkg:maven/com.walmartlabs.appserver/appserver@0.0.10?classifier=sources
+- pkg:maven/com.walmartlabs.appserver/appserver@0.0.8?classifier=sources

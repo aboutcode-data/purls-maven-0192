@@ -1,0 +1,4 @@
+- pkg:maven/com.mpobjects.jasperreports.font/jasperreports-fonts-noto@2017.10.25
+- pkg:maven/com.mpobjects.jasperreports.font/jasperreports-fonts-noto@2017.10.25.1
+- pkg:maven/com.mpobjects.jasperreports.font/jasperreports-fonts-noto@2017.10.25.1?classifier=sources
+- pkg:maven/com.mpobjects.jasperreports.font/jasperreports-fonts-noto@2017.10.25?classifier=sources

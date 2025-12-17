@@ -1,0 +1,2 @@
+- pkg:maven/com.signalfx.public/signalfx-azure-functions@0.0.1
+- pkg:maven/com.signalfx.public/signalfx-azure-functions@0.0.1?classifier=sources

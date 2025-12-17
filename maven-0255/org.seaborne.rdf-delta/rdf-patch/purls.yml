@@ -1,0 +1,2 @@
+- pkg:maven/org.seaborne.rdf-delta/rdf-patch@0.4.0
+- pkg:maven/org.seaborne.rdf-delta/rdf-patch@0.4.0?classifier=sources

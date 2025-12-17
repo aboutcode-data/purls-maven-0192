@@ -1,0 +1,4 @@
+- pkg:maven/in.erail/glue@1.0
+- pkg:maven/in.erail/glue@1.0?classifier=sources
+- pkg:maven/in.erail/glue@2.1
+- pkg:maven/in.erail/glue@2.1?classifier=sources

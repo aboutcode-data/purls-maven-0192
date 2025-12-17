@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/types__codemirror@0.0.56
+- pkg:maven/org.webjars.npm/types__codemirror@0.0.56?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.lambdify/lambdify-jackson@0.6.0.Final
+- pkg:maven/org.lambdify/lambdify-jackson@0.6.0.Final?classifier=sources

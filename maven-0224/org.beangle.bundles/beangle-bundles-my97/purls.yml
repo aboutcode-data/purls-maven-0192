@@ -1,0 +1,2 @@
+- pkg:maven/org.beangle.bundles/beangle-bundles-my97@4.8
+- pkg:maven/org.beangle.bundles/beangle-bundles-my97@4.8?classifier=sources

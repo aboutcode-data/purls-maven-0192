@@ -1,0 +1,2 @@
+- pkg:maven/com.github.masonm/wiremock-stub-mapping-tracker@0.1
+- pkg:maven/com.github.masonm/wiremock-stub-mapping-tracker@0.1?classifier=sources

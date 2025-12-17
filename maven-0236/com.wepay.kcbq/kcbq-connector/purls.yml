@@ -2,3 +2,5 @@
 - pkg:maven/com.wepay.kcbq/kcbq-connector@0.4.0?classifier=sources
 - pkg:maven/com.wepay.kcbq/kcbq-connector@1.0.0
 - pkg:maven/com.wepay.kcbq/kcbq-connector@1.0.0?classifier=sources
+- pkg:maven/com.wepay.kcbq/kcbq-connector@1.1.0
+- pkg:maven/com.wepay.kcbq/kcbq-connector@1.1.0?classifier=sources

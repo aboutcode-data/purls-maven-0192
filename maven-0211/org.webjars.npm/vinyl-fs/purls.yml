@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.npm/vinyl-fs@0.3.13
 - pkg:maven/org.webjars.npm/vinyl-fs@0.3.13?classifier=sources
+- pkg:maven/org.webjars.npm/vinyl-fs@0.3.14
+- pkg:maven/org.webjars.npm/vinyl-fs@0.3.14?classifier=sources
 - pkg:maven/org.webjars.npm/vinyl-fs@1.0.0
 - pkg:maven/org.webjars.npm/vinyl-fs@1.0.0?classifier=sources

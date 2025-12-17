@@ -54,3 +54,5 @@
 - pkg:maven/org.trimou/trimou-extension-minify@2.3.0.Final?classifier=sources
 - pkg:maven/org.trimou/trimou-extension-minify@2.4.0.Final
 - pkg:maven/org.trimou/trimou-extension-minify@2.4.0.Final?classifier=sources
+- pkg:maven/org.trimou/trimou-extension-minify@2.5.0.Final
+- pkg:maven/org.trimou/trimou-extension-minify@2.5.0.Final?classifier=sources

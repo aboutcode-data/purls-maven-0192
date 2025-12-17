@@ -1,0 +1,2 @@
+- pkg:maven/io.shardingsphere/sharding-opentracing@3.0.0.M1
+- pkg:maven/io.shardingsphere/sharding-opentracing@3.0.0.M1?classifier=sources

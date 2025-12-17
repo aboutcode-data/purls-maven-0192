@@ -4,3 +4,7 @@
 - pkg:maven/com.upplication/cordova-java@6.1.2?classifier=sources
 - pkg:maven/com.upplication/cordova-java@6.5.0
 - pkg:maven/com.upplication/cordova-java@6.5.0?classifier=sources
+- pkg:maven/com.upplication/cordova-java@8.0.0
+- pkg:maven/com.upplication/cordova-java@8.0.0?classifier=sources
+- pkg:maven/com.upplication/cordova-java@8.0.1
+- pkg:maven/com.upplication/cordova-java@8.0.1?classifier=sources

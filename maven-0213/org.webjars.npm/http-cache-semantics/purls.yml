@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/http-cache-semantics@3.8.1
+- pkg:maven/org.webjars.npm/http-cache-semantics@3.8.1?classifier=sources

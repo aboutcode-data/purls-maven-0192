@@ -1,0 +1,2 @@
+- pkg:maven/ru.gladorange/oas-gen-maven-plugin@1.0
+- pkg:maven/ru.gladorange/oas-gen-maven-plugin@1.0?classifier=sources

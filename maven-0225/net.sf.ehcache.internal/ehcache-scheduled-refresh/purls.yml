@@ -10,6 +10,8 @@
 - pkg:maven/net.sf.ehcache.internal/ehcache-scheduled-refresh@2.10.3?classifier=sources
 - pkg:maven/net.sf.ehcache.internal/ehcache-scheduled-refresh@2.10.4
 - pkg:maven/net.sf.ehcache.internal/ehcache-scheduled-refresh@2.10.4?classifier=sources
+- pkg:maven/net.sf.ehcache.internal/ehcache-scheduled-refresh@2.10.5
+- pkg:maven/net.sf.ehcache.internal/ehcache-scheduled-refresh@2.10.5?classifier=sources
 - pkg:maven/net.sf.ehcache.internal/ehcache-scheduled-refresh@2.7.1
 - pkg:maven/net.sf.ehcache.internal/ehcache-scheduled-refresh@2.7.1?classifier=sources
 - pkg:maven/net.sf.ehcache.internal/ehcache-scheduled-refresh@2.7.2

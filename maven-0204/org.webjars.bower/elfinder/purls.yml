@@ -18,5 +18,7 @@
 - pkg:maven/org.webjars.bower/elfinder@2.1.23?classifier=sources
 - pkg:maven/org.webjars.bower/elfinder@2.1.28
 - pkg:maven/org.webjars.bower/elfinder@2.1.28?classifier=sources
+- pkg:maven/org.webjars.bower/elfinder@2.1.39
+- pkg:maven/org.webjars.bower/elfinder@2.1.39?classifier=sources
 - pkg:maven/org.webjars.bower/elfinder@2.1.9
 - pkg:maven/org.webjars.bower/elfinder@2.1.9?classifier=sources

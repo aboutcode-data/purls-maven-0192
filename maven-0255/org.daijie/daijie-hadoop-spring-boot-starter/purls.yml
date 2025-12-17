@@ -1,0 +1,4 @@
+- pkg:maven/org.daijie/daijie-hadoop-spring-boot-starter@1.1.0-RELEASE
+- pkg:maven/org.daijie/daijie-hadoop-spring-boot-starter@1.1.0-RELEASE?classifier=sources
+- pkg:maven/org.daijie/daijie-hadoop-spring-boot-starter@1.1.1-RELEASE
+- pkg:maven/org.daijie/daijie-hadoop-spring-boot-starter@1.1.1-RELEASE?classifier=sources

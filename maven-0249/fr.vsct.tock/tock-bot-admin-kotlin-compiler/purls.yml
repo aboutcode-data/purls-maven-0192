@@ -1,0 +1,2 @@
+- pkg:maven/fr.vsct.tock/tock-bot-admin-kotlin-compiler@0.8.2
+- pkg:maven/fr.vsct.tock/tock-bot-admin-kotlin-compiler@0.8.2?classifier=sources

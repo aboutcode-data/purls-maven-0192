@@ -70,3 +70,10 @@
 - pkg:maven/org.spf4j/spf4j-benchmarks@8.3.7
 - pkg:maven/org.spf4j/spf4j-benchmarks@8.3.8
 - pkg:maven/org.spf4j/spf4j-benchmarks@8.3.9
+- pkg:maven/org.spf4j/spf4j-benchmarks@8.4.0
+- pkg:maven/org.spf4j/spf4j-benchmarks@8.4.1
+- pkg:maven/org.spf4j/spf4j-benchmarks@8.4.2
+- pkg:maven/org.spf4j/spf4j-benchmarks@8.4.4
+- pkg:maven/org.spf4j/spf4j-benchmarks@8.4.6
+- pkg:maven/org.spf4j/spf4j-benchmarks@8.4.7
+- pkg:maven/org.spf4j/spf4j-benchmarks@8.4.9

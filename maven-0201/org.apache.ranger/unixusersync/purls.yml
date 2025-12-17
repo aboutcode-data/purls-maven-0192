@@ -4,3 +4,4 @@
 - pkg:maven/org.apache.ranger/unixusersync@0.6.3
 - pkg:maven/org.apache.ranger/unixusersync@0.7.0
 - pkg:maven/org.apache.ranger/unixusersync@0.7.1
+- pkg:maven/org.apache.ranger/unixusersync@1.0.0

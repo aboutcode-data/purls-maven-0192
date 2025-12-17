@@ -1,0 +1,8 @@
+- pkg:maven/com.alipay.jarslink/jarslink-api@1.5.0.20171107
+- pkg:maven/com.alipay.jarslink/jarslink-api@1.5.0.20171107?classifier=sources
+- pkg:maven/com.alipay.jarslink/jarslink-api@1.5.0.20180213
+- pkg:maven/com.alipay.jarslink/jarslink-api@1.5.0.20180213?classifier=sources
+- pkg:maven/com.alipay.jarslink/jarslink-api@1.5.0.20180217
+- pkg:maven/com.alipay.jarslink/jarslink-api@1.5.0.20180217?classifier=sources
+- pkg:maven/com.alipay.jarslink/jarslink-api@1.6.1.20180301
+- pkg:maven/com.alipay.jarslink/jarslink-api@1.6.1.20180301?classifier=sources

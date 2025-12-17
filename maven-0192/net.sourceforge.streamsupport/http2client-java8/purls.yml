@@ -1,0 +1,2 @@
+- pkg:maven/net.sourceforge.streamsupport/http2client-java8@0.1.1
+- pkg:maven/net.sourceforge.streamsupport/http2client-java8@0.1.1?classifier=sources

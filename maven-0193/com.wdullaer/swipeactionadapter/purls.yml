@@ -16,3 +16,5 @@
 - pkg:maven/com.wdullaer/swipeactionadapter@1.4.4?type=aar
 - pkg:maven/com.wdullaer/swipeactionadapter@2.0.0?classifier=sources
 - pkg:maven/com.wdullaer/swipeactionadapter@2.0.0?type=aar
+- pkg:maven/com.wdullaer/swipeactionadapter@2.1.0?classifier=sources
+- pkg:maven/com.wdullaer/swipeactionadapter@2.1.0?type=aar

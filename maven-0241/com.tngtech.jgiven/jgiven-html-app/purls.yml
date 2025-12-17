@@ -6,3 +6,5 @@
 - pkg:maven/com.tngtech.jgiven/jgiven-html-app@0.15.2?classifier=sources
 - pkg:maven/com.tngtech.jgiven/jgiven-html-app@0.15.3
 - pkg:maven/com.tngtech.jgiven/jgiven-html-app@0.15.3?classifier=sources
+- pkg:maven/com.tngtech.jgiven/jgiven-html-app@0.16.0
+- pkg:maven/com.tngtech.jgiven/jgiven-html-app@0.16.0?classifier=sources

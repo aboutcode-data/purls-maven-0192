@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/github-com-apiaryio-fury-adapter-swagger@0.18.3
+- pkg:maven/org.webjars.npm/github-com-apiaryio-fury-adapter-swagger@0.18.3?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-apiaryio-fury-adapter-swagger@0.18.4
+- pkg:maven/org.webjars.npm/github-com-apiaryio-fury-adapter-swagger@0.18.4?classifier=sources

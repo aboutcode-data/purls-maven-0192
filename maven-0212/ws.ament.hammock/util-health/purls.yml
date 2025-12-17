@@ -1,2 +1,4 @@
 - pkg:maven/ws.ament.hammock/util-health@2.0
 - pkg:maven/ws.ament.hammock/util-health@2.0?classifier=sources
+- pkg:maven/ws.ament.hammock/util-health@2.1
+- pkg:maven/ws.ament.hammock/util-health@2.1?classifier=sources

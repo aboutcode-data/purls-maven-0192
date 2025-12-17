@@ -1,0 +1,2 @@
+- pkg:maven/org.trellisldp/trellis-rdfa@0.7.0
+- pkg:maven/org.trellisldp/trellis-rdfa@0.7.0?classifier=sources

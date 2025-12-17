@@ -1,0 +1,4 @@
+- pkg:maven/com.linecorp.centraldogma/centraldogma-client-java-spring-boot1-autoconfigure@0.23.0?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-client-java-spring-boot1-autoconfigure@0.24.0?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-client-java-spring-boot1-autoconfigure@0.25.0?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-client-java-spring-boot1-autoconfigure@0.26.0?classifier=sources

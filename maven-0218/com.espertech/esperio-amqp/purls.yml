@@ -36,3 +36,5 @@
 - pkg:maven/com.espertech/esperio-amqp@7.0.0-beta3
 - pkg:maven/com.espertech/esperio-amqp@7.0.0-beta3?classifier=sources
 - pkg:maven/com.espertech/esperio-amqp@7.0.0?classifier=sources
+- pkg:maven/com.espertech/esperio-amqp@7.1.0
+- pkg:maven/com.espertech/esperio-amqp@7.1.0?classifier=sources

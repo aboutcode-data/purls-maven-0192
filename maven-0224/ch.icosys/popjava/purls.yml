@@ -1,0 +1,6 @@
+- pkg:maven/ch.icosys/popjava@1.5
+- pkg:maven/ch.icosys/popjava@1.5.1
+- pkg:maven/ch.icosys/popjava@1.5.1?classifier=sources
+- pkg:maven/ch.icosys/popjava@1.5.2
+- pkg:maven/ch.icosys/popjava@1.5.2?classifier=sources
+- pkg:maven/ch.icosys/popjava@1.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.ripple.cryptoconditions/jackson-datatype-cryptoconditions@1.0.3
+- pkg:maven/com.ripple.cryptoconditions/jackson-datatype-cryptoconditions@1.0.3?classifier=sources
