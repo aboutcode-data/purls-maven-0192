@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-tedliang-select2@4.0.4-rc1
+- pkg:maven/org.webjars.npm/github-com-tedliang-select2@4.0.4-rc1?classifier=sources

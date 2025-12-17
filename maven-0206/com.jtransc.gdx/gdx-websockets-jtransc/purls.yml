@@ -8,3 +8,5 @@
 - pkg:maven/com.jtransc.gdx/gdx-websockets-jtransc@0.5.0?classifier=sources
 - pkg:maven/com.jtransc.gdx/gdx-websockets-jtransc@0.6.2
 - pkg:maven/com.jtransc.gdx/gdx-websockets-jtransc@0.6.2?classifier=sources
+- pkg:maven/com.jtransc.gdx/gdx-websockets-jtransc@0.6.7
+- pkg:maven/com.jtransc.gdx/gdx-websockets-jtransc@0.6.7?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.definitylabs.flue2ent/flue2ent-test@1.0.0
+- pkg:maven/org.definitylabs.flue2ent/flue2ent-test@1.0.0?classifier=sources

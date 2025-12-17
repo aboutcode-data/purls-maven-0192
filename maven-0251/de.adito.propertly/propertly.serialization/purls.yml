@@ -1,2 +1,4 @@
 - pkg:maven/de.adito.propertly/propertly.serialization@0.4
+- pkg:maven/de.adito.propertly/propertly.serialization@0.4.1
+- pkg:maven/de.adito.propertly/propertly.serialization@0.4.1?classifier=sources
 - pkg:maven/de.adito.propertly/propertly.serialization@0.4?classifier=sources

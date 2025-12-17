@@ -10,5 +10,9 @@
 - pkg:maven/com.sdl.dxa.modules/dxa-module-mediamanager@1.6.0?classifier=sources
 - pkg:maven/com.sdl.dxa.modules/dxa-module-mediamanager@1.7.0
 - pkg:maven/com.sdl.dxa.modules/dxa-module-mediamanager@1.7.0?classifier=sources
+- pkg:maven/com.sdl.dxa.modules/dxa-module-mediamanager@1.8.0
+- pkg:maven/com.sdl.dxa.modules/dxa-module-mediamanager@1.8.0?classifier=sources
 - pkg:maven/com.sdl.dxa.modules/dxa-module-mediamanager@2.0.0-CTP1
 - pkg:maven/com.sdl.dxa.modules/dxa-module-mediamanager@2.0.0-CTP1?classifier=sources
+- pkg:maven/com.sdl.dxa.modules/dxa-module-mediamanager@2.0.0-CTP2
+- pkg:maven/com.sdl.dxa.modules/dxa-module-mediamanager@2.0.0-CTP2?classifier=sources

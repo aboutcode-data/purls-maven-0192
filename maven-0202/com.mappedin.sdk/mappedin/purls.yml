@@ -1,4 +1,11 @@
 - pkg:maven/com.mappedin.sdk/mappedin@0.1.0?type=aar
+- pkg:maven/com.mappedin.sdk/mappedin@0.10.0-RC1?type=aar
+- pkg:maven/com.mappedin.sdk/mappedin@0.10.0-RC2?type=aar
+- pkg:maven/com.mappedin.sdk/mappedin@0.10.0-RC3?type=aar
+- pkg:maven/com.mappedin.sdk/mappedin@0.10.0-RC4?type=aar
+- pkg:maven/com.mappedin.sdk/mappedin@0.10.0-RC5?type=aar
+- pkg:maven/com.mappedin.sdk/mappedin@0.10.0-RC6?type=aar
+- pkg:maven/com.mappedin.sdk/mappedin@0.11.0?type=aar
 - pkg:maven/com.mappedin.sdk/mappedin@0.2.0?type=aar
 - pkg:maven/com.mappedin.sdk/mappedin@0.2.1?type=aar
 - pkg:maven/com.mappedin.sdk/mappedin@0.3.0?type=aar

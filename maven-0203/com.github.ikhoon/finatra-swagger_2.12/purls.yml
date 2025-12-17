@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ikhoon/finatra-swagger_2.12@2.13.0
+- pkg:maven/com.github.ikhoon/finatra-swagger_2.12@2.13.0?classifier=sources

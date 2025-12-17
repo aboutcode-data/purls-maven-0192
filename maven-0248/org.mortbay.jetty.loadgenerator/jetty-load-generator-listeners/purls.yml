@@ -1,0 +1,2 @@
+- pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-listeners@1.0.0-BETA0
+- pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-listeners@1.0.0-BETA0?classifier=sources

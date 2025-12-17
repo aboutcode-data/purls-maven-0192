@@ -16,3 +16,9 @@
 - pkg:maven/com.facebook.android/account-kit-sdk@4.22.0?type=aar
 - pkg:maven/com.facebook.android/account-kit-sdk@4.22.1?type=aar
 - pkg:maven/com.facebook.android/account-kit-sdk@4.23.0?type=aar
+- pkg:maven/com.facebook.android/account-kit-sdk@4.24.0?type=aar
+- pkg:maven/com.facebook.android/account-kit-sdk@4.25.0?type=aar
+- pkg:maven/com.facebook.android/account-kit-sdk@4.26.0?type=aar
+- pkg:maven/com.facebook.android/account-kit-sdk@4.27.0?type=aar
+- pkg:maven/com.facebook.android/account-kit-sdk@4.28.0?type=aar
+- pkg:maven/com.facebook.android/account-kit-sdk@4.29.0?type=aar

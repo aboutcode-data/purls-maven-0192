@@ -1,0 +1,6 @@
+- pkg:maven/org.bitbucket.ibencher/vagabond@1.0
+- pkg:maven/org.bitbucket.ibencher/vagabond@1.0-RELEASE
+- pkg:maven/org.bitbucket.ibencher/vagabond@1.0-RELEASE?classifier=sources
+- pkg:maven/org.bitbucket.ibencher/vagabond@1.0.1
+- pkg:maven/org.bitbucket.ibencher/vagabond@1.0.1?classifier=sources
+- pkg:maven/org.bitbucket.ibencher/vagabond@1.0?classifier=sources

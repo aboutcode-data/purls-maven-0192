@@ -8,3 +8,7 @@
 - pkg:maven/org.webjars.bower/video.js@5.10.7?classifier=sources
 - pkg:maven/org.webjars.bower/video.js@5.4.4
 - pkg:maven/org.webjars.bower/video.js@5.4.4?classifier=sources
+- pkg:maven/org.webjars.bower/video.js@6.2.8
+- pkg:maven/org.webjars.bower/video.js@6.2.8?classifier=sources
+- pkg:maven/org.webjars.bower/video.js@6.3.2
+- pkg:maven/org.webjars.bower/video.js@6.3.2?classifier=sources

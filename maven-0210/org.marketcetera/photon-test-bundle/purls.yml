@@ -2,3 +2,4 @@
 - pkg:maven/org.marketcetera/photon-test-bundle@2.4.0
 - pkg:maven/org.marketcetera/photon-test-bundle@2.4.1
 - pkg:maven/org.marketcetera/photon-test-bundle@2.4.2
+- pkg:maven/org.marketcetera/photon-test-bundle@3.0.12

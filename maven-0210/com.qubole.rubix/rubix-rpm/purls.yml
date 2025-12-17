@@ -1,0 +1,2 @@
+- pkg:maven/com.qubole.rubix/rubix-rpm@0.2.12
+- pkg:maven/com.qubole.rubix/rubix-rpm@0.2.12?classifier=sources

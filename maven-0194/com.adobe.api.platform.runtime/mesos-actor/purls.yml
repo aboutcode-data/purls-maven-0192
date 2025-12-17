@@ -1,0 +1,2 @@
+- pkg:maven/com.adobe.api.platform.runtime/mesos-actor@0.0.3
+- pkg:maven/com.adobe.api.platform.runtime/mesos-actor@0.0.3?classifier=sources

@@ -4,3 +4,9 @@
 - pkg:maven/org.springframework.data/spring-data-geode@1.0.0.APACHE-GEODE-INCUBATING-M3?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-geode@1.0.0.INCUBATING-RELEASE
 - pkg:maven/org.springframework.data/spring-data-geode@1.0.0.INCUBATING-RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-geode@2.0.0.RELEASE
+- pkg:maven/org.springframework.data/spring-data-geode@2.0.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-geode@2.0.1.RELEASE
+- pkg:maven/org.springframework.data/spring-data-geode@2.0.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-geode@2.0.2.RELEASE
+- pkg:maven/org.springframework.data/spring-data-geode@2.0.2.RELEASE?classifier=sources

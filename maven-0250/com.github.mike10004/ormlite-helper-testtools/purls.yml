@@ -20,3 +20,5 @@
 - pkg:maven/com.github.mike10004/ormlite-helper-testtools@5.1.0?classifier=sources
 - pkg:maven/com.github.mike10004/ormlite-helper-testtools@6.0.0
 - pkg:maven/com.github.mike10004/ormlite-helper-testtools@6.0.0?classifier=sources
+- pkg:maven/com.github.mike10004/ormlite-helper-testtools@7.0.0
+- pkg:maven/com.github.mike10004/ormlite-helper-testtools@7.0.0?classifier=sources

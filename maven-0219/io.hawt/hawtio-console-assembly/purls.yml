@@ -1,2 +1,4 @@
 - pkg:maven/io.hawt/hawtio-console-assembly@2.0-M1
 - pkg:maven/io.hawt/hawtio-console-assembly@2.0-M2
+- pkg:maven/io.hawt/hawtio-console-assembly@2.0-M3
+- pkg:maven/io.hawt/hawtio-console-assembly@2.0-beta-1

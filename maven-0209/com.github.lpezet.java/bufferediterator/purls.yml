@@ -1,0 +1,2 @@
+- pkg:maven/com.github.lpezet.java/bufferediterator@0.0.2
+- pkg:maven/com.github.lpezet.java/bufferediterator@0.0.2?classifier=sources

@@ -1,3 +1,5 @@
 - pkg:maven/com.github.galigator.openllet/openllet-test@2.5.1
 - pkg:maven/com.github.galigator.openllet/openllet-test@2.6.0
 - pkg:maven/com.github.galigator.openllet/openllet-test@2.6.1
+- pkg:maven/com.github.galigator.openllet/openllet-test@2.6.2
+- pkg:maven/com.github.galigator.openllet/openllet-test@2.6.3

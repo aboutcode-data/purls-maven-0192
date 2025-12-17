@@ -1,0 +1,2 @@
+- pkg:maven/com.tlaloc-es/simpleapi@0.0.1
+- pkg:maven/com.tlaloc-es/simpleapi@0.0.1?classifier=sources

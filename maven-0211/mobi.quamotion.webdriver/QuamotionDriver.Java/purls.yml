@@ -1,0 +1,10 @@
+- pkg:maven/mobi.quamotion.webdriver/QuamotionDriver.Java@0.1.28
+- pkg:maven/mobi.quamotion.webdriver/QuamotionDriver.Java@0.1.28?classifier=sources
+- pkg:maven/mobi.quamotion.webdriver/QuamotionDriver.Java@0.1.29
+- pkg:maven/mobi.quamotion.webdriver/QuamotionDriver.Java@0.1.29?classifier=sources
+- pkg:maven/mobi.quamotion.webdriver/QuamotionDriver.Java@0.79.30
+- pkg:maven/mobi.quamotion.webdriver/QuamotionDriver.Java@0.79.30?classifier=sources
+- pkg:maven/mobi.quamotion.webdriver/QuamotionDriver.Java@0.79.31
+- pkg:maven/mobi.quamotion.webdriver/QuamotionDriver.Java@0.79.31?classifier=sources
+- pkg:maven/mobi.quamotion.webdriver/QuamotionDriver.Java@0.79.32
+- pkg:maven/mobi.quamotion.webdriver/QuamotionDriver.Java@0.79.32?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.core.runtime@3.12.0
 - pkg:maven/org.eclipse.platform/org.eclipse.core.runtime@3.12.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.core.runtime@3.13.0
+- pkg:maven/org.eclipse.platform/org.eclipse.core.runtime@3.13.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.bower/github-com-vaadin-vaadin-valo-theme@v0.3.2
+- pkg:maven/org.webjars.bower/github-com-vaadin-vaadin-valo-theme@v0.3.2?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-vaadin-vaadin-valo-theme@v2.0.0-alpha2
+- pkg:maven/org.webjars.bower/github-com-vaadin-vaadin-valo-theme@v2.0.0-alpha2?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-vaadin-vaadin-valo-theme@v2.0.0-alpha4
+- pkg:maven/org.webjars.bower/github-com-vaadin-vaadin-valo-theme@v2.0.0-alpha4?classifier=sources

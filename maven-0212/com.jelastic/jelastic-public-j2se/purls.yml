@@ -26,3 +26,7 @@
 - pkg:maven/com.jelastic/jelastic-public-j2se@5.0.5?classifier=sources
 - pkg:maven/com.jelastic/jelastic-public-j2se@5.0.6
 - pkg:maven/com.jelastic/jelastic-public-j2se@5.0.6?classifier=sources
+- pkg:maven/com.jelastic/jelastic-public-j2se@5.1
+- pkg:maven/com.jelastic/jelastic-public-j2se@5.1?classifier=sources
+- pkg:maven/com.jelastic/jelastic-public-j2se@5.3
+- pkg:maven/com.jelastic/jelastic-public-j2se@5.3?classifier=sources

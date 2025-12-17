@@ -1,2 +1,6 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.debug.ui@3.11.202
 - pkg:maven/org.eclipse.platform/org.eclipse.debug.ui@3.11.202?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.debug.ui@3.12.0
+- pkg:maven/org.eclipse.platform/org.eclipse.debug.ui@3.12.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.debug.ui@3.12.50
+- pkg:maven/org.eclipse.platform/org.eclipse.debug.ui@3.12.50?classifier=sources

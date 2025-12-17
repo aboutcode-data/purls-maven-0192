@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-SAP-openui5@1.44.15
+- pkg:maven/org.webjars.npm/github-com-SAP-openui5@1.44.15?classifier=sources

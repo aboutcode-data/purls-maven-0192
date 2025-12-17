@@ -1,0 +1,2 @@
+- pkg:maven/fi.sn127/dirsuite_2.12@0.7.0
+- pkg:maven/fi.sn127/dirsuite_2.12@0.7.0?classifier=sources

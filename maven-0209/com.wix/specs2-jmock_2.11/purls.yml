@@ -10,3 +10,7 @@
 - pkg:maven/com.wix/specs2-jmock_2.11@0.1.21?classifier=sources
 - pkg:maven/com.wix/specs2-jmock_2.11@1.0.0
 - pkg:maven/com.wix/specs2-jmock_2.11@1.0.0?classifier=sources
+- pkg:maven/com.wix/specs2-jmock_2.11@1.1.0
+- pkg:maven/com.wix/specs2-jmock_2.11@1.1.0?classifier=sources
+- pkg:maven/com.wix/specs2-jmock_2.11@1.2.0
+- pkg:maven/com.wix/specs2-jmock_2.11@1.2.0?classifier=sources

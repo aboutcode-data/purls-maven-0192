@@ -1,0 +1,2 @@
+- pkg:maven/de.wicketbuch.extensions.animatedajaxcontainer/animatedajaxcontainer-examples@1.0.0.wicket7?classifier=sources
+- pkg:maven/de.wicketbuch.extensions.animatedajaxcontainer/animatedajaxcontainer-examples@1.0.0.wicket7?type=war

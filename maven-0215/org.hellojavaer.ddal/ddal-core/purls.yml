@@ -1,0 +1,4 @@
+- pkg:maven/org.hellojavaer.ddal/ddal-core@1.0.0.M6
+- pkg:maven/org.hellojavaer.ddal/ddal-core@1.0.0.M6?classifier=sources
+- pkg:maven/org.hellojavaer.ddal/ddal-core@1.0.0.M7
+- pkg:maven/org.hellojavaer.ddal/ddal-core@1.0.0.M7?classifier=sources

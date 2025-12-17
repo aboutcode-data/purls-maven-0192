@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.core@2.4.100
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.core@2.4.100?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.core@2.4.101
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.core@2.4.101?classifier=sources

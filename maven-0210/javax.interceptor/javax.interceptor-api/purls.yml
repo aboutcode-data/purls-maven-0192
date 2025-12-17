@@ -11,4 +11,6 @@
 - pkg:maven/javax.interceptor/javax.interceptor-api@1.2-b05?classifier=sources
 - pkg:maven/javax.interceptor/javax.interceptor-api@1.2-b06
 - pkg:maven/javax.interceptor/javax.interceptor-api@1.2-b06?classifier=sources
+- pkg:maven/javax.interceptor/javax.interceptor-api@1.2.1
+- pkg:maven/javax.interceptor/javax.interceptor-api@1.2.1?classifier=sources
 - pkg:maven/javax.interceptor/javax.interceptor-api@1.2?classifier=sources

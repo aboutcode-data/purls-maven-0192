@@ -1,0 +1,2 @@
+- pkg:maven/nl.paultegelaar.liquid.relay/RelayInterfaces@1.0.1
+- pkg:maven/nl.paultegelaar.liquid.relay/RelayInterfaces@1.0.1?classifier=sources

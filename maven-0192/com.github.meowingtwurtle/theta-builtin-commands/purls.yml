@@ -1,0 +1,8 @@
+- pkg:maven/com.github.meowingtwurtle/theta-builtin-commands@0577f83
+- pkg:maven/com.github.meowingtwurtle/theta-builtin-commands@0577f83?classifier=sources
+- pkg:maven/com.github.meowingtwurtle/theta-builtin-commands@201801041800
+- pkg:maven/com.github.meowingtwurtle/theta-builtin-commands@201801041800?classifier=sources
+- pkg:maven/com.github.meowingtwurtle/theta-builtin-commands@201801060201
+- pkg:maven/com.github.meowingtwurtle/theta-builtin-commands@201801060201?classifier=sources
+- pkg:maven/com.github.meowingtwurtle/theta-builtin-commands@a9f86ec
+- pkg:maven/com.github.meowingtwurtle/theta-builtin-commands@a9f86ec?classifier=sources

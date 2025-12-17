@@ -1,0 +1,2 @@
+- pkg:maven/com.sap.cloud.lm.sl/com.sap.cloud.lm.sl.slp@1.51.0
+- pkg:maven/com.sap.cloud.lm.sl/com.sap.cloud.lm.sl.slp@1.51.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/edu.mines.jtk/edu-mines-jtk@1.0.0?classifier=sources
+- pkg:maven/edu.mines.jtk/edu-mines-jtk@1.1.0?classifier=sources

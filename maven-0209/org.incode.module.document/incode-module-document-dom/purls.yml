@@ -28,3 +28,9 @@
 - pkg:maven/org.incode.module.document/incode-module-document-dom@1.14.8?classifier=sources
 - pkg:maven/org.incode.module.document/incode-module-document-dom@1.14.9
 - pkg:maven/org.incode.module.document/incode-module-document-dom@1.14.9?classifier=sources
+- pkg:maven/org.incode.module.document/incode-module-document-dom@1.15.0
+- pkg:maven/org.incode.module.document/incode-module-document-dom@1.15.0.1
+- pkg:maven/org.incode.module.document/incode-module-document-dom@1.15.0.1?classifier=sources
+- pkg:maven/org.incode.module.document/incode-module-document-dom@1.15.0?classifier=sources
+- pkg:maven/org.incode.module.document/incode-module-document-dom@1.15.1.1
+- pkg:maven/org.incode.module.document/incode-module-document-dom@1.15.1.1?classifier=sources

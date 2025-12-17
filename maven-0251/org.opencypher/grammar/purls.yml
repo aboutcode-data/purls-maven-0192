@@ -8,3 +8,7 @@
 - pkg:maven/org.opencypher/grammar@1.0.0-M05?classifier=sources
 - pkg:maven/org.opencypher/grammar@1.0.0-M06
 - pkg:maven/org.opencypher/grammar@1.0.0-M06?classifier=sources
+- pkg:maven/org.opencypher/grammar@1.0.0-M07
+- pkg:maven/org.opencypher/grammar@1.0.0-M07?classifier=sources
+- pkg:maven/org.opencypher/grammar@1.0.0-M08
+- pkg:maven/org.opencypher/grammar@1.0.0-M08?classifier=sources

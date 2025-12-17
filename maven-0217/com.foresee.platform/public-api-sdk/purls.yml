@@ -6,3 +6,5 @@
 - pkg:maven/com.foresee.platform/public-api-sdk@1.0.0-M7?type=zip
 - pkg:maven/com.foresee.platform/public-api-sdk@1.0.0-M8?classifier=sources
 - pkg:maven/com.foresee.platform/public-api-sdk@1.0.0-M8?type=zip
+- pkg:maven/com.foresee.platform/public-api-sdk@1.0.0-M9?classifier=sources
+- pkg:maven/com.foresee.platform/public-api-sdk@1.0.0-M9?type=zip

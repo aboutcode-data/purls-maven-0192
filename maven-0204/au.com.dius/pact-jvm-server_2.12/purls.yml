@@ -1,0 +1,9 @@
+- pkg:maven/au.com.dius/pact-jvm-server_2.12@3.5.10?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-server_2.12@3.5.11?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-server_2.12@3.5.4-rc.0?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-server_2.12@3.5.4-rc.1?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-server_2.12@3.5.5?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-server_2.12@3.5.6?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-server_2.12@3.5.7?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-server_2.12@3.5.8?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-server_2.12@3.5.9?classifier=sources

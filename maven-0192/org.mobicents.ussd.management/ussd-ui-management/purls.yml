@@ -50,3 +50,13 @@
 - pkg:maven/org.mobicents.ussd.management/ussd-ui-management@7.0.53?type=war
 - pkg:maven/org.mobicents.ussd.management/ussd-ui-management@7.0.54?type=war
 - pkg:maven/org.mobicents.ussd.management/ussd-ui-management@7.0.55?type=war
+- pkg:maven/org.mobicents.ussd.management/ussd-ui-management@7.1.0-54?type=war
+- pkg:maven/org.mobicents.ussd.management/ussd-ui-management@7.1.0-96?type=war
+- pkg:maven/org.mobicents.ussd.management/ussd-ui-management@7.1.56?type=war
+- pkg:maven/org.mobicents.ussd.management/ussd-ui-management@7.1.57?type=war
+- pkg:maven/org.mobicents.ussd.management/ussd-ui-management@7.1.58?type=war
+- pkg:maven/org.mobicents.ussd.management/ussd-ui-management@7.1.59?type=war
+- pkg:maven/org.mobicents.ussd.management/ussd-ui-management@7.1.60?type=war
+- pkg:maven/org.mobicents.ussd.management/ussd-ui-management@7.1.61?type=war
+- pkg:maven/org.mobicents.ussd.management/ussd-ui-management@7.1.62?type=war
+- pkg:maven/org.mobicents.ussd.management/ussd-ui-management@7.1.63?type=war

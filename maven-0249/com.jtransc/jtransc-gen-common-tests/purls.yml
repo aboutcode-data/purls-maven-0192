@@ -1,0 +1,2 @@
+- pkg:maven/com.jtransc/jtransc-gen-common-tests@0.6.7
+- pkg:maven/com.jtransc/jtransc-gen-common-tests@0.6.7?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.adorsys.cryptoutils/encobject-jcloud@0.7.0
+- pkg:maven/de.adorsys.cryptoutils/encobject-jcloud@0.7.0?classifier=sources

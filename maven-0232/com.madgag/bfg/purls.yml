@@ -25,6 +25,7 @@
 - pkg:maven/com.madgag/bfg@1.12.13?classifier=sources
 - pkg:maven/com.madgag/bfg@1.12.14?classifier=sources
 - pkg:maven/com.madgag/bfg@1.12.15?classifier=sources
+- pkg:maven/com.madgag/bfg@1.12.16?classifier=sources
 - pkg:maven/com.madgag/bfg@1.12.1?classifier=sources
 - pkg:maven/com.madgag/bfg@1.12.2
 - pkg:maven/com.madgag/bfg@1.12.2?classifier=sources

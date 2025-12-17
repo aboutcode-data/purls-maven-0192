@@ -18,3 +18,7 @@
 - pkg:maven/org.paumard/streams-utils@1.5?classifier=sources
 - pkg:maven/org.paumard/streams-utils@1.6
 - pkg:maven/org.paumard/streams-utils@1.6?classifier=sources
+- pkg:maven/org.paumard/streams-utils@1.7
+- pkg:maven/org.paumard/streams-utils@1.7?classifier=sources
+- pkg:maven/org.paumard/streams-utils@2.0
+- pkg:maven/org.paumard/streams-utils@2.0?classifier=sources

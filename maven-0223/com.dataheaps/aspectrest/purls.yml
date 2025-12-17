@@ -1,0 +1,2 @@
+- pkg:maven/com.dataheaps/aspectrest@0.1.13
+- pkg:maven/com.dataheaps/aspectrest@0.1.13?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/github-com-vaadin-vaadin-overlay@v1.4.1
+- pkg:maven/org.webjars.bower/github-com-vaadin-vaadin-overlay@v1.4.1?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-vaadin-vaadin-overlay@v2.0.4
+- pkg:maven/org.webjars.bower/github-com-vaadin-vaadin-overlay@v2.0.4?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/me.dm7.jrengage.android/jrengage@3.4?type=aar
 - pkg:maven/me.dm7.jrengage.android/jrengage@3.5?type=aar
+- pkg:maven/me.dm7.jrengage.android/jrengage@3.6?type=aar
+- pkg:maven/me.dm7.jrengage.android/jrengage@3.8?type=aar

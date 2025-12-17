@@ -1,0 +1,2 @@
+- pkg:maven/com.hortonworks.registries/registry-common-client@0.4.0
+- pkg:maven/com.hortonworks.registries/registry-common-client@0.4.0?classifier=sources

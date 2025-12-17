@@ -1,0 +1,2 @@
+- pkg:maven/com.anbillon.dagger/dagger-conductor@1.0.0?classifier=sources
+- pkg:maven/com.anbillon.dagger/dagger-conductor@1.0.0?type=aar

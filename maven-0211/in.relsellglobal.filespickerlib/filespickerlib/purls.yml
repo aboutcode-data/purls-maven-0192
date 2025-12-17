@@ -1,0 +1,2 @@
+- pkg:maven/in.relsellglobal.filespickerlib/filespickerlib@0.0.2?classifier=sources
+- pkg:maven/in.relsellglobal.filespickerlib/filespickerlib@0.0.2?type=aar

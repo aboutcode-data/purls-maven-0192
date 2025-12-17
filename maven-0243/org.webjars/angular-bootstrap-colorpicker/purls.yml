@@ -1,3 +1,5 @@
 - pkg:maven/org.webjars/angular-bootstrap-colorpicker@3.0.17
 - pkg:maven/org.webjars/angular-bootstrap-colorpicker@3.0.25
+- pkg:maven/org.webjars/angular-bootstrap-colorpicker@3.0.31
+- pkg:maven/org.webjars/angular-bootstrap-colorpicker@3.0.32
 - pkg:maven/org.webjars/angular-bootstrap-colorpicker@3.0.8

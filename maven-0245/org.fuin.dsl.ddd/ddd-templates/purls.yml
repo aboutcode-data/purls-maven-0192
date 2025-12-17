@@ -1,0 +1,2 @@
+- pkg:maven/org.fuin.dsl.ddd/ddd-templates@0.1.0
+- pkg:maven/org.fuin.dsl.ddd/ddd-templates@0.1.0?classifier=sources

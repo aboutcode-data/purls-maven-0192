@@ -1,0 +1,2 @@
+- pkg:maven/org.entur/netex-java-model@1.0.7
+- pkg:maven/org.entur/netex-java-model@1.0.7?classifier=sources

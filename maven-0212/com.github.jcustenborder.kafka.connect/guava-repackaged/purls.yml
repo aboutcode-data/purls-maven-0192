@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jcustenborder.kafka.connect/guava-repackaged@20.0
+- pkg:maven/com.github.jcustenborder.kafka.connect/guava-repackaged@20.0?classifier=sources

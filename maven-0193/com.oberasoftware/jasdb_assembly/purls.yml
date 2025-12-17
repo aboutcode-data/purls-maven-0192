@@ -2,3 +2,5 @@
 - pkg:maven/com.oberasoftware/jasdb_assembly@1.1.1?classifier=sources
 - pkg:maven/com.oberasoftware/jasdb_assembly@1.1.2?classifier=sources
 - pkg:maven/com.oberasoftware/jasdb_assembly@1.1?classifier=sources
+- pkg:maven/com.oberasoftware/jasdb_assembly@1.2.1?classifier=sources
+- pkg:maven/com.oberasoftware/jasdb_assembly@1.2?classifier=sources

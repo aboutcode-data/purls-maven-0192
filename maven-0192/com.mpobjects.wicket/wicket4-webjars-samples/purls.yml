@@ -1,0 +1,2 @@
+- pkg:maven/com.mpobjects.wicket/wicket4-webjars-samples@2.0.4?classifier=sources
+- pkg:maven/com.mpobjects.wicket/wicket4-webjars-samples@2.0.4?type=war

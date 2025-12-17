@@ -8,3 +8,9 @@
 - pkg:maven/io.airlift/testing-postgresql-server@0.4?classifier=sources
 - pkg:maven/io.airlift/testing-postgresql-server@9.6.1-1
 - pkg:maven/io.airlift/testing-postgresql-server@9.6.1-1?classifier=sources
+- pkg:maven/io.airlift/testing-postgresql-server@9.6.3-1
+- pkg:maven/io.airlift/testing-postgresql-server@9.6.3-1?classifier=sources
+- pkg:maven/io.airlift/testing-postgresql-server@9.6.3-2
+- pkg:maven/io.airlift/testing-postgresql-server@9.6.3-2?classifier=sources
+- pkg:maven/io.airlift/testing-postgresql-server@9.6.3-3
+- pkg:maven/io.airlift/testing-postgresql-server@9.6.3-3?classifier=sources

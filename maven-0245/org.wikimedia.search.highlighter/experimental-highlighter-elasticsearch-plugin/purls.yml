@@ -66,5 +66,15 @@
 - pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-elasticsearch-plugin@5.3.0?type=zip
 - pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-elasticsearch-plugin@5.3.1?classifier=sources
 - pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-elasticsearch-plugin@5.3.1?type=zip
+- pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-elasticsearch-plugin@5.3.2.1?classifier=sources
+- pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-elasticsearch-plugin@5.3.2.1?type=zip
 - pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-elasticsearch-plugin@5.3.2?classifier=sources
 - pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-elasticsearch-plugin@5.3.2?type=zip
+- pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-elasticsearch-plugin@5.4.3?classifier=sources
+- pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-elasticsearch-plugin@5.4.3?type=zip
+- pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-elasticsearch-plugin@5.5.2.1?classifier=sources
+- pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-elasticsearch-plugin@5.5.2.1?type=zip
+- pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-elasticsearch-plugin@5.5.2.2?classifier=sources
+- pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-elasticsearch-plugin@5.5.2.2?type=zip
+- pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-elasticsearch-plugin@5.5.2?classifier=sources
+- pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-elasticsearch-plugin@5.5.2?type=zip

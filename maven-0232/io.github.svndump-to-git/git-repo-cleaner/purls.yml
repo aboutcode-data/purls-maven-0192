@@ -1,0 +1,2 @@
+- pkg:maven/io.github.svndump-to-git/git-repo-cleaner@1.0
+- pkg:maven/io.github.svndump-to-git/git-repo-cleaner@1.0?classifier=sources

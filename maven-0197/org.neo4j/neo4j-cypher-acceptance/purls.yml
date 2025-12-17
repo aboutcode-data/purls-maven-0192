@@ -1,1 +1,5 @@
 - pkg:maven/org.neo4j/neo4j-cypher-acceptance@2.3.11
+- pkg:maven/org.neo4j/neo4j-cypher-acceptance@2.3.12
+- pkg:maven/org.neo4j/neo4j-cypher-acceptance@3.0.10
+- pkg:maven/org.neo4j/neo4j-cypher-acceptance@3.0.11
+- pkg:maven/org.neo4j/neo4j-cypher-acceptance@3.0.12

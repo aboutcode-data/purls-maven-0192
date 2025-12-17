@@ -116,3 +116,11 @@
 - pkg:maven/com.mikepenz/aboutlibraries@5.9.5?type=aar
 - pkg:maven/com.mikepenz/aboutlibraries@5.9.6?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries@5.9.6?type=aar
+- pkg:maven/com.mikepenz/aboutlibraries@5.9.7?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries@5.9.7?type=aar
+- pkg:maven/com.mikepenz/aboutlibraries@5.9.8?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries@5.9.8?type=aar
+- pkg:maven/com.mikepenz/aboutlibraries@6.0.0?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries@6.0.0?type=aar
+- pkg:maven/com.mikepenz/aboutlibraries@6.0.2?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries@6.0.2?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.rdg5/heartbeatlibrary@1.0.0
+- pkg:maven/com.github.rdg5/heartbeatlibrary@1.0.0?classifier=sources

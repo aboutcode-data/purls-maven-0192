@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/dropkickjs@2.1.10
+- pkg:maven/org.webjars.npm/dropkickjs@2.1.10?classifier=sources

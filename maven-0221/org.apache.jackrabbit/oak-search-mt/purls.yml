@@ -1,0 +1,16 @@
+- pkg:maven/org.apache.jackrabbit/oak-search-mt@1.7.10
+- pkg:maven/org.apache.jackrabbit/oak-search-mt@1.7.10?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-search-mt@1.7.11
+- pkg:maven/org.apache.jackrabbit/oak-search-mt@1.7.11?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-search-mt@1.7.12
+- pkg:maven/org.apache.jackrabbit/oak-search-mt@1.7.12?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-search-mt@1.7.14
+- pkg:maven/org.apache.jackrabbit/oak-search-mt@1.7.14?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-search-mt@1.7.7
+- pkg:maven/org.apache.jackrabbit/oak-search-mt@1.7.7?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-search-mt@1.7.8
+- pkg:maven/org.apache.jackrabbit/oak-search-mt@1.7.8?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-search-mt@1.7.9
+- pkg:maven/org.apache.jackrabbit/oak-search-mt@1.7.9?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-search-mt@1.8.0
+- pkg:maven/org.apache.jackrabbit/oak-search-mt@1.8.0?classifier=sources

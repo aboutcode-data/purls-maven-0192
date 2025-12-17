@@ -2,3 +2,8 @@
 - pkg:maven/org.apache.juneau/juneau@6.0.1-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.juneau/juneau@6.1.0-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.juneau/juneau@6.2.0-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.juneau/juneau@6.3.0-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.juneau/juneau@6.3.1-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.juneau/juneau@6.4.0-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.juneau/juneau@7.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.juneau/juneau@7.0.1?classifier=source-release&type=zip

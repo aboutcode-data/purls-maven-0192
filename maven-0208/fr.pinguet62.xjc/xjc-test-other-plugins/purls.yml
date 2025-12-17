@@ -1,0 +1,2 @@
+- pkg:maven/fr.pinguet62.xjc/xjc-test-other-plugins@2.0
+- pkg:maven/fr.pinguet62.xjc/xjc-test-other-plugins@2.0?classifier=sources

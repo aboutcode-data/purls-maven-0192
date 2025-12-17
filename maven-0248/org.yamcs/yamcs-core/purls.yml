@@ -16,3 +16,13 @@
 - pkg:maven/org.yamcs/yamcs-core@3.2.1?classifier=sources
 - pkg:maven/org.yamcs/yamcs-core@3.2.2
 - pkg:maven/org.yamcs/yamcs-core@3.2.2?classifier=sources
+- pkg:maven/org.yamcs/yamcs-core@3.3.0
+- pkg:maven/org.yamcs/yamcs-core@3.3.0?classifier=sources
+- pkg:maven/org.yamcs/yamcs-core@3.3.1
+- pkg:maven/org.yamcs/yamcs-core@3.3.1?classifier=sources
+- pkg:maven/org.yamcs/yamcs-core@3.4.0
+- pkg:maven/org.yamcs/yamcs-core@3.4.0?classifier=sources
+- pkg:maven/org.yamcs/yamcs-core@3.4.1
+- pkg:maven/org.yamcs/yamcs-core@3.4.1?classifier=sources
+- pkg:maven/org.yamcs/yamcs-core@4.0.0
+- pkg:maven/org.yamcs/yamcs-core@4.0.0?classifier=sources

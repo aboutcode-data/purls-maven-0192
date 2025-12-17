@@ -1,0 +1,2 @@
+- pkg:maven/de.m3y.oozie.prometheus/oozie-prometheus-job-event-listener@1.0
+- pkg:maven/de.m3y.oozie.prometheus/oozie-prometheus-job-event-listener@1.0?classifier=sources

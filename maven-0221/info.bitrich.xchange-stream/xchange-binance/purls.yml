@@ -1,0 +1,2 @@
+- pkg:maven/info.bitrich.xchange-stream/xchange-binance@4.3.1
+- pkg:maven/info.bitrich.xchange-stream/xchange-binance@4.3.1?classifier=sources

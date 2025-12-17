@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/require-vuejs@1.0.8
+- pkg:maven/org.webjars.npm/require-vuejs@1.0.8?classifier=sources

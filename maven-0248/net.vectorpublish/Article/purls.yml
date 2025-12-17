@@ -1,0 +1,2 @@
+- pkg:maven/net.vectorpublish/Article@0.9.27
+- pkg:maven/net.vectorpublish/Article@0.9.27?classifier=sources

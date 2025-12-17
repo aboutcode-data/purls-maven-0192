@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.polygene.tools/org.apache.polygene.tool.envisage@3.0.0
+- pkg:maven/org.apache.polygene.tools/org.apache.polygene.tool.envisage@3.0.0?classifier=sources

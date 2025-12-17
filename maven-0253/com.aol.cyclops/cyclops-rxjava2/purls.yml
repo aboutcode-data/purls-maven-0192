@@ -1,0 +1,8 @@
+- pkg:maven/com.aol.cyclops/cyclops-rxjava2@9.0.0-FINAL
+- pkg:maven/com.aol.cyclops/cyclops-rxjava2@9.0.0-FINAL?classifier=sources
+- pkg:maven/com.aol.cyclops/cyclops-rxjava2@9.0.0-MI4
+- pkg:maven/com.aol.cyclops/cyclops-rxjava2@9.0.0-MI4?classifier=sources
+- pkg:maven/com.aol.cyclops/cyclops-rxjava2@9.0.0-MI6
+- pkg:maven/com.aol.cyclops/cyclops-rxjava2@9.0.0-MI6?classifier=sources
+- pkg:maven/com.aol.cyclops/cyclops-rxjava2@9.0.0-MI7
+- pkg:maven/com.aol.cyclops/cyclops-rxjava2@9.0.0-MI7?classifier=sources

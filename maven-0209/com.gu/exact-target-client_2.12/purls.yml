@@ -1,0 +1,2 @@
+- pkg:maven/com.gu/exact-target-client_2.12@2.26
+- pkg:maven/com.gu/exact-target-client_2.12@2.26?classifier=sources

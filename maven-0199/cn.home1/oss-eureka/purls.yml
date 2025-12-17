@@ -1,2 +1,4 @@
 - pkg:maven/cn.home1/oss-eureka@1.0.6.OSS
 - pkg:maven/cn.home1/oss-eureka@1.0.6.OSS?classifier=sources
+- pkg:maven/cn.home1/oss-eureka@1.0.7.OSS
+- pkg:maven/cn.home1/oss-eureka@1.0.7.OSS?classifier=sources

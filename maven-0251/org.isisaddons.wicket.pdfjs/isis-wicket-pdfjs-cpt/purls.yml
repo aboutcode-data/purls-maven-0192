@@ -1,0 +1,8 @@
+- pkg:maven/org.isisaddons.wicket.pdfjs/isis-wicket-pdfjs-cpt@1.15.0
+- pkg:maven/org.isisaddons.wicket.pdfjs/isis-wicket-pdfjs-cpt@1.15.0.1
+- pkg:maven/org.isisaddons.wicket.pdfjs/isis-wicket-pdfjs-cpt@1.15.0.1?classifier=sources
+- pkg:maven/org.isisaddons.wicket.pdfjs/isis-wicket-pdfjs-cpt@1.15.0?classifier=sources
+- pkg:maven/org.isisaddons.wicket.pdfjs/isis-wicket-pdfjs-cpt@1.15.1.1
+- pkg:maven/org.isisaddons.wicket.pdfjs/isis-wicket-pdfjs-cpt@1.15.1.1?classifier=sources
+- pkg:maven/org.isisaddons.wicket.pdfjs/isis-wicket-pdfjs-cpt@1.16.0
+- pkg:maven/org.isisaddons.wicket.pdfjs/isis-wicket-pdfjs-cpt@1.16.0?classifier=sources

@@ -4,6 +4,8 @@
 - pkg:maven/com.zaxxer/HikariCP-java7@2.4.11?classifier=sources
 - pkg:maven/com.zaxxer/HikariCP-java7@2.4.12
 - pkg:maven/com.zaxxer/HikariCP-java7@2.4.12?classifier=sources
+- pkg:maven/com.zaxxer/HikariCP-java7@2.4.13
+- pkg:maven/com.zaxxer/HikariCP-java7@2.4.13?classifier=sources
 - pkg:maven/com.zaxxer/HikariCP-java7@2.4.8
 - pkg:maven/com.zaxxer/HikariCP-java7@2.4.8?classifier=sources
 - pkg:maven/com.zaxxer/HikariCP-java7@2.4.9

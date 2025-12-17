@@ -1,5 +1,6 @@
 - pkg:maven/org.webjars/cometd@2.3.1
 - pkg:maven/org.webjars/cometd@2.4.0
+- pkg:maven/org.webjars/cometd@2.8.0
 - pkg:maven/org.webjars/cometd@3.0.2
 - pkg:maven/org.webjars/cometd@3.0.5
 - pkg:maven/org.webjars/cometd@3.0.9

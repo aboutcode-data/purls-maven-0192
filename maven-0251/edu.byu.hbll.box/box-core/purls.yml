@@ -1,0 +1,2 @@
+- pkg:maven/edu.byu.hbll.box/box-core@1.0.0
+- pkg:maven/edu.byu.hbll.box/box-core@1.0.0?classifier=sources

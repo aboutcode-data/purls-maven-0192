@@ -1,0 +1,2 @@
+- pkg:maven/io.sweers.inspector/inspector-autovalue-compiler-extension@0.2.0
+- pkg:maven/io.sweers.inspector/inspector-autovalue-compiler-extension@0.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.bluelinelabs/conductor-autodispose@2.1.4?classifier=sources
+- pkg:maven/com.bluelinelabs/conductor-autodispose@2.1.4?type=aar

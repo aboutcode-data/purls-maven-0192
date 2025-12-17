@@ -1,0 +1,2 @@
+- pkg:maven/org.openehr.java-libs/xml-binding@1.0.71
+- pkg:maven/org.openehr.java-libs/xml-binding@1.0.71?classifier=sources

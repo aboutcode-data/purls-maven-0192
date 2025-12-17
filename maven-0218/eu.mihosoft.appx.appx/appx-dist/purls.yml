@@ -1,0 +1,2 @@
+- pkg:maven/eu.mihosoft.appx.appx/appx-dist@2017.1.0
+- pkg:maven/eu.mihosoft.appx.appx/appx-dist@2017.1.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.uima/uimaj-v3migration-jcas@3.0.0-alpha02
 - pkg:maven/org.apache.uima/uimaj-v3migration-jcas@3.0.0-alpha02?classifier=sources
 - pkg:maven/org.apache.uima/uimaj-v3migration-jcas@3.0.0-alpha?classifier=sources
+- pkg:maven/org.apache.uima/uimaj-v3migration-jcas@3.0.0-beta
+- pkg:maven/org.apache.uima/uimaj-v3migration-jcas@3.0.0-beta?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.biacode.jcronofy/jcronofy@1.0.0
+- pkg:maven/org.biacode.jcronofy/jcronofy@1.0.0?classifier=sources

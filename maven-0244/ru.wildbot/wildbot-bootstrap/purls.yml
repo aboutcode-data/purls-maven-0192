@@ -1,0 +1,4 @@
+- pkg:maven/ru.wildbot/wildbot-bootstrap@0.2.0-gamma
+- pkg:maven/ru.wildbot/wildbot-bootstrap@0.2.0-gamma?classifier=sources
+- pkg:maven/ru.wildbot/wildbot-bootstrap@0.2.1-gamma
+- pkg:maven/ru.wildbot/wildbot-bootstrap@0.2.1-gamma?classifier=sources

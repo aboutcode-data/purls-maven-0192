@@ -111,3 +111,12 @@
 - pkg:maven/com.proofpoint.platform/sample-server@1.55?classifier=sources
 - pkg:maven/com.proofpoint.platform/sample-server@1.56?classifier=sources
 - pkg:maven/com.proofpoint.platform/sample-server@1.57?classifier=sources
+- pkg:maven/com.proofpoint.platform/sample-server@1.58?classifier=sources
+- pkg:maven/com.proofpoint.platform/sample-server@1.59?classifier=sources
+- pkg:maven/com.proofpoint.platform/sample-server@1.60?classifier=sources
+- pkg:maven/com.proofpoint.platform/sample-server@1.61?classifier=sources
+- pkg:maven/com.proofpoint.platform/sample-server@1.62?classifier=sources
+- pkg:maven/com.proofpoint.platform/sample-server@1.63?classifier=sources
+- pkg:maven/com.proofpoint.platform/sample-server@1.64?classifier=sources
+- pkg:maven/com.proofpoint.platform/sample-server@1.65?classifier=sources
+- pkg:maven/com.proofpoint.platform/sample-server@1.66?classifier=sources

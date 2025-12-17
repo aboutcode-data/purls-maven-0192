@@ -10,3 +10,7 @@
 - pkg:maven/com.github.andriykuba/play-handlebars@2.5.8?classifier=sources
 - pkg:maven/com.github.andriykuba/play-handlebars@2.5.9
 - pkg:maven/com.github.andriykuba/play-handlebars@2.5.9?classifier=sources
+- pkg:maven/com.github.andriykuba/play-handlebars@2.6.3
+- pkg:maven/com.github.andriykuba/play-handlebars@2.6.3?classifier=sources
+- pkg:maven/com.github.andriykuba/play-handlebars@2.6.7
+- pkg:maven/com.github.andriykuba/play-handlebars@2.6.7?classifier=sources

@@ -2,3 +2,9 @@
 - pkg:maven/tech.ferus.util/ConfigKeys@1.0.2?classifier=sources
 - pkg:maven/tech.ferus.util/ConfigKeys@1.0.3
 - pkg:maven/tech.ferus.util/ConfigKeys@1.0.3?classifier=sources
+- pkg:maven/tech.ferus.util/ConfigKeys@2.0.0
+- pkg:maven/tech.ferus.util/ConfigKeys@2.0.0?classifier=sources
+- pkg:maven/tech.ferus.util/ConfigKeys@2.0.1
+- pkg:maven/tech.ferus.util/ConfigKeys@2.0.1?classifier=sources
+- pkg:maven/tech.ferus.util/ConfigKeys@3.0.0
+- pkg:maven/tech.ferus.util/ConfigKeys@3.0.0?classifier=sources

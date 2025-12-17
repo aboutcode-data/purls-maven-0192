@@ -1,2 +1,10 @@
 - pkg:maven/org.webjars.npm/caniuse-lite@1.0.30000676
 - pkg:maven/org.webjars.npm/caniuse-lite@1.0.30000676?classifier=sources
+- pkg:maven/org.webjars.npm/caniuse-lite@1.0.30000715
+- pkg:maven/org.webjars.npm/caniuse-lite@1.0.30000715?classifier=sources
+- pkg:maven/org.webjars.npm/caniuse-lite@1.0.30000717
+- pkg:maven/org.webjars.npm/caniuse-lite@1.0.30000717?classifier=sources
+- pkg:maven/org.webjars.npm/caniuse-lite@1.0.30000746
+- pkg:maven/org.webjars.npm/caniuse-lite@1.0.30000746?classifier=sources
+- pkg:maven/org.webjars.npm/caniuse-lite@1.0.30000748
+- pkg:maven/org.webjars.npm/caniuse-lite@1.0.30000748?classifier=sources

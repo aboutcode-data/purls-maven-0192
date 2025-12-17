@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/amcharts3@3.21.3
+- pkg:maven/org.webjars.bower/amcharts3@3.21.3?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/react-addons-update@15.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/react-addons-update@15.3.2
 - pkg:maven/org.webjars.npm/react-addons-update@15.3.2?classifier=sources
+- pkg:maven/org.webjars.npm/react-addons-update@15.5.2
+- pkg:maven/org.webjars.npm/react-addons-update@15.5.2?classifier=sources

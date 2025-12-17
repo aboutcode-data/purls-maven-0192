@@ -1,0 +1,6 @@
+- pkg:maven/org.jetbrains.kotlin/kotlin-annotation-processing-embeddable@1.1.61
+- pkg:maven/org.jetbrains.kotlin/kotlin-annotation-processing-embeddable@1.1.61?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-annotation-processing-embeddable@1.2.0
+- pkg:maven/org.jetbrains.kotlin/kotlin-annotation-processing-embeddable@1.2.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-annotation-processing-embeddable@1.2.10
+- pkg:maven/org.jetbrains.kotlin/kotlin-annotation-processing-embeddable@1.2.10?classifier=sources

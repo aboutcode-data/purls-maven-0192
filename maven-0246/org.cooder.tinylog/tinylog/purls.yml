@@ -1,0 +1,4 @@
+- pkg:maven/org.cooder.tinylog/tinylog@1.2.1
+- pkg:maven/org.cooder.tinylog/tinylog@1.2.1?classifier=sources
+- pkg:maven/org.cooder.tinylog/tinylog@1.2.2
+- pkg:maven/org.cooder.tinylog/tinylog@1.2.2?classifier=sources

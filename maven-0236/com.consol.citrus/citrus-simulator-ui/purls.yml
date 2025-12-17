@@ -1,0 +1,4 @@
+- pkg:maven/com.consol.citrus/citrus-simulator-ui@1.0.0
+- pkg:maven/com.consol.citrus/citrus-simulator-ui@1.0.0?classifier=sources
+- pkg:maven/com.consol.citrus/citrus-simulator-ui@1.0.1
+- pkg:maven/com.consol.citrus/citrus-simulator-ui@1.0.1?classifier=sources

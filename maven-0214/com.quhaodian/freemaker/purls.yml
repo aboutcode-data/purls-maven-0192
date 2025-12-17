@@ -1,0 +1,4 @@
+- pkg:maven/com.quhaodian/freemaker@1.0.7
+- pkg:maven/com.quhaodian/freemaker@1.0.7?classifier=sources
+- pkg:maven/com.quhaodian/freemaker@1.6.0
+- pkg:maven/com.quhaodian/freemaker@1.6.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.cxf/cxf-integration-tracing-opentracing@3.2.1
+- pkg:maven/org.apache.cxf/cxf-integration-tracing-opentracing@3.2.1?classifier=sources

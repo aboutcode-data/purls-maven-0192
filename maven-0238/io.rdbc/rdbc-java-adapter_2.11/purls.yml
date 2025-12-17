@@ -1,0 +1,6 @@
+- pkg:maven/io.rdbc/rdbc-java-adapter_2.11@0.0.74
+- pkg:maven/io.rdbc/rdbc-java-adapter_2.11@0.0.74?classifier=sources
+- pkg:maven/io.rdbc/rdbc-java-adapter_2.11@0.0.75
+- pkg:maven/io.rdbc/rdbc-java-adapter_2.11@0.0.75?classifier=sources
+- pkg:maven/io.rdbc/rdbc-java-adapter_2.11@0.0.76
+- pkg:maven/io.rdbc/rdbc-java-adapter_2.11@0.0.76?classifier=sources

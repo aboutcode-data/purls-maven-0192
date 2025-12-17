@@ -1,0 +1,6 @@
+- pkg:maven/cn.springboot/best-pay-sdk@1.0.4
+- pkg:maven/cn.springboot/best-pay-sdk@1.0.4?classifier=sources
+- pkg:maven/cn.springboot/best-pay-sdk@1.0.5
+- pkg:maven/cn.springboot/best-pay-sdk@1.0.5?classifier=sources
+- pkg:maven/cn.springboot/best-pay-sdk@1.1.0
+- pkg:maven/cn.springboot/best-pay-sdk@1.1.0?classifier=sources

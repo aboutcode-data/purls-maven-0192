@@ -1,0 +1,6 @@
+- pkg:maven/org.sonarsource.java/it-java-semantic-tests@4.12.0.11033
+- pkg:maven/org.sonarsource.java/it-java-semantic-tests@4.13.0.11627
+- pkg:maven/org.sonarsource.java/it-java-semantic-tests@4.14.0.11784
+- pkg:maven/org.sonarsource.java/it-java-semantic-tests@4.15.0.12310
+- pkg:maven/org.sonarsource.java/it-java-semantic-tests@5.0.0.12796
+- pkg:maven/org.sonarsource.java/it-java-semantic-tests@5.0.1.12818
