@@ -5,4 +5,6 @@
 - pkg:maven/cc.protea.foundation.http/http@0.2.1?classifier=sources
 - pkg:maven/cc.protea.foundation.http/http@0.2.2
 - pkg:maven/cc.protea.foundation.http/http@0.2.2?classifier=sources
+- pkg:maven/cc.protea.foundation.http/http@0.2.3
+- pkg:maven/cc.protea.foundation.http/http@0.2.3?classifier=sources
 - pkg:maven/cc.protea.foundation.http/http@0.2?classifier=sources

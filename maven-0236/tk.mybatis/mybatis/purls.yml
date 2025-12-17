@@ -1,0 +1,2 @@
+- pkg:maven/tk.mybatis/mybatis@3.4.6-beta1
+- pkg:maven/tk.mybatis/mybatis@3.4.6-beta1?classifier=sources

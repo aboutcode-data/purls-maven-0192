@@ -1,0 +1,6 @@
+- pkg:maven/info.datamuse/currency-exchange-rates@0.1-alpha
+- pkg:maven/info.datamuse/currency-exchange-rates@0.1-alpha?classifier=sources
+- pkg:maven/info.datamuse/currency-exchange-rates@0.2-alpha
+- pkg:maven/info.datamuse/currency-exchange-rates@0.2-alpha?classifier=sources
+- pkg:maven/info.datamuse/currency-exchange-rates@1.0.0-alpha
+- pkg:maven/info.datamuse/currency-exchange-rates@1.0.0-alpha?classifier=sources

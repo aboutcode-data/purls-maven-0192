@@ -4,3 +4,9 @@
 - pkg:maven/io.earcam/io.earcam.unexceptional@0.3.0?classifier=sources
 - pkg:maven/io.earcam/io.earcam.unexceptional@0.4.0
 - pkg:maven/io.earcam/io.earcam.unexceptional@0.4.0?classifier=sources
+- pkg:maven/io.earcam/io.earcam.unexceptional@0.5.0
+- pkg:maven/io.earcam/io.earcam.unexceptional@0.5.0?classifier=sources
+- pkg:maven/io.earcam/io.earcam.unexceptional@0.5.1
+- pkg:maven/io.earcam/io.earcam.unexceptional@0.5.1?classifier=sources
+- pkg:maven/io.earcam/io.earcam.unexceptional@1.0.0
+- pkg:maven/io.earcam/io.earcam.unexceptional@1.0.0?classifier=sources

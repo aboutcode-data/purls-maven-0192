@@ -20,3 +20,7 @@
 - pkg:maven/com.glookast.commons/commons-timecode@1.3.4?classifier=sources
 - pkg:maven/com.glookast.commons/commons-timecode@1.4.0
 - pkg:maven/com.glookast.commons/commons-timecode@1.4.0?classifier=sources
+- pkg:maven/com.glookast.commons/commons-timecode@2.0.0
+- pkg:maven/com.glookast.commons/commons-timecode@2.0.0?classifier=sources
+- pkg:maven/com.glookast.commons/commons-timecode@2.0.1
+- pkg:maven/com.glookast.commons/commons-timecode@2.0.1?classifier=sources

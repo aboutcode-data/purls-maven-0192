@@ -1,1 +1,3 @@
 - pkg:maven/com.github.spotbugs/sonar-findbugs-plugin@3.7.0?classifier=sources
+- pkg:maven/com.github.spotbugs/sonar-findbugs-plugin@3.8.0?classifier=sources
+- pkg:maven/com.github.spotbugs/sonar-findbugs-plugin@3.9.0?classifier=sources

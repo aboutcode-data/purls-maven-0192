@@ -2,3 +2,5 @@
 - pkg:maven/com.netflix.hystrix/hystrix-metrics-event-stream-jaxrs@1.5.11?classifier=sources
 - pkg:maven/com.netflix.hystrix/hystrix-metrics-event-stream-jaxrs@1.5.12
 - pkg:maven/com.netflix.hystrix/hystrix-metrics-event-stream-jaxrs@1.5.12?classifier=sources
+- pkg:maven/com.netflix.hystrix/hystrix-metrics-event-stream-jaxrs@1.5.18
+- pkg:maven/com.netflix.hystrix/hystrix-metrics-event-stream-jaxrs@1.5.18?classifier=sources

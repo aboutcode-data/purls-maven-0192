@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/tslint-language-service@0.9.9
+- pkg:maven/org.webjars.npm/tslint-language-service@0.9.9?classifier=sources

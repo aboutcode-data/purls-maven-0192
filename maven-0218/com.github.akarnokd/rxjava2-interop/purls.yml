@@ -39,6 +39,10 @@
 - pkg:maven/com.github.akarnokd/rxjava2-interop@0.12.0
 - pkg:maven/com.github.akarnokd/rxjava2-interop@0.12.0?classifier=sources
 - pkg:maven/com.github.akarnokd/rxjava2-interop@0.12.1
+- pkg:maven/com.github.akarnokd/rxjava2-interop@0.12.10
+- pkg:maven/com.github.akarnokd/rxjava2-interop@0.12.10?classifier=sources
+- pkg:maven/com.github.akarnokd/rxjava2-interop@0.12.11
+- pkg:maven/com.github.akarnokd/rxjava2-interop@0.12.11?classifier=sources
 - pkg:maven/com.github.akarnokd/rxjava2-interop@0.12.1?classifier=sources
 - pkg:maven/com.github.akarnokd/rxjava2-interop@0.12.2
 - pkg:maven/com.github.akarnokd/rxjava2-interop@0.12.2?classifier=sources
@@ -54,6 +58,16 @@
 - pkg:maven/com.github.akarnokd/rxjava2-interop@0.12.7?classifier=sources
 - pkg:maven/com.github.akarnokd/rxjava2-interop@0.12.8
 - pkg:maven/com.github.akarnokd/rxjava2-interop@0.12.8?classifier=sources
+- pkg:maven/com.github.akarnokd/rxjava2-interop@0.12.9
+- pkg:maven/com.github.akarnokd/rxjava2-interop@0.12.9?classifier=sources
+- pkg:maven/com.github.akarnokd/rxjava2-interop@0.13.0
+- pkg:maven/com.github.akarnokd/rxjava2-interop@0.13.0?classifier=sources
+- pkg:maven/com.github.akarnokd/rxjava2-interop@0.13.1
+- pkg:maven/com.github.akarnokd/rxjava2-interop@0.13.1?classifier=sources
+- pkg:maven/com.github.akarnokd/rxjava2-interop@0.13.2
+- pkg:maven/com.github.akarnokd/rxjava2-interop@0.13.2?classifier=sources
+- pkg:maven/com.github.akarnokd/rxjava2-interop@0.13.3
+- pkg:maven/com.github.akarnokd/rxjava2-interop@0.13.3?classifier=sources
 - pkg:maven/com.github.akarnokd/rxjava2-interop@0.2.0
 - pkg:maven/com.github.akarnokd/rxjava2-interop@0.2.0?classifier=sources
 - pkg:maven/com.github.akarnokd/rxjava2-interop@0.3.0

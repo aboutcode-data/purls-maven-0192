@@ -1,0 +1,2 @@
+- pkg:maven/de.electronicpeter/aspectj.test.timelogger@1.3
+- pkg:maven/de.electronicpeter/aspectj.test.timelogger@1.3?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/net.iris/android-guest-library@5.7.0.rc01?classifier=sources
+- pkg:maven/net.iris/android-guest-library@5.7.0.rc02?type=aar
+- pkg:maven/net.iris/android-guest-library@5.7.0.rc07?type=aar
+- pkg:maven/net.iris/android-guest-library@5.7.0.rc11?type=aar
+- pkg:maven/net.iris/android-guest-library@5.7.0.rc12?type=aar
+- pkg:maven/net.iris/android-guest-library@5.7.0.rc13?type=aar
+- pkg:maven/net.iris/android-guest-library@5.7.0.rc14?type=aar
+- pkg:maven/net.iris/android-guest-library@5.7.0.rc15?type=aar
+- pkg:maven/net.iris/android-guest-library@5.7.0.rc16?type=aar
+- pkg:maven/net.iris/android-guest-library@5.7.0.rc17?type=aar

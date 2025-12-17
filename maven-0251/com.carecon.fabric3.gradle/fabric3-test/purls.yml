@@ -1,0 +1,2 @@
+- pkg:maven/com.carecon.fabric3.gradle/fabric3-test@3.0.0
+- pkg:maven/com.carecon.fabric3.gradle/fabric3-test@3.0.0?classifier=sources

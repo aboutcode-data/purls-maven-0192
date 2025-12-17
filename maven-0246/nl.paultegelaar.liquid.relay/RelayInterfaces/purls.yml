@@ -1,2 +1,4 @@
 - pkg:maven/nl.paultegelaar.liquid.relay/RelayInterfaces@1.0.1
 - pkg:maven/nl.paultegelaar.liquid.relay/RelayInterfaces@1.0.1?classifier=sources
+- pkg:maven/nl.paultegelaar.liquid.relay/RelayInterfaces@1.0.3
+- pkg:maven/nl.paultegelaar.liquid.relay/RelayInterfaces@1.0.3?classifier=sources

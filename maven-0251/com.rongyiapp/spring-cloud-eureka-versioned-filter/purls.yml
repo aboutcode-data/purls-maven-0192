@@ -1,0 +1,2 @@
+- pkg:maven/com.rongyiapp/spring-cloud-eureka-versioned-filter@0.0.1
+- pkg:maven/com.rongyiapp/spring-cloud-eureka-versioned-filter@0.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.xipki.shells/shell-base@4.0.0
+- pkg:maven/org.xipki.shells/shell-base@4.0.0?classifier=sources

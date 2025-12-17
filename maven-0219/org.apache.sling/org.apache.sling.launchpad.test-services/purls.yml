@@ -7,6 +7,9 @@
 - pkg:maven/org.apache.sling/org.apache.sling.launchpad.test-services@2.0.14
 - pkg:maven/org.apache.sling/org.apache.sling.launchpad.test-services@2.0.14?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.launchpad.test-services@2.0.14?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.test-services@2.0.16
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.test-services@2.0.16?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.test-services@2.0.16?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.launchpad.test-services@2.0.6-incubator
 - pkg:maven/org.apache.sling/org.apache.sling.launchpad.test-services@2.0.6-incubator?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.launchpad.test-services@2.0.8

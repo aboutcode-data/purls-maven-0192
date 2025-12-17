@@ -1,0 +1,2 @@
+- pkg:maven/io.wcm.qa/io.wcm.qa.galenium.examples.specs@0.1.18
+- pkg:maven/io.wcm.qa/io.wcm.qa.galenium.examples.specs@0.1.18?classifier=sources

@@ -1,3 +1,7 @@
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.build@3.10.0
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.build@3.10.0?classifier=sources
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.build@3.10.100
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.build@3.10.100?classifier=sources
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.build@3.9.200
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.build@3.9.200?classifier=sources
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.build@3.9.300

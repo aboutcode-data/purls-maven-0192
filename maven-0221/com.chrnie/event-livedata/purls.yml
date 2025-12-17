@@ -1,0 +1,2 @@
+- pkg:maven/com.chrnie/event-livedata@1.0.0?classifier=sources
+- pkg:maven/com.chrnie/event-livedata@1.0.0?type=aar

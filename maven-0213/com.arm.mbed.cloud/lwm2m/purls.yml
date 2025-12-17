@@ -2,3 +2,5 @@
 - pkg:maven/com.arm.mbed.cloud/lwm2m@1.0.0?type=zip
 - pkg:maven/com.arm.mbed.cloud/lwm2m@1.2.2?classifier=sources
 - pkg:maven/com.arm.mbed.cloud/lwm2m@1.2.2?type=zip
+- pkg:maven/com.arm.mbed.cloud/lwm2m@1.2.3?classifier=sources
+- pkg:maven/com.arm.mbed.cloud/lwm2m@1.2.3?type=zip

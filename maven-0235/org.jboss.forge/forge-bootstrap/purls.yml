@@ -190,3 +190,5 @@
 - pkg:maven/org.jboss.forge/forge-bootstrap@3.8.1.Final?classifier=sources
 - pkg:maven/org.jboss.forge/forge-bootstrap@3.9.0.Final
 - pkg:maven/org.jboss.forge/forge-bootstrap@3.9.0.Final?classifier=sources
+- pkg:maven/org.jboss.forge/forge-bootstrap@3.9.1.Final
+- pkg:maven/org.jboss.forge/forge-bootstrap@3.9.1.Final?classifier=sources

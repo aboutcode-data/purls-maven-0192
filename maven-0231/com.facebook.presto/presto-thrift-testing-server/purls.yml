@@ -23,3 +23,12 @@
 - pkg:maven/com.facebook.presto/presto-thrift-testing-server@0.202?classifier=sources
 - pkg:maven/com.facebook.presto/presto-thrift-testing-server@0.203?classifier=sources
 - pkg:maven/com.facebook.presto/presto-thrift-testing-server@0.204?classifier=sources
+- pkg:maven/com.facebook.presto/presto-thrift-testing-server@0.205?classifier=sources
+- pkg:maven/com.facebook.presto/presto-thrift-testing-server@0.206?classifier=sources
+- pkg:maven/com.facebook.presto/presto-thrift-testing-server@0.207?classifier=sources
+- pkg:maven/com.facebook.presto/presto-thrift-testing-server@0.208?classifier=sources
+- pkg:maven/com.facebook.presto/presto-thrift-testing-server@0.209?classifier=sources
+- pkg:maven/com.facebook.presto/presto-thrift-testing-server@0.210?classifier=sources
+- pkg:maven/com.facebook.presto/presto-thrift-testing-server@0.211?classifier=sources
+- pkg:maven/com.facebook.presto/presto-thrift-testing-server@0.212?classifier=sources
+- pkg:maven/com.facebook.presto/presto-thrift-testing-server@0.213?classifier=sources

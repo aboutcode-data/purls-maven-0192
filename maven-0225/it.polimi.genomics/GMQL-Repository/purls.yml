@@ -1,2 +1,4 @@
 - pkg:maven/it.polimi.genomics/GMQL-Repository@1.0
 - pkg:maven/it.polimi.genomics/GMQL-Repository@1.0?classifier=sources
+- pkg:maven/it.polimi.genomics/GMQL-Repository@5.0
+- pkg:maven/it.polimi.genomics/GMQL-Repository@5.0?classifier=sources

@@ -9,3 +9,5 @@
 - pkg:maven/org.wso2.msf4j/msf4j@2.6.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.msf4j/msf4j@2.6.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.msf4j/msf4j@2.6.2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.msf4j/msf4j@2.6.3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.msf4j/msf4j@2.6.4?classifier=source-release&type=zip

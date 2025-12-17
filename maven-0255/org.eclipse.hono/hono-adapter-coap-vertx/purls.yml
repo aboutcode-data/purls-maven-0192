@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.hono/hono-adapter-coap-vertx@0.8-M1_1
+- pkg:maven/org.eclipse.hono/hono-adapter-coap-vertx@0.8-M1_1?classifier=sources

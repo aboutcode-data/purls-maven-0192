@@ -7,3 +7,5 @@
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs-test@0.19.3.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs-test@0.19.3.Final?type=war
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs-test@0.21.11.Final?type=war
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs-test@0.28.5.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-api-jaxrs-test@0.28.5.Final?type=war

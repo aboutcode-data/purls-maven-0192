@@ -1,0 +1,6 @@
+- pkg:maven/com.squareup.leakcanary/leakcanary-support-fragment@1.6.1?classifier=sources
+- pkg:maven/com.squareup.leakcanary/leakcanary-support-fragment@1.6.1?type=aar
+- pkg:maven/com.squareup.leakcanary/leakcanary-support-fragment@1.6.2?classifier=sources
+- pkg:maven/com.squareup.leakcanary/leakcanary-support-fragment@1.6.2?type=aar
+- pkg:maven/com.squareup.leakcanary/leakcanary-support-fragment@1.6?classifier=sources
+- pkg:maven/com.squareup.leakcanary/leakcanary-support-fragment@1.6?type=aar

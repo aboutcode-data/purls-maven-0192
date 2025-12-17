@@ -1,1 +1,2 @@
 - pkg:maven/com.github.aserg-ufmg/apidiff@2.0.0
+- pkg:maven/com.github.aserg-ufmg/apidiff@2.0.0?classifier=sources

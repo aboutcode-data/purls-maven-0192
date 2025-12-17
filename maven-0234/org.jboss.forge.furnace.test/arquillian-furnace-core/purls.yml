@@ -102,3 +102,5 @@
 - pkg:maven/org.jboss.forge.furnace.test/arquillian-furnace-core@2.28.0.Final?classifier=sources
 - pkg:maven/org.jboss.forge.furnace.test/arquillian-furnace-core@2.28.1.Final
 - pkg:maven/org.jboss.forge.furnace.test/arquillian-furnace-core@2.28.1.Final?classifier=sources
+- pkg:maven/org.jboss.forge.furnace.test/arquillian-furnace-core@2.28.2.Final
+- pkg:maven/org.jboss.forge.furnace.test/arquillian-furnace-core@2.28.2.Final?classifier=sources

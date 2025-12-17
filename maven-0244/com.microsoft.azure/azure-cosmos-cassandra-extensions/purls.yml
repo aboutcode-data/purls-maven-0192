@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure/azure-cosmos-cassandra-extensions@0.10.0
+- pkg:maven/com.microsoft.azure/azure-cosmos-cassandra-extensions@0.10.0?classifier=sources

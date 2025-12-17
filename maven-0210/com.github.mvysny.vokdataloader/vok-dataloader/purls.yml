@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mvysny.vokdataloader/vok-dataloader@0.2
+- pkg:maven/com.github.mvysny.vokdataloader/vok-dataloader@0.2?classifier=sources

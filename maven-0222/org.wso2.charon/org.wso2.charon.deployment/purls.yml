@@ -6,3 +6,5 @@
 - pkg:maven/org.wso2.charon/org.wso2.charon.deployment@2.1.4?type=war
 - pkg:maven/org.wso2.charon/org.wso2.charon.deployment@2.1.5?classifier=sources
 - pkg:maven/org.wso2.charon/org.wso2.charon.deployment@2.1.5?type=war
+- pkg:maven/org.wso2.charon/org.wso2.charon.deployment@2.1.6?classifier=sources
+- pkg:maven/org.wso2.charon/org.wso2.charon.deployment@2.1.6?type=war

@@ -1,0 +1,4 @@
+- pkg:maven/com.alibaba.boot/velocity-spring-boot-autoconfigure@0.1.0
+- pkg:maven/com.alibaba.boot/velocity-spring-boot-autoconfigure@0.1.0?classifier=sources
+- pkg:maven/com.alibaba.boot/velocity-spring-boot-autoconfigure@1.0.4.RELEASE
+- pkg:maven/com.alibaba.boot/velocity-spring-boot-autoconfigure@1.0.4.RELEASE?classifier=sources

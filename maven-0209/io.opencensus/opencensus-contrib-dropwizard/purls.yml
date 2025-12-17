@@ -1,0 +1,2 @@
+- pkg:maven/io.opencensus/opencensus-contrib-dropwizard@0.17.0
+- pkg:maven/io.opencensus/opencensus-contrib-dropwizard@0.17.0?classifier=sources

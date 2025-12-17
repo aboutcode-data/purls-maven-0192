@@ -1,0 +1,2 @@
+- pkg:maven/ru.d-shap/form-model@1.0
+- pkg:maven/ru.d-shap/form-model@1.0?classifier=sources

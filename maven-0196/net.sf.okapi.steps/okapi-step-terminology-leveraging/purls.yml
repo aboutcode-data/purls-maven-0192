@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.okapi.steps/okapi-step-terminology-leveraging@0.36
+- pkg:maven/net.sf.okapi.steps/okapi-step-terminology-leveraging@0.36?classifier=sources

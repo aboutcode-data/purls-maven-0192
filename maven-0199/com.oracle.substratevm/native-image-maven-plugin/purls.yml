@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.substratevm/native-image-maven-plugin@1.0.0-rc8
+- pkg:maven/com.oracle.substratevm/native-image-maven-plugin@1.0.0-rc9

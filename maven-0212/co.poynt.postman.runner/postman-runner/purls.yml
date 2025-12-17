@@ -1,2 +1,4 @@
 - pkg:maven/co.poynt.postman.runner/postman-runner@1.0.9
 - pkg:maven/co.poynt.postman.runner/postman-runner@1.0.9?classifier=sources
+- pkg:maven/co.poynt.postman.runner/postman-runner@2.0.0
+- pkg:maven/co.poynt.postman.runner/postman-runner@2.0.0?classifier=sources

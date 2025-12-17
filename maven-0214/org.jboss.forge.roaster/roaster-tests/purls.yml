@@ -10,3 +10,6 @@
 - pkg:maven/org.jboss.forge.roaster/roaster-tests@2.19.5.Final
 - pkg:maven/org.jboss.forge.roaster/roaster-tests@2.20.0.Final
 - pkg:maven/org.jboss.forge.roaster/roaster-tests@2.20.1.Final
+- pkg:maven/org.jboss.forge.roaster/roaster-tests@2.20.2.Final
+- pkg:maven/org.jboss.forge.roaster/roaster-tests@2.20.3.Final
+- pkg:maven/org.jboss.forge.roaster/roaster-tests@2.20.4.Final

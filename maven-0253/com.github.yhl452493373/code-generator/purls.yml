@@ -1,0 +1,2 @@
+- pkg:maven/com.github.yhl452493373/code-generator@1.1
+- pkg:maven/com.github.yhl452493373/code-generator@1.1?classifier=sources

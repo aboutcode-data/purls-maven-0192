@@ -20,3 +20,5 @@
 - pkg:maven/de.taimos/restutils@1.7?classifier=sources
 - pkg:maven/de.taimos/restutils@1.8
 - pkg:maven/de.taimos/restutils@1.8?classifier=sources
+- pkg:maven/de.taimos/restutils@1.9
+- pkg:maven/de.taimos/restutils@1.9?classifier=sources

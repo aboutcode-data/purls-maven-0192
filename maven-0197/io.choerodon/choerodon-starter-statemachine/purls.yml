@@ -1,0 +1,2 @@
+- pkg:maven/io.choerodon/choerodon-starter-statemachine@0.1.0.RELEASE
+- pkg:maven/io.choerodon/choerodon-starter-statemachine@0.1.0.RELEASE?classifier=sources

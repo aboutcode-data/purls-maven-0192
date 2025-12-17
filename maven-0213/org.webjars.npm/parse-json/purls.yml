@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.npm/parse-json@2.2.0
 - pkg:maven/org.webjars.npm/parse-json@2.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/parse-json@3.0.0
+- pkg:maven/org.webjars.npm/parse-json@3.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/parse-json@4.0.0
+- pkg:maven/org.webjars.npm/parse-json@4.0.0?classifier=sources

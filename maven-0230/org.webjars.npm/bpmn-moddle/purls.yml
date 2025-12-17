@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/bpmn-moddle@0.12.1
 - pkg:maven/org.webjars.npm/bpmn-moddle@0.12.1?classifier=sources
+- pkg:maven/org.webjars.npm/bpmn-moddle@5.1.5
+- pkg:maven/org.webjars.npm/bpmn-moddle@5.1.5?classifier=sources

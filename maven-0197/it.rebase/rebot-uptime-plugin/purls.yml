@@ -1,0 +1,2 @@
+- pkg:maven/it.rebase/rebot-uptime-plugin@0.2
+- pkg:maven/it.rebase/rebot-uptime-plugin@0.2?classifier=sources

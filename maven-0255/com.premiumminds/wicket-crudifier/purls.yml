@@ -2,3 +2,7 @@
 - pkg:maven/com.premiumminds/wicket-crudifier@2.0?classifier=sources
 - pkg:maven/com.premiumminds/wicket-crudifier@3.0
 - pkg:maven/com.premiumminds/wicket-crudifier@3.0?classifier=sources
+- pkg:maven/com.premiumminds/wicket-crudifier@4.0
+- pkg:maven/com.premiumminds/wicket-crudifier@4.0?classifier=sources
+- pkg:maven/com.premiumminds/wicket-crudifier@4.1
+- pkg:maven/com.premiumminds/wicket-crudifier@4.1?classifier=sources

@@ -34,3 +34,17 @@
 - pkg:maven/com.sap.cloud.lm.sl/com.sap.cloud.lm.sl.mta@1.59.2?classifier=sources
 - pkg:maven/com.sap.cloud.lm.sl/com.sap.cloud.lm.sl.mta@1.59.4
 - pkg:maven/com.sap.cloud.lm.sl/com.sap.cloud.lm.sl.mta@1.59.4?classifier=sources
+- pkg:maven/com.sap.cloud.lm.sl/com.sap.cloud.lm.sl.mta@1.60.0
+- pkg:maven/com.sap.cloud.lm.sl/com.sap.cloud.lm.sl.mta@1.60.0?classifier=sources
+- pkg:maven/com.sap.cloud.lm.sl/com.sap.cloud.lm.sl.mta@1.61.0
+- pkg:maven/com.sap.cloud.lm.sl/com.sap.cloud.lm.sl.mta@1.61.0?classifier=sources
+- pkg:maven/com.sap.cloud.lm.sl/com.sap.cloud.lm.sl.mta@1.62.1
+- pkg:maven/com.sap.cloud.lm.sl/com.sap.cloud.lm.sl.mta@1.62.1?classifier=sources
+- pkg:maven/com.sap.cloud.lm.sl/com.sap.cloud.lm.sl.mta@1.63.0
+- pkg:maven/com.sap.cloud.lm.sl/com.sap.cloud.lm.sl.mta@1.63.0?classifier=sources
+- pkg:maven/com.sap.cloud.lm.sl/com.sap.cloud.lm.sl.mta@1.63.1
+- pkg:maven/com.sap.cloud.lm.sl/com.sap.cloud.lm.sl.mta@1.63.1?classifier=sources
+- pkg:maven/com.sap.cloud.lm.sl/com.sap.cloud.lm.sl.mta@1.63.2
+- pkg:maven/com.sap.cloud.lm.sl/com.sap.cloud.lm.sl.mta@1.63.2?classifier=sources
+- pkg:maven/com.sap.cloud.lm.sl/com.sap.cloud.lm.sl.mta@1.64.0
+- pkg:maven/com.sap.cloud.lm.sl/com.sap.cloud.lm.sl.mta@1.64.0?classifier=sources

@@ -2,6 +2,8 @@
 - pkg:maven/de.alpharogroup/vintage-time@4.10.0?classifier=sources
 - pkg:maven/de.alpharogroup/vintage-time@4.11.0
 - pkg:maven/de.alpharogroup/vintage-time@4.11.0?classifier=sources
+- pkg:maven/de.alpharogroup/vintage-time@4.12
+- pkg:maven/de.alpharogroup/vintage-time@4.12?classifier=sources
 - pkg:maven/de.alpharogroup/vintage-time@4.4.0
 - pkg:maven/de.alpharogroup/vintage-time@4.4.0?classifier=sources
 - pkg:maven/de.alpharogroup/vintage-time@4.6.0

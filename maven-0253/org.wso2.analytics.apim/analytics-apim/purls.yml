@@ -14,3 +14,11 @@
 - pkg:maven/org.wso2.analytics.apim/analytics-apim@2.2.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.analytics.apim/analytics-apim@2.5.0-Alpha?classifier=source-release&type=zip
 - pkg:maven/org.wso2.analytics.apim/analytics-apim@2.5.0.Beta?classifier=source-release&type=zip
+- pkg:maven/org.wso2.analytics.apim/analytics-apim@2.5.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.analytics.apim/analytics-apim@2.6.0-alpha?classifier=source-release&type=zip
+- pkg:maven/org.wso2.analytics.apim/analytics-apim@2.6.0-beta?classifier=source-release&type=zip
+- pkg:maven/org.wso2.analytics.apim/analytics-apim@2.6.0-m1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.analytics.apim/analytics-apim@2.6.0-m2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.analytics.apim/analytics-apim@2.6.0-rc1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.analytics.apim/analytics-apim@2.6.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.analytics.apim/analytics-apim@3.0.0?classifier=source-release&type=zip

@@ -38,3 +38,7 @@
 - pkg:maven/nl.hsac/hsac-fitnesse-plugin@1.21.0?classifier=sources
 - pkg:maven/nl.hsac/hsac-fitnesse-plugin@1.22.0
 - pkg:maven/nl.hsac/hsac-fitnesse-plugin@1.22.0?classifier=sources
+- pkg:maven/nl.hsac/hsac-fitnesse-plugin@1.23.0
+- pkg:maven/nl.hsac/hsac-fitnesse-plugin@1.23.0?classifier=sources
+- pkg:maven/nl.hsac/hsac-fitnesse-plugin@1.24.0
+- pkg:maven/nl.hsac/hsac-fitnesse-plugin@1.24.0?classifier=sources

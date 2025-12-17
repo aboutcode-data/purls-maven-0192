@@ -62,3 +62,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mustache-compiler@0.9.5_3?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mustache-compiler@0.9.5_3?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mustache-compiler@0.9.5_3?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mustache-compiler@0.9.5_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mustache-compiler@0.9.5_4?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mustache-compiler@0.9.5_4?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.mustache-compiler@0.9.5_4?classifier=src&type=zip

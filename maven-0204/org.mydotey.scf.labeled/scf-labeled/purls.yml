@@ -1,0 +1,2 @@
+- pkg:maven/org.mydotey.scf.labeled/scf-labeled@1.0.0
+- pkg:maven/org.mydotey.scf.labeled/scf-labeled@1.0.0?classifier=sources

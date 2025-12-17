@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.jena/jena-fuseki-webapp@3.9.0
+- pkg:maven/org.apache.jena/jena-fuseki-webapp@3.9.0?classifier=sources

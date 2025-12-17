@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.autotrader/s3-client-extension@0.1.0
+- pkg:maven/uk.co.autotrader/s3-client-extension@0.1.0?classifier=sources

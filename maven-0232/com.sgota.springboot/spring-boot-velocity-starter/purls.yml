@@ -1,0 +1,2 @@
+- pkg:maven/com.sgota.springboot/spring-boot-velocity-starter@1.0.0
+- pkg:maven/com.sgota.springboot/spring-boot-velocity-starter@1.0.0?classifier=sources

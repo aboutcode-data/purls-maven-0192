@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee/framework@2.0.3-Beta
+- pkg:maven/com.gitee/framework@2.0.3-Beta?classifier=sources

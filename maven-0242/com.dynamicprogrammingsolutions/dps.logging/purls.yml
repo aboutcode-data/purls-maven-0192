@@ -1,0 +1,2 @@
+- pkg:maven/com.dynamicprogrammingsolutions/dps.logging@1.0.1
+- pkg:maven/com.dynamicprogrammingsolutions/dps.logging@1.0.1?classifier=sources

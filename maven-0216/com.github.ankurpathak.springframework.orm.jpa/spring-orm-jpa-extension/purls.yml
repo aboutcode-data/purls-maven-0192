@@ -1,0 +1,4 @@
+- pkg:maven/com.github.ankurpathak.springframework.orm.jpa/spring-orm-jpa-extension@1.0.0
+- pkg:maven/com.github.ankurpathak.springframework.orm.jpa/spring-orm-jpa-extension@1.0.0?classifier=sources
+- pkg:maven/com.github.ankurpathak.springframework.orm.jpa/spring-orm-jpa-extension@1.0.1
+- pkg:maven/com.github.ankurpathak.springframework.orm.jpa/spring-orm-jpa-extension@1.0.1?classifier=sources

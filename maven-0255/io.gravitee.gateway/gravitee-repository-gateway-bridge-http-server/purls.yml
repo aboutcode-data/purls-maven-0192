@@ -1,0 +1,2 @@
+- pkg:maven/io.gravitee.gateway/gravitee-repository-gateway-bridge-http-server@1.0.0?classifier=sources
+- pkg:maven/io.gravitee.gateway/gravitee-repository-gateway-bridge-http-server@1.19.0?classifier=sources

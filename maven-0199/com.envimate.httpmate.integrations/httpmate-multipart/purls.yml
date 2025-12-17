@@ -1,0 +1,2 @@
+- pkg:maven/com.envimate.httpmate.integrations/httpmate-multipart@1.0.0
+- pkg:maven/com.envimate.httpmate.integrations/httpmate-multipart@1.0.0?classifier=sources

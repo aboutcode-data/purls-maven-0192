@@ -30,5 +30,7 @@
 - pkg:maven/org.webjars.bower/fancytree@2.27.0?classifier=sources
 - pkg:maven/org.webjars.bower/fancytree@2.28.1
 - pkg:maven/org.webjars.bower/fancytree@2.28.1?classifier=sources
+- pkg:maven/org.webjars.bower/fancytree@2.30.0
+- pkg:maven/org.webjars.bower/fancytree@2.30.0?classifier=sources
 - pkg:maven/org.webjars.bower/fancytree@2.9.0
 - pkg:maven/org.webjars.bower/fancytree@2.9.0?classifier=sources

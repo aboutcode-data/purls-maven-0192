@@ -1,0 +1,2 @@
+- pkg:maven/org.zapodot/embedded-jms-junit5@0.2
+- pkg:maven/org.zapodot/embedded-jms-junit5@0.2?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/polyfill-service@3.22.0
 - pkg:maven/org.webjars.npm/polyfill-service@3.22.0?classifier=sources
+- pkg:maven/org.webjars.npm/polyfill-service@3.25.1
+- pkg:maven/org.webjars.npm/polyfill-service@3.25.1?classifier=sources

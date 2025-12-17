@@ -34,6 +34,10 @@
 - pkg:maven/com.linkedin.pegasus/restli-server-testutils@20.0.4?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-server-testutils@21.0.0
 - pkg:maven/com.linkedin.pegasus/restli-server-testutils@21.0.0?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-server-testutils@23.0.19
+- pkg:maven/com.linkedin.pegasus/restli-server-testutils@23.0.19?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-server-testutils@24.0.2
+- pkg:maven/com.linkedin.pegasus/restli-server-testutils@24.0.2?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-server-testutils@3.1.1
 - pkg:maven/com.linkedin.pegasus/restli-server-testutils@3.1.1?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-server-testutils@3.1.2

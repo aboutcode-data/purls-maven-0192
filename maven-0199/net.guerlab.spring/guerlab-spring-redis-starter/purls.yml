@@ -1,0 +1,2 @@
+- pkg:maven/net.guerlab.spring/guerlab-spring-redis-starter@2.2.0
+- pkg:maven/net.guerlab.spring/guerlab-spring-redis-starter@2.2.0?classifier=sources

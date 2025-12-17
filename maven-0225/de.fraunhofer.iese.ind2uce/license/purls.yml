@@ -1,3 +1,7 @@
 - pkg:maven/de.fraunhofer.iese.ind2uce/license@3.1.33
 - pkg:maven/de.fraunhofer.iese.ind2uce/license@3.2.51
 - pkg:maven/de.fraunhofer.iese.ind2uce/license@3.2.51?classifier=sources
+- pkg:maven/de.fraunhofer.iese.ind2uce/license@3.2.65
+- pkg:maven/de.fraunhofer.iese.ind2uce/license@3.2.65?classifier=sources
+- pkg:maven/de.fraunhofer.iese.ind2uce/license@3.2.69
+- pkg:maven/de.fraunhofer.iese.ind2uce/license@3.2.69?classifier=sources

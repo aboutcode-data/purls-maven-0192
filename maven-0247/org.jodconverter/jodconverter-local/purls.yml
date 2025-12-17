@@ -1,3 +1,5 @@
 - pkg:maven/org.jodconverter/jodconverter-local@4.1.0?classifier=sources
 - pkg:maven/org.jodconverter/jodconverter-local@4.1.1?classifier=sources
 - pkg:maven/org.jodconverter/jodconverter-local@4.2.0?classifier=sources
+- pkg:maven/org.jodconverter/jodconverter-local@4.2.1?classifier=sources
+- pkg:maven/org.jodconverter/jodconverter-local@4.2.2?classifier=sources

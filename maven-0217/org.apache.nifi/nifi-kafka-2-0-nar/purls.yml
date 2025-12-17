@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.nifi/nifi-kafka-2-0-nar@1.8.0?classifier=sources

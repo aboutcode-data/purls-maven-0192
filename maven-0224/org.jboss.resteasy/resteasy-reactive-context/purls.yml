@@ -1,0 +1,4 @@
+- pkg:maven/org.jboss.resteasy/resteasy-reactive-context@4.0.0.Beta5
+- pkg:maven/org.jboss.resteasy/resteasy-reactive-context@4.0.0.Beta5?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-reactive-context@4.0.0.Beta6
+- pkg:maven/org.jboss.resteasy/resteasy-reactive-context@4.0.0.Beta6?classifier=sources

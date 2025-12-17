@@ -38,3 +38,5 @@
 - pkg:maven/com.bitplan/mediawiki-japi@0.0.8?classifier=sources
 - pkg:maven/com.bitplan/mediawiki-japi@0.0.9
 - pkg:maven/com.bitplan/mediawiki-japi@0.0.9?classifier=sources
+- pkg:maven/com.bitplan/mediawiki-japi@0.1.02
+- pkg:maven/com.bitplan/mediawiki-japi@0.1.02?classifier=sources

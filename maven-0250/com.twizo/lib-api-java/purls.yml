@@ -1,0 +1,2 @@
+- pkg:maven/com.twizo/lib-api-java@0.3.0
+- pkg:maven/com.twizo/lib-api-java@0.3.0?classifier=sources

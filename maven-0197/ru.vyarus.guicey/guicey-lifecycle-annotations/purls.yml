@@ -1,0 +1,2 @@
+- pkg:maven/ru.vyarus.guicey/guicey-lifecycle-annotations@0.6.0
+- pkg:maven/ru.vyarus.guicey/guicey-lifecycle-annotations@0.6.0?classifier=sources
