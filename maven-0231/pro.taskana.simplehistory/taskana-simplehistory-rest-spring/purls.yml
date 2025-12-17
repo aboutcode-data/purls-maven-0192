@@ -1,0 +1,4 @@
+- pkg:maven/pro.taskana.simplehistory/taskana-simplehistory-rest-spring@0.0.8
+- pkg:maven/pro.taskana.simplehistory/taskana-simplehistory-rest-spring@0.0.8?classifier=sources
+- pkg:maven/pro.taskana.simplehistory/taskana-simplehistory-rest-spring@0.0.9
+- pkg:maven/pro.taskana.simplehistory/taskana-simplehistory-rest-spring@0.0.9?classifier=sources

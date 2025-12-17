@@ -1,0 +1,2 @@
+- pkg:maven/com.centit.framework/framework-session@4.4.1812
+- pkg:maven/com.centit.framework/framework-session@4.4.1812?classifier=sources

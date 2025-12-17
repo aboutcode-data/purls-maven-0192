@@ -1,0 +1,2 @@
+- pkg:maven/no.nav/nare-prometheus@0b41ab4
+- pkg:maven/no.nav/nare-prometheus@0b41ab4?classifier=sources

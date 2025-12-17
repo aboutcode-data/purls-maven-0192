@@ -1,0 +1,2 @@
+- pkg:maven/io.geobyte.geojson/geobyte-geojson@1.0.0-RELEASE
+- pkg:maven/io.geobyte.geojson/geobyte-geojson@1.0.0-RELEASE?classifier=sources

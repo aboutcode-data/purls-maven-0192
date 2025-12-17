@@ -1,0 +1,2 @@
+- pkg:maven/com.addc/addc-tag@2.2
+- pkg:maven/com.addc/addc-tag@2.2?classifier=sources

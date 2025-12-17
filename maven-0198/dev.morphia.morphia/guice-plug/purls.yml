@@ -1,0 +1,2 @@
+- pkg:maven/dev.morphia.morphia/guice-plug@1.4.1
+- pkg:maven/dev.morphia.morphia/guice-plug@1.4.1?classifier=sources

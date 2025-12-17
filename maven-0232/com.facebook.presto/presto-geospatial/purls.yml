@@ -26,3 +26,8 @@
 - pkg:maven/com.facebook.presto/presto-geospatial@0.211?classifier=sources
 - pkg:maven/com.facebook.presto/presto-geospatial@0.212?classifier=sources
 - pkg:maven/com.facebook.presto/presto-geospatial@0.213?classifier=sources
+- pkg:maven/com.facebook.presto/presto-geospatial@0.214?classifier=sources
+- pkg:maven/com.facebook.presto/presto-geospatial@0.215?classifier=sources
+- pkg:maven/com.facebook.presto/presto-geospatial@0.216?classifier=sources
+- pkg:maven/com.facebook.presto/presto-geospatial@0.217?classifier=sources
+- pkg:maven/com.facebook.presto/presto-geospatial@0.218?classifier=sources

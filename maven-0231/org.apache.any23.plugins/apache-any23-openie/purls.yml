@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.any23.plugins/apache-any23-openie@2.2
 - pkg:maven/org.apache.any23.plugins/apache-any23-openie@2.2?classifier=sources
+- pkg:maven/org.apache.any23.plugins/apache-any23-openie@2.3
+- pkg:maven/org.apache.any23.plugins/apache-any23-openie@2.3?classifier=sources

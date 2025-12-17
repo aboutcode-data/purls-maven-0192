@@ -1,0 +1,2 @@
+- pkg:maven/com.cognitect.aws/textract@712.2.428.0
+- pkg:maven/com.cognitect.aws/textract@712.2.428.0?classifier=sources

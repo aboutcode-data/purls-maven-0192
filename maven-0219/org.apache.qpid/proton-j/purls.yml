@@ -56,6 +56,10 @@
 - pkg:maven/org.apache.qpid/proton-j@0.29.0?classifier=sources
 - pkg:maven/org.apache.qpid/proton-j@0.30.0
 - pkg:maven/org.apache.qpid/proton-j@0.30.0?classifier=sources
+- pkg:maven/org.apache.qpid/proton-j@0.31.0
+- pkg:maven/org.apache.qpid/proton-j@0.31.0?classifier=sources
+- pkg:maven/org.apache.qpid/proton-j@0.32.0
+- pkg:maven/org.apache.qpid/proton-j@0.32.0?classifier=sources
 - pkg:maven/org.apache.qpid/proton-j@0.7
 - pkg:maven/org.apache.qpid/proton-j@0.7?classifier=sources
 - pkg:maven/org.apache.qpid/proton-j@0.8

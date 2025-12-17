@@ -1,0 +1,2 @@
+- pkg:maven/me.crypnotic.messagechannel/messagechannel-bungeecord@3.0.0
+- pkg:maven/me.crypnotic.messagechannel/messagechannel-bungeecord@3.0.0?classifier=sources

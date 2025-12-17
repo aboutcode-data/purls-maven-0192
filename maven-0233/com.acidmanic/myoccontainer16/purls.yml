@@ -1,0 +1,2 @@
+- pkg:maven/com.acidmanic/myoccontainer16@1.0.1
+- pkg:maven/com.acidmanic/myoccontainer16@1.0.1?classifier=sources

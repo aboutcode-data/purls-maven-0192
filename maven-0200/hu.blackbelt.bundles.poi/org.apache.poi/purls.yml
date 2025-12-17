@@ -1,1 +1,2 @@
 - pkg:maven/hu.blackbelt.bundles.poi/org.apache.poi@3.13.1
+- pkg:maven/hu.blackbelt.bundles.poi/org.apache.poi@4.0.1_1

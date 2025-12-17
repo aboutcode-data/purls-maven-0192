@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ansell.shp/shp-csv@21-RC
+- pkg:maven/com.github.ansell.shp/shp-csv@21-RC?classifier=sources

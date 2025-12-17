@@ -1,3 +1,4 @@
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-basic@10.0.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-basic@2.3.0.redhat-621084
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-basic@2.3.0.redhat-621084?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-basic@2.3.0.redhat-621090
@@ -10,6 +11,8 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-basic@2.3.0.redhat-621159?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-basic@2.3.0.redhat-621169
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-basic@2.3.0.redhat-621169?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-basic@2.3.0.redhat-621177
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-basic@2.3.0.redhat-621177?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-basic@2.3.0.redhat-621186
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-basic@2.3.0.redhat-621186?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-basic@2.3.0.redhat-621211
@@ -55,3 +58,5 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-basic@5.1.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-basic@7.0.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-basic@8.0.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-basic@9.0.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-basic@9.1.0

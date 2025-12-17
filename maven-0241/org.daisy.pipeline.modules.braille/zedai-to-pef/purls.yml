@@ -20,3 +20,5 @@
 - pkg:maven/org.daisy.pipeline.modules.braille/zedai-to-pef@3.3.3?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules.braille/zedai-to-pef@3.3.4
 - pkg:maven/org.daisy.pipeline.modules.braille/zedai-to-pef@3.3.4?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules.braille/zedai-to-pef@4.0.0
+- pkg:maven/org.daisy.pipeline.modules.braille/zedai-to-pef@4.0.0?classifier=sources

@@ -12,5 +12,7 @@
 - pkg:maven/org.dmfs/http-executor-commons@0.16.2
 - pkg:maven/org.dmfs/http-executor-commons@0.16.2?classifier=sources
 - pkg:maven/org.dmfs/http-executor-commons@0.16?classifier=sources
+- pkg:maven/org.dmfs/http-executor-commons@0.17
+- pkg:maven/org.dmfs/http-executor-commons@0.17?classifier=sources
 - pkg:maven/org.dmfs/http-executor-commons@1.16.2
 - pkg:maven/org.dmfs/http-executor-commons@1.16.2?classifier=sources

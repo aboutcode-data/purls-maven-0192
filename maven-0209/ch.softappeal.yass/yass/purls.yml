@@ -162,3 +162,11 @@
 - pkg:maven/ch.softappeal.yass/yass@61.0.1?classifier=sources
 - pkg:maven/ch.softappeal.yass/yass@61.0.2
 - pkg:maven/ch.softappeal.yass/yass@61.0.2?classifier=sources
+- pkg:maven/ch.softappeal.yass/yass@62.0.0
+- pkg:maven/ch.softappeal.yass/yass@62.0.0?classifier=sources
+- pkg:maven/ch.softappeal.yass/yass@63.0.0
+- pkg:maven/ch.softappeal.yass/yass@63.0.0?classifier=sources
+- pkg:maven/ch.softappeal.yass/yass@64.0.0
+- pkg:maven/ch.softappeal.yass/yass@64.0.0?classifier=sources
+- pkg:maven/ch.softappeal.yass/yass@65.0.1
+- pkg:maven/ch.softappeal.yass/yass@65.0.1?classifier=sources

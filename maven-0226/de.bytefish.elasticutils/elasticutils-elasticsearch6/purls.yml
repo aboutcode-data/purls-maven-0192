@@ -1,0 +1,2 @@
+- pkg:maven/de.bytefish.elasticutils/elasticutils-elasticsearch6@1.0
+- pkg:maven/de.bytefish.elasticutils/elasticutils-elasticsearch6@1.0?classifier=sources

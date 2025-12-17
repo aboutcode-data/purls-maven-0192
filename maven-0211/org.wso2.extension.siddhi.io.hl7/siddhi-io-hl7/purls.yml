@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.extension.siddhi.io.hl7/siddhi-io-hl7@1.0.0
+- pkg:maven/org.wso2.extension.siddhi.io.hl7/siddhi-io-hl7@1.0.0?classifier=sources

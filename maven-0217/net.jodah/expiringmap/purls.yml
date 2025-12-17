@@ -28,3 +28,5 @@
 - pkg:maven/net.jodah/expiringmap@0.5.7?classifier=sources
 - pkg:maven/net.jodah/expiringmap@0.5.8
 - pkg:maven/net.jodah/expiringmap@0.5.8?classifier=sources
+- pkg:maven/net.jodah/expiringmap@0.5.9
+- pkg:maven/net.jodah/expiringmap@0.5.9?classifier=sources

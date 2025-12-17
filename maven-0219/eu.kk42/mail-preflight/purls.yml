@@ -1,0 +1,2 @@
+- pkg:maven/eu.kk42/mail-preflight@0.1.0
+- pkg:maven/eu.kk42/mail-preflight@0.1.0?classifier=sources

@@ -20,3 +20,9 @@
 - pkg:maven/systems.manifold/manifold-web-demo@0.28-alpha?classifier=sources
 - pkg:maven/systems.manifold/manifold-web-demo@0.29-alpha
 - pkg:maven/systems.manifold/manifold-web-demo@0.29-alpha?classifier=sources
+- pkg:maven/systems.manifold/manifold-web-demo@0.30-alpha
+- pkg:maven/systems.manifold/manifold-web-demo@0.30-alpha?classifier=sources
+- pkg:maven/systems.manifold/manifold-web-demo@0.31-alpha
+- pkg:maven/systems.manifold/manifold-web-demo@0.31-alpha?classifier=sources
+- pkg:maven/systems.manifold/manifold-web-demo@0.32-alpha
+- pkg:maven/systems.manifold/manifold-web-demo@0.32-alpha?classifier=sources

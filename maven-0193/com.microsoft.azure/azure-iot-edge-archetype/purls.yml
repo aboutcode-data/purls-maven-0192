@@ -1,2 +1,3 @@
 - pkg:maven/com.microsoft.azure/azure-iot-edge-archetype@1.0.0
 - pkg:maven/com.microsoft.azure/azure-iot-edge-archetype@1.1.0
+- pkg:maven/com.microsoft.azure/azure-iot-edge-archetype@1.2.0

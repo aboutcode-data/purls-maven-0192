@@ -1,0 +1,2 @@
+- pkg:maven/net.cofares.ljug/jdbcmysql-utility@0.1-donotuse
+- pkg:maven/net.cofares.ljug/jdbcmysql-utility@0.1-donotuse?classifier=sources

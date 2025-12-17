@@ -1,0 +1,6 @@
+- pkg:maven/com.ibm.cloud.sdk/java-sdk-core@0.0.12
+- pkg:maven/com.ibm.cloud.sdk/java-sdk-core@0.0.12?classifier=sources
+- pkg:maven/com.ibm.cloud.sdk/java-sdk-core@1.0.0
+- pkg:maven/com.ibm.cloud.sdk/java-sdk-core@1.0.0?classifier=sources
+- pkg:maven/com.ibm.cloud.sdk/java-sdk-core@1.0.1
+- pkg:maven/com.ibm.cloud.sdk/java-sdk-core@1.0.1?classifier=sources

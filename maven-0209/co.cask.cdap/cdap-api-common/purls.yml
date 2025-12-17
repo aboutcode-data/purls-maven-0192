@@ -72,3 +72,5 @@
 - pkg:maven/co.cask.cdap/cdap-api-common@5.1.0?classifier=sources
 - pkg:maven/co.cask.cdap/cdap-api-common@5.1.1
 - pkg:maven/co.cask.cdap/cdap-api-common@5.1.1?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-api-common@5.1.2
+- pkg:maven/co.cask.cdap/cdap-api-common@5.1.2?classifier=sources

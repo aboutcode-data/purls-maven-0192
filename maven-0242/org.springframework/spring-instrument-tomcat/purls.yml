@@ -152,6 +152,10 @@
 - pkg:maven/org.springframework/spring-instrument-tomcat@4.3.20.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-instrument-tomcat@4.3.21.RELEASE
 - pkg:maven/org.springframework/spring-instrument-tomcat@4.3.21.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-instrument-tomcat@4.3.22.RELEASE
+- pkg:maven/org.springframework/spring-instrument-tomcat@4.3.22.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-instrument-tomcat@4.3.23.RELEASE
+- pkg:maven/org.springframework/spring-instrument-tomcat@4.3.23.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-instrument-tomcat@4.3.3.RELEASE
 - pkg:maven/org.springframework/spring-instrument-tomcat@4.3.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-instrument-tomcat@4.3.4.RELEASE

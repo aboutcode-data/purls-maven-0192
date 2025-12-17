@@ -1,0 +1,2 @@
+- pkg:maven/io.github.willena/sqlite-jdbc@3.27.2
+- pkg:maven/io.github.willena/sqlite-jdbc@3.27.2?classifier=sources

@@ -1,2 +1,8 @@
 - pkg:maven/no.nordicsemi.android/ble-common@2.0.0?classifier=sources
 - pkg:maven/no.nordicsemi.android/ble-common@2.0.0?type=aar
+- pkg:maven/no.nordicsemi.android/ble-common@2.0.5?classifier=sources
+- pkg:maven/no.nordicsemi.android/ble-common@2.0.5?type=aar
+- pkg:maven/no.nordicsemi.android/ble-common@2.1.0-2?classifier=sources
+- pkg:maven/no.nordicsemi.android/ble-common@2.1.0-2?type=aar
+- pkg:maven/no.nordicsemi.android/ble-common@2.1.0?classifier=sources
+- pkg:maven/no.nordicsemi.android/ble-common@2.1.0?type=aar

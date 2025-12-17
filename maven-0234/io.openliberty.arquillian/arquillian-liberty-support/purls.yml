@@ -1,0 +1,2 @@
+- pkg:maven/io.openliberty.arquillian/arquillian-liberty-support@1.0.4
+- pkg:maven/io.openliberty.arquillian/arquillian-liberty-support@1.0.4?classifier=sources

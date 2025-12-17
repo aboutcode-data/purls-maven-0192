@@ -1,0 +1,2 @@
+- pkg:maven/org.dromara/hmily-admin@2.0.2-RELEASE
+- pkg:maven/org.dromara/hmily-admin@2.0.2-RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.bitplan.pdfextractor/com.bitplan.pdfextractor@0.0.1
+- pkg:maven/com.bitplan.pdfextractor/com.bitplan.pdfextractor@0.0.1?classifier=sources

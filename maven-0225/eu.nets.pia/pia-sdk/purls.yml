@@ -1,0 +1,4 @@
+- pkg:maven/eu.nets.pia/pia-sdk@1.0.0?type=aar
+- pkg:maven/eu.nets.pia/pia-sdk@1.1.0?type=aar
+- pkg:maven/eu.nets.pia/pia-sdk@1.1.1?type=aar
+- pkg:maven/eu.nets.pia/pia-sdk@1.2.0?type=aar

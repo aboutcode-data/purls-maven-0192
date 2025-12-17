@@ -1,0 +1,2 @@
+- pkg:maven/cn.snowheart/dingtalk-robot-demo@1.0.1.RELEASE
+- pkg:maven/cn.snowheart/dingtalk-robot-demo@1.0.1.RELEASE?classifier=sources

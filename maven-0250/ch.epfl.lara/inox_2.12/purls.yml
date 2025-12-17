@@ -92,6 +92,8 @@
 - pkg:maven/ch.epfl.lara/inox_2.12@1.1.0-31-g5bf1997?classifier=sources
 - pkg:maven/ch.epfl.lara/inox_2.12@1.1.0-315-gec5dd7d
 - pkg:maven/ch.epfl.lara/inox_2.12@1.1.0-315-gec5dd7d?classifier=sources
+- pkg:maven/ch.epfl.lara/inox_2.12@1.1.0-322-g6cdfa72
+- pkg:maven/ch.epfl.lara/inox_2.12@1.1.0-322-g6cdfa72?classifier=sources
 - pkg:maven/ch.epfl.lara/inox_2.12@1.1.0-40-g07559d3
 - pkg:maven/ch.epfl.lara/inox_2.12@1.1.0-40-g07559d3?classifier=sources
 - pkg:maven/ch.epfl.lara/inox_2.12@1.1.0-47-gb507feb

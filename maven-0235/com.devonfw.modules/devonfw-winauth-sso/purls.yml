@@ -1,2 +1,4 @@
 - pkg:maven/com.devonfw.modules/devonfw-winauth-sso@2.4.0
 - pkg:maven/com.devonfw.modules/devonfw-winauth-sso@2.4.0?classifier=sources
+- pkg:maven/com.devonfw.modules/devonfw-winauth-sso@3.0.0
+- pkg:maven/com.devonfw.modules/devonfw-winauth-sso@3.0.0?classifier=sources

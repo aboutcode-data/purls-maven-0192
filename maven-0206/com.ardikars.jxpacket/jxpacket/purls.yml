@@ -17,3 +17,5 @@
 - pkg:maven/com.ardikars.jxpacket/jxpacket@1.1.0.RC7
 - pkg:maven/com.ardikars.jxpacket/jxpacket@1.1.0.RC8
 - pkg:maven/com.ardikars.jxpacket/jxpacket@1.1.0.RC9
+- pkg:maven/com.ardikars.jxpacket/jxpacket@1.2.0.Final
+- pkg:maven/com.ardikars.jxpacket/jxpacket@1.2.1.RELEASE

@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/nanoid@1.0.4
 - pkg:maven/org.webjars.npm/nanoid@1.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/nanoid@2.0.1
+- pkg:maven/org.webjars.npm/nanoid@2.0.1?classifier=sources

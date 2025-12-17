@@ -1,0 +1,2 @@
+- pkg:maven/com.arost/spring-db-fileservice@0.0.1
+- pkg:maven/com.arost/spring-db-fileservice@0.0.1?classifier=sources

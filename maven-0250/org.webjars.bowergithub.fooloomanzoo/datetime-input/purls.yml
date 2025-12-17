@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.bowergithub.fooloomanzoo/datetime-input@2.1.0
 - pkg:maven/org.webjars.bowergithub.fooloomanzoo/datetime-input@2.1.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.fooloomanzoo/datetime-input@2.3.11
+- pkg:maven/org.webjars.bowergithub.fooloomanzoo/datetime-input@2.3.11?classifier=sources
 - pkg:maven/org.webjars.bowergithub.fooloomanzoo/datetime-input@2.3.7
 - pkg:maven/org.webjars.bowergithub.fooloomanzoo/datetime-input@2.3.7?classifier=sources

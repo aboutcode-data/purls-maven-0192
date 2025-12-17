@@ -1,3 +1,5 @@
 - pkg:maven/com.buschmais.jqassistant.cli/jqassistant-commandline-neo4jv2@1.4.0
 - pkg:maven/com.buschmais.jqassistant.cli/jqassistant-commandline-neo4jv2@1.5.0
 - pkg:maven/com.buschmais.jqassistant.cli/jqassistant-commandline-neo4jv2@1.5.0-RC-1
+- pkg:maven/com.buschmais.jqassistant.cli/jqassistant-commandline-neo4jv2@1.6.0
+- pkg:maven/com.buschmais.jqassistant.cli/jqassistant-commandline-neo4jv2@1.6.0-RC1

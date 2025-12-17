@@ -1,0 +1,4 @@
+- pkg:maven/cn.com.analysys/javasdk@4.0.7
+- pkg:maven/cn.com.analysys/javasdk@4.0.7-all
+- pkg:maven/cn.com.analysys/javasdk@4.0.7-all?classifier=sources
+- pkg:maven/cn.com.analysys/javasdk@4.0.7?classifier=sources

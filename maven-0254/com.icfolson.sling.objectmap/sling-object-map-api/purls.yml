@@ -1,2 +1,4 @@
 - pkg:maven/com.icfolson.sling.objectmap/sling-object-map-api@1.0.0
 - pkg:maven/com.icfolson.sling.objectmap/sling-object-map-api@1.1.0
+- pkg:maven/com.icfolson.sling.objectmap/sling-object-map-api@1.2.0
+- pkg:maven/com.icfolson.sling.objectmap/sling-object-map-api@1.2.1

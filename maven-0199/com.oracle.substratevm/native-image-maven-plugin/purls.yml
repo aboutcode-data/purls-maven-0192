@@ -1,2 +1,8 @@
+- pkg:maven/com.oracle.substratevm/native-image-maven-plugin@1.0.0-rc10
+- pkg:maven/com.oracle.substratevm/native-image-maven-plugin@1.0.0-rc11
+- pkg:maven/com.oracle.substratevm/native-image-maven-plugin@1.0.0-rc12
+- pkg:maven/com.oracle.substratevm/native-image-maven-plugin@1.0.0-rc13
+- pkg:maven/com.oracle.substratevm/native-image-maven-plugin@1.0.0-rc14
+- pkg:maven/com.oracle.substratevm/native-image-maven-plugin@1.0.0-rc15
 - pkg:maven/com.oracle.substratevm/native-image-maven-plugin@1.0.0-rc8
 - pkg:maven/com.oracle.substratevm/native-image-maven-plugin@1.0.0-rc9

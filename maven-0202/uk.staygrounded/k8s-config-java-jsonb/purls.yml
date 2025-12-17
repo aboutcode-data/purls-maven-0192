@@ -1,0 +1,2 @@
+- pkg:maven/uk.staygrounded/k8s-config-java-jsonb@v1.10.8
+- pkg:maven/uk.staygrounded/k8s-config-java-jsonb@v1.10.8?classifier=sources

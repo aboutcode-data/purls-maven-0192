@@ -1,0 +1,2 @@
+- pkg:maven/net.jtownson/swakka_2.11@0.53
+- pkg:maven/net.jtownson/swakka_2.11@0.53?classifier=sources

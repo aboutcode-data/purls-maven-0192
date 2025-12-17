@@ -1,0 +1,6 @@
+- pkg:maven/io.github.dineshgpillai/domain.legal.fpml@5.11.0-1
+- pkg:maven/io.github.dineshgpillai/domain.legal.fpml@5.11.0-1?classifier=sources
+- pkg:maven/io.github.dineshgpillai/domain.legal.fpml@5.11.0-20
+- pkg:maven/io.github.dineshgpillai/domain.legal.fpml@5.11.0-20?classifier=sources
+- pkg:maven/io.github.dineshgpillai/domain.legal.fpml@5.11.0-51
+- pkg:maven/io.github.dineshgpillai/domain.legal.fpml@5.11.0-51?classifier=sources

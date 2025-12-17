@@ -1,0 +1,2 @@
+- pkg:maven/io.growing.sdk.java/gio-java-sdk@1.0.0
+- pkg:maven/io.growing.sdk.java/gio-java-sdk@1.0.0?classifier=sources

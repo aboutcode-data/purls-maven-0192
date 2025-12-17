@@ -4,3 +4,6 @@
 - pkg:maven/org.jboss/jdk-misc@2.Final
 - pkg:maven/org.jboss/jdk-misc@2.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss/jdk-misc@2.Final?classifier=sources
+- pkg:maven/org.jboss/jdk-misc@3.Final
+- pkg:maven/org.jboss/jdk-misc@3.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss/jdk-misc@3.Final?classifier=sources

@@ -114,6 +114,8 @@
 - pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev20180627-1.26.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev20180627-1.27.0
 - pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev20180627-1.27.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev20180627-1.28.0
+- pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev20180627-1.28.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev21-1.20.0
@@ -212,6 +214,16 @@
 - pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev33-1.24.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev33-1.25.0
 - pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev33-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev34-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev34-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev34-1.22.0
+- pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev34-1.22.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev34-1.23.0
+- pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev34-1.23.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev34-1.24.1
+- pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev34-1.24.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev34-1.25.0
+- pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev34-1.25.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev4-1.15.0-rc
 - pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev4-1.15.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev4-1.16.0-rc

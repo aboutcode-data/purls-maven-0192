@@ -8,3 +8,5 @@
 - pkg:maven/com.bitmark.sdk/cryptography@1.2?classifier=sources
 - pkg:maven/com.bitmark.sdk/cryptography@1.4
 - pkg:maven/com.bitmark.sdk/cryptography@1.4?classifier=sources
+- pkg:maven/com.bitmark.sdk/cryptography@1.5
+- pkg:maven/com.bitmark.sdk/cryptography@1.5?classifier=sources

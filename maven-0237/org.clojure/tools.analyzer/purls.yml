@@ -64,3 +64,5 @@
 - pkg:maven/org.clojure/tools.analyzer@0.6.7?classifier=sources
 - pkg:maven/org.clojure/tools.analyzer@0.6.9
 - pkg:maven/org.clojure/tools.analyzer@0.6.9?classifier=sources
+- pkg:maven/org.clojure/tools.analyzer@0.7.0
+- pkg:maven/org.clojure/tools.analyzer@0.7.0?classifier=sources

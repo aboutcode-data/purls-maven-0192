@@ -1,0 +1,2 @@
+- pkg:maven/org.xbib.elasticsearch/elasticsearch-test-framework@6.3.2.4
+- pkg:maven/org.xbib.elasticsearch/elasticsearch-test-framework@6.3.2.4?classifier=sources

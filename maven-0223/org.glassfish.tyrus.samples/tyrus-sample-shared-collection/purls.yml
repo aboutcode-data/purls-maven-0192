@@ -19,3 +19,6 @@
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-shared-collection@1.14?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-shared-collection@1.14?classifier=sources
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-shared-collection@1.14?type=war
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-shared-collection@1.15?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-shared-collection@1.15?classifier=sources
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-shared-collection@1.15?type=war

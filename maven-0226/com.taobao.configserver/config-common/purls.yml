@@ -1,0 +1,2 @@
+- pkg:maven/com.taobao.configserver/config-common@2.2.4-open-sock5
+- pkg:maven/com.taobao.configserver/config-common@2.2.4-open-sock5?classifier=sources

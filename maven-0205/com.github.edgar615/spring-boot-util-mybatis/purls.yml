@@ -1,0 +1,2 @@
+- pkg:maven/com.github.edgar615/spring-boot-util-mybatis@0.2.10
+- pkg:maven/com.github.edgar615/spring-boot-util-mybatis@0.2.10?classifier=sources

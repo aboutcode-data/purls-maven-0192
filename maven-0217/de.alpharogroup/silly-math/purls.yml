@@ -1,0 +1,2 @@
+- pkg:maven/de.alpharogroup/silly-math@1
+- pkg:maven/de.alpharogroup/silly-math@1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.cognitect.aws/greengrass@668.2.364.0
+- pkg:maven/com.cognitect.aws/greengrass@668.2.364.0?classifier=sources
+- pkg:maven/com.cognitect.aws/greengrass@697.2.391.0
+- pkg:maven/com.cognitect.aws/greengrass@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/greengrass@712.2.417.0
+- pkg:maven/com.cognitect.aws/greengrass@712.2.417.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.sdun-zehmke/sysomod@1.0
+- pkg:maven/de.sdun-zehmke/sysomod@1.0?classifier=sources

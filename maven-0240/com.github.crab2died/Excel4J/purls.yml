@@ -16,3 +16,5 @@
 - pkg:maven/com.github.crab2died/Excel4J@2.1.4-Final2
 - pkg:maven/com.github.crab2died/Excel4J@2.1.4-Final2?classifier=sources
 - pkg:maven/com.github.crab2died/Excel4J@2.1.4-Final?classifier=sources
+- pkg:maven/com.github.crab2died/Excel4J@3.0.0-Alpha
+- pkg:maven/com.github.crab2died/Excel4J@3.0.0-Alpha?classifier=sources

@@ -87,3 +87,7 @@
 - pkg:maven/com.apptentive/apptentive-android@5.3.1?type=aar
 - pkg:maven/com.apptentive/apptentive-android@5.3.2?classifier=sources
 - pkg:maven/com.apptentive/apptentive-android@5.3.2?type=aar
+- pkg:maven/com.apptentive/apptentive-android@5.3.3?classifier=sources
+- pkg:maven/com.apptentive/apptentive-android@5.3.3?type=aar
+- pkg:maven/com.apptentive/apptentive-android@5.4.0?classifier=sources
+- pkg:maven/com.apptentive/apptentive-android@5.4.0?type=aar

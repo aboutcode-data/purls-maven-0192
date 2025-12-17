@@ -2,3 +2,7 @@
 - pkg:maven/org.bedework.evreg/bw-event-registration-war@4.0.1?type=war
 - pkg:maven/org.bedework.evreg/bw-event-registration-war@4.0.2?classifier=sources
 - pkg:maven/org.bedework.evreg/bw-event-registration-war@4.0.2?type=war
+- pkg:maven/org.bedework.evreg/bw-event-registration-war@4.0.3?classifier=sources
+- pkg:maven/org.bedework.evreg/bw-event-registration-war@4.0.3?type=war
+- pkg:maven/org.bedework.evreg/bw-event-registration-war@4.0.4?classifier=sources
+- pkg:maven/org.bedework.evreg/bw-event-registration-war@4.0.4?type=war

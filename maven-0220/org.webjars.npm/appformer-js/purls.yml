@@ -1,0 +1,10 @@
+- pkg:maven/org.webjars.npm/appformer-js@0.1.0-ALPHA
+- pkg:maven/org.webjars.npm/appformer-js@0.1.0-ALPHA?classifier=sources
+- pkg:maven/org.webjars.npm/appformer-js@0.2.1-ALPHA
+- pkg:maven/org.webjars.npm/appformer-js@0.2.1-ALPHA?classifier=sources
+- pkg:maven/org.webjars.npm/appformer-js@0.2.4-ALPHA
+- pkg:maven/org.webjars.npm/appformer-js@0.2.4-ALPHA?classifier=sources
+- pkg:maven/org.webjars.npm/appformer-js@0.2.5-ALPHA
+- pkg:maven/org.webjars.npm/appformer-js@0.2.5-ALPHA?classifier=sources
+- pkg:maven/org.webjars.npm/appformer-js@0.2.6-ALPHA
+- pkg:maven/org.webjars.npm/appformer-js@0.2.6-ALPHA?classifier=sources

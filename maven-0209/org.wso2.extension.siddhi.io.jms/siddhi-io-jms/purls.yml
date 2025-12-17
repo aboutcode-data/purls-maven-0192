@@ -44,3 +44,5 @@
 - pkg:maven/org.wso2.extension.siddhi.io.jms/siddhi-io-jms@1.0.31?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.io.jms/siddhi-io-jms@1.0.9
 - pkg:maven/org.wso2.extension.siddhi.io.jms/siddhi-io-jms@1.0.9?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.io.jms/siddhi-io-jms@1.1.0
+- pkg:maven/org.wso2.extension.siddhi.io.jms/siddhi-io-jms@1.1.0?classifier=sources

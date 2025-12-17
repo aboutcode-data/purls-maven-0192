@@ -1,0 +1,6 @@
+- pkg:maven/jp.spring-boot-reference/smart-http-logger@1.0
+- pkg:maven/jp.spring-boot-reference/smart-http-logger@1.0.0
+- pkg:maven/jp.spring-boot-reference/smart-http-logger@1.0.0?classifier=sources
+- pkg:maven/jp.spring-boot-reference/smart-http-logger@1.0.1
+- pkg:maven/jp.spring-boot-reference/smart-http-logger@1.0.1?classifier=sources
+- pkg:maven/jp.spring-boot-reference/smart-http-logger@1.0?classifier=sources

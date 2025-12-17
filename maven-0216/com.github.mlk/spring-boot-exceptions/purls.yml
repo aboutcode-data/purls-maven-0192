@@ -26,3 +26,5 @@
 - pkg:maven/com.github.mlk/spring-boot-exceptions@1.1.73?classifier=sources
 - pkg:maven/com.github.mlk/spring-boot-exceptions@1.1.78
 - pkg:maven/com.github.mlk/spring-boot-exceptions@1.1.78?classifier=sources
+- pkg:maven/com.github.mlk/spring-boot-exceptions@1.1.80
+- pkg:maven/com.github.mlk/spring-boot-exceptions@1.1.80?classifier=sources

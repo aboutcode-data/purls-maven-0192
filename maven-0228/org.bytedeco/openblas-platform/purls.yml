@@ -1,0 +1,2 @@
+- pkg:maven/org.bytedeco/openblas-platform@0.3.5-1.5
+- pkg:maven/org.bytedeco/openblas-platform@0.3.5-1.5?classifier=sources

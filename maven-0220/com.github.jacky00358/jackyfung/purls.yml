@@ -1,0 +1,5 @@
+- pkg:maven/com.github.jacky00358/jackyfung@1.0.3?classifier=sources
+- pkg:maven/com.github.jacky00358/jackyfung@2.0.1?classifier=sources
+- pkg:maven/com.github.jacky00358/jackyfung@2.0?classifier=sources
+- pkg:maven/com.github.jacky00358/jackyfung@3.0?classifier=sources
+- pkg:maven/com.github.jacky00358/jackyfung@4.0?classifier=sources

@@ -1,2 +1,5 @@
 - pkg:maven/io.github.inflationx/viewpump@1.0.0?classifier=sources
 - pkg:maven/io.github.inflationx/viewpump@1.0.0?type=aar
+- pkg:maven/io.github.inflationx/viewpump@2.0.0?classifier=sources
+- pkg:maven/io.github.inflationx/viewpump@2.0.0?type=aar
+- pkg:maven/io.github.inflationx/viewpump@2.0.1?type=aar

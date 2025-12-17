@@ -262,6 +262,8 @@
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.2.25.v20180606?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.2.26.v20180806
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.2.26.v20180806?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.2.27.v20190403
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.2.27.v20190403?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.2.3.v20140905
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.2.3.v20140905?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.2.4.v20141103
@@ -326,6 +328,8 @@
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.3.21.M0?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.3.23.v20180228
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.3.23.v20180228?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.3.26.v20190403
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.3.26.v20190403?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.3.3.v20150827
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.3.3.v20150827?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.3.4.RC0
@@ -392,6 +396,10 @@
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.4.13.v20181111?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.4.14.v20181114
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.4.14.v20181114?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.4.15.v20190215
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.4.15.v20190215?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.4.16.v20190411
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.4.16.v20190411?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.4.2.v20170220
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.4.2.v20170220?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi@9.4.3.v20170317

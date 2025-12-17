@@ -1,0 +1,1 @@
+- pkg:maven/com.github.cretz.pbandk/protoc-gen-kotlin-jvm@0.3.0?classifier=sources

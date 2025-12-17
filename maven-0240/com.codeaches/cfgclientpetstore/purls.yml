@@ -1,0 +1,16 @@
+- pkg:maven/com.codeaches/cfgclientpetstore@1.0.0
+- pkg:maven/com.codeaches/cfgclientpetstore@1.0.0?classifier=sources
+- pkg:maven/com.codeaches/cfgclientpetstore@2.0.0
+- pkg:maven/com.codeaches/cfgclientpetstore@2.0.0?classifier=sources
+- pkg:maven/com.codeaches/cfgclientpetstore@3.0.0
+- pkg:maven/com.codeaches/cfgclientpetstore@3.0.0?classifier=sources
+- pkg:maven/com.codeaches/cfgclientpetstore@4.0.0
+- pkg:maven/com.codeaches/cfgclientpetstore@4.0.0?classifier=sources
+- pkg:maven/com.codeaches/cfgclientpetstore@5.0.0
+- pkg:maven/com.codeaches/cfgclientpetstore@5.0.0?classifier=sources
+- pkg:maven/com.codeaches/cfgclientpetstore@6.0.0
+- pkg:maven/com.codeaches/cfgclientpetstore@6.0.0?classifier=sources
+- pkg:maven/com.codeaches/cfgclientpetstore@7.0.0
+- pkg:maven/com.codeaches/cfgclientpetstore@7.0.0?classifier=sources
+- pkg:maven/com.codeaches/cfgclientpetstore@8.0.0
+- pkg:maven/com.codeaches/cfgclientpetstore@8.0.0?classifier=sources

@@ -30,3 +30,8 @@
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-admarvel-mediation@4.8-2.6.0?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-admarvel-mediation@4.8.1-2.6.0?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-admarvel-mediation@4.9-2.6.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-admarvel-mediation@5.0-2.6.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-admarvel-mediation@5.1-2.6.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-admarvel-mediation@5.1.1-2.6.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-admarvel-mediation@5.1.2-2.6.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-admarvel-mediation@5.2-2.6.0?type=aar

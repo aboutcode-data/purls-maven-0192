@@ -1,0 +1,2 @@
+- pkg:maven/org.ekrich/sconfig_2.13.0-M5@0.7.5
+- pkg:maven/org.ekrich/sconfig_2.13.0-M5@0.7.5?classifier=sources

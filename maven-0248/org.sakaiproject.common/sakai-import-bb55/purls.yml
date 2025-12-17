@@ -20,3 +20,7 @@
 - pkg:maven/org.sakaiproject.common/sakai-import-bb55@12.4?classifier=sources
 - pkg:maven/org.sakaiproject.common/sakai-import-bb55@12.5
 - pkg:maven/org.sakaiproject.common/sakai-import-bb55@12.5?classifier=sources
+- pkg:maven/org.sakaiproject.common/sakai-import-bb55@12.6
+- pkg:maven/org.sakaiproject.common/sakai-import-bb55@12.6?classifier=sources
+- pkg:maven/org.sakaiproject.common/sakai-import-bb55@19.0
+- pkg:maven/org.sakaiproject.common/sakai-import-bb55@19.0?classifier=sources

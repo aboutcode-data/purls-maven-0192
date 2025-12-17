@@ -1,0 +1,2 @@
+- pkg:maven/com.caucho/resin-javaee16@4.0.50
+- pkg:maven/com.caucho/resin-javaee16@4.0.50?classifier=sources

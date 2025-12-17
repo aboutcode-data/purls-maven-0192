@@ -1,0 +1,2 @@
+- pkg:maven/com.github.cico216/fx-pc@1.0
+- pkg:maven/com.github.cico216/fx-pc@1.0?classifier=sources

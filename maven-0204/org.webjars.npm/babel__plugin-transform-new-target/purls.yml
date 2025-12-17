@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/babel__plugin-transform-new-target@7.0.0
+- pkg:maven/org.webjars.npm/babel__plugin-transform-new-target@7.0.0?classifier=sources

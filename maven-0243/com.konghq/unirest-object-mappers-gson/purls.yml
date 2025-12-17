@@ -1,0 +1,2 @@
+- pkg:maven/com.konghq/unirest-object-mappers-gson@2.2.00
+- pkg:maven/com.konghq/unirest-object-mappers-gson@2.2.00?classifier=sources

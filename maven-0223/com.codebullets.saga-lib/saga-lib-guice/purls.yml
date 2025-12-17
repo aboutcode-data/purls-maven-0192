@@ -40,3 +40,7 @@
 - pkg:maven/com.codebullets.saga-lib/saga-lib-guice@3.1.0?classifier=sources
 - pkg:maven/com.codebullets.saga-lib/saga-lib-guice@3.1.1
 - pkg:maven/com.codebullets.saga-lib/saga-lib-guice@3.1.1?classifier=sources
+- pkg:maven/com.codebullets.saga-lib/saga-lib-guice@3.2.0
+- pkg:maven/com.codebullets.saga-lib/saga-lib-guice@3.2.0?classifier=sources
+- pkg:maven/com.codebullets.saga-lib/saga-lib-guice@3.3.0
+- pkg:maven/com.codebullets.saga-lib/saga-lib-guice@3.3.0?classifier=sources

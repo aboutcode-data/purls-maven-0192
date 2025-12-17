@@ -22,3 +22,5 @@
 - pkg:maven/com.github.ljtfreitas/java-restify-jaxrs-contract@1.6.3?classifier=sources
 - pkg:maven/com.github.ljtfreitas/java-restify-jaxrs-contract@1.6.4
 - pkg:maven/com.github.ljtfreitas/java-restify-jaxrs-contract@1.6.4?classifier=sources
+- pkg:maven/com.github.ljtfreitas/java-restify-jaxrs-contract@2.0.0
+- pkg:maven/com.github.ljtfreitas/java-restify-jaxrs-contract@2.0.0?classifier=sources

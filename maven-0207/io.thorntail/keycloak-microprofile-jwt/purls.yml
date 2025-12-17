@@ -1,0 +1,2 @@
+- pkg:maven/io.thorntail/keycloak-microprofile-jwt@2.4.0.Final
+- pkg:maven/io.thorntail/keycloak-microprofile-jwt@2.4.0.Final?classifier=sources

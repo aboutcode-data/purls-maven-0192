@@ -14,3 +14,5 @@
 - pkg:maven/com.github.thesmartenergy/sparql-generate-jena@1.2.3
 - pkg:maven/com.github.thesmartenergy/sparql-generate-jena@1.2.3?classifier=sources
 - pkg:maven/com.github.thesmartenergy/sparql-generate-jena@1.2?classifier=sources
+- pkg:maven/com.github.thesmartenergy/sparql-generate-jena@1.3
+- pkg:maven/com.github.thesmartenergy/sparql-generate-jena@1.3?classifier=sources
