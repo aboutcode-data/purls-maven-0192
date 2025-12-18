@@ -1,0 +1,2 @@
+- pkg:maven/com.yodo1.common/sensor@1.0.4?classifier=sources
+- pkg:maven/com.yodo1.common/sensor@1.0.4?type=aar

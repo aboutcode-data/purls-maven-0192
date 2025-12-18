@@ -32,3 +32,5 @@
 - pkg:maven/com.twitter/inject-ports_2.12@21.2.0?classifier=sources
 - pkg:maven/com.twitter/inject-ports_2.12@21.3.0
 - pkg:maven/com.twitter/inject-ports_2.12@21.3.0?classifier=sources
+- pkg:maven/com.twitter/inject-ports_2.12@21.4.0
+- pkg:maven/com.twitter/inject-ports_2.12@21.4.0?classifier=sources

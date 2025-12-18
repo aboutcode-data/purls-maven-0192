@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/gcp-metadata@0.6.3?classifier=sources
 - pkg:maven/org.webjars.npm/gcp-metadata@0.9.3
 - pkg:maven/org.webjars.npm/gcp-metadata@0.9.3?classifier=sources
+- pkg:maven/org.webjars.npm/gcp-metadata@4.2.1
+- pkg:maven/org.webjars.npm/gcp-metadata@4.2.1?classifier=sources

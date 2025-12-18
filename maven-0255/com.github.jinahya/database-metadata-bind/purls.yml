@@ -36,3 +36,5 @@
 - pkg:maven/com.github.jinahya/database-metadata-bind@3.0.0?classifier=sources
 - pkg:maven/com.github.jinahya/database-metadata-bind@3.1.0
 - pkg:maven/com.github.jinahya/database-metadata-bind@3.1.0?classifier=sources
+- pkg:maven/com.github.jinahya/database-metadata-bind@3.2.0
+- pkg:maven/com.github.jinahya/database-metadata-bind@3.2.0?classifier=sources

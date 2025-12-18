@@ -1,0 +1,2 @@
+- pkg:maven/com.telenav.kivakit/kivakit-filesystems-hdfs-proxy-spi@0.9.7-alpha
+- pkg:maven/com.telenav.kivakit/kivakit-filesystems-hdfs-proxy-spi@0.9.7-alpha?classifier=sources

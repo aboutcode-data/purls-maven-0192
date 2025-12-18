@@ -1,0 +1,2 @@
+- pkg:maven/com.afrunt.pgs/pg-snapshot-datasource@0.1
+- pkg:maven/com.afrunt.pgs/pg-snapshot-datasource@0.1?classifier=sources

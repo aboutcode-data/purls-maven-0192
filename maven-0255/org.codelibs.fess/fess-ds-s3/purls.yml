@@ -2,6 +2,8 @@
 - pkg:maven/org.codelibs.fess/fess-ds-s3@13.10.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-s3@13.11.0
 - pkg:maven/org.codelibs.fess/fess-ds-s3@13.11.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-ds-s3@13.12.0
+- pkg:maven/org.codelibs.fess/fess-ds-s3@13.12.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-s3@13.4.0
 - pkg:maven/org.codelibs.fess/fess-ds-s3@13.4.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-s3@13.6.0

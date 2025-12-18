@@ -9,3 +9,4 @@
 - pkg:maven/io.projectreactor.tools/blockhound@1.0.4.RELEASE
 - pkg:maven/io.projectreactor.tools/blockhound@1.0.4.RELEASE?classifier=sources
 - pkg:maven/io.projectreactor.tools/blockhound@1.0.5.RELEASE?classifier=sources
+- pkg:maven/io.projectreactor.tools/blockhound@1.0.6.RELEASE?classifier=sources

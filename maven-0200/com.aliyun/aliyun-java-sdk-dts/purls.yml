@@ -1,3 +1,5 @@
+- pkg:maven/com.aliyun/aliyun-java-sdk-dts@1.8.4
+- pkg:maven/com.aliyun/aliyun-java-sdk-dts@1.8.4?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-dts@2.0.10
 - pkg:maven/com.aliyun/aliyun-java-sdk-dts@2.0.10?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-dts@2.0.11
@@ -44,6 +46,12 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-dts@5.0.98.19.6?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-dts@5.1.10
 - pkg:maven/com.aliyun/aliyun-java-sdk-dts@5.1.10?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-dts@5.1.11
+- pkg:maven/com.aliyun/aliyun-java-sdk-dts@5.1.11?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-dts@5.1.12
+- pkg:maven/com.aliyun/aliyun-java-sdk-dts@5.1.12?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-dts@5.1.13
+- pkg:maven/com.aliyun/aliyun-java-sdk-dts@5.1.13?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-dts@5.1.8
 - pkg:maven/com.aliyun/aliyun-java-sdk-dts@5.1.8?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-dts@5.1.9

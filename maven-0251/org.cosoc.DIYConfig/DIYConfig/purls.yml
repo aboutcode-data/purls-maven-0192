@@ -1,2 +1,8 @@
 - pkg:maven/org.cosoc.DIYConfig/DIYConfig@1.0
 - pkg:maven/org.cosoc.DIYConfig/DIYConfig@1.0?classifier=sources
+- pkg:maven/org.cosoc.DIYConfig/DIYConfig@2.0
+- pkg:maven/org.cosoc.DIYConfig/DIYConfig@2.0?classifier=sources
+- pkg:maven/org.cosoc.DIYConfig/DIYConfig@2.1.0
+- pkg:maven/org.cosoc.DIYConfig/DIYConfig@2.1.0?classifier=sources
+- pkg:maven/org.cosoc.DIYConfig/DIYConfig@2021.04.07
+- pkg:maven/org.cosoc.DIYConfig/DIYConfig@2021.04.07?classifier=sources

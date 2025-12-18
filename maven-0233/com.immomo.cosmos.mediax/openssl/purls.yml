@@ -1,0 +1,2 @@
+- pkg:maven/com.immomo.cosmos.mediax/openssl@openssl_1.0.1_2019-0605-115656?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/openssl@openssl_1.0.1_2019-0605-115656?type=aar

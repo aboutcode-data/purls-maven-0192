@@ -1,0 +1,2 @@
+- pkg:maven/net.cnri.cordra/cordra-embedded-test-server@2.3.0
+- pkg:maven/net.cnri.cordra/cordra-embedded-test-server@2.3.0?classifier=sources

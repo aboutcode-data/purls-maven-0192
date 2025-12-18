@@ -14,3 +14,5 @@
 - pkg:maven/com.cognitect.aws/cloud9@792.2.620.0?classifier=sources
 - pkg:maven/com.cognitect.aws/cloud9@809.2.734.0
 - pkg:maven/com.cognitect.aws/cloud9@809.2.734.0?classifier=sources
+- pkg:maven/com.cognitect.aws/cloud9@811.2.889.0
+- pkg:maven/com.cognitect.aws/cloud9@811.2.889.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.jam2in.arcus/arcus-spring@1.11.6.2
 - pkg:maven/com.jam2in.arcus/arcus-spring@1.11.6.2?classifier=sources
+- pkg:maven/com.jam2in.arcus/arcus-spring@1.13.0
+- pkg:maven/com.jam2in.arcus/arcus-spring@1.13.0?classifier=sources

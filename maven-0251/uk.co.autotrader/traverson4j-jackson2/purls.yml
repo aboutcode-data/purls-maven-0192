@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.autotrader/traverson4j-jackson2@3.0.0?classifier=sources
+- pkg:maven/uk.co.autotrader/traverson4j-jackson2@3.0.1?classifier=sources

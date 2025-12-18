@@ -1,2 +1,10 @@
 - pkg:maven/com.wappier/WappierSDK@3.9.10-nobillingRelease?classifier=sources
+- pkg:maven/com.wappier/WappierSDK@3.9.11-billingRelease?classifier=sources
+- pkg:maven/com.wappier/WappierSDK@3.9.11-nobillingRelease?classifier=sources
+- pkg:maven/com.wappier/WappierSDK@3.9.12-billingRelease?classifier=sources
+- pkg:maven/com.wappier/WappierSDK@3.9.12-nobillingRelease?classifier=sources
+- pkg:maven/com.wappier/WappierSDK@3.9.13-billingRelease?classifier=sources
+- pkg:maven/com.wappier/WappierSDK@3.9.13-nobillingRelease?classifier=sources
 - pkg:maven/com.wappier/WappierSDK@3.9.9-nobillingRelease?classifier=sources
+- pkg:maven/com.wappier/WappierSDK@4.0.0-billingRelease?classifier=sources
+- pkg:maven/com.wappier/WappierSDK@4.0.0-nobillingRelease?classifier=sources

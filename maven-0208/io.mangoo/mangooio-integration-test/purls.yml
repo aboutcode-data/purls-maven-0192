@@ -530,6 +530,10 @@
 - pkg:maven/io.mangoo/mangooio-integration-test@6.1.0-Beta6
 - pkg:maven/io.mangoo/mangooio-integration-test@6.1.0-Beta6?classifier=sources
 - pkg:maven/io.mangoo/mangooio-integration-test@6.1.0?classifier=sources
+- pkg:maven/io.mangoo/mangooio-integration-test@6.10.0
+- pkg:maven/io.mangoo/mangooio-integration-test@6.10.0-RC1
+- pkg:maven/io.mangoo/mangooio-integration-test@6.10.0-RC1?classifier=sources
+- pkg:maven/io.mangoo/mangooio-integration-test@6.10.0?classifier=sources
 - pkg:maven/io.mangoo/mangooio-integration-test@6.2.0
 - pkg:maven/io.mangoo/mangooio-integration-test@6.2.0-Beta1
 - pkg:maven/io.mangoo/mangooio-integration-test@6.2.0-Beta1?classifier=sources
@@ -590,6 +594,7 @@
 - pkg:maven/io.mangoo/mangooio-integration-test@6.8.0-RC1
 - pkg:maven/io.mangoo/mangooio-integration-test@6.8.0-RC1?classifier=sources
 - pkg:maven/io.mangoo/mangooio-integration-test@6.8.0?classifier=sources
+- pkg:maven/io.mangoo/mangooio-integration-test@6.9.0
 - pkg:maven/io.mangoo/mangooio-integration-test@6.9.0-RC1
 - pkg:maven/io.mangoo/mangooio-integration-test@6.9.0-RC1?classifier=sources
 - pkg:maven/io.mangoo/mangooio-integration-test@6.9.0-RC2
@@ -598,3 +603,6 @@
 - pkg:maven/io.mangoo/mangooio-integration-test@6.9.0-RC3?classifier=sources
 - pkg:maven/io.mangoo/mangooio-integration-test@6.9.0-RC4
 - pkg:maven/io.mangoo/mangooio-integration-test@6.9.0-RC4?classifier=sources
+- pkg:maven/io.mangoo/mangooio-integration-test@6.9.0-RC5
+- pkg:maven/io.mangoo/mangooio-integration-test@6.9.0-RC5?classifier=sources
+- pkg:maven/io.mangoo/mangooio-integration-test@6.9.0?classifier=sources

@@ -10,6 +10,9 @@
 - pkg:maven/com.github.redouane59.twitter/twittered@1.19?classifier=sources
 - pkg:maven/com.github.redouane59.twitter/twittered@1.20?classifier=sources
 - pkg:maven/com.github.redouane59.twitter/twittered@1.21?classifier=sources
+- pkg:maven/com.github.redouane59.twitter/twittered@1.22?classifier=sources
+- pkg:maven/com.github.redouane59.twitter/twittered@1.23?classifier=sources
+- pkg:maven/com.github.redouane59.twitter/twittered@1.24?classifier=sources
 - pkg:maven/com.github.redouane59.twitter/twittered@1.6?classifier=sources
 - pkg:maven/com.github.redouane59.twitter/twittered@1.7?classifier=sources
 - pkg:maven/com.github.redouane59.twitter/twittered@1.8?classifier=sources

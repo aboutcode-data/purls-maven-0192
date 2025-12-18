@@ -1,0 +1,4 @@
+- pkg:maven/io.github.davidwhitlock.cs410J/family@2021.0.0
+- pkg:maven/io.github.davidwhitlock.cs410J/family@2021.0.0?classifier=sources
+- pkg:maven/io.github.davidwhitlock.cs410J/family@2021.1.0
+- pkg:maven/io.github.davidwhitlock.cs410J/family@2021.1.0?classifier=sources

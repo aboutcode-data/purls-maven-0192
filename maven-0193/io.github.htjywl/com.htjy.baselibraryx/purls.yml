@@ -1,0 +1,4 @@
+- pkg:maven/io.github.htjywl/com.htjy.baselibraryx@2.2.5?type=aar
+- pkg:maven/io.github.htjywl/com.htjy.baselibraryx@2.2.6?type=aar
+- pkg:maven/io.github.htjywl/com.htjy.baselibraryx@2.2.7?classifier=sources
+- pkg:maven/io.github.htjywl/com.htjy.baselibraryx@2.2.7?type=aar

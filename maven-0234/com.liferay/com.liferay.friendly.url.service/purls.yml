@@ -340,6 +340,9 @@
 - pkg:maven/com.liferay/com.liferay.friendly.url.service@3.0.26
 - pkg:maven/com.liferay/com.liferay.friendly.url.service@3.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.friendly.url.service@3.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.friendly.url.service@3.0.27
+- pkg:maven/com.liferay/com.liferay.friendly.url.service@3.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.friendly.url.service@3.0.27?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.friendly.url.service@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.friendly.url.service@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.friendly.url.service@3.0.3
@@ -366,3 +369,9 @@
 - pkg:maven/com.liferay/com.liferay.friendly.url.service@4.0.0
 - pkg:maven/com.liferay/com.liferay.friendly.url.service@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.friendly.url.service@4.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.friendly.url.service@4.0.1
+- pkg:maven/com.liferay/com.liferay.friendly.url.service@4.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.friendly.url.service@4.0.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.friendly.url.service@4.0.2
+- pkg:maven/com.liferay/com.liferay.friendly.url.service@4.0.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.friendly.url.service@4.0.2?classifier=sources-commercial

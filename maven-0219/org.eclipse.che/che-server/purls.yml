@@ -11,3 +11,4 @@
 - pkg:maven/org.eclipse.che/che-server@7.27.1?classifier=source-release&type=zip
 - pkg:maven/org.eclipse.che/che-server@7.27.2?classifier=source-release&type=zip
 - pkg:maven/org.eclipse.che/che-server@7.28.0?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che/che-server@7.28.2?classifier=source-release&type=zip

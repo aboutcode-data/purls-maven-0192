@@ -1,0 +1,2 @@
+- pkg:maven/org.projectnessie/nessie-versioned-gc-iceberg-actions@0.6.0
+- pkg:maven/org.projectnessie/nessie-versioned-gc-iceberg-actions@0.6.0?classifier=sources

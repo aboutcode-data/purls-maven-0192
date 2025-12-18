@@ -1,0 +1,4 @@
+- pkg:maven/io.github.gerardpi.easy-jpa-entities/easy-jpa-entities-processor@1
+- pkg:maven/io.github.gerardpi.easy-jpa-entities/easy-jpa-entities-processor@1?classifier=sources
+- pkg:maven/io.github.gerardpi.easy-jpa-entities/easy-jpa-entities-processor@2
+- pkg:maven/io.github.gerardpi.easy-jpa-entities/easy-jpa-entities-processor@2?classifier=sources

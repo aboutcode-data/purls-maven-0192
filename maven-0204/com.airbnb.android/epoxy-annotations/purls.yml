@@ -156,3 +156,6 @@
 - pkg:maven/com.airbnb.android/epoxy-annotations@4.4.2?classifier=sources
 - pkg:maven/com.airbnb.android/epoxy-annotations@4.4.3?classifier=sources
 - pkg:maven/com.airbnb.android/epoxy-annotations@4.4.4?classifier=sources
+- pkg:maven/com.airbnb.android/epoxy-annotations@4.5.0?classifier=sources
+- pkg:maven/com.airbnb.android/epoxy-annotations@4.6.0?classifier=sources
+- pkg:maven/com.airbnb.android/epoxy-annotations@4.6.1?classifier=sources

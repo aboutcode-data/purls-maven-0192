@@ -1,0 +1,2 @@
+- pkg:maven/org.neo4j.gds/proc-path-finding@1.6.0-alpha06?classifier=sources
+- pkg:maven/org.neo4j.gds/proc-path-finding@1.6.0-alpha07?classifier=sources

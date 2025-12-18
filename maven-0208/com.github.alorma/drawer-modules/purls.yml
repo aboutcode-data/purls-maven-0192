@@ -1,8 +1,14 @@
 - pkg:maven/com.github.alorma/drawer-modules@0.0.10-DEV?classifier=sources
+- pkg:maven/com.github.alorma/drawer-modules@0.10.0?classifier=sources
+- pkg:maven/com.github.alorma/drawer-modules@0.11.0?classifier=sources
 - pkg:maven/com.github.alorma/drawer-modules@0.2.0?classifier=sources
 - pkg:maven/com.github.alorma/drawer-modules@0.3.0?classifier=sources
 - pkg:maven/com.github.alorma/drawer-modules@0.4.0?classifier=sources
 - pkg:maven/com.github.alorma/drawer-modules@0.5.0?classifier=sources
+- pkg:maven/com.github.alorma/drawer-modules@0.6.0?classifier=sources
+- pkg:maven/com.github.alorma/drawer-modules@0.7.0?classifier=sources
+- pkg:maven/com.github.alorma/drawer-modules@0.8.0?classifier=sources
+- pkg:maven/com.github.alorma/drawer-modules@0.9.0?classifier=sources
 - pkg:maven/com.github.alorma/drawer-modules@1.0.0-alpha12?classifier=sources
 - pkg:maven/com.github.alorma/drawer-modules@1.0.0-beta01.lib%2B02?classifier=sources
 - pkg:maven/com.github.alorma/drawer-modules@1.0.0-beta01.lib-02?classifier=sources

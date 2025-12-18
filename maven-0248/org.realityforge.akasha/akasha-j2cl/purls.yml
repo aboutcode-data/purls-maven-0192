@@ -1,0 +1,2 @@
+- pkg:maven/org.realityforge.akasha/akasha-j2cl@0.11
+- pkg:maven/org.realityforge.akasha/akasha-j2cl@0.11?classifier=sources

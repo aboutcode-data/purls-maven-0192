@@ -1,0 +1,2 @@
+- pkg:maven/org.multi-os-engine/moe-gradle@1.7.4
+- pkg:maven/org.multi-os-engine/moe-gradle@1.7.4?classifier=sources

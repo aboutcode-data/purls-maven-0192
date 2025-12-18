@@ -1,1 +1,4 @@
 - pkg:maven/com.juul.tuulbox/encoding-metadata@3.2.0?classifier=sources
+- pkg:maven/com.juul.tuulbox/encoding-metadata@4.0.0?classifier=sources
+- pkg:maven/com.juul.tuulbox/encoding-metadata@4.0.1?classifier=sources
+- pkg:maven/com.juul.tuulbox/encoding-metadata@4.1.0?classifier=sources

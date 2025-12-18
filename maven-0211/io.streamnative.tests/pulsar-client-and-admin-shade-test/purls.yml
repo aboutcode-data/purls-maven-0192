@@ -1,0 +1,2 @@
+- pkg:maven/io.streamnative.tests/pulsar-client-and-admin-shade-test@2.7.0.6-patch-3-1
+- pkg:maven/io.streamnative.tests/pulsar-client-and-admin-shade-test@2.7.0.6-patch-3-1?classifier=sources

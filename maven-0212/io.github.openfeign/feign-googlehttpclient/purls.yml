@@ -32,3 +32,5 @@
 - pkg:maven/io.github.openfeign/feign-googlehttpclient@11.0?classifier=sources
 - pkg:maven/io.github.openfeign/feign-googlehttpclient@11.1
 - pkg:maven/io.github.openfeign/feign-googlehttpclient@11.1?classifier=sources
+- pkg:maven/io.github.openfeign/feign-googlehttpclient@11.2
+- pkg:maven/io.github.openfeign/feign-googlehttpclient@11.2?classifier=sources

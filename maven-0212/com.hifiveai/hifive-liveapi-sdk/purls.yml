@@ -1,2 +1,8 @@
 - pkg:maven/com.hifiveai/hifive-liveapi-sdk@1.2.1-RELEASE
 - pkg:maven/com.hifiveai/hifive-liveapi-sdk@1.2.1-RELEASE?classifier=sources
+- pkg:maven/com.hifiveai/hifive-liveapi-sdk@1.2.1_1-RELEASE
+- pkg:maven/com.hifiveai/hifive-liveapi-sdk@1.2.1_1-RELEASE?classifier=sources
+- pkg:maven/com.hifiveai/hifive-liveapi-sdk@1.2.1_2-RELEASE
+- pkg:maven/com.hifiveai/hifive-liveapi-sdk@1.2.1_2-RELEASE?classifier=sources
+- pkg:maven/com.hifiveai/hifive-liveapi-sdk@1.2.2-RELEASE
+- pkg:maven/com.hifiveai/hifive-liveapi-sdk@1.2.2-RELEASE?classifier=sources

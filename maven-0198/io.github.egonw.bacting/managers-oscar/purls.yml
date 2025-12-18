@@ -1,0 +1,2 @@
+- pkg:maven/io.github.egonw.bacting/managers-oscar@0.0.18
+- pkg:maven/io.github.egonw.bacting/managers-oscar@0.0.18?classifier=sources

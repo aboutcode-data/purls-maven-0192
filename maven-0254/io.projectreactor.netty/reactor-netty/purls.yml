@@ -68,8 +68,12 @@
 - pkg:maven/io.projectreactor.netty/reactor-netty@0.9.17.RELEASE?classifier=sources
 - pkg:maven/io.projectreactor.netty/reactor-netty@0.9.18.RELEASE
 - pkg:maven/io.projectreactor.netty/reactor-netty@0.9.18.RELEASE?classifier=sources
+- pkg:maven/io.projectreactor.netty/reactor-netty@0.9.19.RELEASE
+- pkg:maven/io.projectreactor.netty/reactor-netty@0.9.19.RELEASE?classifier=sources
 - pkg:maven/io.projectreactor.netty/reactor-netty@0.9.2.RELEASE
 - pkg:maven/io.projectreactor.netty/reactor-netty@0.9.2.RELEASE?classifier=sources
+- pkg:maven/io.projectreactor.netty/reactor-netty@0.9.20.RELEASE
+- pkg:maven/io.projectreactor.netty/reactor-netty@0.9.20.RELEASE?classifier=sources
 - pkg:maven/io.projectreactor.netty/reactor-netty@0.9.3.RELEASE
 - pkg:maven/io.projectreactor.netty/reactor-netty@0.9.3.RELEASE?classifier=sources
 - pkg:maven/io.projectreactor.netty/reactor-netty@0.9.4.RELEASE
@@ -96,3 +100,5 @@
 - pkg:maven/io.projectreactor.netty/reactor-netty@1.0.4?classifier=sources
 - pkg:maven/io.projectreactor.netty/reactor-netty@1.0.5
 - pkg:maven/io.projectreactor.netty/reactor-netty@1.0.5?classifier=sources
+- pkg:maven/io.projectreactor.netty/reactor-netty@1.0.6?classifier=sources
+- pkg:maven/io.projectreactor.netty/reactor-netty@1.0.7?classifier=sources

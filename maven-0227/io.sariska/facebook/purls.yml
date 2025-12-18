@@ -1,0 +1,2 @@
+- pkg:maven/io.sariska/facebook@0.64.0?type=aar
+- pkg:maven/io.sariska/facebook@~0.7.0?type=aar

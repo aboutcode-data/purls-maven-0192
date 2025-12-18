@@ -103,6 +103,8 @@
 - pkg:maven/org.opendaylight.mdsal.model/ietf-packet-fields@0.15.15?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/ietf-packet-fields@0.15.16
 - pkg:maven/org.opendaylight.mdsal.model/ietf-packet-fields@0.15.16?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.model/ietf-packet-fields@0.15.17
+- pkg:maven/org.opendaylight.mdsal.model/ietf-packet-fields@0.15.17?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/ietf-packet-fields@0.15.1?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/ietf-packet-fields@0.15.2
 - pkg:maven/org.opendaylight.mdsal.model/ietf-packet-fields@0.15.2?classifier=sources

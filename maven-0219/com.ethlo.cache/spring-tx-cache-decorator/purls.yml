@@ -12,3 +12,5 @@
 - pkg:maven/com.ethlo.cache/spring-tx-cache-decorator@1.0.1?classifier=sources
 - pkg:maven/com.ethlo.cache/spring-tx-cache-decorator@1.0.2
 - pkg:maven/com.ethlo.cache/spring-tx-cache-decorator@1.0.2?classifier=sources
+- pkg:maven/com.ethlo.cache/spring-tx-cache-decorator@1.0.3
+- pkg:maven/com.ethlo.cache/spring-tx-cache-decorator@1.0.3?classifier=sources

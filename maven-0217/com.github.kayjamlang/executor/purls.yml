@@ -12,7 +12,10 @@
 - pkg:maven/com.github.kayjamlang/executor@0.1.3.17-fix5?classifier=sources
 - pkg:maven/com.github.kayjamlang/executor@0.1.3.17-fix6?classifier=sources
 - pkg:maven/com.github.kayjamlang/executor@0.1.3.17?classifier=sources
+- pkg:maven/com.github.kayjamlang/executor@0.1.3.19?classifier=sources
 - pkg:maven/com.github.kayjamlang/executor@0.1.3.1?classifier=sources
+- pkg:maven/com.github.kayjamlang/executor@0.1.3.20?classifier=sources
+- pkg:maven/com.github.kayjamlang/executor@0.1.3.21?classifier=sources
 - pkg:maven/com.github.kayjamlang/executor@0.1.3.2?classifier=sources
 - pkg:maven/com.github.kayjamlang/executor@0.1.3.3?classifier=sources
 - pkg:maven/com.github.kayjamlang/executor@0.1.3.4?classifier=sources

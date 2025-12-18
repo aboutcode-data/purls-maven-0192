@@ -16,6 +16,12 @@
 - pkg:maven/com.nepxion/discovery-plugin-register-center-starter-eureka@3.23.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-register-center-starter-eureka@3.24.0
 - pkg:maven/com.nepxion/discovery-plugin-register-center-starter-eureka@3.24.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-eureka@3.25.0
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-eureka@3.25.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-eureka@3.26.0
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-eureka@3.26.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-eureka@6.10.0
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-eureka@6.10.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-register-center-starter-eureka@6.2.0
 - pkg:maven/com.nepxion/discovery-plugin-register-center-starter-eureka@6.2.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-register-center-starter-eureka@6.3.0
@@ -34,3 +40,5 @@
 - pkg:maven/com.nepxion/discovery-plugin-register-center-starter-eureka@6.7.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-register-center-starter-eureka@6.8.0
 - pkg:maven/com.nepxion/discovery-plugin-register-center-starter-eureka@6.8.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-eureka@6.9.0
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-eureka@6.9.0?classifier=sources

@@ -12,3 +12,13 @@
 - pkg:maven/io.github.portlek/version-matched@2.8?classifier=sources
 - pkg:maven/io.github.portlek/version-matched@2.9
 - pkg:maven/io.github.portlek/version-matched@2.9?classifier=sources
+- pkg:maven/io.github.portlek/version-matched@3.0.0
+- pkg:maven/io.github.portlek/version-matched@3.0.0?classifier=sources
+- pkg:maven/io.github.portlek/version-matched@3.0.1
+- pkg:maven/io.github.portlek/version-matched@3.0.1?classifier=sources
+- pkg:maven/io.github.portlek/version-matched@3.0.2
+- pkg:maven/io.github.portlek/version-matched@3.0.2?classifier=sources
+- pkg:maven/io.github.portlek/version-matched@3.0.3
+- pkg:maven/io.github.portlek/version-matched@3.0.3?classifier=sources
+- pkg:maven/io.github.portlek/version-matched@3.0.4
+- pkg:maven/io.github.portlek/version-matched@3.0.4?classifier=sources

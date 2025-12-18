@@ -86,3 +86,11 @@
 - pkg:maven/com.google.dagger/dagger-android-support@2.32?type=aar
 - pkg:maven/com.google.dagger/dagger-android-support@2.33?classifier=sources
 - pkg:maven/com.google.dagger/dagger-android-support@2.33?type=aar
+- pkg:maven/com.google.dagger/dagger-android-support@2.34.1?classifier=sources
+- pkg:maven/com.google.dagger/dagger-android-support@2.34.1?type=aar
+- pkg:maven/com.google.dagger/dagger-android-support@2.34?classifier=sources
+- pkg:maven/com.google.dagger/dagger-android-support@2.34?type=aar
+- pkg:maven/com.google.dagger/dagger-android-support@2.35.1?classifier=sources
+- pkg:maven/com.google.dagger/dagger-android-support@2.35.1?type=aar
+- pkg:maven/com.google.dagger/dagger-android-support@2.35?classifier=sources
+- pkg:maven/com.google.dagger/dagger-android-support@2.35?type=aar

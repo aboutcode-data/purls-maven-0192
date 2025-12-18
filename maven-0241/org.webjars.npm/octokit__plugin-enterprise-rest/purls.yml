@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/octokit__plugin-enterprise-rest@6.0.1
+- pkg:maven/org.webjars.npm/octokit__plugin-enterprise-rest@6.0.1?classifier=sources

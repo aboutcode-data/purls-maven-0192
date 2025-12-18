@@ -1,0 +1,4 @@
+- pkg:maven/com.yzk18/yzk18-GUI@1.1
+- pkg:maven/com.yzk18/yzk18-GUI@1.1?classifier=sources
+- pkg:maven/com.yzk18/yzk18-GUI@1.2
+- pkg:maven/com.yzk18/yzk18-GUI@1.2?classifier=sources

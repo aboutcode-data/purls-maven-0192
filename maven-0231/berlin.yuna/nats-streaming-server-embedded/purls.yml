@@ -21,7 +21,17 @@
 - pkg:maven/berlin.yuna/nats-streaming-server-embedded@0.20.15?classifier=sources
 - pkg:maven/berlin.yuna/nats-streaming-server-embedded@0.20.16
 - pkg:maven/berlin.yuna/nats-streaming-server-embedded@0.20.16?classifier=sources
+- pkg:maven/berlin.yuna/nats-streaming-server-embedded@0.20.17
+- pkg:maven/berlin.yuna/nats-streaming-server-embedded@0.20.17?classifier=sources
+- pkg:maven/berlin.yuna/nats-streaming-server-embedded@0.20.18
+- pkg:maven/berlin.yuna/nats-streaming-server-embedded@0.20.18?classifier=sources
+- pkg:maven/berlin.yuna/nats-streaming-server-embedded@0.20.19
+- pkg:maven/berlin.yuna/nats-streaming-server-embedded@0.20.19?classifier=sources
 - pkg:maven/berlin.yuna/nats-streaming-server-embedded@0.20.1?classifier=sources
+- pkg:maven/berlin.yuna/nats-streaming-server-embedded@0.20.20
+- pkg:maven/berlin.yuna/nats-streaming-server-embedded@0.20.20?classifier=sources
+- pkg:maven/berlin.yuna/nats-streaming-server-embedded@0.20.21
+- pkg:maven/berlin.yuna/nats-streaming-server-embedded@0.20.21?classifier=sources
 - pkg:maven/berlin.yuna/nats-streaming-server-embedded@0.20.4
 - pkg:maven/berlin.yuna/nats-streaming-server-embedded@0.20.4?classifier=sources
 - pkg:maven/berlin.yuna/nats-streaming-server-embedded@0.20.5

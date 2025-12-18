@@ -15,3 +15,4 @@
 - pkg:maven/net.kemitix.aws/kemitix-aws-java-sdk-ses-wrapper@1.11.944
 - pkg:maven/net.kemitix.aws/kemitix-aws-java-sdk-ses-wrapper@1.11.967
 - pkg:maven/net.kemitix.aws/kemitix-aws-java-sdk-ses-wrapper@1.11.975
+- pkg:maven/net.kemitix.aws/kemitix-aws-java-sdk-ses-wrapper@1.11.997

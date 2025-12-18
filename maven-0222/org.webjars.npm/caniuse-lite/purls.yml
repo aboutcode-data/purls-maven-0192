@@ -14,3 +14,9 @@
 - pkg:maven/org.webjars.npm/caniuse-lite@1.0.30001200?classifier=sources
 - pkg:maven/org.webjars.npm/caniuse-lite@1.0.30001205
 - pkg:maven/org.webjars.npm/caniuse-lite@1.0.30001205?classifier=sources
+- pkg:maven/org.webjars.npm/caniuse-lite@1.0.30001208
+- pkg:maven/org.webjars.npm/caniuse-lite@1.0.30001208?classifier=sources
+- pkg:maven/org.webjars.npm/caniuse-lite@1.0.30001209
+- pkg:maven/org.webjars.npm/caniuse-lite@1.0.30001209?classifier=sources
+- pkg:maven/org.webjars.npm/caniuse-lite@1.0.30001228
+- pkg:maven/org.webjars.npm/caniuse-lite@1.0.30001228?classifier=sources

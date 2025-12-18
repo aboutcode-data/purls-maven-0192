@@ -98,3 +98,5 @@
 - pkg:maven/top.zenyoung/zenyoung-data-jpa@1.9.8?classifier=sources
 - pkg:maven/top.zenyoung/zenyoung-data-jpa@1.9.9
 - pkg:maven/top.zenyoung/zenyoung-data-jpa@1.9.9?classifier=sources
+- pkg:maven/top.zenyoung/zenyoung-data-jpa@2.0.0
+- pkg:maven/top.zenyoung/zenyoung-data-jpa@2.0.0?classifier=sources

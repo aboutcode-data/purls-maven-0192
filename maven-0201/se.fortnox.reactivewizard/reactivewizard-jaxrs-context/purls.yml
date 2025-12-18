@@ -50,3 +50,5 @@
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@5.8.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@5.9.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@5.9.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@6.0.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@6.0.0?classifier=sources

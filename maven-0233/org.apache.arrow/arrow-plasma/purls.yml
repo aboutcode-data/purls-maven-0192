@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.arrow/arrow-plasma@2.0.0?classifier=sources
 - pkg:maven/org.apache.arrow/arrow-plasma@3.0.0
 - pkg:maven/org.apache.arrow/arrow-plasma@3.0.0?classifier=sources
+- pkg:maven/org.apache.arrow/arrow-plasma@4.0.0
+- pkg:maven/org.apache.arrow/arrow-plasma@4.0.0?classifier=sources

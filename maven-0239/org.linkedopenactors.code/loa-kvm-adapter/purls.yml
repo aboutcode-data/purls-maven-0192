@@ -1,0 +1,8 @@
+- pkg:maven/org.linkedopenactors.code/loa-kvm-adapter@0.0.2
+- pkg:maven/org.linkedopenactors.code/loa-kvm-adapter@0.0.2?classifier=sources
+- pkg:maven/org.linkedopenactors.code/loa-kvm-adapter@0.0.3-documentation
+- pkg:maven/org.linkedopenactors.code/loa-kvm-adapter@0.0.3-documentation?classifier=sources
+- pkg:maven/org.linkedopenactors.code/loa-kvm-adapter@0.0.4
+- pkg:maven/org.linkedopenactors.code/loa-kvm-adapter@0.0.4?classifier=sources
+- pkg:maven/org.linkedopenactors.code/loa-kvm-adapter@0.0.5
+- pkg:maven/org.linkedopenactors.code/loa-kvm-adapter@0.0.5?classifier=sources

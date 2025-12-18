@@ -1,0 +1,2 @@
+- pkg:maven/com.handpoint.api.txnfeed/handpoint-txnfeed-client@1.0.0-RC.1
+- pkg:maven/com.handpoint.api.txnfeed/handpoint-txnfeed-client@1.0.0-RC.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cn.crushes.cloud/crush-rocket@2.4.5
+- pkg:maven/cn.crushes.cloud/crush-rocket@2.4.5?classifier=sources

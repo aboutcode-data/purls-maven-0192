@@ -12,6 +12,16 @@
 - pkg:maven/net.dongliu/commons@11.3.2?classifier=sources
 - pkg:maven/net.dongliu/commons@11.3.4
 - pkg:maven/net.dongliu/commons@11.3.4?classifier=sources
+- pkg:maven/net.dongliu/commons@11.3.5
+- pkg:maven/net.dongliu/commons@11.3.5?classifier=sources
+- pkg:maven/net.dongliu/commons@11.4.0
+- pkg:maven/net.dongliu/commons@11.4.0?classifier=sources
+- pkg:maven/net.dongliu/commons@11.4.1
+- pkg:maven/net.dongliu/commons@11.4.1?classifier=sources
+- pkg:maven/net.dongliu/commons@11.5.0
+- pkg:maven/net.dongliu/commons@11.5.0?classifier=sources
+- pkg:maven/net.dongliu/commons@11.5.1
+- pkg:maven/net.dongliu/commons@11.5.1?classifier=sources
 - pkg:maven/net.dongliu/commons@2.1.10
 - pkg:maven/net.dongliu/commons@2.1.10?classifier=sources
 - pkg:maven/net.dongliu/commons@2.1.11

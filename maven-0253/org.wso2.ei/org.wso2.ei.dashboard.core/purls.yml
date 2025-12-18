@@ -2,3 +2,5 @@
 - pkg:maven/org.wso2.ei/org.wso2.ei.dashboard.core@4.0.0-alpha?type=war
 - pkg:maven/org.wso2.ei/org.wso2.ei.dashboard.core@4.0.0-beta?classifier=sources
 - pkg:maven/org.wso2.ei/org.wso2.ei.dashboard.core@4.0.0-beta?type=war
+- pkg:maven/org.wso2.ei/org.wso2.ei.dashboard.core@4.0.0?classifier=sources
+- pkg:maven/org.wso2.ei/org.wso2.ei.dashboard.core@4.0.0?type=war

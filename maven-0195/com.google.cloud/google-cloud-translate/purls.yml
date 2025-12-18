@@ -290,3 +290,11 @@
 - pkg:maven/com.google.cloud/google-cloud-translate@1.95.9?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-translate@1.96.0
 - pkg:maven/com.google.cloud/google-cloud-translate@1.96.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-translate@1.97.0
+- pkg:maven/com.google.cloud/google-cloud-translate@1.97.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-translate@1.97.1
+- pkg:maven/com.google.cloud/google-cloud-translate@1.97.1?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-translate@1.97.2
+- pkg:maven/com.google.cloud/google-cloud-translate@1.97.2?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-translate@1.97.3
+- pkg:maven/com.google.cloud/google-cloud-translate@1.97.3?classifier=sources

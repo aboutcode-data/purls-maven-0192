@@ -1,0 +1,4 @@
+- pkg:maven/org.monora.coolsocket/core@2.0-rc15
+- pkg:maven/org.monora.coolsocket/core@2.0-rc15?classifier=sources
+- pkg:maven/org.monora.coolsocket/core@2.0-rc16
+- pkg:maven/org.monora.coolsocket/core@2.0-rc16?classifier=sources

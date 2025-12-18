@@ -1,0 +1,2 @@
+- pkg:maven/kr.jclab.javautils/json-jdoc@1.0.2
+- pkg:maven/kr.jclab.javautils/json-jdoc@1.0.2?classifier=sources

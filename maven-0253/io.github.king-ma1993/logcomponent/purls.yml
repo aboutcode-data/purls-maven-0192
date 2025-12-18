@@ -1,0 +1,2 @@
+- pkg:maven/io.github.king-ma1993/logcomponent@1.0.0
+- pkg:maven/io.github.king-ma1993/logcomponent@1.0.0?classifier=sources

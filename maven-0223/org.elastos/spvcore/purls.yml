@@ -1,0 +1,2 @@
+- pkg:maven/org.elastos/spvcore@0.6.0?classifier=sources
+- pkg:maven/org.elastos/spvcore@0.6.0?type=aar
