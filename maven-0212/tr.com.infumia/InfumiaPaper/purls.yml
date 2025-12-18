@@ -4,3 +4,5 @@
 - pkg:maven/tr.com.infumia/InfumiaPaper@1.7.6?classifier=sources
 - pkg:maven/tr.com.infumia/InfumiaPaper@1.7.7
 - pkg:maven/tr.com.infumia/InfumiaPaper@1.7.7?classifier=sources
+- pkg:maven/tr.com.infumia/InfumiaPaper@3.0.0?classifier=sources
+- pkg:maven/tr.com.infumia/InfumiaPaper@3.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.peterabeles/common@3.0?classifier=sources
+- pkg:maven/com.peterabeles/common@3.1.0?classifier=sources

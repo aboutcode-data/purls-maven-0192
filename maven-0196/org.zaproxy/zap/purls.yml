@@ -1,5 +1,6 @@
 - pkg:maven/org.zaproxy/zap@2.10.0
 - pkg:maven/org.zaproxy/zap@2.10.0?classifier=sources
+- pkg:maven/org.zaproxy/zap@2.11.0?classifier=sources
 - pkg:maven/org.zaproxy/zap@2.5.0
 - pkg:maven/org.zaproxy/zap@2.5.0?classifier=sources
 - pkg:maven/org.zaproxy/zap@2.6.0

@@ -72,6 +72,12 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-elasticsearch@4.25.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-elasticsearch@4.26.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-elasticsearch@4.26.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-elasticsearch@4.27.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-elasticsearch@4.27.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-elasticsearch@4.28.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-elasticsearch@4.28.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-elasticsearch@4.29.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-elasticsearch@4.29.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-elasticsearch@4.3.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-elasticsearch@4.3.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-elasticsearch@4.3.1

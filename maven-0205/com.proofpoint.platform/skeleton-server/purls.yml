@@ -206,3 +206,6 @@
 - pkg:maven/com.proofpoint.platform/skeleton-server@2.55?classifier=sources
 - pkg:maven/com.proofpoint.platform/skeleton-server@2.56?classifier=sources
 - pkg:maven/com.proofpoint.platform/skeleton-server@2.57?classifier=sources
+- pkg:maven/com.proofpoint.platform/skeleton-server@2.58?classifier=sources
+- pkg:maven/com.proofpoint.platform/skeleton-server@2.59?classifier=sources
+- pkg:maven/com.proofpoint.platform/skeleton-server@2.60?classifier=sources

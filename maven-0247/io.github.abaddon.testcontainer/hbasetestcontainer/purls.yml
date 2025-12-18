@@ -1,0 +1,14 @@
+- pkg:maven/io.github.abaddon.testcontainer/hbasetestcontainer@0.0.0-dependabot_maven_log4j.version_2.14.1
+- pkg:maven/io.github.abaddon.testcontainer/hbasetestcontainer@0.0.0-dependabot_maven_log4j.version_2.14.1?classifier=sources
+- pkg:maven/io.github.abaddon.testcontainer/hbasetestcontainer@0.0.0-dependabot_maven_org.apache.maven.plugins_maven_resources_plugin_3.2.0
+- pkg:maven/io.github.abaddon.testcontainer/hbasetestcontainer@0.0.0-dependabot_maven_org.apache.maven.plugins_maven_resources_plugin_3.2.0?classifier=sources
+- pkg:maven/io.github.abaddon.testcontainer/hbasetestcontainer@0.0.0-dependabot_maven_org.apache.maven.plugins_maven_site_plugin_3.9.1
+- pkg:maven/io.github.abaddon.testcontainer/hbasetestcontainer@0.0.0-dependabot_maven_org.apache.maven.plugins_maven_site_plugin_3.9.1?classifier=sources
+- pkg:maven/io.github.abaddon.testcontainer/hbasetestcontainer@0.0.0-dependabot_maven_org.slf4j_slf4j_api_1.7.32
+- pkg:maven/io.github.abaddon.testcontainer/hbasetestcontainer@0.0.0-dependabot_maven_org.slf4j_slf4j_api_1.7.32?classifier=sources
+- pkg:maven/io.github.abaddon.testcontainer/hbasetestcontainer@0.0.0-dependabot_maven_org.sonatype.plugins_nexus_staging_maven_plugin_1.6.8
+- pkg:maven/io.github.abaddon.testcontainer/hbasetestcontainer@0.0.0-dependabot_maven_org.sonatype.plugins_nexus_staging_maven_plugin_1.6.8?classifier=sources
+- pkg:maven/io.github.abaddon.testcontainer/hbasetestcontainer@0.0.1
+- pkg:maven/io.github.abaddon.testcontainer/hbasetestcontainer@0.0.1?classifier=sources
+- pkg:maven/io.github.abaddon.testcontainer/hbasetestcontainer@0.0.2
+- pkg:maven/io.github.abaddon.testcontainer/hbasetestcontainer@0.0.2?classifier=sources

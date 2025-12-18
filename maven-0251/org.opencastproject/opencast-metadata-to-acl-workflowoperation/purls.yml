@@ -2,3 +2,5 @@
 - pkg:maven/org.opencastproject/opencast-metadata-to-acl-workflowoperation@10.2?classifier=sources
 - pkg:maven/org.opencastproject/opencast-metadata-to-acl-workflowoperation@10.3
 - pkg:maven/org.opencastproject/opencast-metadata-to-acl-workflowoperation@10.3?classifier=sources
+- pkg:maven/org.opencastproject/opencast-metadata-to-acl-workflowoperation@10.4
+- pkg:maven/org.opencastproject/opencast-metadata-to-acl-workflowoperation@10.4?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/hu.blackbelt.karaf.features/jxls-features@1.0.0?classifier=sources
+- pkg:maven/hu.blackbelt.karaf.features/jxls-features@1.0.2?classifier=sources
 - pkg:maven/hu.blackbelt.karaf.features/jxls-features@2.6.0?classifier=sources
 - pkg:maven/hu.blackbelt.karaf.features/jxls-features@2.6.1?classifier=sources

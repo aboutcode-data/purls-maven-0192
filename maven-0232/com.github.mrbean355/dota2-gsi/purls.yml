@@ -1,1 +1,2 @@
 - pkg:maven/com.github.mrbean355/dota2-gsi@1.0.0?classifier=sources
+- pkg:maven/com.github.mrbean355/dota2-gsi@1.1.0?classifier=sources

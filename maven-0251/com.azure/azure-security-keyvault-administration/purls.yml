@@ -18,3 +18,11 @@
 - pkg:maven/com.azure/azure-security-keyvault-administration@4.0.1?classifier=sources
 - pkg:maven/com.azure/azure-security-keyvault-administration@4.0.2
 - pkg:maven/com.azure/azure-security-keyvault-administration@4.0.2?classifier=sources
+- pkg:maven/com.azure/azure-security-keyvault-administration@4.0.3
+- pkg:maven/com.azure/azure-security-keyvault-administration@4.0.3?classifier=sources
+- pkg:maven/com.azure/azure-security-keyvault-administration@4.0.4
+- pkg:maven/com.azure/azure-security-keyvault-administration@4.0.4?classifier=sources
+- pkg:maven/com.azure/azure-security-keyvault-administration@4.1.0-beta.1
+- pkg:maven/com.azure/azure-security-keyvault-administration@4.1.0-beta.1?classifier=sources
+- pkg:maven/com.azure/azure-security-keyvault-administration@4.1.0-beta.2
+- pkg:maven/com.azure/azure-security-keyvault-administration@4.1.0-beta.2?classifier=sources

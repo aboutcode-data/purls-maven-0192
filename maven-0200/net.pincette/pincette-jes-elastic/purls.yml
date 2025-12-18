@@ -16,6 +16,8 @@
 - pkg:maven/net.pincette/pincette-jes-elastic@1.2.1
 - pkg:maven/net.pincette/pincette-jes-elastic@1.2.10
 - pkg:maven/net.pincette/pincette-jes-elastic@1.2.10?classifier=sources
+- pkg:maven/net.pincette/pincette-jes-elastic@1.2.11
+- pkg:maven/net.pincette/pincette-jes-elastic@1.2.11?classifier=sources
 - pkg:maven/net.pincette/pincette-jes-elastic@1.2.1?classifier=sources
 - pkg:maven/net.pincette/pincette-jes-elastic@1.2.2
 - pkg:maven/net.pincette/pincette-jes-elastic@1.2.2?classifier=sources
@@ -34,3 +36,5 @@
 - pkg:maven/net.pincette/pincette-jes-elastic@1.2.9
 - pkg:maven/net.pincette/pincette-jes-elastic@1.2.9?classifier=sources
 - pkg:maven/net.pincette/pincette-jes-elastic@1.2?classifier=sources
+- pkg:maven/net.pincette/pincette-jes-elastic@2.0
+- pkg:maven/net.pincette/pincette-jes-elastic@2.0?classifier=sources

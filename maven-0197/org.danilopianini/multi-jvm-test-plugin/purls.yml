@@ -1,0 +1,1 @@
+- pkg:maven/org.danilopianini/multi-jvm-test-plugin@0.1.0?classifier=sources

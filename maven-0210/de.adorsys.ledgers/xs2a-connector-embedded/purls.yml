@@ -46,6 +46,10 @@
 - pkg:maven/de.adorsys.ledgers/xs2a-connector-embedded@11.8?classifier=sources
 - pkg:maven/de.adorsys.ledgers/xs2a-connector-embedded@11.9
 - pkg:maven/de.adorsys.ledgers/xs2a-connector-embedded@11.9?classifier=sources
+- pkg:maven/de.adorsys.ledgers/xs2a-connector-embedded@12.0
+- pkg:maven/de.adorsys.ledgers/xs2a-connector-embedded@12.0?classifier=sources
+- pkg:maven/de.adorsys.ledgers/xs2a-connector-embedded@13.0
+- pkg:maven/de.adorsys.ledgers/xs2a-connector-embedded@13.0?classifier=sources
 - pkg:maven/de.adorsys.ledgers/xs2a-connector-embedded@4.10
 - pkg:maven/de.adorsys.ledgers/xs2a-connector-embedded@4.10?classifier=sources
 - pkg:maven/de.adorsys.ledgers/xs2a-connector-embedded@4.11

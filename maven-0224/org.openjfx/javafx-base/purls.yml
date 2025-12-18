@@ -170,8 +170,16 @@
 - pkg:maven/org.openjfx/javafx-base@17-ea%2B9?classifier=sources
 - pkg:maven/org.openjfx/javafx-base@17.0.0.1
 - pkg:maven/org.openjfx/javafx-base@17.0.0.1?classifier=sources
+- pkg:maven/org.openjfx/javafx-base@17.0.1
+- pkg:maven/org.openjfx/javafx-base@17.0.1?classifier=sources
 - pkg:maven/org.openjfx/javafx-base@17?classifier=sources
 - pkg:maven/org.openjfx/javafx-base@18-ea%2B1
 - pkg:maven/org.openjfx/javafx-base@18-ea%2B1?classifier=sources
 - pkg:maven/org.openjfx/javafx-base@18-ea%2B2
 - pkg:maven/org.openjfx/javafx-base@18-ea%2B2?classifier=sources
+- pkg:maven/org.openjfx/javafx-base@18-ea%2B3
+- pkg:maven/org.openjfx/javafx-base@18-ea%2B3?classifier=sources
+- pkg:maven/org.openjfx/javafx-base@18-ea%2B4
+- pkg:maven/org.openjfx/javafx-base@18-ea%2B4?classifier=sources
+- pkg:maven/org.openjfx/javafx-base@18-ea%2B5
+- pkg:maven/org.openjfx/javafx-base@18-ea%2B5?classifier=sources

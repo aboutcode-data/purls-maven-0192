@@ -12,3 +12,4 @@
 - pkg:maven/org.appng/appng-application-camunda@1.21.0?type=war
 - pkg:maven/org.appng/appng-application-camunda@1.22.0?type=war
 - pkg:maven/org.appng/appng-application-camunda@1.22.1?type=war
+- pkg:maven/org.appng/appng-application-camunda@1.23.0?type=war

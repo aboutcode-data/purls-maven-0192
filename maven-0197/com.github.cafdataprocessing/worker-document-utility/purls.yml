@@ -14,3 +14,5 @@
 - pkg:maven/com.github.cafdataprocessing/worker-document-utility@4.5.0-820?classifier=sources
 - pkg:maven/com.github.cafdataprocessing/worker-document-utility@5.0.0-924
 - pkg:maven/com.github.cafdataprocessing/worker-document-utility@5.0.0-924?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/worker-document-utility@5.1.0-1038
+- pkg:maven/com.github.cafdataprocessing/worker-document-utility@5.1.0-1038?classifier=sources

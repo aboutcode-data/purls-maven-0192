@@ -1,0 +1,4 @@
+- pkg:maven/net.corda.cordapp/cordapp-configuration@5.0.0-DevPreview
+- pkg:maven/net.corda.cordapp/cordapp-configuration@5.0.0-DevPreview-1.0
+- pkg:maven/net.corda.cordapp/cordapp-configuration@5.0.0-DevPreview-1.0?classifier=sources
+- pkg:maven/net.corda.cordapp/cordapp-configuration@5.0.0-DevPreview?classifier=sources

@@ -266,10 +266,12 @@
 - pkg:maven/com.graphhopper/graphhopper-web@3.0?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-web@3.2
 - pkg:maven/com.graphhopper/graphhopper-web@3.2?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-web@4.0
 - pkg:maven/com.graphhopper/graphhopper-web@4.0-pre1
 - pkg:maven/com.graphhopper/graphhopper-web@4.0-pre1?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-web@4.0-pre2
 - pkg:maven/com.graphhopper/graphhopper-web@4.0-pre2?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-web@4.0?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-web@client_hc_no_vehicle
 - pkg:maven/com.graphhopper/graphhopper-web@client_hc_no_vehicle?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-web@feature_1850_01

@@ -1,0 +1,2 @@
+- pkg:maven/net.mamoe/mirai-silk-converter@0.0.3?classifier=sources
+- pkg:maven/net.mamoe/mirai-silk-converter@0.0.5?classifier=sources

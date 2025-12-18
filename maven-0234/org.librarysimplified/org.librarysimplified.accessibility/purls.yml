@@ -1,1 +1,2 @@
 - pkg:maven/org.librarysimplified/org.librarysimplified.accessibility@6.6.3?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.accessibility@7.0.2?classifier=sources

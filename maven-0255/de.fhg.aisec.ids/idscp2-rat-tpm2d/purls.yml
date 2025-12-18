@@ -5,3 +5,4 @@
 - pkg:maven/de.fhg.aisec.ids/idscp2-rat-tpm2d@0.2.0?classifier=sources
 - pkg:maven/de.fhg.aisec.ids/idscp2-rat-tpm2d@0.2.1?classifier=sources
 - pkg:maven/de.fhg.aisec.ids/idscp2-rat-tpm2d@0.2.2?classifier=sources
+- pkg:maven/de.fhg.aisec.ids/idscp2-rat-tpm2d@0.6.0?classifier=sources

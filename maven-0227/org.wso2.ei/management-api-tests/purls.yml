@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.ei/management-api-tests@4.1.0-m1
+- pkg:maven/org.wso2.ei/management-api-tests@4.1.0-m1?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.webank.wedatasphere.dss/dss-linkis-node-execution@0.6.0?classifier=sources
 - pkg:maven/com.webank.wedatasphere.dss/dss-linkis-node-execution@0.7.0
 - pkg:maven/com.webank.wedatasphere.dss/dss-linkis-node-execution@0.7.0?classifier=sources
+- pkg:maven/com.webank.wedatasphere.dss/dss-linkis-node-execution@1.0.0
+- pkg:maven/com.webank.wedatasphere.dss/dss-linkis-node-execution@1.0.0?classifier=sources

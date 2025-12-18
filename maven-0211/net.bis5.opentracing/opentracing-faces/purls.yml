@@ -1,2 +1,10 @@
 - pkg:maven/net.bis5.opentracing/opentracing-faces@1.0
 - pkg:maven/net.bis5.opentracing/opentracing-faces@1.0?classifier=sources
+- pkg:maven/net.bis5.opentracing/opentracing-faces@1.1.0
+- pkg:maven/net.bis5.opentracing/opentracing-faces@1.1.0-oldapi.0
+- pkg:maven/net.bis5.opentracing/opentracing-faces@1.1.0-oldapi.0?classifier=sources
+- pkg:maven/net.bis5.opentracing/opentracing-faces@1.1.0?classifier=sources
+- pkg:maven/net.bis5.opentracing/opentracing-faces@1.2.0
+- pkg:maven/net.bis5.opentracing/opentracing-faces@1.2.0-oldapi.0
+- pkg:maven/net.bis5.opentracing/opentracing-faces@1.2.0-oldapi.0?classifier=sources
+- pkg:maven/net.bis5.opentracing/opentracing-faces@1.2.0?classifier=sources

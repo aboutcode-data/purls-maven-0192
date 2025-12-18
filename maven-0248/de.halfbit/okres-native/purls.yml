@@ -1,0 +1,3 @@
+- pkg:maven/de.halfbit/okres-native@1.0?classifier=sources
+- pkg:maven/de.halfbit/okres-native@2.0?classifier=sources
+- pkg:maven/de.halfbit/okres-native@2.1?classifier=sources

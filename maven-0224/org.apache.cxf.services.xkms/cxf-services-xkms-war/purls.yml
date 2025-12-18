@@ -134,6 +134,8 @@
 - pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-war@3.3.10?type=war
 - pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-war@3.3.11?classifier=sources
 - pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-war@3.3.11?type=war
+- pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-war@3.3.12?classifier=sources
+- pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-war@3.3.12?type=war
 - pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-war@3.3.1?classifier=sources
 - pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-war@3.3.1?type=war
 - pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-war@3.3.2?classifier=sources
@@ -162,3 +164,5 @@
 - pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-war@3.4.3?type=war
 - pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-war@3.4.4?classifier=sources
 - pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-war@3.4.4?type=war
+- pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-war@3.4.5?classifier=sources
+- pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-war@3.4.5?type=war

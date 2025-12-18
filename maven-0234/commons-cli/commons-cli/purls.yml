@@ -12,4 +12,6 @@
 - pkg:maven/commons-cli/commons-cli@1.3?classifier=sources
 - pkg:maven/commons-cli/commons-cli@1.4
 - pkg:maven/commons-cli/commons-cli@1.4?classifier=sources
+- pkg:maven/commons-cli/commons-cli@1.5.0
+- pkg:maven/commons-cli/commons-cli@1.5.0?classifier=sources
 - pkg:maven/commons-cli/commons-cli@20040117.000000

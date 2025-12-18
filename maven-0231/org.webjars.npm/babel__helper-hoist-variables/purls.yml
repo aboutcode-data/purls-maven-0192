@@ -4,6 +4,8 @@
 - pkg:maven/org.webjars.npm/babel__helper-hoist-variables@7.10.4?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-hoist-variables@7.14.5
 - pkg:maven/org.webjars.npm/babel__helper-hoist-variables@7.14.5?classifier=sources
+- pkg:maven/org.webjars.npm/babel__helper-hoist-variables@7.15.4
+- pkg:maven/org.webjars.npm/babel__helper-hoist-variables@7.15.4?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-hoist-variables@7.4.4
 - pkg:maven/org.webjars.npm/babel__helper-hoist-variables@7.4.4?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-hoist-variables@7.8.3

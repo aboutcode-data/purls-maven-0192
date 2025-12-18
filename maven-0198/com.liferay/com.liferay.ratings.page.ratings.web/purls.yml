@@ -59,6 +59,9 @@
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@2.0.28
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@2.0.28?classifier=sources
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@2.0.28?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@2.0.29
+- pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@2.0.29?classifier=sources
+- pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@2.0.29?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@2.0.3
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@2.0.3?classifier=sources
@@ -103,6 +106,9 @@
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@3.0.16
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@3.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@3.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@3.0.17
+- pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@3.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@3.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@3.0.2
@@ -160,6 +166,9 @@
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@4.0.18
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@4.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@4.0.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@4.0.19
+- pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@4.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@4.0.19?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@4.0.2
@@ -211,6 +220,9 @@
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@5.0.17
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@5.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@5.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@5.0.18
+- pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@5.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@5.0.18?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@5.0.2
@@ -258,3 +270,9 @@
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@6.0.6
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@6.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@6.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@6.0.7
+- pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@6.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@6.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@6.0.8
+- pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@6.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@6.0.8?classifier=sources-commercial

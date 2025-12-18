@@ -2,3 +2,5 @@
 - pkg:maven/org.jreleaser/artifactory-java-sdk@0.4.0?classifier=sources
 - pkg:maven/org.jreleaser/artifactory-java-sdk@0.5.0?classifier=sources
 - pkg:maven/org.jreleaser/artifactory-java-sdk@0.6.0?classifier=sources
+- pkg:maven/org.jreleaser/artifactory-java-sdk@0.7.0?classifier=sources
+- pkg:maven/org.jreleaser/artifactory-java-sdk@0.8.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/pl.fhframework.example/example@4.9.20
+- pkg:maven/pl.fhframework.example/example@4.9.20?classifier=sources

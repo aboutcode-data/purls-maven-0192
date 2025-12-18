@@ -1,0 +1,6 @@
+- pkg:maven/org.jetbrains.kotlinx.dataframe/symbol-processor@0.8.0-dev-402-0.10.3.23?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx.dataframe/symbol-processor@0.8.0-dev-409-0.10.3.23?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx.dataframe/symbol-processor@0.8.0-dev-421?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx.dataframe/symbol-processor@0.8.0-dev-423-0.10.3.26?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx.dataframe/symbol-processor@0.8.0-dev-426-0.10.3.26?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx.dataframe/symbol-processor@0.8.0-dev-426?classifier=sources

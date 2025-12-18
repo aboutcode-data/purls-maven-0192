@@ -1,0 +1,10 @@
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-csms@3.0.63
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-csms@3.0.63?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-csms@3.0.64
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-csms@3.0.64?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-csms@3.0.65
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-csms@3.0.65?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-csms@3.0.66
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-csms@3.0.66?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-csms@3.0.67
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-csms@3.0.67?classifier=sources

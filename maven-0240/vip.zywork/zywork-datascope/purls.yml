@@ -1,0 +1,4 @@
+- pkg:maven/vip.zywork/zywork-datascope@0.0.1
+- pkg:maven/vip.zywork/zywork-datascope@0.0.1?classifier=sources
+- pkg:maven/vip.zywork/zywork-datascope@2021.10.1
+- pkg:maven/vip.zywork/zywork-datascope@2021.10.1?classifier=sources

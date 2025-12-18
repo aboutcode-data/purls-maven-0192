@@ -1,2 +1,6 @@
 - pkg:maven/lt.dvim.hof/hof_2.13@1.3
+- pkg:maven/lt.dvim.hof/hof_2.13@1.3.1
+- pkg:maven/lt.dvim.hof/hof_2.13@1.3.1?classifier=sources
+- pkg:maven/lt.dvim.hof/hof_2.13@1.3.2
+- pkg:maven/lt.dvim.hof/hof_2.13@1.3.2?classifier=sources
 - pkg:maven/lt.dvim.hof/hof_2.13@1.3?classifier=sources

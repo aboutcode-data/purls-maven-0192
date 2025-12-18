@@ -14,3 +14,5 @@
 - pkg:maven/org.elastos/spvcore@1.5?type=aar
 - pkg:maven/org.elastos/spvcore@1.6?classifier=sources
 - pkg:maven/org.elastos/spvcore@1.6?type=aar
+- pkg:maven/org.elastos/spvcore@2.0?classifier=sources
+- pkg:maven/org.elastos/spvcore@2.0?type=aar

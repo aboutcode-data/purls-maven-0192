@@ -10,3 +10,4 @@
 - pkg:maven/me.digi/sdk@2.2.2?type=aar
 - pkg:maven/me.digi/sdk@3.0.0?classifier=sources
 - pkg:maven/me.digi/sdk@3.0.0?type=aar
+- pkg:maven/me.digi/sdk@4.0.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/co.zsmb/rainbow-cake-hilt@1.5.0?classifier=sources
+- pkg:maven/co.zsmb/rainbow-cake-hilt@1.6.0?classifier=sources

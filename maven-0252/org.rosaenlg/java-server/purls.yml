@@ -70,3 +70,5 @@
 - pkg:maven/org.rosaenlg/java-server@2.1.9?type=war
 - pkg:maven/org.rosaenlg/java-server@3.0.0?classifier=sources
 - pkg:maven/org.rosaenlg/java-server@3.0.0?type=war
+- pkg:maven/org.rosaenlg/java-server@3.0.2?classifier=sources
+- pkg:maven/org.rosaenlg/java-server@3.0.2?type=war

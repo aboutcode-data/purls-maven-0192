@@ -8,3 +8,5 @@
 - pkg:maven/io.imunity.samly/samly2@2.7.0-rc2
 - pkg:maven/io.imunity.samly/samly2@2.7.0-rc2?classifier=sources
 - pkg:maven/io.imunity.samly/samly2@2.7.0?classifier=sources
+- pkg:maven/io.imunity.samly/samly2@2.7.1
+- pkg:maven/io.imunity.samly/samly2@2.7.1?classifier=sources

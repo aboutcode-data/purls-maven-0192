@@ -213,3 +213,7 @@
 - pkg:maven/io.quarkus/quarkus-vertx-core-deployment@2.2.0.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-vertx-core-deployment@2.2.1.Final
 - pkg:maven/io.quarkus/quarkus-vertx-core-deployment@2.2.1.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-vertx-core-deployment@2.2.2.Final
+- pkg:maven/io.quarkus/quarkus-vertx-core-deployment@2.2.2.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-vertx-core-deployment@2.2.3.Final
+- pkg:maven/io.quarkus/quarkus-vertx-core-deployment@2.2.3.Final?classifier=sources

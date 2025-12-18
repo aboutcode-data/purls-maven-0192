@@ -5,3 +5,5 @@
 - pkg:maven/com.highstreet-technologies.aaa/aaa-authn-api@0.13.2?classifier=sources
 - pkg:maven/com.highstreet-technologies.aaa/aaa-authn-api@0.13.3
 - pkg:maven/com.highstreet-technologies.aaa/aaa-authn-api@0.13.3?classifier=sources
+- pkg:maven/com.highstreet-technologies.aaa/aaa-authn-api@0.13.5
+- pkg:maven/com.highstreet-technologies.aaa/aaa-authn-api@0.13.5?classifier=sources

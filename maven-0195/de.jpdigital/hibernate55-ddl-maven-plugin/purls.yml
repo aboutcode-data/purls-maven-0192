@@ -1,0 +1,2 @@
+- pkg:maven/de.jpdigital/hibernate55-ddl-maven-plugin@2.4.0
+- pkg:maven/de.jpdigital/hibernate55-ddl-maven-plugin@2.4.0?classifier=sources

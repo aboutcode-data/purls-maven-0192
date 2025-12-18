@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.bower/diff-dom@2.0.2?classifier=sources
 - pkg:maven/org.webjars.bower/diff-dom@2.0.3
 - pkg:maven/org.webjars.bower/diff-dom@2.0.3?classifier=sources
+- pkg:maven/org.webjars.bower/diff-dom@4.2.3
+- pkg:maven/org.webjars.bower/diff-dom@4.2.3?classifier=sources

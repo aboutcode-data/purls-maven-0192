@@ -1,0 +1,2 @@
+- pkg:maven/io.esastack/servicekeeper-metrics-actuator@0.1.0
+- pkg:maven/io.esastack/servicekeeper-metrics-actuator@0.1.0?classifier=sources

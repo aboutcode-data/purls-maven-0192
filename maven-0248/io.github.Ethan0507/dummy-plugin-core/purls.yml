@@ -1,0 +1,2 @@
+- pkg:maven/io.github.Ethan0507/dummy-plugin-core@4.1
+- pkg:maven/io.github.Ethan0507/dummy-plugin-core@4.1?classifier=sources

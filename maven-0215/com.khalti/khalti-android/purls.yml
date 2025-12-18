@@ -1,0 +1,4 @@
+- pkg:maven/com.khalti/khalti-android@2.00.02?classifier=sources
+- pkg:maven/com.khalti/khalti-android@2.01.00?classifier=sources
+- pkg:maven/com.khalti/khalti-android@2.01.01?classifier=sources
+- pkg:maven/com.khalti/khalti-android@2.01.02?classifier=sources

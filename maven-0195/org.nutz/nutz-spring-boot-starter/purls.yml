@@ -42,6 +42,10 @@
 - pkg:maven/org.nutz/nutz-spring-boot-starter@2.3.8.RELEASE?classifier=sources
 - pkg:maven/org.nutz/nutz-spring-boot-starter@2.3.9.RELEASE
 - pkg:maven/org.nutz/nutz-spring-boot-starter@2.3.9.RELEASE?classifier=sources
+- pkg:maven/org.nutz/nutz-spring-boot-starter@2.4.11
+- pkg:maven/org.nutz/nutz-spring-boot-starter@2.4.11?classifier=sources
+- pkg:maven/org.nutz/nutz-spring-boot-starter@2.4.12
+- pkg:maven/org.nutz/nutz-spring-boot-starter@2.4.12?classifier=sources
 - pkg:maven/org.nutz/nutz-spring-boot-starter@2.4.8
 - pkg:maven/org.nutz/nutz-spring-boot-starter@2.4.8.20210701
 - pkg:maven/org.nutz/nutz-spring-boot-starter@2.4.8.20210701?classifier=sources
@@ -62,3 +66,7 @@
 - pkg:maven/org.nutz/nutz-spring-boot-starter@2.5.3?classifier=sources
 - pkg:maven/org.nutz/nutz-spring-boot-starter@2.5.4
 - pkg:maven/org.nutz/nutz-spring-boot-starter@2.5.4?classifier=sources
+- pkg:maven/org.nutz/nutz-spring-boot-starter@2.5.5
+- pkg:maven/org.nutz/nutz-spring-boot-starter@2.5.5?classifier=sources
+- pkg:maven/org.nutz/nutz-spring-boot-starter@2.5.6
+- pkg:maven/org.nutz/nutz-spring-boot-starter@2.5.6?classifier=sources

@@ -8,6 +8,8 @@
 - pkg:maven/org.kernelab/basis@0.0.12-RELEASE?classifier=sources
 - pkg:maven/org.kernelab/basis@0.0.13-RELEASE
 - pkg:maven/org.kernelab/basis@0.0.13-RELEASE?classifier=sources
+- pkg:maven/org.kernelab/basis@0.0.14-RELEASE
+- pkg:maven/org.kernelab/basis@0.0.14-RELEASE?classifier=sources
 - pkg:maven/org.kernelab/basis@0.0.2-RELEASE
 - pkg:maven/org.kernelab/basis@0.0.2-RELEASE?classifier=sources
 - pkg:maven/org.kernelab/basis@0.0.3-RELEASE

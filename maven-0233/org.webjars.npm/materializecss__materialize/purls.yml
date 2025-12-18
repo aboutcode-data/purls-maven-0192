@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/materializecss__materialize@1.1.0-alpha
+- pkg:maven/org.webjars.npm/materializecss__materialize@1.1.0-alpha?classifier=sources

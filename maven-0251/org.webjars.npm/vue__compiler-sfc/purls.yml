@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/vue__compiler-sfc@3.2.19
+- pkg:maven/org.webjars.npm/vue__compiler-sfc@3.2.19?classifier=sources
+- pkg:maven/org.webjars.npm/vue__compiler-sfc@3.2.20
+- pkg:maven/org.webjars.npm/vue__compiler-sfc@3.2.20?classifier=sources

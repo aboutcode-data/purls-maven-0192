@@ -1,0 +1,2 @@
+- pkg:maven/com.github.knightliao.extend/darwin-common@0.0.6-RELEASE
+- pkg:maven/com.github.knightliao.extend/darwin-common@0.0.6-RELEASE?classifier=sources

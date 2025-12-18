@@ -16,3 +16,5 @@
 - pkg:maven/com.exasol/virtual-schema-common-document@5.0.0?classifier=sources
 - pkg:maven/com.exasol/virtual-schema-common-document@6.0.0
 - pkg:maven/com.exasol/virtual-schema-common-document@6.0.0?classifier=sources
+- pkg:maven/com.exasol/virtual-schema-common-document@6.1.0
+- pkg:maven/com.exasol/virtual-schema-common-document@6.1.0?classifier=sources

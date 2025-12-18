@@ -31,6 +31,8 @@
 - pkg:maven/org.apache.wss4j/wss4j@2.2.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.wss4j/wss4j@2.2.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.wss4j/wss4j@2.2.6?classifier=source-release&type=zip
+- pkg:maven/org.apache.wss4j/wss4j@2.2.7?classifier=source-release&type=zip
 - pkg:maven/org.apache.wss4j/wss4j@2.3.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.wss4j/wss4j@2.3.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.wss4j/wss4j@2.3.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.wss4j/wss4j@2.3.3?classifier=source-release&type=zip
