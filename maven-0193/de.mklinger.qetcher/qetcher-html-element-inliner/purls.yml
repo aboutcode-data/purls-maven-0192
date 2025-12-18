@@ -54,3 +54,5 @@
 - pkg:maven/de.mklinger.qetcher/qetcher-html-element-inliner@2.0.40?classifier=sources
 - pkg:maven/de.mklinger.qetcher/qetcher-html-element-inliner@2.0.41
 - pkg:maven/de.mklinger.qetcher/qetcher-html-element-inliner@2.0.41?classifier=sources
+- pkg:maven/de.mklinger.qetcher/qetcher-html-element-inliner@2.0.42.rc
+- pkg:maven/de.mklinger.qetcher/qetcher-html-element-inliner@2.0.42.rc?classifier=sources

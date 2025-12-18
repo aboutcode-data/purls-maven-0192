@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/cssom@0.3.6?classifier=sources
 - pkg:maven/org.webjars.npm/cssom@0.3.8
 - pkg:maven/org.webjars.npm/cssom@0.3.8?classifier=sources
+- pkg:maven/org.webjars.npm/cssom@0.4.4
+- pkg:maven/org.webjars.npm/cssom@0.4.4?classifier=sources

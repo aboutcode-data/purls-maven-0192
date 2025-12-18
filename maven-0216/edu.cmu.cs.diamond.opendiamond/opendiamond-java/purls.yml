@@ -1,1 +1,2 @@
 - pkg:maven/edu.cmu.cs.diamond.opendiamond/opendiamond-java@v8.1.1?classifier=sources
+- pkg:maven/edu.cmu.cs.diamond.opendiamond/opendiamond-java@v9.0.0?classifier=sources

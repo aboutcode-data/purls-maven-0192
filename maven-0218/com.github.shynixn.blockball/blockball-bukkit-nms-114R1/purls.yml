@@ -18,6 +18,12 @@
 - pkg:maven/com.github.shynixn.blockball/blockball-bukkit-nms-114R1@6.18.0?classifier=sources
 - pkg:maven/com.github.shynixn.blockball/blockball-bukkit-nms-114R1@6.19.0
 - pkg:maven/com.github.shynixn.blockball/blockball-bukkit-nms-114R1@6.19.0?classifier=sources
+- pkg:maven/com.github.shynixn.blockball/blockball-bukkit-nms-114R1@6.20.0
+- pkg:maven/com.github.shynixn.blockball/blockball-bukkit-nms-114R1@6.20.0?classifier=sources
+- pkg:maven/com.github.shynixn.blockball/blockball-bukkit-nms-114R1@6.20.1
+- pkg:maven/com.github.shynixn.blockball/blockball-bukkit-nms-114R1@6.20.1?classifier=sources
+- pkg:maven/com.github.shynixn.blockball/blockball-bukkit-nms-114R1@6.21.0
+- pkg:maven/com.github.shynixn.blockball/blockball-bukkit-nms-114R1@6.21.0?classifier=sources
 - pkg:maven/com.github.shynixn.blockball/blockball-bukkit-nms-114R1@6.7.0
 - pkg:maven/com.github.shynixn.blockball/blockball-bukkit-nms-114R1@6.7.0?classifier=sources
 - pkg:maven/com.github.shynixn.blockball/blockball-bukkit-nms-114R1@6.8.0

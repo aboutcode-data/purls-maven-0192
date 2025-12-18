@@ -1,0 +1,2 @@
+- pkg:maven/com.codeages/escloud-java-sdk@1.0.0-RELEASES
+- pkg:maven/com.codeages/escloud-java-sdk@1.0.0-RELEASES?classifier=sources

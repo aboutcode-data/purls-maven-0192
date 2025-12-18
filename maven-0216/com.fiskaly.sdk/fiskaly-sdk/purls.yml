@@ -26,3 +26,7 @@
 - pkg:maven/com.fiskaly.sdk/fiskaly-sdk@1.2.001-android?classifier=sources
 - pkg:maven/com.fiskaly.sdk/fiskaly-sdk@1.2.001-jre
 - pkg:maven/com.fiskaly.sdk/fiskaly-sdk@1.2.001-jre?classifier=sources
+- pkg:maven/com.fiskaly.sdk/fiskaly-sdk@1.2.100-android
+- pkg:maven/com.fiskaly.sdk/fiskaly-sdk@1.2.100-android?classifier=sources
+- pkg:maven/com.fiskaly.sdk/fiskaly-sdk@1.2.100-jre
+- pkg:maven/com.fiskaly.sdk/fiskaly-sdk@1.2.100-jre?classifier=sources

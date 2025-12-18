@@ -1,0 +1,11 @@
+- pkg:maven/com.adobe.granite/com.adobe.granite.security.user@0.0.12?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.security.user@0.0.14?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.security.user@0.0.20?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.security.user@0.0.26?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.security.user@0.0.2?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.security.user@0.0.6?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.security.user@0.0.8?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.security.user@0.1.0?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.security.user@0.1.2?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.security.user@0.1.40?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.security.user@0.1.6?classifier=sources

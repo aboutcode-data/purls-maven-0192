@@ -1,0 +1,8 @@
+- pkg:maven/org.finos.legend.pure/legend-pure-m3-bootstrap-generator@0.0.8
+- pkg:maven/org.finos.legend.pure/legend-pure-m3-bootstrap-generator@0.0.8?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-m3-bootstrap-generator@1.0.0
+- pkg:maven/org.finos.legend.pure/legend-pure-m3-bootstrap-generator@1.0.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-m3-bootstrap-generator@1.1.0
+- pkg:maven/org.finos.legend.pure/legend-pure-m3-bootstrap-generator@1.1.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-m3-bootstrap-generator@1.1.1
+- pkg:maven/org.finos.legend.pure/legend-pure-m3-bootstrap-generator@1.1.1?classifier=sources

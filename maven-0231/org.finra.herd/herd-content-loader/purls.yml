@@ -14,3 +14,8 @@
 - pkg:maven/org.finra.herd/herd-content-loader@0.123.0
 - pkg:maven/org.finra.herd/herd-content-loader@0.124.0
 - pkg:maven/org.finra.herd/herd-content-loader@0.125.0
+- pkg:maven/org.finra.herd/herd-content-loader@0.130.0
+- pkg:maven/org.finra.herd/herd-content-loader@0.131.0
+- pkg:maven/org.finra.herd/herd-content-loader@0.132.0
+- pkg:maven/org.finra.herd/herd-content-loader@0.133.0
+- pkg:maven/org.finra.herd/herd-content-loader@0.134.0

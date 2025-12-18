@@ -48,3 +48,13 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-bpm-flowable@4.6.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-bpm-flowable@5.0.0
 - pkg:maven/org.eclipse.dirigible/dirigible-bpm-flowable@5.0.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-bpm-flowable@5.1.0
+- pkg:maven/org.eclipse.dirigible/dirigible-bpm-flowable@5.1.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-bpm-flowable@5.2.0
+- pkg:maven/org.eclipse.dirigible/dirigible-bpm-flowable@5.2.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-bpm-flowable@5.3.0
+- pkg:maven/org.eclipse.dirigible/dirigible-bpm-flowable@5.3.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-bpm-flowable@5.4.0
+- pkg:maven/org.eclipse.dirigible/dirigible-bpm-flowable@5.4.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-bpm-flowable@5.5.0
+- pkg:maven/org.eclipse.dirigible/dirigible-bpm-flowable@5.5.0?classifier=sources

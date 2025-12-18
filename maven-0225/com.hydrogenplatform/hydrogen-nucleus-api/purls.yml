@@ -1,0 +1,4 @@
+- pkg:maven/com.hydrogenplatform/hydrogen-nucleus-api@1.8.0
+- pkg:maven/com.hydrogenplatform/hydrogen-nucleus-api@1.8.0?classifier=sources
+- pkg:maven/com.hydrogenplatform/hydrogen-nucleus-api@v1.8.0
+- pkg:maven/com.hydrogenplatform/hydrogen-nucleus-api@v1.8.0?classifier=sources

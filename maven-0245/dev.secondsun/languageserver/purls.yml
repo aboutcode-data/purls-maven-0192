@@ -1,0 +1,6 @@
+- pkg:maven/dev.secondsun/languageserver@0.3
+- pkg:maven/dev.secondsun/languageserver@0.3?classifier=sources
+- pkg:maven/dev.secondsun/languageserver@0.7
+- pkg:maven/dev.secondsun/languageserver@0.7?classifier=sources
+- pkg:maven/dev.secondsun/languageserver@0.8
+- pkg:maven/dev.secondsun/languageserver@0.8?classifier=sources

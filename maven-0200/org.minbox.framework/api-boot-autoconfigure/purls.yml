@@ -62,3 +62,7 @@
 - pkg:maven/org.minbox.framework/api-boot-autoconfigure@2.2.7.RELEASE?classifier=sources
 - pkg:maven/org.minbox.framework/api-boot-autoconfigure@2.3.0.RELEASE
 - pkg:maven/org.minbox.framework/api-boot-autoconfigure@2.3.0.RELEASE?classifier=sources
+- pkg:maven/org.minbox.framework/api-boot-autoconfigure@2.3.1.RELEASE
+- pkg:maven/org.minbox.framework/api-boot-autoconfigure@2.3.1.RELEASE?classifier=sources
+- pkg:maven/org.minbox.framework/api-boot-autoconfigure@2.3.2.RELEASE
+- pkg:maven/org.minbox.framework/api-boot-autoconfigure@2.3.2.RELEASE?classifier=sources

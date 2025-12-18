@@ -14,7 +14,11 @@
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpcontentscheduler@5.1.0?type=war
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpcontentscheduler@5.2.0?classifier=sources
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpcontentscheduler@5.2.0?type=war
+- pkg:maven/org.entando.entando.plugins/entando-plugin-jpcontentscheduler@5.3.1?classifier=sources
+- pkg:maven/org.entando.entando.plugins/entando-plugin-jpcontentscheduler@5.3.1?type=war
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpcontentscheduler@6.1.0?classifier=sources
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpcontentscheduler@6.1.0?type=war
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpcontentscheduler@6.1.1?classifier=sources
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpcontentscheduler@6.1.1?type=war
+- pkg:maven/org.entando.entando.plugins/entando-plugin-jpcontentscheduler@6.2.6?classifier=sources
+- pkg:maven/org.entando.entando.plugins/entando-plugin-jpcontentscheduler@6.2.6?type=war

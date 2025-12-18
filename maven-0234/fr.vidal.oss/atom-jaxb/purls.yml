@@ -12,3 +12,5 @@
 - pkg:maven/fr.vidal.oss/atom-jaxb@0.4.1?classifier=sources
 - pkg:maven/fr.vidal.oss/atom-jaxb@1.0.0
 - pkg:maven/fr.vidal.oss/atom-jaxb@1.0.0?classifier=sources
+- pkg:maven/fr.vidal.oss/atom-jaxb@1.0.1
+- pkg:maven/fr.vidal.oss/atom-jaxb@1.0.1?classifier=sources

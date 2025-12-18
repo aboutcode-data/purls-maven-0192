@@ -8,6 +8,8 @@
 - pkg:maven/org.nuiton.topia/topia-service-migration@2.13?classifier=sources
 - pkg:maven/org.nuiton.topia/topia-service-migration@2.14
 - pkg:maven/org.nuiton.topia/topia-service-migration@2.14?classifier=sources
+- pkg:maven/org.nuiton.topia/topia-service-migration@2.15
+- pkg:maven/org.nuiton.topia/topia-service-migration@2.15?classifier=sources
 - pkg:maven/org.nuiton.topia/topia-service-migration@2.2.0
 - pkg:maven/org.nuiton.topia/topia-service-migration@2.2.0?classifier=sources
 - pkg:maven/org.nuiton.topia/topia-service-migration@2.2.1
@@ -224,3 +226,4 @@
 - pkg:maven/org.nuiton.topia/topia-service-migration@3.6?classifier=sources
 - pkg:maven/org.nuiton.topia/topia-service-migration@3.7
 - pkg:maven/org.nuiton.topia/topia-service-migration@3.7?classifier=sources
+- pkg:maven/org.nuiton.topia/topia-service-migration@3.8?classifier=sources

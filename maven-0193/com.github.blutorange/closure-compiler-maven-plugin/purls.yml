@@ -28,6 +28,8 @@
 - pkg:maven/com.github.blutorange/closure-compiler-maven-plugin@2.17.0?classifier=sources
 - pkg:maven/com.github.blutorange/closure-compiler-maven-plugin@2.18.0
 - pkg:maven/com.github.blutorange/closure-compiler-maven-plugin@2.18.0?classifier=sources
+- pkg:maven/com.github.blutorange/closure-compiler-maven-plugin@2.19.0
+- pkg:maven/com.github.blutorange/closure-compiler-maven-plugin@2.19.0?classifier=sources
 - pkg:maven/com.github.blutorange/closure-compiler-maven-plugin@2.2.0
 - pkg:maven/com.github.blutorange/closure-compiler-maven-plugin@2.2.0?classifier=sources
 - pkg:maven/com.github.blutorange/closure-compiler-maven-plugin@2.3.0

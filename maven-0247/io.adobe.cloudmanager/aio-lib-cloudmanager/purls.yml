@@ -1,0 +1,2 @@
+- pkg:maven/io.adobe.cloudmanager/aio-lib-cloudmanager@0.2.0
+- pkg:maven/io.adobe.cloudmanager/aio-lib-cloudmanager@0.2.0?classifier=sources

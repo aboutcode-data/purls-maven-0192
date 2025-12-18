@@ -14,3 +14,6 @@
 - pkg:maven/cn.com.analysys/javasdk@4.1.1-all
 - pkg:maven/cn.com.analysys/javasdk@4.1.1-all?classifier=sources
 - pkg:maven/cn.com.analysys/javasdk@4.1.1?classifier=sources
+- pkg:maven/cn.com.analysys/javasdk@4.1.2-all?classifier=sources
+- pkg:maven/cn.com.analysys/javasdk@4.1.2-beta?classifier=sources
+- pkg:maven/cn.com.analysys/javasdk@4.1.2?classifier=sources

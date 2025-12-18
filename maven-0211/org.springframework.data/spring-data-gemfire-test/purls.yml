@@ -18,8 +18,12 @@
 - pkg:maven/org.springframework.data/spring-data-gemfire-test@0.0.17.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-gemfire-test@0.0.18.RELEASE
 - pkg:maven/org.springframework.data/spring-data-gemfire-test@0.0.18.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-gemfire-test@0.0.19.RELEASE
+- pkg:maven/org.springframework.data/spring-data-gemfire-test@0.0.19.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-gemfire-test@0.0.2.RELEASE
 - pkg:maven/org.springframework.data/spring-data-gemfire-test@0.0.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-gemfire-test@0.0.20.RELEASE
+- pkg:maven/org.springframework.data/spring-data-gemfire-test@0.0.20.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-gemfire-test@0.0.3.RELEASE
 - pkg:maven/org.springframework.data/spring-data-gemfire-test@0.0.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-gemfire-test@0.0.4.RELEASE

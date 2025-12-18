@@ -1,2 +1,6 @@
 - pkg:maven/com.helger.cii/ph-cii-testfiles@2.2.0
 - pkg:maven/com.helger.cii/ph-cii-testfiles@2.2.0?classifier=sources
+- pkg:maven/com.helger.cii/ph-cii-testfiles@2.3.0
+- pkg:maven/com.helger.cii/ph-cii-testfiles@2.3.0?classifier=sources
+- pkg:maven/com.helger.cii/ph-cii-testfiles@2.3.1
+- pkg:maven/com.helger.cii/ph-cii-testfiles@2.3.1?classifier=sources

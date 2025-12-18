@@ -1,8 +1,12 @@
 - pkg:maven/com.cerner.beadledom/beadledom-correlation@3.6
 - pkg:maven/com.cerner.beadledom/beadledom-correlation@3.6?classifier=sources
 - pkg:maven/com.cerner.beadledom/beadledom-correlation@3.7
+- pkg:maven/com.cerner.beadledom/beadledom-correlation@3.7.1
+- pkg:maven/com.cerner.beadledom/beadledom-correlation@3.7.1?classifier=sources
 - pkg:maven/com.cerner.beadledom/beadledom-correlation@3.7?classifier=sources
 - pkg:maven/com.cerner.beadledom/beadledom-correlation@4.0
 - pkg:maven/com.cerner.beadledom/beadledom-correlation@4.0?classifier=sources
 - pkg:maven/com.cerner.beadledom/beadledom-correlation@4.1
+- pkg:maven/com.cerner.beadledom/beadledom-correlation@4.1.1
+- pkg:maven/com.cerner.beadledom/beadledom-correlation@4.1.1?classifier=sources
 - pkg:maven/com.cerner.beadledom/beadledom-correlation@4.1?classifier=sources

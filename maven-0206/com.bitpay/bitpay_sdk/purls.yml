@@ -14,3 +14,9 @@
 - pkg:maven/com.bitpay/bitpay_sdk@4.6.2003?classifier=sources
 - pkg:maven/com.bitpay/bitpay_sdk@4.7.2004
 - pkg:maven/com.bitpay/bitpay_sdk@4.7.2004?classifier=sources
+- pkg:maven/com.bitpay/bitpay_sdk@5.0.2011
+- pkg:maven/com.bitpay/bitpay_sdk@5.0.2011?classifier=sources
+- pkg:maven/com.bitpay/bitpay_sdk@5.1.2011
+- pkg:maven/com.bitpay/bitpay_sdk@5.1.2011?classifier=sources
+- pkg:maven/com.bitpay/bitpay_sdk@5.2.2011
+- pkg:maven/com.bitpay/bitpay_sdk@5.2.2011?classifier=sources

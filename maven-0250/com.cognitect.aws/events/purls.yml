@@ -16,3 +16,5 @@
 - pkg:maven/com.cognitect.aws/events@793.2.625.0?classifier=sources
 - pkg:maven/com.cognitect.aws/events@803.2.713.0
 - pkg:maven/com.cognitect.aws/events@803.2.713.0?classifier=sources
+- pkg:maven/com.cognitect.aws/events@809.2.784.0
+- pkg:maven/com.cognitect.aws/events@809.2.784.0?classifier=sources

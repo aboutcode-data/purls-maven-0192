@@ -22,3 +22,5 @@
 - pkg:maven/org.webjars.npm/vue-property-decorator@8.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/vue-property-decorator@8.4.0
 - pkg:maven/org.webjars.npm/vue-property-decorator@8.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/vue-property-decorator@9.0.2
+- pkg:maven/org.webjars.npm/vue-property-decorator@9.0.2?classifier=sources

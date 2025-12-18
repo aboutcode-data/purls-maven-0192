@@ -8,3 +8,5 @@
 - pkg:maven/com.github.lucadruda/iotc-java-device-client@1.0.4?classifier=sources
 - pkg:maven/com.github.lucadruda/iotc-java-device-client@1.0.5-beta.3
 - pkg:maven/com.github.lucadruda/iotc-java-device-client@1.0.5-beta.3?classifier=sources
+- pkg:maven/com.github.lucadruda/iotc-java-device-client@2.0.0
+- pkg:maven/com.github.lucadruda/iotc-java-device-client@2.0.0?classifier=sources

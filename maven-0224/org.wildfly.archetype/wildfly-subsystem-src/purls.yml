@@ -6,3 +6,5 @@
 - pkg:maven/org.wildfly.archetype/wildfly-subsystem-src@19.1.0.Final?classifier=sources
 - pkg:maven/org.wildfly.archetype/wildfly-subsystem-src@20.0.0.Final
 - pkg:maven/org.wildfly.archetype/wildfly-subsystem-src@20.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly.archetype/wildfly-subsystem-src@21.0.0.Final
+- pkg:maven/org.wildfly.archetype/wildfly-subsystem-src@21.0.0.Final?classifier=sources

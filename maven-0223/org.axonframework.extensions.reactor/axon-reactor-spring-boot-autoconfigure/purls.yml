@@ -1,0 +1,2 @@
+- pkg:maven/org.axonframework.extensions.reactor/axon-reactor-spring-boot-autoconfigure@4.4.2
+- pkg:maven/org.axonframework.extensions.reactor/axon-reactor-spring-boot-autoconfigure@4.4.2?classifier=sources

@@ -126,3 +126,5 @@
 - pkg:maven/com.ursful.framework/ursful-orm@2.7.2?classifier=sources
 - pkg:maven/com.ursful.framework/ursful-orm@2.7.5
 - pkg:maven/com.ursful.framework/ursful-orm@2.7.5?classifier=sources
+- pkg:maven/com.ursful.framework/ursful-orm@3.0
+- pkg:maven/com.ursful.framework/ursful-orm@3.0?classifier=sources

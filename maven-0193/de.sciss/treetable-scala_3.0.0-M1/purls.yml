@@ -1,0 +1,4 @@
+- pkg:maven/de.sciss/treetable-scala_3.0.0-M1@1.6.0
+- pkg:maven/de.sciss/treetable-scala_3.0.0-M1@1.6.0?classifier=sources
+- pkg:maven/de.sciss/treetable-scala_3.0.0-M1@1.6.1
+- pkg:maven/de.sciss/treetable-scala_3.0.0-M1@1.6.1?classifier=sources

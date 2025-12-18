@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/log-symbols@2.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/log-symbols@3.0.0
 - pkg:maven/org.webjars.npm/log-symbols@3.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/log-symbols@4.0.0
+- pkg:maven/org.webjars.npm/log-symbols@4.0.0?classifier=sources

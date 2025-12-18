@@ -23,3 +23,8 @@
 - pkg:maven/org.wso2.analytics.solutions/org.wso2.analytics.solutions.sp.data.search.feature@1.0.51?classifier=sources
 - pkg:maven/org.wso2.analytics.solutions/org.wso2.analytics.solutions.sp.data.search.feature@1.0.52?classifier=sources
 - pkg:maven/org.wso2.analytics.solutions/org.wso2.analytics.solutions.sp.data.search.feature@1.0.53?classifier=sources
+- pkg:maven/org.wso2.analytics.solutions/org.wso2.analytics.solutions.sp.data.search.feature@1.0.54?classifier=sources
+- pkg:maven/org.wso2.analytics.solutions/org.wso2.analytics.solutions.sp.data.search.feature@1.0.55?classifier=sources
+- pkg:maven/org.wso2.analytics.solutions/org.wso2.analytics.solutions.sp.data.search.feature@1.0.56?classifier=sources
+- pkg:maven/org.wso2.analytics.solutions/org.wso2.analytics.solutions.sp.data.search.feature@1.0.57?classifier=sources
+- pkg:maven/org.wso2.analytics.solutions/org.wso2.analytics.solutions.sp.data.search.feature@1.0.58?classifier=sources

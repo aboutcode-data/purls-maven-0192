@@ -1,0 +1,1 @@
+- pkg:maven/io.gitlab.arturbosch.detekt/detekt-intellij-plugin@1.6.1?classifier=sources

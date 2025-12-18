@@ -1,0 +1,10 @@
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-webapp@1.12.35?classifier=sources
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-webapp@1.12.35?type=war
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-webapp@1.12.36?classifier=sources
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-webapp@1.12.36?type=war
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-webapp@1.12.37?classifier=sources
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-webapp@1.12.37?type=war
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-webapp@1.12.38?classifier=sources
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-webapp@1.12.38?type=war
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-webapp@1.13.0?classifier=sources
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-webapp@1.13.0?type=war

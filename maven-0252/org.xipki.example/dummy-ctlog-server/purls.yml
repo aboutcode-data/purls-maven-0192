@@ -1,3 +1,5 @@
+- pkg:maven/org.xipki.example/dummy-ctlog-server@5.3.10?classifier=sources
+- pkg:maven/org.xipki.example/dummy-ctlog-server@5.3.10?type=war
 - pkg:maven/org.xipki.example/dummy-ctlog-server@5.3.6?classifier=sources
 - pkg:maven/org.xipki.example/dummy-ctlog-server@5.3.6?type=war
 - pkg:maven/org.xipki.example/dummy-ctlog-server@5.3.7?classifier=sources

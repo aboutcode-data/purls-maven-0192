@@ -1,0 +1,3 @@
+- pkg:maven/com.liferay/com.liferay.lcs.client.impl@1.0.53
+- pkg:maven/com.liferay/com.liferay.lcs.client.impl@1.0.53?classifier=sources
+- pkg:maven/com.liferay/com.liferay.lcs.client.impl@1.0.53?classifier=sources-commercial

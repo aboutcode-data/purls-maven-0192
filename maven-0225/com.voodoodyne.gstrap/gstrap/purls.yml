@@ -75,6 +75,14 @@
 - pkg:maven/com.voodoodyne.gstrap/gstrap@0.43?classifier=sources
 - pkg:maven/com.voodoodyne.gstrap/gstrap@0.44
 - pkg:maven/com.voodoodyne.gstrap/gstrap@0.44?classifier=sources
+- pkg:maven/com.voodoodyne.gstrap/gstrap@0.45
+- pkg:maven/com.voodoodyne.gstrap/gstrap@0.45?classifier=sources
+- pkg:maven/com.voodoodyne.gstrap/gstrap@0.46
+- pkg:maven/com.voodoodyne.gstrap/gstrap@0.46?classifier=sources
+- pkg:maven/com.voodoodyne.gstrap/gstrap@0.47
+- pkg:maven/com.voodoodyne.gstrap/gstrap@0.47?classifier=sources
+- pkg:maven/com.voodoodyne.gstrap/gstrap@0.48
+- pkg:maven/com.voodoodyne.gstrap/gstrap@0.48?classifier=sources
 - pkg:maven/com.voodoodyne.gstrap/gstrap@0.4?classifier=sources
 - pkg:maven/com.voodoodyne.gstrap/gstrap@0.5
 - pkg:maven/com.voodoodyne.gstrap/gstrap@0.5?classifier=sources

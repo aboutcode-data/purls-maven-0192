@@ -1,0 +1,1 @@
+- pkg:maven/com.github.bsideup.jabel/jabel-javac-plugin@0.3.0?classifier=sources

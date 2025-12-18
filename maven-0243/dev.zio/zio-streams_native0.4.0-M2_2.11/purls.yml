@@ -1,0 +1,4 @@
+- pkg:maven/dev.zio/zio-streams_native0.4.0-M2_2.11@1.0.2
+- pkg:maven/dev.zio/zio-streams_native0.4.0-M2_2.11@1.0.2?classifier=sources
+- pkg:maven/dev.zio/zio-streams_native0.4.0-M2_2.11@1.0.3
+- pkg:maven/dev.zio/zio-streams_native0.4.0-M2_2.11@1.0.3?classifier=sources

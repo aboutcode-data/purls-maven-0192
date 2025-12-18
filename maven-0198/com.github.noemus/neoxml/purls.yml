@@ -1,0 +1,2 @@
+- pkg:maven/com.github.noemus/neoxml@1.0.3
+- pkg:maven/com.github.noemus/neoxml@1.0.3?classifier=sources

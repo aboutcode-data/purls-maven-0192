@@ -1,0 +1,4 @@
+- pkg:maven/com.adobe.livecycle.dsc/com.adobe.livecycle.dsc.clientsdk@3.0.4?classifier=sources
+- pkg:maven/com.adobe.livecycle.dsc/com.adobe.livecycle.dsc.clientsdk@6.2
+- pkg:maven/com.adobe.livecycle.dsc/com.adobe.livecycle.dsc.clientsdk@6.2?classifier=sources
+- pkg:maven/com.adobe.livecycle.dsc/com.adobe.livecycle.dsc.clientsdk@6.3.0?classifier=sources

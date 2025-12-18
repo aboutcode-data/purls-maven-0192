@@ -1,0 +1,2 @@
+- pkg:maven/net.dreamlu/amazon-mws@20200907
+- pkg:maven/net.dreamlu/amazon-mws@20200907?classifier=sources

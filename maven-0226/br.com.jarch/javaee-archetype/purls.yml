@@ -8,3 +8,4 @@
 - pkg:maven/br.com.jarch/javaee-archetype@20.5.4?classifier=sources
 - pkg:maven/br.com.jarch/javaee-archetype@20.6.0?classifier=sources
 - pkg:maven/br.com.jarch/javaee-archetype@20.7.0?classifier=sources
+- pkg:maven/br.com.jarch/javaee-archetype@20.8.0?classifier=sources

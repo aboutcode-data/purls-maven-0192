@@ -1,0 +1,2 @@
+- pkg:maven/io.avaje/avaje-http-generator-core@1.0
+- pkg:maven/io.avaje/avaje-http-generator-core@1.0?classifier=sources

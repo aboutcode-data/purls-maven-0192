@@ -20,3 +20,9 @@
 - pkg:maven/org.nutz/nutz-spring-boot-starter@2.3.2.RELEASE?classifier=sources
 - pkg:maven/org.nutz/nutz-spring-boot-starter@2.3.3.RELEASE
 - pkg:maven/org.nutz/nutz-spring-boot-starter@2.3.3.RELEASE?classifier=sources
+- pkg:maven/org.nutz/nutz-spring-boot-starter@2.3.4.RELEASE
+- pkg:maven/org.nutz/nutz-spring-boot-starter@2.3.4.RELEASE?classifier=sources
+- pkg:maven/org.nutz/nutz-spring-boot-starter@2.3.5.RELEASE
+- pkg:maven/org.nutz/nutz-spring-boot-starter@2.3.5.RELEASE.20201111
+- pkg:maven/org.nutz/nutz-spring-boot-starter@2.3.5.RELEASE.20201111?classifier=sources
+- pkg:maven/org.nutz/nutz-spring-boot-starter@2.3.5.RELEASE?classifier=sources

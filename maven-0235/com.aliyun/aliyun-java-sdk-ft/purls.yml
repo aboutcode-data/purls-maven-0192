@@ -20,6 +20,12 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-ft@1.0.0?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-ft@1.0.1
 - pkg:maven/com.aliyun/aliyun-java-sdk-ft@1.0.1?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-ft@1.9.78
+- pkg:maven/com.aliyun/aliyun-java-sdk-ft@1.9.78?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-ft@1.9.89
+- pkg:maven/com.aliyun/aliyun-java-sdk-ft@1.9.89?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-ft@1.9.91
+- pkg:maven/com.aliyun/aliyun-java-sdk-ft@1.9.91?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-ft@2018-07-13
 - pkg:maven/com.aliyun/aliyun-java-sdk-ft@2018-07-13?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-ft@null

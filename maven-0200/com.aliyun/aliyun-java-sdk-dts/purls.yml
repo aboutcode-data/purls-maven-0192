@@ -34,3 +34,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-dts@5.0.34.19.2?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-dts@5.0.34.19.3
 - pkg:maven/com.aliyun/aliyun-java-sdk-dts@5.0.34.19.3?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-dts@5.0.78.19.4
+- pkg:maven/com.aliyun/aliyun-java-sdk-dts@5.0.78.19.4?classifier=sources

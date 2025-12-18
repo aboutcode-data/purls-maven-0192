@@ -142,6 +142,12 @@
 - pkg:maven/com.stripe/stripe-android@15.0.2?type=aar
 - pkg:maven/com.stripe/stripe-android@15.1.0?classifier=sources
 - pkg:maven/com.stripe/stripe-android@15.1.0?type=aar
+- pkg:maven/com.stripe/stripe-android@16.0.0?classifier=sources
+- pkg:maven/com.stripe/stripe-android@16.0.0?type=aar
+- pkg:maven/com.stripe/stripe-android@16.0.1?classifier=sources
+- pkg:maven/com.stripe/stripe-android@16.0.1?type=aar
+- pkg:maven/com.stripe/stripe-android@16.1.0?classifier=sources
+- pkg:maven/com.stripe/stripe-android@16.1.0?type=aar
 - pkg:maven/com.stripe/stripe-android@2.0.0?classifier=sources
 - pkg:maven/com.stripe/stripe-android@2.0.0?type=aar
 - pkg:maven/com.stripe/stripe-android@2.0.2?classifier=sources

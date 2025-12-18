@@ -3,3 +3,4 @@
 - pkg:maven/org.apache.unomi/unomi-router-karaf-feature@1.4.0?classifier=sources
 - pkg:maven/org.apache.unomi/unomi-router-karaf-feature@1.5.0?classifier=sources
 - pkg:maven/org.apache.unomi/unomi-router-karaf-feature@1.5.1?classifier=sources
+- pkg:maven/org.apache.unomi/unomi-router-karaf-feature@1.5.2?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.fryske-akademy/TeiLinguisticsFa@2.2?classifier=sources
 - pkg:maven/org.fryske-akademy/TeiLinguisticsFa@3.0
 - pkg:maven/org.fryske-akademy/TeiLinguisticsFa@3.0?classifier=sources
+- pkg:maven/org.fryske-akademy/TeiLinguisticsFa@4.1
+- pkg:maven/org.fryske-akademy/TeiLinguisticsFa@4.1?classifier=sources

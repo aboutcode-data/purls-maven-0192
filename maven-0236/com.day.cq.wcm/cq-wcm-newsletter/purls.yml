@@ -1,0 +1,2 @@
+- pkg:maven/com.day.cq.wcm/cq-wcm-newsletter@5.3.0?classifier=sources
+- pkg:maven/com.day.cq.wcm/cq-wcm-newsletter@5.4.0?classifier=sources

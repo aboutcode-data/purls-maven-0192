@@ -166,3 +166,5 @@
 - pkg:maven/com.gocardless/gocardless-pro@4.3.0?classifier=sources
 - pkg:maven/com.gocardless/gocardless-pro@4.4.0
 - pkg:maven/com.gocardless/gocardless-pro@4.4.0?classifier=sources
+- pkg:maven/com.gocardless/gocardless-pro@4.5.0
+- pkg:maven/com.gocardless/gocardless-pro@4.5.0?classifier=sources

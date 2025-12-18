@@ -1,0 +1,2 @@
+- pkg:maven/org.typelevel/cats-jvm_0.27@2.3.0-M2
+- pkg:maven/org.typelevel/cats-jvm_0.27@2.3.0-M2?classifier=sources

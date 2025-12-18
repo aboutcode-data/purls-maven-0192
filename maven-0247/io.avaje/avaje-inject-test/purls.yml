@@ -1,0 +1,2 @@
+- pkg:maven/io.avaje/avaje-inject-test@4.0
+- pkg:maven/io.avaje/avaje-inject-test@4.0?classifier=sources

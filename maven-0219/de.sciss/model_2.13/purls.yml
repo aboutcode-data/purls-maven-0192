@@ -1,2 +1,4 @@
 - pkg:maven/de.sciss/model_2.13@0.3.4
 - pkg:maven/de.sciss/model_2.13@0.3.4?classifier=sources
+- pkg:maven/de.sciss/model_2.13@0.3.5
+- pkg:maven/de.sciss/model_2.13@0.3.5?classifier=sources

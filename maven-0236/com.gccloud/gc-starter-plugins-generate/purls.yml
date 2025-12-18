@@ -1,3 +1,4 @@
 - pkg:maven/com.gccloud/gc-starter-plugins-generate@1.0.0
 - pkg:maven/com.gccloud/gc-starter-plugins-generate@1.0.0-beta
 - pkg:maven/com.gccloud/gc-starter-plugins-generate@1.0.0.RELEASE
+- pkg:maven/com.gccloud/gc-starter-plugins-generate@1.0.1-beta

@@ -94,6 +94,8 @@
 - pkg:maven/com.iheart/lihua-mongo_2.12@0.34?classifier=sources
 - pkg:maven/com.iheart/lihua-mongo_2.12@0.35
 - pkg:maven/com.iheart/lihua-mongo_2.12@0.35?classifier=sources
+- pkg:maven/com.iheart/lihua-mongo_2.12@0.36
+- pkg:maven/com.iheart/lihua-mongo_2.12@0.36?classifier=sources
 - pkg:maven/com.iheart/lihua-mongo_2.12@0.4.0
 - pkg:maven/com.iheart/lihua-mongo_2.12@0.4.0?classifier=sources
 - pkg:maven/com.iheart/lihua-mongo_2.12@0.5.0

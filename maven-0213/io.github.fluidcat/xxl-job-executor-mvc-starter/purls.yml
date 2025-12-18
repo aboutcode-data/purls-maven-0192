@@ -1,0 +1,4 @@
+- pkg:maven/io.github.fluidcat/xxl-job-executor-mvc-starter@1.0.0
+- pkg:maven/io.github.fluidcat/xxl-job-executor-mvc-starter@1.0.0-SNAPHOST
+- pkg:maven/io.github.fluidcat/xxl-job-executor-mvc-starter@1.0.0-SNAPHOST?classifier=sources
+- pkg:maven/io.github.fluidcat/xxl-job-executor-mvc-starter@1.0.0?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/org.microprofile-ext.config-ext/configsource-typesafeconfig@1.0.10
+- pkg:maven/org.microprofile-ext.config-ext/configsource-typesafeconfig@1.0.10?classifier=sources
 - pkg:maven/org.microprofile-ext.config-ext/configsource-typesafeconfig@1.0.7
 - pkg:maven/org.microprofile-ext.config-ext/configsource-typesafeconfig@1.0.7?classifier=sources
 - pkg:maven/org.microprofile-ext.config-ext/configsource-typesafeconfig@1.0.8

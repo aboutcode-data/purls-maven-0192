@@ -9,3 +9,5 @@
 - pkg:maven/org.baracus/baracus-framework@0.9.3-SNAPSHOT.1?classifier=sources
 - pkg:maven/org.baracus/baracus-framework@0.9.3?classifier=sources
 - pkg:maven/org.baracus/baracus-framework@0.9?classifier=sources
+- pkg:maven/org.baracus/baracus-framework@1.0.1?classifier=sources
+- pkg:maven/org.baracus/baracus-framework@1.0.1?type=aar

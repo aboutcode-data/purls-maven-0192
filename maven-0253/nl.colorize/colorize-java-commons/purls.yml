@@ -58,6 +58,10 @@
 - pkg:maven/nl.colorize/colorize-java-commons@2020.1.12?classifier=sources
 - pkg:maven/nl.colorize/colorize-java-commons@2020.1.13
 - pkg:maven/nl.colorize/colorize-java-commons@2020.1.13?classifier=sources
+- pkg:maven/nl.colorize/colorize-java-commons@2020.1.14
+- pkg:maven/nl.colorize/colorize-java-commons@2020.1.14?classifier=sources
+- pkg:maven/nl.colorize/colorize-java-commons@2020.1.15
+- pkg:maven/nl.colorize/colorize-java-commons@2020.1.15?classifier=sources
 - pkg:maven/nl.colorize/colorize-java-commons@2020.1.1?classifier=sources
 - pkg:maven/nl.colorize/colorize-java-commons@2020.1.2
 - pkg:maven/nl.colorize/colorize-java-commons@2020.1.2?classifier=sources

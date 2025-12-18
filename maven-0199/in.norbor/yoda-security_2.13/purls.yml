@@ -8,3 +8,5 @@
 - pkg:maven/in.norbor/yoda-security_2.13@20200403?classifier=sources
 - pkg:maven/in.norbor/yoda-security_2.13@20200429
 - pkg:maven/in.norbor/yoda-security_2.13@20200429?classifier=sources
+- pkg:maven/in.norbor/yoda-security_2.13@20201109
+- pkg:maven/in.norbor/yoda-security_2.13@20201109?classifier=sources

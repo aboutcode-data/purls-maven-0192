@@ -2,3 +2,4 @@
 - pkg:maven/org.apache.ranger/ranger-sqoop-plugin-shim@1.1.0
 - pkg:maven/org.apache.ranger/ranger-sqoop-plugin-shim@1.2.0
 - pkg:maven/org.apache.ranger/ranger-sqoop-plugin-shim@2.0.0
+- pkg:maven/org.apache.ranger/ranger-sqoop-plugin-shim@2.1.0

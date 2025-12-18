@@ -63,6 +63,10 @@
 - pkg:maven/org.wso2.is/identity-samples-remote-user-mgt@5.11.0-m30?classifier=sources
 - pkg:maven/org.wso2.is/identity-samples-remote-user-mgt@5.11.0-m31
 - pkg:maven/org.wso2.is/identity-samples-remote-user-mgt@5.11.0-m31?classifier=sources
+- pkg:maven/org.wso2.is/identity-samples-remote-user-mgt@5.11.0-m32
+- pkg:maven/org.wso2.is/identity-samples-remote-user-mgt@5.11.0-m32?classifier=sources
+- pkg:maven/org.wso2.is/identity-samples-remote-user-mgt@5.11.0-m33
+- pkg:maven/org.wso2.is/identity-samples-remote-user-mgt@5.11.0-m33?classifier=sources
 - pkg:maven/org.wso2.is/identity-samples-remote-user-mgt@5.11.0-m3?classifier=sources
 - pkg:maven/org.wso2.is/identity-samples-remote-user-mgt@5.11.0-m4
 - pkg:maven/org.wso2.is/identity-samples-remote-user-mgt@5.11.0-m4?classifier=sources

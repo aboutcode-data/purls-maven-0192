@@ -1,0 +1,2 @@
+- pkg:maven/io.github.origin-energy/java-snapshot-testing-core@2.0.0
+- pkg:maven/io.github.origin-energy/java-snapshot-testing-core@2.0.0?classifier=sources

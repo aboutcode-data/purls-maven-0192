@@ -1,0 +1,2 @@
+- pkg:maven/net.bis5.opentracing/opentracing-faces@1.0
+- pkg:maven/net.bis5.opentracing/opentracing-faces@1.0?classifier=sources

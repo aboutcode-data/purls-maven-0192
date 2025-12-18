@@ -32,3 +32,5 @@
 - pkg:maven/de.wicketbuch.extensions/appendablerepeater-examples@1.4.1.wicket7?type=war
 - pkg:maven/de.wicketbuch.extensions/appendablerepeater-examples@1.5.0.wicket7?classifier=sources
 - pkg:maven/de.wicketbuch.extensions/appendablerepeater-examples@1.5.0.wicket7?type=war
+- pkg:maven/de.wicketbuch.extensions/appendablerepeater-examples@1.5.0.wicket8?classifier=sources
+- pkg:maven/de.wicketbuch.extensions/appendablerepeater-examples@1.5.0.wicket8?type=war

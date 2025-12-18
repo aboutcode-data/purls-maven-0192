@@ -17,3 +17,4 @@
 - pkg:maven/de.alpharogroup/lottery-core@5.8?classifier=sources
 - pkg:maven/de.alpharogroup/lottery-core@5.9
 - pkg:maven/de.alpharogroup/lottery-core@5.9?classifier=sources
+- pkg:maven/de.alpharogroup/lottery-core@6?classifier=sources
