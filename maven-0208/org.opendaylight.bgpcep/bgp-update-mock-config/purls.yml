@@ -1,0 +1,2 @@
+- pkg:maven/org.opendaylight.bgpcep/bgp-update-mock-config@0.3.0
+- pkg:maven/org.opendaylight.bgpcep/bgp-update-mock-config@0.3.0?classifier=sources

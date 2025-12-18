@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ramerf/spring-boot-starter-admintemplate@1.0.0-RELEASE
+- pkg:maven/io.github.ramerf/spring-boot-starter-admintemplate@1.0.0-RELEASE?classifier=sources

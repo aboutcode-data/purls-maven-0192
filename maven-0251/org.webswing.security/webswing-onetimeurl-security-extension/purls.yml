@@ -1,0 +1,4 @@
+- pkg:maven/org.webswing.security/webswing-onetimeurl-security-extension@2.7
+- pkg:maven/org.webswing.security/webswing-onetimeurl-security-extension@2.7.1
+- pkg:maven/org.webswing.security/webswing-onetimeurl-security-extension@2.7.1?classifier=sources
+- pkg:maven/org.webswing.security/webswing-onetimeurl-security-extension@2.7?classifier=sources

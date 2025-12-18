@@ -66,3 +66,7 @@
 - pkg:maven/org.codelibs/elasticsearch-analysis-fess@7.1.0?type=zip
 - pkg:maven/org.codelibs/elasticsearch-analysis-fess@7.2.0?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-analysis-fess@7.2.0?type=zip
+- pkg:maven/org.codelibs/elasticsearch-analysis-fess@7.3.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-analysis-fess@7.3.0?type=zip
+- pkg:maven/org.codelibs/elasticsearch-analysis-fess@7.4.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-analysis-fess@7.4.0?type=zip

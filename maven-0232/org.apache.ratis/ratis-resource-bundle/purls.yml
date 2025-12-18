@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.ratis/ratis-resource-bundle@0.4.0
+- pkg:maven/org.apache.ratis/ratis-resource-bundle@0.4.0?classifier=sources

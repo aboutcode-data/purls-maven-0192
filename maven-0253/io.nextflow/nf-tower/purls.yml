@@ -1,0 +1,6 @@
+- pkg:maven/io.nextflow/nf-tower@19.09.0-edge
+- pkg:maven/io.nextflow/nf-tower@19.09.0-edge?classifier=sources
+- pkg:maven/io.nextflow/nf-tower@19.09.0-egde
+- pkg:maven/io.nextflow/nf-tower@19.09.0-egde?classifier=sources
+- pkg:maven/io.nextflow/nf-tower@19.10.0
+- pkg:maven/io.nextflow/nf-tower@19.10.0?classifier=sources

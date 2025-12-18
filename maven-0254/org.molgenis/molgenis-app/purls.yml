@@ -158,3 +158,9 @@
 - pkg:maven/org.molgenis/molgenis-app@8.1.7?type=war
 - pkg:maven/org.molgenis/molgenis-app@8.1.8?classifier=sources
 - pkg:maven/org.molgenis/molgenis-app@8.1.8?type=war
+- pkg:maven/org.molgenis/molgenis-app@8.2.1?classifier=sources
+- pkg:maven/org.molgenis/molgenis-app@8.2.1?type=war
+- pkg:maven/org.molgenis/molgenis-app@8.2.3?classifier=sources
+- pkg:maven/org.molgenis/molgenis-app@8.2.3?type=war
+- pkg:maven/org.molgenis/molgenis-app@8.2.4?classifier=sources
+- pkg:maven/org.molgenis/molgenis-app@8.2.4?type=war

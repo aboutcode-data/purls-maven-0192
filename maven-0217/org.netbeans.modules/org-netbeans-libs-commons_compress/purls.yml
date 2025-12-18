@@ -1,4 +1,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-commons_compress@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-commons_compress@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-commons_compress@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-commons_compress@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-commons_compress@RELEASE90?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.ibm.cics/cics-bundle-common@0.0.2
+- pkg:maven/com.ibm.cics/cics-bundle-common@0.0.2?classifier=sources

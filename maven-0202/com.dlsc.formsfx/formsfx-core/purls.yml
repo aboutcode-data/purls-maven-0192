@@ -14,3 +14,7 @@
 - pkg:maven/com.dlsc.formsfx/formsfx-core@11.3.0?classifier=sources
 - pkg:maven/com.dlsc.formsfx/formsfx-core@11.3.2
 - pkg:maven/com.dlsc.formsfx/formsfx-core@11.3.2?classifier=sources
+- pkg:maven/com.dlsc.formsfx/formsfx-core@11.4.1
+- pkg:maven/com.dlsc.formsfx/formsfx-core@11.4.1?classifier=sources
+- pkg:maven/com.dlsc.formsfx/formsfx-core@8.4.0
+- pkg:maven/com.dlsc.formsfx/formsfx-core@8.4.0?classifier=sources

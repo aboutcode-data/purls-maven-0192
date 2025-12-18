@@ -70,3 +70,5 @@
 - pkg:maven/org.webjars.npm/uportal__eyebrow-user-info@1.31.1?classifier=sources
 - pkg:maven/org.webjars.npm/uportal__eyebrow-user-info@1.32.1
 - pkg:maven/org.webjars.npm/uportal__eyebrow-user-info@1.32.1?classifier=sources
+- pkg:maven/org.webjars.npm/uportal__eyebrow-user-info@1.33.2
+- pkg:maven/org.webjars.npm/uportal__eyebrow-user-info@1.33.2?classifier=sources

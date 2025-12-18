@@ -71,3 +71,5 @@
 - pkg:maven/com.squareup.okio/okio@2.2.2
 - pkg:maven/com.squareup.okio/okio@2.2.2?classifier=sources
 - pkg:maven/com.squareup.okio/okio@2.3.0?classifier=sources
+- pkg:maven/com.squareup.okio/okio@2.4.0?classifier=sources
+- pkg:maven/com.squareup.okio/okio@2.4.1?classifier=sources

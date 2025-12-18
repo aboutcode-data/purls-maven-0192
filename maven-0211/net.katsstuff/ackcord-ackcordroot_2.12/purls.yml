@@ -1,0 +1,2 @@
+- pkg:maven/net.katsstuff/ackcord-ackcordroot_2.12@0.15.0-M3
+- pkg:maven/net.katsstuff/ackcord-ackcordroot_2.12@0.15.0-M3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.application.auth.basic/org.wso2.carbon.identity.application.authentication.handler.session@6.2.5
+- pkg:maven/org.wso2.carbon.identity.application.auth.basic/org.wso2.carbon.identity.application.authentication.handler.session@6.2.5?classifier=sources

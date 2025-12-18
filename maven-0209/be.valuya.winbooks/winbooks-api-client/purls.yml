@@ -22,3 +22,7 @@
 - pkg:maven/be.valuya.winbooks/winbooks-api-client@1.4.0?classifier=sources
 - pkg:maven/be.valuya.winbooks/winbooks-api-client@1.4.1
 - pkg:maven/be.valuya.winbooks/winbooks-api-client@1.4.1?classifier=sources
+- pkg:maven/be.valuya.winbooks/winbooks-api-client@2.0.1
+- pkg:maven/be.valuya.winbooks/winbooks-api-client@2.0.1?classifier=sources
+- pkg:maven/be.valuya.winbooks/winbooks-api-client@2.0.2
+- pkg:maven/be.valuya.winbooks/winbooks-api-client@2.0.2?classifier=sources

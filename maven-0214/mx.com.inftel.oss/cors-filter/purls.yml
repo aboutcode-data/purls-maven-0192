@@ -6,3 +6,5 @@
 - pkg:maven/mx.com.inftel.oss/cors-filter@1.0.2?classifier=sources
 - pkg:maven/mx.com.inftel.oss/cors-filter@1.1.0
 - pkg:maven/mx.com.inftel.oss/cors-filter@1.1.0?classifier=sources
+- pkg:maven/mx.com.inftel.oss/cors-filter@1.2.0
+- pkg:maven/mx.com.inftel.oss/cors-filter@1.2.0?classifier=sources

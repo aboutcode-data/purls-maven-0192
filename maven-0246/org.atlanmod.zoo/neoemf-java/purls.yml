@@ -1,0 +1,2 @@
+- pkg:maven/org.atlanmod.zoo/neoemf-java@1.0.0
+- pkg:maven/org.atlanmod.zoo/neoemf-java@1.0.0?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/org.wso2.carbon.identity.data.publisher.oauth/identity-data-publisher-oauth@1.0.7?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.data.publisher.oauth/identity-data-publisher-oauth@1.0.8?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.data.publisher.oauth/identity-data-publisher-oauth@1.0.9?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.data.publisher.oauth/identity-data-publisher-oauth@1.2.5?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.data.publisher.oauth/identity-data-publisher-oauth@1.2.6?classifier=source-release&type=zip

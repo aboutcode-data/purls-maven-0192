@@ -1,0 +1,2 @@
+- pkg:maven/org.opendaylight.controller.thirdparty/org.apache.catalina.filters.CorsFilter@7.0.42
+- pkg:maven/org.opendaylight.controller.thirdparty/org.apache.catalina.filters.CorsFilter@7.0.42?classifier=sources

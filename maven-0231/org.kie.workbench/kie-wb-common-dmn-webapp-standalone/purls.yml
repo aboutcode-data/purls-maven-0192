@@ -1,0 +1,2 @@
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-standalone@7.29.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-standalone@7.29.0.Final?type=war

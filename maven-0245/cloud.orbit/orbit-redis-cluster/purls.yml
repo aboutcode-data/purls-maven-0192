@@ -60,3 +60,5 @@
 - pkg:maven/cloud.orbit/orbit-redis-cluster@1.4.0-rc2?classifier=sources
 - pkg:maven/cloud.orbit/orbit-redis-cluster@1.5.0
 - pkg:maven/cloud.orbit/orbit-redis-cluster@1.5.0?classifier=sources
+- pkg:maven/cloud.orbit/orbit-redis-cluster@1.5.1
+- pkg:maven/cloud.orbit/orbit-redis-cluster@1.5.1?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/com.github.fracpete/dataset-weights-weka-package@2015.6.16
 - pkg:maven/com.github.fracpete/dataset-weights-weka-package@2015.6.16?classifier=sources
+- pkg:maven/com.github.fracpete/dataset-weights-weka-package@2019.9.11
+- pkg:maven/com.github.fracpete/dataset-weights-weka-package@2019.9.11?classifier=sources
+- pkg:maven/com.github.fracpete/dataset-weights-weka-package@2019.9.13
+- pkg:maven/com.github.fracpete/dataset-weights-weka-package@2019.9.13?classifier=sources

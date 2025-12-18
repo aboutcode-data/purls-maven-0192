@@ -1,0 +1,2 @@
+- pkg:maven/com.documaster.idp/documaster-ws-client-idp@1.0.0
+- pkg:maven/com.documaster.idp/documaster-ws-client-idp@1.0.0?classifier=sources

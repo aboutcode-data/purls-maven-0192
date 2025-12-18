@@ -1,0 +1,2 @@
+- pkg:maven/io.github.radkovo/class-builder-cli@1.0
+- pkg:maven/io.github.radkovo/class-builder-cli@1.0?classifier=sources

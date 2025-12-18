@@ -1,0 +1,4 @@
+- pkg:maven/org.papaja/papaja-commons@1.0.0-RC0
+- pkg:maven/org.papaja/papaja-commons@1.0.0-RC0?classifier=sources
+- pkg:maven/org.papaja/papaja-commons@1.0.0-RELEASE
+- pkg:maven/org.papaja/papaja-commons@1.0.0-RELEASE?classifier=sources

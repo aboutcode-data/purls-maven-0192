@@ -1,0 +1,2 @@
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-monix_2.13@6.5.4
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-monix_2.13@6.5.4?classifier=sources

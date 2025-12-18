@@ -1,0 +1,2 @@
+- pkg:maven/cz.pumpitup.pn5/pumpo-number-five-web@0.0.1
+- pkg:maven/cz.pumpitup.pn5/pumpo-number-five-web@0.0.1?classifier=sources

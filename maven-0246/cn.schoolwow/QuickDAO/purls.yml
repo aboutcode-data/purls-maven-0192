@@ -1,6 +1,10 @@
 - pkg:maven/cn.schoolwow/QuickDAO@1.0
 - pkg:maven/cn.schoolwow/QuickDAO@1.0?classifier=sources
 - pkg:maven/cn.schoolwow/QuickDAO@2.1
+- pkg:maven/cn.schoolwow/QuickDAO@2.10
+- pkg:maven/cn.schoolwow/QuickDAO@2.10?classifier=sources
+- pkg:maven/cn.schoolwow/QuickDAO@2.11
+- pkg:maven/cn.schoolwow/QuickDAO@2.11?classifier=sources
 - pkg:maven/cn.schoolwow/QuickDAO@2.1?classifier=sources
 - pkg:maven/cn.schoolwow/QuickDAO@2.2
 - pkg:maven/cn.schoolwow/QuickDAO@2.2?classifier=sources
@@ -18,3 +22,5 @@
 - pkg:maven/cn.schoolwow/QuickDAO@2.8?classifier=sources
 - pkg:maven/cn.schoolwow/QuickDAO@2.9
 - pkg:maven/cn.schoolwow/QuickDAO@2.9?classifier=sources
+- pkg:maven/cn.schoolwow/QuickDAO@3.0
+- pkg:maven/cn.schoolwow/QuickDAO@3.0?classifier=sources

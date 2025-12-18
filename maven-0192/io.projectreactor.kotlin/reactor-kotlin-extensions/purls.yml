@@ -1,0 +1,2 @@
+- pkg:maven/io.projectreactor.kotlin/reactor-kotlin-extensions@1.0.0.RELEASE
+- pkg:maven/io.projectreactor.kotlin/reactor-kotlin-extensions@1.0.0.RELEASE?classifier=sources

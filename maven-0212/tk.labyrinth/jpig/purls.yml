@@ -1,0 +1,8 @@
+- pkg:maven/tk.labyrinth/jpig@0.8.0
+- pkg:maven/tk.labyrinth/jpig@0.8.0?classifier=sources
+- pkg:maven/tk.labyrinth/jpig@0.8.0b
+- pkg:maven/tk.labyrinth/jpig@0.8.0b?classifier=sources
+- pkg:maven/tk.labyrinth/jpig@0.8.0c
+- pkg:maven/tk.labyrinth/jpig@0.8.0c?classifier=sources
+- pkg:maven/tk.labyrinth/jpig@0.8.0d
+- pkg:maven/tk.labyrinth/jpig@0.8.0d?classifier=sources

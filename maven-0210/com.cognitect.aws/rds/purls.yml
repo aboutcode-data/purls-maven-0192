@@ -32,3 +32,17 @@
 - pkg:maven/com.cognitect.aws/rds@726.2.486.0?classifier=sources
 - pkg:maven/com.cognitect.aws/rds@726.2.488.0
 - pkg:maven/com.cognitect.aws/rds@726.2.488.0?classifier=sources
+- pkg:maven/com.cognitect.aws/rds@742.2.516.0
+- pkg:maven/com.cognitect.aws/rds@742.2.516.0?classifier=sources
+- pkg:maven/com.cognitect.aws/rds@742.2.527.0
+- pkg:maven/com.cognitect.aws/rds@742.2.527.0?classifier=sources
+- pkg:maven/com.cognitect.aws/rds@747.2.533.0
+- pkg:maven/com.cognitect.aws/rds@747.2.533.0?classifier=sources
+- pkg:maven/com.cognitect.aws/rds@757.2.539.0
+- pkg:maven/com.cognitect.aws/rds@757.2.539.0?classifier=sources
+- pkg:maven/com.cognitect.aws/rds@758.2.552.0
+- pkg:maven/com.cognitect.aws/rds@758.2.552.0?classifier=sources
+- pkg:maven/com.cognitect.aws/rds@768.2.564.0
+- pkg:maven/com.cognitect.aws/rds@768.2.564.0?classifier=sources
+- pkg:maven/com.cognitect.aws/rds@770.2.568.0
+- pkg:maven/com.cognitect.aws/rds@770.2.568.0?classifier=sources

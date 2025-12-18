@@ -22,3 +22,5 @@
 - pkg:maven/org.freemarker/freemarker-gae@2.3.27-incubating?classifier=sources
 - pkg:maven/org.freemarker/freemarker-gae@2.3.28
 - pkg:maven/org.freemarker/freemarker-gae@2.3.28?classifier=sources
+- pkg:maven/org.freemarker/freemarker-gae@2.3.29
+- pkg:maven/org.freemarker/freemarker-gae@2.3.29?classifier=sources

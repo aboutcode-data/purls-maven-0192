@@ -26,3 +26,6 @@
 - pkg:maven/org.molgenis/molgenis-api-tests@8.1.6
 - pkg:maven/org.molgenis/molgenis-api-tests@8.1.7
 - pkg:maven/org.molgenis/molgenis-api-tests@8.1.8
+- pkg:maven/org.molgenis/molgenis-api-tests@8.2.1
+- pkg:maven/org.molgenis/molgenis-api-tests@8.2.3
+- pkg:maven/org.molgenis/molgenis-api-tests@8.2.4

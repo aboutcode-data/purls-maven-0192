@@ -12,3 +12,7 @@
 - pkg:maven/io.aecor/aecor-core_2.12@0.15.2-old
 - pkg:maven/io.aecor/aecor-core_2.12@0.15.2-old?classifier=sources
 - pkg:maven/io.aecor/aecor-core_2.12@0.15.2?classifier=sources
+- pkg:maven/io.aecor/aecor-core_2.12@0.15.3
+- pkg:maven/io.aecor/aecor-core_2.12@0.15.3?classifier=sources
+- pkg:maven/io.aecor/aecor-core_2.12@0.15.4
+- pkg:maven/io.aecor/aecor-core_2.12@0.15.4?classifier=sources

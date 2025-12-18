@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/sweetalert2__theme-bootstrap-4@2.1.0
+- pkg:maven/org.webjars.npm/sweetalert2__theme-bootstrap-4@2.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/sweetalert2__theme-bootstrap-4@2.2.1
+- pkg:maven/org.webjars.npm/sweetalert2__theme-bootstrap-4@2.2.1?classifier=sources

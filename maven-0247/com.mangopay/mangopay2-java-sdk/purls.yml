@@ -24,3 +24,7 @@
 - pkg:maven/com.mangopay/mangopay2-java-sdk@2.3.1?classifier=sources
 - pkg:maven/com.mangopay/mangopay2-java-sdk@2.5.0
 - pkg:maven/com.mangopay/mangopay2-java-sdk@2.5.0?classifier=sources
+- pkg:maven/com.mangopay/mangopay2-java-sdk@2.8.0
+- pkg:maven/com.mangopay/mangopay2-java-sdk@2.8.0?classifier=sources
+- pkg:maven/com.mangopay/mangopay2-java-sdk@2.8.1
+- pkg:maven/com.mangopay/mangopay2-java-sdk@2.8.1?classifier=sources

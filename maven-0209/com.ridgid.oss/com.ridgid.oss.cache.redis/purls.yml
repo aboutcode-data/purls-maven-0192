@@ -1,0 +1,4 @@
+- pkg:maven/com.ridgid.oss/com.ridgid.oss.cache.redis@2.140
+- pkg:maven/com.ridgid.oss/com.ridgid.oss.cache.redis@2.140?classifier=sources
+- pkg:maven/com.ridgid.oss/com.ridgid.oss.cache.redis@2.141
+- pkg:maven/com.ridgid.oss/com.ridgid.oss.cache.redis@2.141?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.opendaylight.genius/tools-testutils@0.4.2
+- pkg:maven/org.opendaylight.genius/tools-testutils@0.4.2?classifier=sources

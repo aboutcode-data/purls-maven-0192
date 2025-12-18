@@ -45,5 +45,8 @@
 - pkg:maven/io.undertow.jastow/jastow@2.0.6.Final?classifier=sources
 - pkg:maven/io.undertow.jastow/jastow@2.0.7.Final
 - pkg:maven/io.undertow.jastow/jastow@2.0.7.Final?classifier=sources
+- pkg:maven/io.undertow.jastow/jastow@2.0.8.Final
+- pkg:maven/io.undertow.jastow/jastow@2.0.8.Final?classifier=source-release&type=zip
+- pkg:maven/io.undertow.jastow/jastow@2.0.8.Final?classifier=sources
 - pkg:maven/io.undertow.jastow/jastow@2.1.0.Final
 - pkg:maven/io.undertow.jastow/jastow@2.1.0.Final?classifier=sources

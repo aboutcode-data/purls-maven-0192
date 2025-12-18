@@ -24,6 +24,10 @@
 - pkg:maven/io.swagger/swagger-servlet@1.5.21?classifier=sources
 - pkg:maven/io.swagger/swagger-servlet@1.5.22
 - pkg:maven/io.swagger/swagger-servlet@1.5.22?classifier=sources
+- pkg:maven/io.swagger/swagger-servlet@1.5.23
+- pkg:maven/io.swagger/swagger-servlet@1.5.23?classifier=sources
+- pkg:maven/io.swagger/swagger-servlet@1.5.24
+- pkg:maven/io.swagger/swagger-servlet@1.5.24?classifier=sources
 - pkg:maven/io.swagger/swagger-servlet@1.5.4
 - pkg:maven/io.swagger/swagger-servlet@1.5.4?classifier=sources
 - pkg:maven/io.swagger/swagger-servlet@1.5.5
@@ -36,3 +40,5 @@
 - pkg:maven/io.swagger/swagger-servlet@1.5.8?classifier=sources
 - pkg:maven/io.swagger/swagger-servlet@1.5.9
 - pkg:maven/io.swagger/swagger-servlet@1.5.9?classifier=sources
+- pkg:maven/io.swagger/swagger-servlet@1.6.0
+- pkg:maven/io.swagger/swagger-servlet@1.6.0?classifier=sources

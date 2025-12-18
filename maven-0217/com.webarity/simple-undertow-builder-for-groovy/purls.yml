@@ -1,0 +1,2 @@
+- pkg:maven/com.webarity/simple-undertow-builder-for-groovy@1.0.0
+- pkg:maven/com.webarity/simple-undertow-builder-for-groovy@1.0.0?classifier=sources

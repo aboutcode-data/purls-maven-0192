@@ -1,3 +1,15 @@
 - pkg:maven/io.zipkin/zipkin-lens@2.14.1
 - pkg:maven/io.zipkin/zipkin-lens@2.14.2
 - pkg:maven/io.zipkin/zipkin-lens@2.15.0
+- pkg:maven/io.zipkin/zipkin-lens@2.16.0
+- pkg:maven/io.zipkin/zipkin-lens@2.16.1
+- pkg:maven/io.zipkin/zipkin-lens@2.16.2
+- pkg:maven/io.zipkin/zipkin-lens@2.17.0
+- pkg:maven/io.zipkin/zipkin-lens@2.17.1
+- pkg:maven/io.zipkin/zipkin-lens@2.17.2
+- pkg:maven/io.zipkin/zipkin-lens@2.18.0
+- pkg:maven/io.zipkin/zipkin-lens@2.18.1
+- pkg:maven/io.zipkin/zipkin-lens@2.18.2
+- pkg:maven/io.zipkin/zipkin-lens@2.18.3
+- pkg:maven/io.zipkin/zipkin-lens@2.19.0
+- pkg:maven/io.zipkin/zipkin-lens@2.19.1

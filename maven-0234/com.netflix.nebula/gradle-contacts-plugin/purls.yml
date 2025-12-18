@@ -25,3 +25,4 @@
 - pkg:maven/com.netflix.nebula/gradle-contacts-plugin@5.0.3?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-contacts-plugin@5.1.0-rc.1
 - pkg:maven/com.netflix.nebula/gradle-contacts-plugin@5.1.0-rc.1?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-contacts-plugin@5.1.0?classifier=sources

@@ -63,3 +63,8 @@
 - pkg:maven/io.syndesis.connector/connector-support-catalog@1.7.7
 - pkg:maven/io.syndesis.connector/connector-support-catalog@1.7.8
 - pkg:maven/io.syndesis.connector/connector-support-catalog@1.7.9
+- pkg:maven/io.syndesis.connector/connector-support-catalog@1.8.0
+- pkg:maven/io.syndesis.connector/connector-support-catalog@1.8.1
+- pkg:maven/io.syndesis.connector/connector-support-catalog@1.8.12
+- pkg:maven/io.syndesis.connector/connector-support-catalog@1.8.2
+- pkg:maven/io.syndesis.connector/connector-support-catalog@1.8.6

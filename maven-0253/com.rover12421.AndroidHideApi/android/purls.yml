@@ -44,5 +44,7 @@
 - pkg:maven/com.rover12421.AndroidHideApi/android@1.9?classifier=sources
 - pkg:maven/com.rover12421.AndroidHideApi/android@2.0.0?type=aar
 - pkg:maven/com.rover12421.AndroidHideApi/android@2.0.1?type=aar
+- pkg:maven/com.rover12421.AndroidHideApi/android@android-10.0.0_r2.fixer01?type=aar
+- pkg:maven/com.rover12421.AndroidHideApi/android@android-10.0.0_r2?type=aar
 - pkg:maven/com.rover12421.AndroidHideApi/android@android-8.1.0_r52?type=aar
 - pkg:maven/com.rover12421.AndroidHideApi/android@android-9.0.0_r41?type=aar

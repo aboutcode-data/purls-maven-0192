@@ -1,1 +1,3 @@
 - pkg:maven/com.aliyun.emr/emr-redis_2.11@1.7.0
+- pkg:maven/com.aliyun.emr/emr-redis_2.11@1.8.0
+- pkg:maven/com.aliyun.emr/emr-redis_2.11@1.8.0?classifier=sources

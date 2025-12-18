@@ -1,0 +1,2 @@
+- pkg:maven/com.github.suxingli/aliyuncs@1.0.1
+- pkg:maven/com.github.suxingli/aliyuncs@1.0.1?classifier=sources

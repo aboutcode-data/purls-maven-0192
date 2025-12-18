@@ -1,0 +1,4 @@
+- pkg:maven/com.facebook.soloader/annotation@0.7.0?classifier=sources
+- pkg:maven/com.facebook.soloader/annotation@0.7.0?type=aar
+- pkg:maven/com.facebook.soloader/annotation@0.8.0?classifier=sources
+- pkg:maven/com.facebook.soloader/annotation@0.8.0?type=aar

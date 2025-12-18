@@ -40,3 +40,5 @@
 - pkg:maven/com.vladsch.kotlin-jdbc/kotlin-jdbc@0.5.0-beta-5?classifier=sources
 - pkg:maven/com.vladsch.kotlin-jdbc/kotlin-jdbc@0.5.0-beta-6
 - pkg:maven/com.vladsch.kotlin-jdbc/kotlin-jdbc@0.5.0-beta-6?classifier=sources
+- pkg:maven/com.vladsch.kotlin-jdbc/kotlin-jdbc@0.5.0-beta-7
+- pkg:maven/com.vladsch.kotlin-jdbc/kotlin-jdbc@0.5.0-beta-7?classifier=sources

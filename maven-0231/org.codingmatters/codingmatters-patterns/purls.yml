@@ -1,0 +1,2 @@
+- pkg:maven/org.codingmatters/codingmatters-patterns@1.0.0
+- pkg:maven/org.codingmatters/codingmatters-patterns@1.0.0?classifier=sources

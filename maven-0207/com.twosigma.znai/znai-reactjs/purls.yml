@@ -1,0 +1,4 @@
+- pkg:maven/com.twosigma.znai/znai-reactjs@0.16
+- pkg:maven/com.twosigma.znai/znai-reactjs@1.18
+- pkg:maven/com.twosigma.znai/znai-reactjs@1.19
+- pkg:maven/com.twosigma.znai/znai-reactjs@1.20

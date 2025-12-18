@@ -1,0 +1,2 @@
+- pkg:maven/io.github.steveswinsburg/xbdd-maven-plugin@1.2
+- pkg:maven/io.github.steveswinsburg/xbdd-maven-plugin@1.2?classifier=sources

@@ -12,3 +12,11 @@
 - pkg:maven/com.cognitect.aws/monitoring@716.2.438.0?classifier=sources
 - pkg:maven/com.cognitect.aws/monitoring@729.2.490.0
 - pkg:maven/com.cognitect.aws/monitoring@729.2.490.0?classifier=sources
+- pkg:maven/com.cognitect.aws/monitoring@742.2.508.0
+- pkg:maven/com.cognitect.aws/monitoring@742.2.508.0?classifier=sources
+- pkg:maven/com.cognitect.aws/monitoring@746.2.533.0
+- pkg:maven/com.cognitect.aws/monitoring@746.2.533.0?classifier=sources
+- pkg:maven/com.cognitect.aws/monitoring@758.2.553.0
+- pkg:maven/com.cognitect.aws/monitoring@758.2.553.0?classifier=sources
+- pkg:maven/com.cognitect.aws/monitoring@770.2.568.0
+- pkg:maven/com.cognitect.aws/monitoring@770.2.568.0?classifier=sources

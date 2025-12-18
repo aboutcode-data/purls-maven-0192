@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ylgrgyq/reservoir-core@1.3
+- pkg:maven/com.github.ylgrgyq/reservoir-core@1.3?classifier=sources

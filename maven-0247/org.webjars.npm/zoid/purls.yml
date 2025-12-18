@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/zoid@9.0.28
+- pkg:maven/org.webjars.npm/zoid@9.0.28?classifier=sources

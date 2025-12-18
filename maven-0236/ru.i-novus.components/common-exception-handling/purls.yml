@@ -1,0 +1,2 @@
+- pkg:maven/ru.i-novus.components/common-exception-handling@1.1
+- pkg:maven/ru.i-novus.components/common-exception-handling@1.1?classifier=sources

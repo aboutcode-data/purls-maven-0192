@@ -1,0 +1,2 @@
+- pkg:maven/com.sikulix/sikulix2opencv@4.1.1
+- pkg:maven/com.sikulix/sikulix2opencv@4.1.1?classifier=sources

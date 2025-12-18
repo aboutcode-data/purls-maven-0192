@@ -1,0 +1,12 @@
+- pkg:maven/com.forgerock/spring-security-multi-auth-starter@0.0.14
+- pkg:maven/com.forgerock/spring-security-multi-auth-starter@0.0.14?classifier=sources
+- pkg:maven/com.forgerock/spring-security-multi-auth-starter@0.0.15
+- pkg:maven/com.forgerock/spring-security-multi-auth-starter@0.0.15?classifier=sources
+- pkg:maven/com.forgerock/spring-security-multi-auth-starter@0.0.16
+- pkg:maven/com.forgerock/spring-security-multi-auth-starter@0.0.16?classifier=sources
+- pkg:maven/com.forgerock/spring-security-multi-auth-starter@0.0.24
+- pkg:maven/com.forgerock/spring-security-multi-auth-starter@0.0.24?classifier=sources
+- pkg:maven/com.forgerock/spring-security-multi-auth-starter@0.0.6
+- pkg:maven/com.forgerock/spring-security-multi-auth-starter@0.0.6?classifier=sources
+- pkg:maven/com.forgerock/spring-security-multi-auth-starter@0.0.9
+- pkg:maven/com.forgerock/spring-security-multi-auth-starter@0.0.9?classifier=sources

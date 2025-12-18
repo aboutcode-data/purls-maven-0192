@@ -1,0 +1,4 @@
+- pkg:maven/cn.fangxinqian.operator.sdk/sdk-operator@1.0.0
+- pkg:maven/cn.fangxinqian.operator.sdk/sdk-operator@1.0.0?classifier=sources
+- pkg:maven/cn.fangxinqian.operator.sdk/sdk-operator@1.1.0
+- pkg:maven/cn.fangxinqian.operator.sdk/sdk-operator@1.1.0?classifier=sources

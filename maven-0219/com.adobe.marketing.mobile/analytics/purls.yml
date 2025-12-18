@@ -2,3 +2,6 @@
 - pkg:maven/com.adobe.marketing.mobile/analytics@1.0.1?type=aar
 - pkg:maven/com.adobe.marketing.mobile/analytics@1.1.0?type=aar
 - pkg:maven/com.adobe.marketing.mobile/analytics@1.1.1?type=aar
+- pkg:maven/com.adobe.marketing.mobile/analytics@1.2.0?type=aar
+- pkg:maven/com.adobe.marketing.mobile/analytics@1.2.1?type=aar
+- pkg:maven/com.adobe.marketing.mobile/analytics@1.2.2?type=aar

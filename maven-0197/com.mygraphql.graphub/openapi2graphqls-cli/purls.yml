@@ -1,0 +1,2 @@
+- pkg:maven/com.mygraphql.graphub/openapi2graphqls-cli@0.0.2
+- pkg:maven/com.mygraphql.graphub/openapi2graphqls-cli@0.0.2?classifier=sources

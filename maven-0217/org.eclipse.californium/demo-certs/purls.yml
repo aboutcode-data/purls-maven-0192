@@ -18,6 +18,8 @@
 - pkg:maven/org.eclipse.californium/demo-certs@2.0.0-M14?classifier=sources
 - pkg:maven/org.eclipse.californium/demo-certs@2.0.0-M15
 - pkg:maven/org.eclipse.californium/demo-certs@2.0.0-M16
+- pkg:maven/org.eclipse.californium/demo-certs@2.0.0-M17
+- pkg:maven/org.eclipse.californium/demo-certs@2.0.0-M18
 - pkg:maven/org.eclipse.californium/demo-certs@2.0.0-M2
 - pkg:maven/org.eclipse.californium/demo-certs@2.0.0-M3
 - pkg:maven/org.eclipse.californium/demo-certs@2.0.0-M4
@@ -27,3 +29,4 @@
 - pkg:maven/org.eclipse.californium/demo-certs@2.0.0-M8
 - pkg:maven/org.eclipse.californium/demo-certs@2.0.0-M9
 - pkg:maven/org.eclipse.californium/demo-certs@2.0.0-M9?classifier=sources
+- pkg:maven/org.eclipse.californium/demo-certs@2.0.0-RC1

@@ -6,3 +6,5 @@
 - pkg:maven/eu.sipria.play/play-guice-cxf_play26_2.11@1.6.2?classifier=sources
 - pkg:maven/eu.sipria.play/play-guice-cxf_play26_2.11@1.6.3
 - pkg:maven/eu.sipria.play/play-guice-cxf_play26_2.11@1.6.3?classifier=sources
+- pkg:maven/eu.sipria.play/play-guice-cxf_play26_2.11@1.6.4
+- pkg:maven/eu.sipria.play/play-guice-cxf_play26_2.11@1.6.4?classifier=sources

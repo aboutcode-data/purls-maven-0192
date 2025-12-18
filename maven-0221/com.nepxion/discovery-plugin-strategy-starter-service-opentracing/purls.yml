@@ -1,0 +1,12 @@
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-service-opentracing@4.13.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-service-opentracing@4.13.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-service-opentracing@4.13.1
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-service-opentracing@4.13.1?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-service-opentracing@4.13.2
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-service-opentracing@4.13.2?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-service-opentracing@5.5.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-service-opentracing@5.5.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-service-opentracing@5.5.1
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-service-opentracing@5.5.1?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-service-opentracing@5.5.2
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-service-opentracing@5.5.2?classifier=sources

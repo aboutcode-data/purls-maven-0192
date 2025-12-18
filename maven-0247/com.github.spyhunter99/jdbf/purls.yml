@@ -1,0 +1,2 @@
+- pkg:maven/com.github.spyhunter99/jdbf@2.2.0
+- pkg:maven/com.github.spyhunter99/jdbf@2.2.0?classifier=sources

@@ -132,3 +132,5 @@
 - pkg:maven/com.machinepublishers/jbrowserdriver@1.1.0-RC1?classifier=sources
 - pkg:maven/com.machinepublishers/jbrowserdriver@1.1.0-RC2
 - pkg:maven/com.machinepublishers/jbrowserdriver@1.1.0-RC2?classifier=sources
+- pkg:maven/com.machinepublishers/jbrowserdriver@1.1.1
+- pkg:maven/com.machinepublishers/jbrowserdriver@1.1.1?classifier=sources

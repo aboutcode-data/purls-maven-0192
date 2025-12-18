@@ -6,3 +6,9 @@
 - pkg:maven/com.cognitect.aws/resourcegroupstaggingapi@726.2.478.0?classifier=sources
 - pkg:maven/com.cognitect.aws/resourcegroupstaggingapi@726.2.481.0
 - pkg:maven/com.cognitect.aws/resourcegroupstaggingapi@726.2.481.0?classifier=sources
+- pkg:maven/com.cognitect.aws/resourcegroupstaggingapi@742.2.522.0
+- pkg:maven/com.cognitect.aws/resourcegroupstaggingapi@742.2.522.0?classifier=sources
+- pkg:maven/com.cognitect.aws/resourcegroupstaggingapi@747.2.533.0
+- pkg:maven/com.cognitect.aws/resourcegroupstaggingapi@747.2.533.0?classifier=sources
+- pkg:maven/com.cognitect.aws/resourcegroupstaggingapi@770.2.568.0
+- pkg:maven/com.cognitect.aws/resourcegroupstaggingapi@770.2.568.0?classifier=sources

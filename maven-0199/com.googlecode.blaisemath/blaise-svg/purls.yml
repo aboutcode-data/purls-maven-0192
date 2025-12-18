@@ -34,3 +34,5 @@
 - pkg:maven/com.googlecode.blaisemath/blaise-svg@0.3.7?classifier=sources
 - pkg:maven/com.googlecode.blaisemath/blaise-svg@0.3.8
 - pkg:maven/com.googlecode.blaisemath/blaise-svg@0.3.8?classifier=sources
+- pkg:maven/com.googlecode.blaisemath/blaise-svg@1.0.0
+- pkg:maven/com.googlecode.blaisemath/blaise-svg@1.0.0?classifier=sources

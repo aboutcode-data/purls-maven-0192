@@ -1,0 +1,10 @@
+- pkg:maven/tk.labyrinth/java-pig@0.7.0
+- pkg:maven/tk.labyrinth/java-pig@0.7.0?classifier=sources
+- pkg:maven/tk.labyrinth/java-pig@0.7.0b
+- pkg:maven/tk.labyrinth/java-pig@0.7.0b?classifier=sources
+- pkg:maven/tk.labyrinth/java-pig@0.7.0c
+- pkg:maven/tk.labyrinth/java-pig@0.7.0c?classifier=sources
+- pkg:maven/tk.labyrinth/java-pig@0.7.1
+- pkg:maven/tk.labyrinth/java-pig@0.7.1?classifier=sources
+- pkg:maven/tk.labyrinth/java-pig@0.7.1b
+- pkg:maven/tk.labyrinth/java-pig@0.7.1b?classifier=sources

@@ -43,3 +43,5 @@
 - pkg:maven/net.wicp.tams/common-others@3.5.9?classifier=sources
 - pkg:maven/net.wicp.tams/common-others@3.6.0
 - pkg:maven/net.wicp.tams/common-others@3.6.0?classifier=sources
+- pkg:maven/net.wicp.tams/common-others@3.6.4
+- pkg:maven/net.wicp.tams/common-others@3.6.4?classifier=sources

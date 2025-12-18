@@ -1,5 +1,7 @@
+- pkg:maven/org.activiti/activiti-secure-service-tasks@5.23.0
 - pkg:maven/org.activiti/activiti-secure-service-tasks@5.23.0-RC1
 - pkg:maven/org.activiti/activiti-secure-service-tasks@5.23.0-RC1?classifier=sources
+- pkg:maven/org.activiti/activiti-secure-service-tasks@5.23.0?classifier=sources
 - pkg:maven/org.activiti/activiti-secure-service-tasks@6.0.0
 - pkg:maven/org.activiti/activiti-secure-service-tasks@6.0.0.RC1
 - pkg:maven/org.activiti/activiti-secure-service-tasks@6.0.0.RC1?classifier=sources

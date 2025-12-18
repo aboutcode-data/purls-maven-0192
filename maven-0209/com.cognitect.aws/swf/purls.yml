@@ -4,3 +4,7 @@
 - pkg:maven/com.cognitect.aws/swf@697.2.391.0?classifier=sources
 - pkg:maven/com.cognitect.aws/swf@726.2.488.0
 - pkg:maven/com.cognitect.aws/swf@726.2.488.0?classifier=sources
+- pkg:maven/com.cognitect.aws/swf@747.2.533.0
+- pkg:maven/com.cognitect.aws/swf@747.2.533.0?classifier=sources
+- pkg:maven/com.cognitect.aws/swf@770.2.568.0
+- pkg:maven/com.cognitect.aws/swf@770.2.568.0?classifier=sources
