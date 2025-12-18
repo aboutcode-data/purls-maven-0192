@@ -60,3 +60,5 @@
 - pkg:maven/com.jelastic/jelastic-public-j2se@5.9-3?classifier=sources
 - pkg:maven/com.jelastic/jelastic-public-j2se@5.9-4
 - pkg:maven/com.jelastic/jelastic-public-j2se@5.9-4?classifier=sources
+- pkg:maven/com.jelastic/jelastic-public-j2se@5.9-8
+- pkg:maven/com.jelastic/jelastic-public-j2se@5.9-8?classifier=sources

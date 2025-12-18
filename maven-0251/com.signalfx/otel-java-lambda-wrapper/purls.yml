@@ -1,0 +1,2 @@
+- pkg:maven/com.signalfx/otel-java-lambda-wrapper@1.0.0
+- pkg:maven/com.signalfx/otel-java-lambda-wrapper@1.0.0?classifier=sources

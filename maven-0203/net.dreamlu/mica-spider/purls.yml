@@ -18,4 +18,14 @@
 - pkg:maven/net.dreamlu/mica-spider@2.0.8-GA
 - pkg:maven/net.dreamlu/mica-spider@2.0.8-GA?classifier=sources
 - pkg:maven/net.dreamlu/mica-spider@2.0.9
+- pkg:maven/net.dreamlu/mica-spider@2.0.9-GA
+- pkg:maven/net.dreamlu/mica-spider@2.0.9-GA?classifier=sources
 - pkg:maven/net.dreamlu/mica-spider@2.0.9?classifier=sources
+- pkg:maven/net.dreamlu/mica-spider@2.1.0-GA
+- pkg:maven/net.dreamlu/mica-spider@2.1.0-GA?classifier=sources
+- pkg:maven/net.dreamlu/mica-spider@2.1.1-GA
+- pkg:maven/net.dreamlu/mica-spider@2.1.1-GA?classifier=sources
+- pkg:maven/net.dreamlu/mica-spider@2.4.0-GA
+- pkg:maven/net.dreamlu/mica-spider@2.4.0-GA?classifier=sources
+- pkg:maven/net.dreamlu/mica-spider@2.4.1-GA
+- pkg:maven/net.dreamlu/mica-spider@2.4.1-GA?classifier=sources

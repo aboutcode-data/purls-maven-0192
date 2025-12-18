@@ -28,3 +28,5 @@
 - pkg:maven/ru.asubezdna/abyss-export@1.8.2
 - pkg:maven/ru.asubezdna/abyss-export@1.8.2?classifier=sources
 - pkg:maven/ru.asubezdna/abyss-export@1.8?classifier=sources
+- pkg:maven/ru.asubezdna/abyss-export@1.9
+- pkg:maven/ru.asubezdna/abyss-export@1.9?classifier=sources

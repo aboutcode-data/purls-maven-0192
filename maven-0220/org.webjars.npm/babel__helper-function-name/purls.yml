@@ -4,6 +4,8 @@
 - pkg:maven/org.webjars.npm/babel__helper-function-name@7.10.1?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-function-name@7.10.4
 - pkg:maven/org.webjars.npm/babel__helper-function-name@7.10.4?classifier=sources
+- pkg:maven/org.webjars.npm/babel__helper-function-name@7.12.11
+- pkg:maven/org.webjars.npm/babel__helper-function-name@7.12.11?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-function-name@7.7.4
 - pkg:maven/org.webjars.npm/babel__helper-function-name@7.7.4?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-function-name@7.8.0

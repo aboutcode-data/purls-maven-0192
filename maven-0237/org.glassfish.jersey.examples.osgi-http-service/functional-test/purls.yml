@@ -1,0 +1,1 @@
+- pkg:maven/org.glassfish.jersey.examples.osgi-http-service/functional-test@2.33?classifier=project-src&type=zip

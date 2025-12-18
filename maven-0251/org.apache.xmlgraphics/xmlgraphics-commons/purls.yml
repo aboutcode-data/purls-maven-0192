@@ -19,3 +19,4 @@
 - pkg:maven/org.apache.xmlgraphics/xmlgraphics-commons@2.3?classifier=sources
 - pkg:maven/org.apache.xmlgraphics/xmlgraphics-commons@2.4
 - pkg:maven/org.apache.xmlgraphics/xmlgraphics-commons@2.4?classifier=sources
+- pkg:maven/org.apache.xmlgraphics/xmlgraphics-commons@2.6?classifier=sources

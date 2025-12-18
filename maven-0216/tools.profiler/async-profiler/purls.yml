@@ -1,0 +1,2 @@
+- pkg:maven/tools.profiler/async-profiler@1.8.3
+- pkg:maven/tools.profiler/async-profiler@1.8.3?classifier=sources

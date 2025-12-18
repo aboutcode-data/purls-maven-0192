@@ -5,6 +5,8 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.operations@2.5.0
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.operations@2.5.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.operations@2.5.100
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.operations@2.5.1000
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.operations@2.5.1000?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.operations@2.5.100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.operations@2.5.200
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.operations@2.5.200?classifier=sources

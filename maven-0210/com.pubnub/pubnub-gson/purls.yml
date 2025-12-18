@@ -70,6 +70,8 @@
 - pkg:maven/com.pubnub/pubnub-gson@4.33.2?classifier=sources
 - pkg:maven/com.pubnub/pubnub-gson@4.33.3
 - pkg:maven/com.pubnub/pubnub-gson@4.33.3?classifier=sources
+- pkg:maven/com.pubnub/pubnub-gson@4.35.0
+- pkg:maven/com.pubnub/pubnub-gson@4.35.0?classifier=sources
 - pkg:maven/com.pubnub/pubnub-gson@4.4.0
 - pkg:maven/com.pubnub/pubnub-gson@4.4.0?classifier=sources
 - pkg:maven/com.pubnub/pubnub-gson@4.4.1

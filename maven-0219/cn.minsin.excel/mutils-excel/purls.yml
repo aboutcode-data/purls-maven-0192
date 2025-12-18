@@ -1,0 +1,2 @@
+- pkg:maven/cn.minsin.excel/mutils-excel@1.0.RELEASE
+- pkg:maven/cn.minsin.excel/mutils-excel@1.0.RELEASE?classifier=sources

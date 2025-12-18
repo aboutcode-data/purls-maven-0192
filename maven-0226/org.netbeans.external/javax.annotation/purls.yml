@@ -2,3 +2,4 @@
 - pkg:maven/org.netbeans.external/javax.annotation@RELEASE120-1
 - pkg:maven/org.netbeans.external/javax.annotation@RELEASE120-u1
 - pkg:maven/org.netbeans.external/javax.annotation@RELEASE121
+- pkg:maven/org.netbeans.external/javax.annotation@RELEASE122

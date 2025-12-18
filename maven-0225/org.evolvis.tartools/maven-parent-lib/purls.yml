@@ -8,3 +8,9 @@
 - pkg:maven/org.evolvis.tartools/maven-parent-lib@1.27?classifier=sources
 - pkg:maven/org.evolvis.tartools/maven-parent-lib@1.28
 - pkg:maven/org.evolvis.tartools/maven-parent-lib@1.28?classifier=sources
+- pkg:maven/org.evolvis.tartools/maven-parent-lib@1.29
+- pkg:maven/org.evolvis.tartools/maven-parent-lib@1.29?classifier=sources
+- pkg:maven/org.evolvis.tartools/maven-parent-lib@2.0
+- pkg:maven/org.evolvis.tartools/maven-parent-lib@2.0?classifier=sources
+- pkg:maven/org.evolvis.tartools/maven-parent-lib@2.1
+- pkg:maven/org.evolvis.tartools/maven-parent-lib@2.1?classifier=sources

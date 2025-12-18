@@ -1,2 +1,4 @@
 - pkg:maven/org.opengis.cite/ets-wcs11@1.14
 - pkg:maven/org.opengis.cite/ets-wcs11@1.14?classifier=sources
+- pkg:maven/org.opengis.cite/ets-wcs11@1.15
+- pkg:maven/org.opengis.cite/ets-wcs11@1.15?classifier=sources

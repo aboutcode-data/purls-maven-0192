@@ -1,0 +1,2 @@
+- pkg:maven/io.automatiko.decision/automatiko-decision-dmn-adapter@0.1.0
+- pkg:maven/io.automatiko.decision/automatiko-decision-dmn-adapter@0.1.0?classifier=sources

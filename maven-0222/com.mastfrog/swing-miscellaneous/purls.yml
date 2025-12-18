@@ -1,0 +1,2 @@
+- pkg:maven/com.mastfrog/swing-miscellaneous@2.7.1
+- pkg:maven/com.mastfrog/swing-miscellaneous@2.7.1?classifier=sources

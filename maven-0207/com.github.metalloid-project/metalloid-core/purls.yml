@@ -32,3 +32,7 @@
 - pkg:maven/com.github.metalloid-project/metalloid-core@2.1.2?classifier=sources
 - pkg:maven/com.github.metalloid-project/metalloid-core@2.2.0
 - pkg:maven/com.github.metalloid-project/metalloid-core@2.2.0?classifier=sources
+- pkg:maven/com.github.metalloid-project/metalloid-core@2.3.0
+- pkg:maven/com.github.metalloid-project/metalloid-core@2.3.0?classifier=sources
+- pkg:maven/com.github.metalloid-project/metalloid-core@2.3.1
+- pkg:maven/com.github.metalloid-project/metalloid-core@2.3.1?classifier=sources

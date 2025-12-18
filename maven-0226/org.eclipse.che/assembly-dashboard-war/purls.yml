@@ -29,3 +29,15 @@
 - pkg:maven/org.eclipse.che/assembly-dashboard-war@7.21.0?type=war
 - pkg:maven/org.eclipse.che/assembly-dashboard-war@7.21.1?type=war
 - pkg:maven/org.eclipse.che/assembly-dashboard-war@7.21.2?type=war
+- pkg:maven/org.eclipse.che/assembly-dashboard-war@7.22.0?type=war
+- pkg:maven/org.eclipse.che/assembly-dashboard-war@7.22.1?type=war
+- pkg:maven/org.eclipse.che/assembly-dashboard-war@7.22.2?type=war
+- pkg:maven/org.eclipse.che/assembly-dashboard-war@7.23.0?type=war
+- pkg:maven/org.eclipse.che/assembly-dashboard-war@7.23.1?type=war
+- pkg:maven/org.eclipse.che/assembly-dashboard-war@7.23.2?type=war
+- pkg:maven/org.eclipse.che/assembly-dashboard-war@7.24.0?type=war
+- pkg:maven/org.eclipse.che/assembly-dashboard-war@7.24.1?type=war
+- pkg:maven/org.eclipse.che/assembly-dashboard-war@7.24.2?type=war
+- pkg:maven/org.eclipse.che/assembly-dashboard-war@7.25.0?type=war
+- pkg:maven/org.eclipse.che/assembly-dashboard-war@7.25.1?type=war
+- pkg:maven/org.eclipse.che/assembly-dashboard-war@7.25.2?type=war

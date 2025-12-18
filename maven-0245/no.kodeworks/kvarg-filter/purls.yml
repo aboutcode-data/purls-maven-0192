@@ -1,0 +1,2 @@
+- pkg:maven/no.kodeworks/kvarg-filter@0.7
+- pkg:maven/no.kodeworks/kvarg-filter@0.7?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.surenpi.autotest/autotest.webdriver.downloader@1.0.2-20171119?classifier=sources
 - pkg:maven/com.surenpi.autotest/autotest.webdriver.downloader@1.0.2-20180128
 - pkg:maven/com.surenpi.autotest/autotest.webdriver.downloader@1.0.2-20180128?classifier=sources
+- pkg:maven/com.surenpi.autotest/autotest.webdriver.downloader@1.0.4
+- pkg:maven/com.surenpi.autotest/autotest.webdriver.downloader@1.0.4?classifier=sources

@@ -8,3 +8,11 @@
 - pkg:maven/com.deliveredtechnologies/tf-test-groovy@0.12-9
 - pkg:maven/com.deliveredtechnologies/tf-test-groovy@0.12-9?classifier=sources
 - pkg:maven/com.deliveredtechnologies/tf-test-groovy@0.12?classifier=sources
+- pkg:maven/com.deliveredtechnologies/tf-test-groovy@0.13-17
+- pkg:maven/com.deliveredtechnologies/tf-test-groovy@0.13-17?classifier=sources
+- pkg:maven/com.deliveredtechnologies/tf-test-groovy@0.13-18
+- pkg:maven/com.deliveredtechnologies/tf-test-groovy@0.13-18?classifier=sources
+- pkg:maven/com.deliveredtechnologies/tf-test-groovy@0.13-19
+- pkg:maven/com.deliveredtechnologies/tf-test-groovy@0.13-19?classifier=sources
+- pkg:maven/com.deliveredtechnologies/tf-test-groovy@0.13-20
+- pkg:maven/com.deliveredtechnologies/tf-test-groovy@0.13-20?classifier=sources

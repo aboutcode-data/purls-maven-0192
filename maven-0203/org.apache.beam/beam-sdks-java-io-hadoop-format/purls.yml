@@ -29,3 +29,5 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-hadoop-format@2.24.0
 - pkg:maven/org.apache.beam/beam-sdks-java-io-hadoop-format@2.24.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-hadoop-format@2.25.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-hadoop-format@2.26.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-hadoop-format@2.27.0?classifier=sources

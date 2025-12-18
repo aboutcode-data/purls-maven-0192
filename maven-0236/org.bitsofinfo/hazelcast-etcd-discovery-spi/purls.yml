@@ -1,0 +1,2 @@
+- pkg:maven/org.bitsofinfo/hazelcast-etcd-discovery-spi@1.0-RC4-20210205
+- pkg:maven/org.bitsofinfo/hazelcast-etcd-discovery-spi@1.0-RC4-20210205?classifier=sources

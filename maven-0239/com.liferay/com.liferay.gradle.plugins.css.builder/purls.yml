@@ -89,3 +89,5 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.css.builder@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.css.builder@5.0.0
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.css.builder@5.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.css.builder@5.0.1
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.css.builder@5.0.1?classifier=sources

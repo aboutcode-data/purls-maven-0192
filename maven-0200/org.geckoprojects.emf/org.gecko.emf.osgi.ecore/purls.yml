@@ -2,3 +2,7 @@
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.ecore@2.2.12?classifier=sources
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.ecore@2.2.9
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.ecore@2.2.9?classifier=sources
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.ecore@3.3.7
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.ecore@3.3.7?classifier=sources
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.ecore@3.4.0
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.ecore@3.4.0?classifier=sources

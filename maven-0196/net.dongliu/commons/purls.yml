@@ -1,5 +1,7 @@
 - pkg:maven/net.dongliu/commons@11.0.0
 - pkg:maven/net.dongliu/commons@11.0.0?classifier=sources
+- pkg:maven/net.dongliu/commons@11.1.0
+- pkg:maven/net.dongliu/commons@11.1.0?classifier=sources
 - pkg:maven/net.dongliu/commons@2.1.10
 - pkg:maven/net.dongliu/commons@2.1.10?classifier=sources
 - pkg:maven/net.dongliu/commons@2.1.11

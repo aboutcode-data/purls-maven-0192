@@ -1,0 +1,1 @@
+- pkg:maven/com.adobe.dx/scripts.reactor@0.0.2?classifier=source-release&type=zip

@@ -80,6 +80,16 @@
 - pkg:maven/com.google.cloud/google-cloud-datastore@1.105.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-datastore@1.105.1
 - pkg:maven/com.google.cloud/google-cloud-datastore@1.105.1?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-datastore@1.105.2
+- pkg:maven/com.google.cloud/google-cloud-datastore@1.105.2?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-datastore@1.105.3
+- pkg:maven/com.google.cloud/google-cloud-datastore@1.105.3?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-datastore@1.105.5
+- pkg:maven/com.google.cloud/google-cloud-datastore@1.105.5?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-datastore@1.105.6
+- pkg:maven/com.google.cloud/google-cloud-datastore@1.105.6?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-datastore@1.105.7
+- pkg:maven/com.google.cloud/google-cloud-datastore@1.105.7?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-datastore@1.11.0
 - pkg:maven/com.google.cloud/google-cloud-datastore@1.11.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-datastore@1.12.0

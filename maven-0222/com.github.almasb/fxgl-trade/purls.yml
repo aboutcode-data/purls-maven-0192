@@ -2,6 +2,10 @@
 - pkg:maven/com.github.almasb/fxgl-trade@11.10?classifier=sources
 - pkg:maven/com.github.almasb/fxgl-trade@11.11
 - pkg:maven/com.github.almasb/fxgl-trade@11.11?classifier=sources
+- pkg:maven/com.github.almasb/fxgl-trade@11.12
+- pkg:maven/com.github.almasb/fxgl-trade@11.12?classifier=sources
+- pkg:maven/com.github.almasb/fxgl-trade@11.13
+- pkg:maven/com.github.almasb/fxgl-trade@11.13?classifier=sources
 - pkg:maven/com.github.almasb/fxgl-trade@11.3
 - pkg:maven/com.github.almasb/fxgl-trade@11.3?classifier=sources
 - pkg:maven/com.github.almasb/fxgl-trade@11.4

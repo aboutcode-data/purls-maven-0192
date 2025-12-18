@@ -28,5 +28,9 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-ft@1.9.91?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-ft@2018-07-13
 - pkg:maven/com.aliyun/aliyun-java-sdk-ft@2018-07-13?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-ft@3.1.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-ft@3.1.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-ft@3.1.2
+- pkg:maven/com.aliyun/aliyun-java-sdk-ft@3.1.2?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-ft@null
 - pkg:maven/com.aliyun/aliyun-java-sdk-ft@null?classifier=sources

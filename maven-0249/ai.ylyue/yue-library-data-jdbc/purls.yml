@@ -18,5 +18,9 @@
 - pkg:maven/ai.ylyue/yue-library-data-jdbc@Greenwich.SR2?classifier=sources
 - pkg:maven/ai.ylyue/yue-library-data-jdbc@j11.2.2.0
 - pkg:maven/ai.ylyue/yue-library-data-jdbc@j11.2.2.0?classifier=sources
+- pkg:maven/ai.ylyue/yue-library-data-jdbc@j11.2.3.0
+- pkg:maven/ai.ylyue/yue-library-data-jdbc@j11.2.3.0?classifier=sources
 - pkg:maven/ai.ylyue/yue-library-data-jdbc@j8.2.2.0
 - pkg:maven/ai.ylyue/yue-library-data-jdbc@j8.2.2.0?classifier=sources
+- pkg:maven/ai.ylyue/yue-library-data-jdbc@j8.2.3.0
+- pkg:maven/ai.ylyue/yue-library-data-jdbc@j8.2.3.0?classifier=sources

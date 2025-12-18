@@ -1,0 +1,4 @@
+- pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-snakeyaml@0.9.108
+- pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-snakeyaml@0.9.108?classifier=sources
+- pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-snakeyaml@0.9.109
+- pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-snakeyaml@0.9.109?classifier=sources

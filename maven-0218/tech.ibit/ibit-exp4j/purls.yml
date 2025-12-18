@@ -1,0 +1,2 @@
+- pkg:maven/tech.ibit/ibit-exp4j@1.0
+- pkg:maven/tech.ibit/ibit-exp4j@1.0?classifier=sources

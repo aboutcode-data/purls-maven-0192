@@ -140,3 +140,9 @@
 - pkg:maven/de.openkeyword/log2html@0.2.28?classifier=sources
 - pkg:maven/de.openkeyword/log2html@0.2.29
 - pkg:maven/de.openkeyword/log2html@0.2.29?classifier=sources
+- pkg:maven/de.openkeyword/log2html@0.2.30
+- pkg:maven/de.openkeyword/log2html@0.2.30?classifier=sources
+- pkg:maven/de.openkeyword/log2html@0.2.31
+- pkg:maven/de.openkeyword/log2html@0.2.31?classifier=sources
+- pkg:maven/de.openkeyword/log2html@0.2.32
+- pkg:maven/de.openkeyword/log2html@0.2.32?classifier=sources

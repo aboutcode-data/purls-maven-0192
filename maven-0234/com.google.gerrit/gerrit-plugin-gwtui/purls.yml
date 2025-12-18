@@ -190,6 +190,8 @@
 - pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.15.20?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.15.21
 - pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.15.21?classifier=sources
+- pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.15.22
+- pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.15.22?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.15.2?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.15.3
 - pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.15.3?classifier=sources
@@ -250,6 +252,8 @@
 - pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.16.24?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.16.25
 - pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.16.25?classifier=sources
+- pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.16.26
+- pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.16.26?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.16.2?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.16.3
 - pkg:maven/com.google.gerrit/gerrit-plugin-gwtui@2.16.3?classifier=sources

@@ -1,0 +1,9 @@
+- pkg:maven/io.opentelemetry/opentelemetry-api-metrics@0.13.0-alpha
+- pkg:maven/io.opentelemetry/opentelemetry-api-metrics@0.13.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-api-metrics@0.13.1-alpha
+- pkg:maven/io.opentelemetry/opentelemetry-api-metrics@0.13.1-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-api-metrics@0.14.0-alpha
+- pkg:maven/io.opentelemetry/opentelemetry-api-metrics@0.14.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-api-metrics@0.14.1-alpha
+- pkg:maven/io.opentelemetry/opentelemetry-api-metrics@0.14.1-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-api-metrics@0.15.0-alpha?classifier=sources

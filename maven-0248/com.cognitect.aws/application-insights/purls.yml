@@ -12,3 +12,5 @@
 - pkg:maven/com.cognitect.aws/application-insights@788.2.607.0?classifier=sources
 - pkg:maven/com.cognitect.aws/application-insights@795.2.646.0
 - pkg:maven/com.cognitect.aws/application-insights@795.2.646.0?classifier=sources
+- pkg:maven/com.cognitect.aws/application-insights@810.2.801.0
+- pkg:maven/com.cognitect.aws/application-insights@810.2.801.0?classifier=sources

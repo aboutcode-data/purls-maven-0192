@@ -28,3 +28,5 @@
 - pkg:maven/com.github.jobservice/job-service-contract@3.3.0-2?classifier=sources
 - pkg:maven/com.github.jobservice/job-service-contract@3.4.0-834
 - pkg:maven/com.github.jobservice/job-service-contract@3.4.0-834?classifier=sources
+- pkg:maven/com.github.jobservice/job-service-contract@4.0.0-93
+- pkg:maven/com.github.jobservice/job-service-contract@4.0.0-93?classifier=sources

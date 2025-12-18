@@ -16,6 +16,8 @@
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.build@3.10.700?classifier=sources
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.build@3.10.800
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.build@3.10.800?classifier=sources
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.build@3.10.900
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.build@3.10.900?classifier=sources
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.build@3.9.200
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.build@3.9.200?classifier=sources
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.build@3.9.300

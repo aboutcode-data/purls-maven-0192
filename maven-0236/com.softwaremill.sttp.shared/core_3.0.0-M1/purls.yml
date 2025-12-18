@@ -1,0 +1,4 @@
+- pkg:maven/com.softwaremill.sttp.shared/core_3.0.0-M1@1.0.0-RC11
+- pkg:maven/com.softwaremill.sttp.shared/core_3.0.0-M1@1.0.0-RC11?classifier=sources
+- pkg:maven/com.softwaremill.sttp.shared/core_3.0.0-M1@1.0.0-RC9
+- pkg:maven/com.softwaremill.sttp.shared/core_3.0.0-M1@1.0.0-RC9?classifier=sources

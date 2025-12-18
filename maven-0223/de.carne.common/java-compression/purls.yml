@@ -8,3 +8,5 @@
 - pkg:maven/de.carne.common/java-compression@4.2.0?classifier=sources
 - pkg:maven/de.carne.common/java-compression@4.3.0
 - pkg:maven/de.carne.common/java-compression@4.3.0?classifier=sources
+- pkg:maven/de.carne.common/java-compression@5.0.0
+- pkg:maven/de.carne.common/java-compression@5.0.0?classifier=sources

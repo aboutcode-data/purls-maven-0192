@@ -1,0 +1,2 @@
+- pkg:maven/org.mydotey.caravan/caravan-hystrix@2.0.0
+- pkg:maven/org.mydotey.caravan/caravan-hystrix@2.0.0?classifier=sources

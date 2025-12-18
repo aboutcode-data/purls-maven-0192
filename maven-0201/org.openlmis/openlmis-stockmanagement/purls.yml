@@ -1,0 +1,2 @@
+- pkg:maven/org.openlmis/openlmis-stockmanagement@5.1.2
+- pkg:maven/org.openlmis/openlmis-stockmanagement@5.1.2?classifier=sources

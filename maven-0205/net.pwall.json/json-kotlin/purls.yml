@@ -43,6 +43,16 @@
 - pkg:maven/net.pwall.json/json-kotlin@3.10?classifier=sources
 - pkg:maven/net.pwall.json/json-kotlin@3.11
 - pkg:maven/net.pwall.json/json-kotlin@3.11?classifier=sources
+- pkg:maven/net.pwall.json/json-kotlin@3.12
+- pkg:maven/net.pwall.json/json-kotlin@3.12?classifier=sources
+- pkg:maven/net.pwall.json/json-kotlin@3.13
+- pkg:maven/net.pwall.json/json-kotlin@3.13?classifier=sources
+- pkg:maven/net.pwall.json/json-kotlin@3.14
+- pkg:maven/net.pwall.json/json-kotlin@3.14?classifier=sources
+- pkg:maven/net.pwall.json/json-kotlin@3.15
+- pkg:maven/net.pwall.json/json-kotlin@3.15?classifier=sources
+- pkg:maven/net.pwall.json/json-kotlin@3.16
+- pkg:maven/net.pwall.json/json-kotlin@3.16?classifier=sources
 - pkg:maven/net.pwall.json/json-kotlin@3.1?classifier=sources
 - pkg:maven/net.pwall.json/json-kotlin@3.2
 - pkg:maven/net.pwall.json/json-kotlin@3.2?classifier=sources
@@ -62,3 +72,5 @@
 - pkg:maven/net.pwall.json/json-kotlin@3.8?classifier=sources
 - pkg:maven/net.pwall.json/json-kotlin@3.9
 - pkg:maven/net.pwall.json/json-kotlin@3.9?classifier=sources
+- pkg:maven/net.pwall.json/json-kotlin@4.0
+- pkg:maven/net.pwall.json/json-kotlin@4.0?classifier=sources

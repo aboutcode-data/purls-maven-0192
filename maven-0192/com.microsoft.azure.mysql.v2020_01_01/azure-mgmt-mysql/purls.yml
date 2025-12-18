@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.mysql.v2020_01_01/azure-mgmt-mysql@1.0.0-beta
+- pkg:maven/com.microsoft.azure.mysql.v2020_01_01/azure-mgmt-mysql@1.0.0-beta?classifier=sources

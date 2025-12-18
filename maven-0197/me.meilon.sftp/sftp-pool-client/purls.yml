@@ -1,0 +1,2 @@
+- pkg:maven/me.meilon.sftp/sftp-pool-client@0.0.3
+- pkg:maven/me.meilon.sftp/sftp-pool-client@0.0.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/br.com.labbs/quarkus-monitor@0.1.5
+- pkg:maven/br.com.labbs/quarkus-monitor@0.1.5?classifier=sources

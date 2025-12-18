@@ -1,5 +1,7 @@
 - pkg:maven/uk.ac.gate/gate-compiler-jdt@1
 - pkg:maven/uk.ac.gate/gate-compiler-jdt@1?classifier=sources
+- pkg:maven/uk.ac.gate/gate-compiler-jdt@3.24.0
+- pkg:maven/uk.ac.gate/gate-compiler-jdt@3.24.0?classifier=sources
 - pkg:maven/uk.ac.gate/gate-compiler-jdt@3.7.1
 - pkg:maven/uk.ac.gate/gate-compiler-jdt@3.7.1?classifier=sources
 - pkg:maven/uk.ac.gate/gate-compiler-jdt@4.3.2-P20140317-1600

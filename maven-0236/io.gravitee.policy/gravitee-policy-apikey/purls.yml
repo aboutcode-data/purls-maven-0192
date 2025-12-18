@@ -21,3 +21,4 @@
 - pkg:maven/io.gravitee.policy/gravitee-policy-apikey@1.8.0?classifier=sources
 - pkg:maven/io.gravitee.policy/gravitee-policy-apikey@2.0.0?classifier=sources
 - pkg:maven/io.gravitee.policy/gravitee-policy-apikey@2.1.0?classifier=sources
+- pkg:maven/io.gravitee.policy/gravitee-policy-apikey@2.2.0?classifier=sources

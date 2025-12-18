@@ -18,4 +18,7 @@
 - pkg:maven/com.powsybl/powsybl-cgmes-model-alternatives@3.6.0
 - pkg:maven/com.powsybl/powsybl-cgmes-model-alternatives@3.7.0
 - pkg:maven/com.powsybl/powsybl-cgmes-model-alternatives@3.7.1
+- pkg:maven/com.powsybl/powsybl-cgmes-model-alternatives@3.8.0
 - pkg:maven/com.powsybl/powsybl-cgmes-model-alternatives@3.8.0-RC1
+- pkg:maven/com.powsybl/powsybl-cgmes-model-alternatives@4.0.0-RC1
+- pkg:maven/com.powsybl/powsybl-cgmes-model-alternatives@4.0.0-RC2

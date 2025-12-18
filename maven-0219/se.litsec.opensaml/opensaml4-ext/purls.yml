@@ -1,0 +1,2 @@
+- pkg:maven/se.litsec.opensaml/opensaml4-ext@2.0.0
+- pkg:maven/se.litsec.opensaml/opensaml4-ext@2.0.0?classifier=sources

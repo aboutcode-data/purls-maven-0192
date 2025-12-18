@@ -1,3 +1,5 @@
+- pkg:maven/com.io7m.jtensors/com.io7m.jtensors.orthonormalization@10.0.0
+- pkg:maven/com.io7m.jtensors/com.io7m.jtensors.orthonormalization@10.0.0?classifier=sources
 - pkg:maven/com.io7m.jtensors/com.io7m.jtensors.orthonormalization@8.0.0
 - pkg:maven/com.io7m.jtensors/com.io7m.jtensors.orthonormalization@8.0.0-beta0005
 - pkg:maven/com.io7m.jtensors/com.io7m.jtensors.orthonormalization@8.0.0-beta0005?classifier=sources

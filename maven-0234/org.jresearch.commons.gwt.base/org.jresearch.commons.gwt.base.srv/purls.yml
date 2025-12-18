@@ -12,3 +12,5 @@
 - pkg:maven/org.jresearch.commons.gwt.base/org.jresearch.commons.gwt.base.srv@1.0.202?classifier=sources
 - pkg:maven/org.jresearch.commons.gwt.base/org.jresearch.commons.gwt.base.srv@1.0.203
 - pkg:maven/org.jresearch.commons.gwt.base/org.jresearch.commons.gwt.base.srv@1.0.203?classifier=sources
+- pkg:maven/org.jresearch.commons.gwt.base/org.jresearch.commons.gwt.base.srv@1.0.204
+- pkg:maven/org.jresearch.commons.gwt.base/org.jresearch.commons.gwt.base.srv@1.0.204?classifier=sources

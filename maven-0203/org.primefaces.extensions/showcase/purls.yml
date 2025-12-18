@@ -1,0 +1,2 @@
+- pkg:maven/org.primefaces.extensions/showcase@10.0.0-RC1?classifier=sources
+- pkg:maven/org.primefaces.extensions/showcase@10.0.0-RC1?type=war

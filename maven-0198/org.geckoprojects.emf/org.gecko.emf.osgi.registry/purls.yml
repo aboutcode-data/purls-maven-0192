@@ -2,3 +2,7 @@
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.registry@1.0.7?classifier=sources
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.registry@1.0.9
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.registry@1.0.9?classifier=sources
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.registry@3.3.7
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.registry@3.3.7?classifier=sources
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.registry@3.4.0
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.registry@3.4.0?classifier=sources

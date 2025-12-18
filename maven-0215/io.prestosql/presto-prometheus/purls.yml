@@ -11,3 +11,7 @@
 - pkg:maven/io.prestosql/presto-prometheus@344?classifier=sources
 - pkg:maven/io.prestosql/presto-prometheus@345?classifier=sources
 - pkg:maven/io.prestosql/presto-prometheus@346?classifier=sources
+- pkg:maven/io.prestosql/presto-prometheus@347?classifier=sources
+- pkg:maven/io.prestosql/presto-prometheus@348?classifier=sources
+- pkg:maven/io.prestosql/presto-prometheus@349?classifier=sources
+- pkg:maven/io.prestosql/presto-prometheus@350?classifier=sources

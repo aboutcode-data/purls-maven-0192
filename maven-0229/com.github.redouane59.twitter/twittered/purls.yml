@@ -1,6 +1,12 @@
 - pkg:maven/com.github.redouane59.twitter/twittered@1.10?classifier=sources
 - pkg:maven/com.github.redouane59.twitter/twittered@1.11?classifier=sources
 - pkg:maven/com.github.redouane59.twitter/twittered@1.12?classifier=sources
+- pkg:maven/com.github.redouane59.twitter/twittered@1.13?classifier=sources
+- pkg:maven/com.github.redouane59.twitter/twittered@1.14?classifier=sources
+- pkg:maven/com.github.redouane59.twitter/twittered@1.15?classifier=sources
+- pkg:maven/com.github.redouane59.twitter/twittered@1.16?classifier=sources
+- pkg:maven/com.github.redouane59.twitter/twittered@1.17?classifier=sources
+- pkg:maven/com.github.redouane59.twitter/twittered@1.18?classifier=sources
 - pkg:maven/com.github.redouane59.twitter/twittered@1.6?classifier=sources
 - pkg:maven/com.github.redouane59.twitter/twittered@1.7?classifier=sources
 - pkg:maven/com.github.redouane59.twitter/twittered@1.8?classifier=sources

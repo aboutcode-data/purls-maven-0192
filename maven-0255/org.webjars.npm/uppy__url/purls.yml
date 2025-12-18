@@ -8,5 +8,7 @@
 - pkg:maven/org.webjars.npm/uppy__url@1.5.11?classifier=sources
 - pkg:maven/org.webjars.npm/uppy__url@1.5.12
 - pkg:maven/org.webjars.npm/uppy__url@1.5.12?classifier=sources
+- pkg:maven/org.webjars.npm/uppy__url@1.5.16
+- pkg:maven/org.webjars.npm/uppy__url@1.5.16?classifier=sources
 - pkg:maven/org.webjars.npm/uppy__url@1.5.7
 - pkg:maven/org.webjars.npm/uppy__url@1.5.7?classifier=sources
