@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.ei/org.wso2.micro.integrator.dashboard.utils@4.0.1
+- pkg:maven/org.wso2.ei/org.wso2.micro.integrator.dashboard.utils@4.0.1?classifier=sources

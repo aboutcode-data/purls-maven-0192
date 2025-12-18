@@ -1,0 +1,2 @@
+- pkg:maven/io.bigconnect/dw-mime-type-ontology-mapper@4.2.1
+- pkg:maven/io.bigconnect/dw-mime-type-ontology-mapper@4.2.1?classifier=sources

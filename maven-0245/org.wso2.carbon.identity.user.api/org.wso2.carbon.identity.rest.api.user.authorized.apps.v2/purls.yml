@@ -24,3 +24,9 @@
 - pkg:maven/org.wso2.carbon.identity.user.api/org.wso2.carbon.identity.rest.api.user.authorized.apps.v2@1.1.26?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.user.api/org.wso2.carbon.identity.rest.api.user.authorized.apps.v2@1.1.27
 - pkg:maven/org.wso2.carbon.identity.user.api/org.wso2.carbon.identity.rest.api.user.authorized.apps.v2@1.1.27?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.user.api/org.wso2.carbon.identity.rest.api.user.authorized.apps.v2@1.1.28
+- pkg:maven/org.wso2.carbon.identity.user.api/org.wso2.carbon.identity.rest.api.user.authorized.apps.v2@1.1.28?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.user.api/org.wso2.carbon.identity.rest.api.user.authorized.apps.v2@1.1.29
+- pkg:maven/org.wso2.carbon.identity.user.api/org.wso2.carbon.identity.rest.api.user.authorized.apps.v2@1.1.29?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.user.api/org.wso2.carbon.identity.rest.api.user.authorized.apps.v2@1.1.30
+- pkg:maven/org.wso2.carbon.identity.user.api/org.wso2.carbon.identity.rest.api.user.authorized.apps.v2@1.1.30?classifier=sources

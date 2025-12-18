@@ -1,3 +1,5 @@
+- pkg:maven/de.gematik/rbellogger@0.10.0
+- pkg:maven/de.gematik/rbellogger@0.10.0?classifier=sources
 - pkg:maven/de.gematik/rbellogger@0.6.3
 - pkg:maven/de.gematik/rbellogger@0.6.3?classifier=sources
 - pkg:maven/de.gematik/rbellogger@0.7.0
@@ -20,3 +22,5 @@
 - pkg:maven/de.gematik/rbellogger@0.8.5-109?classifier=sources
 - pkg:maven/de.gematik/rbellogger@0.8.6
 - pkg:maven/de.gematik/rbellogger@0.8.6?classifier=sources
+- pkg:maven/de.gematik/rbellogger@0.9.0
+- pkg:maven/de.gematik/rbellogger@0.9.0?classifier=sources

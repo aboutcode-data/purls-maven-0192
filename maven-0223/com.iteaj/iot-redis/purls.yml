@@ -6,3 +6,5 @@
 - pkg:maven/com.iteaj/iot-redis@1.1.3?classifier=sources
 - pkg:maven/com.iteaj/iot-redis@1.1.4
 - pkg:maven/com.iteaj/iot-redis@1.1.4?classifier=sources
+- pkg:maven/com.iteaj/iot-redis@2.0.0
+- pkg:maven/com.iteaj/iot-redis@2.0.0?classifier=sources

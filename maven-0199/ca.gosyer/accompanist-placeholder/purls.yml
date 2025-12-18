@@ -1,1 +1,2 @@
 - pkg:maven/ca.gosyer/accompanist-placeholder@0.12.0?classifier=sources
+- pkg:maven/ca.gosyer/accompanist-placeholder@0.14.0?classifier=sources

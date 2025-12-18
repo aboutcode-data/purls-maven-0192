@@ -216,6 +216,10 @@
 - pkg:maven/com.google.apis/google-api-services-cloudiot@v1-rev20210323-1.31.5?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudiot@v1-rev20210323-1.32.1
 - pkg:maven/com.google.apis/google-api-services-cloudiot@v1-rev20210323-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudiot@v1-rev20210809-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudiot@v1-rev20210809-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudiot@v1-rev20210816-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudiot@v1-rev20210816-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudiot@v1-rev22-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudiot@v1-rev22-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudiot@v1-rev22-1.21.0

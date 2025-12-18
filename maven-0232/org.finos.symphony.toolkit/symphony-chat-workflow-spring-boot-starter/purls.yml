@@ -1,0 +1,2 @@
+- pkg:maven/org.finos.symphony.toolkit/symphony-chat-workflow-spring-boot-starter@8.0.0
+- pkg:maven/org.finos.symphony.toolkit/symphony-chat-workflow-spring-boot-starter@8.0.0?classifier=sources

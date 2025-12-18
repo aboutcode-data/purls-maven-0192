@@ -1,0 +1,2 @@
+- pkg:maven/net.thevpc.nuts.ext/next-term@0.8.2.0
+- pkg:maven/net.thevpc.nuts.ext/next-term@0.8.2.0?classifier=sources

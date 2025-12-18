@@ -113,6 +113,8 @@
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc-jsp@2.33?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc-jsp@2.34
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc-jsp@2.34?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext/jersey-mvc-jsp@2.35
+- pkg:maven/org.glassfish.jersey.ext/jersey-mvc-jsp@2.35?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc-jsp@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc-jsp@2.4
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc-jsp@2.4.1

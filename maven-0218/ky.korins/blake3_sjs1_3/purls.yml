@@ -8,3 +8,5 @@
 - pkg:maven/ky.korins/blake3_sjs1_3@2.7.0?classifier=sources
 - pkg:maven/ky.korins/blake3_sjs1_3@2.8.0
 - pkg:maven/ky.korins/blake3_sjs1_3@2.8.0?classifier=sources
+- pkg:maven/ky.korins/blake3_sjs1_3@2.9.0
+- pkg:maven/ky.korins/blake3_sjs1_3@2.9.0?classifier=sources

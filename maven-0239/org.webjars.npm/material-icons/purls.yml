@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/material-icons@0.6.4?classifier=sources
 - pkg:maven/org.webjars.npm/material-icons@0.7.0
 - pkg:maven/org.webjars.npm/material-icons@0.7.0?classifier=sources
+- pkg:maven/org.webjars.npm/material-icons@1.0.0
+- pkg:maven/org.webjars.npm/material-icons@1.0.0?classifier=sources

@@ -7,3 +7,6 @@
 - pkg:maven/io.github.adven27/env-db-postgresql@3.1.0?classifier=sources
 - pkg:maven/io.github.adven27/env-db-postgresql@3.1.1?classifier=sources
 - pkg:maven/io.github.adven27/env-db-postgresql@3.2.0?classifier=sources
+- pkg:maven/io.github.adven27/env-db-postgresql@4.0.0?classifier=sources
+- pkg:maven/io.github.adven27/env-db-postgresql@4.0.1?classifier=sources
+- pkg:maven/io.github.adven27/env-db-postgresql@4.0.2?classifier=sources

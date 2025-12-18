@@ -1,0 +1,4 @@
+- pkg:maven/org.birchframework/birch-bridge-jms-kafka@1.0.0
+- pkg:maven/org.birchframework/birch-bridge-jms-kafka@1.0.0?classifier=sources
+- pkg:maven/org.birchframework/birch-bridge-jms-kafka@1.1.0
+- pkg:maven/org.birchframework/birch-bridge-jms-kafka@1.1.0?classifier=sources

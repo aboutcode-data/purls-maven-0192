@@ -7,6 +7,7 @@
 - pkg:maven/org.jboss.byteman/byteman-asciidoc@3.0.17
 - pkg:maven/org.jboss.byteman/byteman-asciidoc@3.0.18
 - pkg:maven/org.jboss.byteman/byteman-asciidoc@3.0.19
+- pkg:maven/org.jboss.byteman/byteman-asciidoc@3.0.20
 - pkg:maven/org.jboss.byteman/byteman-asciidoc@3.0.5
 - pkg:maven/org.jboss.byteman/byteman-asciidoc@3.0.6
 - pkg:maven/org.jboss.byteman/byteman-asciidoc@3.0.9
@@ -19,6 +20,7 @@
 - pkg:maven/org.jboss.byteman/byteman-asciidoc@4.0.14
 - pkg:maven/org.jboss.byteman/byteman-asciidoc@4.0.15
 - pkg:maven/org.jboss.byteman/byteman-asciidoc@4.0.16
+- pkg:maven/org.jboss.byteman/byteman-asciidoc@4.0.17
 - pkg:maven/org.jboss.byteman/byteman-asciidoc@4.0.2
 - pkg:maven/org.jboss.byteman/byteman-asciidoc@4.0.3
 - pkg:maven/org.jboss.byteman/byteman-asciidoc@4.0.4

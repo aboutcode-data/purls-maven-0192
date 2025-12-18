@@ -1,0 +1,2 @@
+- pkg:maven/com.slm-dev/jsonapi-simple@1.3.0
+- pkg:maven/com.slm-dev/jsonapi-simple@1.3.0?classifier=sources

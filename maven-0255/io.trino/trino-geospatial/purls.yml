@@ -7,3 +7,5 @@
 - pkg:maven/io.trino/trino-geospatial@357?classifier=sources
 - pkg:maven/io.trino/trino-geospatial@358?classifier=sources
 - pkg:maven/io.trino/trino-geospatial@359?classifier=sources
+- pkg:maven/io.trino/trino-geospatial@360?classifier=sources
+- pkg:maven/io.trino/trino-geospatial@361?classifier=sources

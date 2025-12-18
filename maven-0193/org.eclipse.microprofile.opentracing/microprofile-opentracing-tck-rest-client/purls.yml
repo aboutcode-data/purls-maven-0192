@@ -12,3 +12,5 @@
 - pkg:maven/org.eclipse.microprofile.opentracing/microprofile-opentracing-tck-rest-client@2.0-RC2
 - pkg:maven/org.eclipse.microprofile.opentracing/microprofile-opentracing-tck-rest-client@2.0-RC2?classifier=sources
 - pkg:maven/org.eclipse.microprofile.opentracing/microprofile-opentracing-tck-rest-client@2.0?classifier=sources
+- pkg:maven/org.eclipse.microprofile.opentracing/microprofile-opentracing-tck-rest-client@3.0-RC2
+- pkg:maven/org.eclipse.microprofile.opentracing/microprofile-opentracing-tck-rest-client@3.0-RC2?classifier=sources

@@ -1,2 +1,6 @@
+- pkg:maven/com.armanbilge/fs2-reactive-streams_2.13@3.0-135-4e7a1a7
+- pkg:maven/com.armanbilge/fs2-reactive-streams_2.13@3.0-135-4e7a1a7?classifier=sources
+- pkg:maven/com.armanbilge/fs2-reactive-streams_2.13@3.0-136-4a257e0
+- pkg:maven/com.armanbilge/fs2-reactive-streams_2.13@3.0-136-4a257e0?classifier=sources
 - pkg:maven/com.armanbilge/fs2-reactive-streams_2.13@3.0-37-f1ea1f0
 - pkg:maven/com.armanbilge/fs2-reactive-streams_2.13@3.0-37-f1ea1f0?classifier=sources

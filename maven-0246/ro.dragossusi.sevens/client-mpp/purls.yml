@@ -1,1 +1,2 @@
 - pkg:maven/ro.dragossusi.sevens/client-mpp@1.2.1?classifier=sources
+- pkg:maven/ro.dragossusi.sevens/client-mpp@1.2.2?classifier=sources

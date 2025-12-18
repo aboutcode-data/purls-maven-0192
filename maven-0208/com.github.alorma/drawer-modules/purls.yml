@@ -5,7 +5,12 @@
 - pkg:maven/com.github.alorma/drawer-modules@0.13.0?classifier=sources
 - pkg:maven/com.github.alorma/drawer-modules@0.14.0?classifier=sources
 - pkg:maven/com.github.alorma/drawer-modules@0.15.0?classifier=sources
+- pkg:maven/com.github.alorma/drawer-modules@0.18.0?classifier=sources
+- pkg:maven/com.github.alorma/drawer-modules@0.19.0?classifier=sources
 - pkg:maven/com.github.alorma/drawer-modules@0.2.0?classifier=sources
+- pkg:maven/com.github.alorma/drawer-modules@0.20.0?classifier=sources
+- pkg:maven/com.github.alorma/drawer-modules@0.21.0?classifier=sources
+- pkg:maven/com.github.alorma/drawer-modules@0.22.0?classifier=sources
 - pkg:maven/com.github.alorma/drawer-modules@0.3.0?classifier=sources
 - pkg:maven/com.github.alorma/drawer-modules@0.4.0?classifier=sources
 - pkg:maven/com.github.alorma/drawer-modules@0.5.0?classifier=sources

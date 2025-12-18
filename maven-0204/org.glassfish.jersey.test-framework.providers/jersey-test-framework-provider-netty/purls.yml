@@ -50,6 +50,8 @@
 - pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-netty@2.33?classifier=sources
 - pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-netty@2.34
 - pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-netty@2.34?classifier=sources
+- pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-netty@2.35
+- pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-netty@2.35?classifier=sources
 - pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-netty@3.0.0
 - pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-netty@3.0.0-M1
 - pkg:maven/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-netty@3.0.0-M1?classifier=sources

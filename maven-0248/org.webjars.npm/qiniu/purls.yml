@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/qiniu@7.4.0
+- pkg:maven/org.webjars.npm/qiniu@7.4.0?classifier=sources

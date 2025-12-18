@@ -1,2 +1,4 @@
 - pkg:maven/com.wizzdi/flexicore-territories-service@3.3.3
 - pkg:maven/com.wizzdi/flexicore-territories-service@3.3.3?classifier=sources
+- pkg:maven/com.wizzdi/flexicore-territories-service@4.0.0
+- pkg:maven/com.wizzdi/flexicore-territories-service@4.0.0?classifier=sources

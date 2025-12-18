@@ -55,6 +55,8 @@
 - pkg:maven/org.wso2.analytics.solutions/org.wso2.analytics.solutions.parent@1.0.59?classifier=source-release&type=zip
 - pkg:maven/org.wso2.analytics.solutions/org.wso2.analytics.solutions.parent@1.0.5?classifier=source-release&type=zip
 - pkg:maven/org.wso2.analytics.solutions/org.wso2.analytics.solutions.parent@1.0.60?classifier=source-release&type=zip
+- pkg:maven/org.wso2.analytics.solutions/org.wso2.analytics.solutions.parent@1.0.61?classifier=source-release&type=zip
+- pkg:maven/org.wso2.analytics.solutions/org.wso2.analytics.solutions.parent@1.0.62?classifier=source-release&type=zip
 - pkg:maven/org.wso2.analytics.solutions/org.wso2.analytics.solutions.parent@1.0.6?classifier=source-release&type=zip
 - pkg:maven/org.wso2.analytics.solutions/org.wso2.analytics.solutions.parent@1.0.7?classifier=source-release&type=zip
 - pkg:maven/org.wso2.analytics.solutions/org.wso2.analytics.solutions.parent@1.0.8?classifier=source-release&type=zip

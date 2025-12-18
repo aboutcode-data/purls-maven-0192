@@ -292,6 +292,12 @@
 - pkg:maven/com.google.apis/google-api-services-logging@v2-rev20210522-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-logging@v2-rev20210625-1.32.1
 - pkg:maven/com.google.apis/google-api-services-logging@v2-rev20210625-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-logging@v2-rev20210709-1.32.1
+- pkg:maven/com.google.apis/google-api-services-logging@v2-rev20210709-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-logging@v2-rev20210726-1.32.1
+- pkg:maven/com.google.apis/google-api-services-logging@v2-rev20210726-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-logging@v2-rev20210817-1.32.1
+- pkg:maven/com.google.apis/google-api-services-logging@v2-rev20210817-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-logging@v2-rev209-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-logging@v2-rev209-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-logging@v2-rev3-1.18.0-rc

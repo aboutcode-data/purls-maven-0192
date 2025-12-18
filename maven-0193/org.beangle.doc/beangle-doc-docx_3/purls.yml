@@ -1,0 +1,2 @@
+- pkg:maven/org.beangle.doc/beangle-doc-docx_3@0.0.7
+- pkg:maven/org.beangle.doc/beangle-doc-docx_3@0.0.7?classifier=sources

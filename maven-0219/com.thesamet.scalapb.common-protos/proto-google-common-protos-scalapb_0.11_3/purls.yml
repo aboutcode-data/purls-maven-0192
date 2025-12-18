@@ -1,0 +1,4 @@
+- pkg:maven/com.thesamet.scalapb.common-protos/proto-google-common-protos-scalapb_0.11_3@2.4.1-0
+- pkg:maven/com.thesamet.scalapb.common-protos/proto-google-common-protos-scalapb_0.11_3@2.4.1-0?classifier=sources
+- pkg:maven/com.thesamet.scalapb.common-protos/proto-google-common-protos-scalapb_0.11_3@2.5.0-2
+- pkg:maven/com.thesamet.scalapb.common-protos/proto-google-common-protos-scalapb_0.11_3@2.5.0-2?classifier=sources

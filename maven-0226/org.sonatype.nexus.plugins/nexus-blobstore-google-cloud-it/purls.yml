@@ -28,3 +28,7 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-blobstore-google-cloud-it@0.21.0?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-blobstore-google-cloud-it@0.22.0
 - pkg:maven/org.sonatype.nexus.plugins/nexus-blobstore-google-cloud-it@0.22.0?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-blobstore-google-cloud-it@0.33
+- pkg:maven/org.sonatype.nexus.plugins/nexus-blobstore-google-cloud-it@0.33.0
+- pkg:maven/org.sonatype.nexus.plugins/nexus-blobstore-google-cloud-it@0.33.0?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-blobstore-google-cloud-it@0.33?classifier=sources

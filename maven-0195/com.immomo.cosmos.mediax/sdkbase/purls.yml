@@ -1,2 +1,12 @@
 - pkg:maven/com.immomo.cosmos.mediax/sdkbase@2.3.3_110302?classifier=sources
 - pkg:maven/com.immomo.cosmos.mediax/sdkbase@2.3.3_110302?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/sdkbase@2.3.4?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/sdkbase@2.3.4?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/sdkbase@2.3.4_080400?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/sdkbase@2.3.4_080400?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/sdkbase@2.3.4_081600?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/sdkbase@2.3.4_081600?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/sdkbase@2.4.0_082600?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/sdkbase@2.4.0_082600?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/sdkbase@2.4.0_082700?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/sdkbase@2.4.0_082700?type=aar

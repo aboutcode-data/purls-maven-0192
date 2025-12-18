@@ -72,8 +72,12 @@
 - pkg:maven/net.officefloor.spring/officespring_data@3.37.0?classifier=sources
 - pkg:maven/net.officefloor.spring/officespring_data@3.38.0
 - pkg:maven/net.officefloor.spring/officespring_data@3.38.0?classifier=sources
+- pkg:maven/net.officefloor.spring/officespring_data@3.39.0
+- pkg:maven/net.officefloor.spring/officespring_data@3.39.0?classifier=sources
 - pkg:maven/net.officefloor.spring/officespring_data@3.4.0
 - pkg:maven/net.officefloor.spring/officespring_data@3.4.0?classifier=sources
+- pkg:maven/net.officefloor.spring/officespring_data@3.40.0
+- pkg:maven/net.officefloor.spring/officespring_data@3.40.0?classifier=sources
 - pkg:maven/net.officefloor.spring/officespring_data@3.5.0
 - pkg:maven/net.officefloor.spring/officespring_data@3.5.0?classifier=sources
 - pkg:maven/net.officefloor.spring/officespring_data@3.5.1

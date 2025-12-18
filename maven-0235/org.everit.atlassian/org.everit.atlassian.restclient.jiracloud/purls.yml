@@ -24,3 +24,5 @@
 - pkg:maven/org.everit.atlassian/org.everit.atlassian.restclient.jiracloud@3.0.2-202010281413?classifier=sources
 - pkg:maven/org.everit.atlassian/org.everit.atlassian.restclient.jiracloud@3.0.3-202010281413
 - pkg:maven/org.everit.atlassian/org.everit.atlassian.restclient.jiracloud@3.0.3-202010281413?classifier=sources
+- pkg:maven/org.everit.atlassian/org.everit.atlassian.restclient.jiracloud@4.0.0-202109031402
+- pkg:maven/org.everit.atlassian/org.everit.atlassian.restclient.jiracloud@4.0.0-202109031402?classifier=sources

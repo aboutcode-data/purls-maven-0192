@@ -1,0 +1,2 @@
+- pkg:maven/ml.dcjz.libs/plugin@1.0.10?classifier=sources
+- pkg:maven/ml.dcjz.libs/plugin@1.0.10?type=aar

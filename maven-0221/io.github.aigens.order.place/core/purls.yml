@@ -2,3 +2,5 @@
 - pkg:maven/io.github.aigens.order.place/core@0.0.1?type=aar
 - pkg:maven/io.github.aigens.order.place/core@0.0.20?classifier=sources
 - pkg:maven/io.github.aigens.order.place/core@0.0.20?type=aar
+- pkg:maven/io.github.aigens.order.place/core@0.0.21?classifier=sources
+- pkg:maven/io.github.aigens.order.place/core@0.0.21?type=aar

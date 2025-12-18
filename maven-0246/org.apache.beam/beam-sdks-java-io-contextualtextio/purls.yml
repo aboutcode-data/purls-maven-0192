@@ -4,3 +4,4 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-contextualtextio@2.29.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-contextualtextio@2.30.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-contextualtextio@2.31.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-contextualtextio@2.32.0?classifier=sources

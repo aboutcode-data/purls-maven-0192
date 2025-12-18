@@ -8,3 +8,5 @@
 - pkg:maven/org.mdedetrich/java-premailer-wrapper@1.1_1.8.7?classifier=sources
 - pkg:maven/org.mdedetrich/java-premailer-wrapper@1.2_1.8.7
 - pkg:maven/org.mdedetrich/java-premailer-wrapper@1.2_1.8.7?classifier=sources
+- pkg:maven/org.mdedetrich/java-premailer-wrapper@1.3_1.8.7
+- pkg:maven/org.mdedetrich/java-premailer-wrapper@1.3_1.8.7?classifier=sources

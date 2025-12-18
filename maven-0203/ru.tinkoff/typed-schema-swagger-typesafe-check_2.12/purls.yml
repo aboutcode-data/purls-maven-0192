@@ -1,0 +1,2 @@
+- pkg:maven/ru.tinkoff/typed-schema-swagger-typesafe-check_2.12@0.15.0
+- pkg:maven/ru.tinkoff/typed-schema-swagger-typesafe-check_2.12@0.15.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.springframework.security/spring-security-oauth2-authorization-server@0.2.0
+- pkg:maven/org.springframework.security/spring-security-oauth2-authorization-server@0.2.0?classifier=sources

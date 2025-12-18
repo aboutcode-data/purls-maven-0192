@@ -1,0 +1,2 @@
+- pkg:maven/com.kotlinx/yserialport@2.1.9?classifier=sources
+- pkg:maven/com.kotlinx/yserialport@2.2.0?classifier=sources

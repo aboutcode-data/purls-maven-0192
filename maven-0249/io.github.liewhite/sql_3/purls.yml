@@ -1,0 +1,6 @@
+- pkg:maven/io.github.liewhite/sql_3@0.5.1
+- pkg:maven/io.github.liewhite/sql_3@0.5.1?classifier=sources
+- pkg:maven/io.github.liewhite/sql_3@0.5.2
+- pkg:maven/io.github.liewhite/sql_3@0.5.2?classifier=sources
+- pkg:maven/io.github.liewhite/sql_3@0.5.3
+- pkg:maven/io.github.liewhite/sql_3@0.5.3?classifier=sources

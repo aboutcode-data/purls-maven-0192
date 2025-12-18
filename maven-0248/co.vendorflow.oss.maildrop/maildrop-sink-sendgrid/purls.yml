@@ -1,0 +1,2 @@
+- pkg:maven/co.vendorflow.oss.maildrop/maildrop-sink-sendgrid@0.1.0
+- pkg:maven/co.vendorflow.oss.maildrop/maildrop-sink-sendgrid@0.1.0?classifier=sources

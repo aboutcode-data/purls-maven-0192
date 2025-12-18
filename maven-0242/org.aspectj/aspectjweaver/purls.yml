@@ -82,3 +82,5 @@
 - pkg:maven/org.aspectj/aspectjweaver@1.9.7.M3
 - pkg:maven/org.aspectj/aspectjweaver@1.9.7.M3?classifier=sources
 - pkg:maven/org.aspectj/aspectjweaver@1.9.7?classifier=sources
+- pkg:maven/org.aspectj/aspectjweaver@1.9.8.M1
+- pkg:maven/org.aspectj/aspectjweaver@1.9.8.M1?classifier=sources

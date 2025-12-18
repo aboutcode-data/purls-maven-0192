@@ -1,2 +1,6 @@
+- pkg:maven/org.webjars.npm/eth-lib@0.1.29
+- pkg:maven/org.webjars.npm/eth-lib@0.1.29?classifier=sources
 - pkg:maven/org.webjars.npm/eth-lib@0.2.7
 - pkg:maven/org.webjars.npm/eth-lib@0.2.7?classifier=sources
+- pkg:maven/org.webjars.npm/eth-lib@0.2.8
+- pkg:maven/org.webjars.npm/eth-lib@0.2.8?classifier=sources

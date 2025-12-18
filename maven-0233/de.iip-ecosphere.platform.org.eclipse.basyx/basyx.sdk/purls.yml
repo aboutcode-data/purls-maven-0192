@@ -1,0 +1,4 @@
+- pkg:maven/de.iip-ecosphere.platform.org.eclipse.basyx/basyx.sdk@0.1.0
+- pkg:maven/de.iip-ecosphere.platform.org.eclipse.basyx/basyx.sdk@0.1.0?classifier=sources
+- pkg:maven/de.iip-ecosphere.platform.org.eclipse.basyx/basyx.sdk@1.0.0
+- pkg:maven/de.iip-ecosphere.platform.org.eclipse.basyx/basyx.sdk@1.0.0?classifier=sources

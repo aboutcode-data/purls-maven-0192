@@ -8,3 +8,4 @@
 - pkg:maven/com.anaptecs.jeaf.core/jeaf-core-integration-test-jee-client@1.5.9
 - pkg:maven/com.anaptecs.jeaf.core/jeaf-core-integration-test-jee-client@1.5.9?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.core/jeaf-core-integration-test-jee-client@1.6.0
+- pkg:maven/com.anaptecs.jeaf.core/jeaf-core-integration-test-jee-client@1.6.1

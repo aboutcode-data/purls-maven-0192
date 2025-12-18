@@ -47,6 +47,18 @@
 - pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.11.0
 - pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.11.0?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.11.1
+- pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.11.10
+- pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.11.10?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.11.11
+- pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.11.11?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.11.12
+- pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.11.12?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.11.13
+- pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.11.13?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.11.14
+- pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.11.14?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.11.15
+- pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.11.15?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.11.1?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.11.2
 - pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.11.2?classifier=sources
@@ -62,6 +74,8 @@
 - pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.11.7?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.11.8
 - pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.11.8?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.11.9
+- pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.11.9?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.4.21
 - pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.4.21?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-maven-plugin@1.4.22

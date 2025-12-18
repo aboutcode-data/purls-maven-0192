@@ -1,0 +1,6 @@
+- pkg:maven/io.github.wangshuwen1107/xrouter-core@1.0.4?classifier=sources
+- pkg:maven/io.github.wangshuwen1107/xrouter-core@1.0.4?type=aar
+- pkg:maven/io.github.wangshuwen1107/xrouter-core@1.0.5.4?classifier=sources
+- pkg:maven/io.github.wangshuwen1107/xrouter-core@1.0.5.4?type=aar
+- pkg:maven/io.github.wangshuwen1107/xrouter-core@1.0.5?classifier=sources
+- pkg:maven/io.github.wangshuwen1107/xrouter-core@1.0.5?type=aar

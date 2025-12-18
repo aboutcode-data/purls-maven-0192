@@ -1,1 +1,4 @@
 - pkg:maven/org.jamgo/jamgo-framework-plugin@0.0.1-M1?classifier=sources
+- pkg:maven/org.jamgo/jamgo-framework-plugin@0.0.1-M2?classifier=sources
+- pkg:maven/org.jamgo/jamgo-framework-plugin@0.0.1-M3-a?classifier=sources
+- pkg:maven/org.jamgo/jamgo-framework-plugin@0.0.1-M3?classifier=sources

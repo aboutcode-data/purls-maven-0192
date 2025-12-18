@@ -153,6 +153,8 @@
 - pkg:maven/com.microsoft.azure/azure-mgmt-resources@1.41.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-resources@1.41.1
 - pkg:maven/com.microsoft.azure/azure-mgmt-resources@1.41.1?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-resources@1.41.2
+- pkg:maven/com.microsoft.azure/azure-mgmt-resources@1.41.2?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-resources@1.5.0
 - pkg:maven/com.microsoft.azure/azure-mgmt-resources@1.5.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-resources@1.5.1

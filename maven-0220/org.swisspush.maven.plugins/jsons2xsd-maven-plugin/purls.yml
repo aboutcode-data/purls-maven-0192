@@ -1,0 +1,2 @@
+- pkg:maven/org.swisspush.maven.plugins/jsons2xsd-maven-plugin@1.0.2
+- pkg:maven/org.swisspush.maven.plugins/jsons2xsd-maven-plugin@1.0.2?classifier=sources

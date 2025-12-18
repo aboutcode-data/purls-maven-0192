@@ -6,6 +6,12 @@
 - pkg:maven/pl.tkowalcz.tjahzi/logback-appender@0.9.12?classifier=sources
 - pkg:maven/pl.tkowalcz.tjahzi/logback-appender@0.9.13
 - pkg:maven/pl.tkowalcz.tjahzi/logback-appender@0.9.13?classifier=sources
+- pkg:maven/pl.tkowalcz.tjahzi/logback-appender@0.9.15
+- pkg:maven/pl.tkowalcz.tjahzi/logback-appender@0.9.15?classifier=sources
+- pkg:maven/pl.tkowalcz.tjahzi/logback-appender@0.9.16
+- pkg:maven/pl.tkowalcz.tjahzi/logback-appender@0.9.16?classifier=sources
+- pkg:maven/pl.tkowalcz.tjahzi/logback-appender@0.9.17
+- pkg:maven/pl.tkowalcz.tjahzi/logback-appender@0.9.17?classifier=sources
 - pkg:maven/pl.tkowalcz.tjahzi/logback-appender@0.9.6
 - pkg:maven/pl.tkowalcz.tjahzi/logback-appender@0.9.6?classifier=sources
 - pkg:maven/pl.tkowalcz.tjahzi/logback-appender@0.9.7

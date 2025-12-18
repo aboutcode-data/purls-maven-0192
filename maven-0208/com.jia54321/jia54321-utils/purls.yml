@@ -14,5 +14,15 @@
 - pkg:maven/com.jia54321/jia54321-utils@0.0.16.v20210511?classifier=sources
 - pkg:maven/com.jia54321/jia54321-utils@0.0.17.v20210512
 - pkg:maven/com.jia54321/jia54321-utils@0.0.17.v20210512?classifier=sources
+- pkg:maven/com.jia54321/jia54321-utils@0.0.18.v20210713
+- pkg:maven/com.jia54321/jia54321-utils@0.0.18.v20210713?classifier=sources
+- pkg:maven/com.jia54321/jia54321-utils@0.0.19.v20210720
+- pkg:maven/com.jia54321/jia54321-utils@0.0.19.v20210720?classifier=sources
+- pkg:maven/com.jia54321/jia54321-utils@0.0.20.v20210727
+- pkg:maven/com.jia54321/jia54321-utils@0.0.20.v20210727?classifier=sources
+- pkg:maven/com.jia54321/jia54321-utils@0.0.21.v20210728
+- pkg:maven/com.jia54321/jia54321-utils@0.0.21.v20210728?classifier=sources
+- pkg:maven/com.jia54321/jia54321-utils@0.0.22.v20210806
+- pkg:maven/com.jia54321/jia54321-utils@0.0.22.v20210806?classifier=sources
 - pkg:maven/com.jia54321/jia54321-utils@0.0.9
 - pkg:maven/com.jia54321/jia54321-utils@0.0.9?classifier=sources

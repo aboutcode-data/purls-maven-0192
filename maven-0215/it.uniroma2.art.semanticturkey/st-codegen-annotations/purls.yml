@@ -6,6 +6,8 @@
 - pkg:maven/it.uniroma2.art.semanticturkey/st-codegen-annotations@0.12?classifier=sources
 - pkg:maven/it.uniroma2.art.semanticturkey/st-codegen-annotations@1.0
 - pkg:maven/it.uniroma2.art.semanticturkey/st-codegen-annotations@1.0?classifier=sources
+- pkg:maven/it.uniroma2.art.semanticturkey/st-codegen-annotations@10.0
+- pkg:maven/it.uniroma2.art.semanticturkey/st-codegen-annotations@10.0?classifier=sources
 - pkg:maven/it.uniroma2.art.semanticturkey/st-codegen-annotations@2.0
 - pkg:maven/it.uniroma2.art.semanticturkey/st-codegen-annotations@2.0?classifier=sources
 - pkg:maven/it.uniroma2.art.semanticturkey/st-codegen-annotations@3.0

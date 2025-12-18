@@ -88,3 +88,7 @@
 - pkg:maven/com.linecorp.bot/line-bot-model@4.2.0?classifier=sources
 - pkg:maven/com.linecorp.bot/line-bot-model@4.3.0
 - pkg:maven/com.linecorp.bot/line-bot-model@4.3.0?classifier=sources
+- pkg:maven/com.linecorp.bot/line-bot-model@4.4.0
+- pkg:maven/com.linecorp.bot/line-bot-model@4.4.0?classifier=sources
+- pkg:maven/com.linecorp.bot/line-bot-model@4.5.0
+- pkg:maven/com.linecorp.bot/line-bot-model@4.5.0?classifier=sources

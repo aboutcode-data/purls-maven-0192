@@ -1,2 +1,4 @@
 - pkg:maven/com.saucelabs/sauce_bindings_testng@0.1.0
 - pkg:maven/com.saucelabs/sauce_bindings_testng@0.1.0?classifier=sources
+- pkg:maven/com.saucelabs/sauce_bindings_testng@0.9.0
+- pkg:maven/com.saucelabs/sauce_bindings_testng@0.9.0?classifier=sources

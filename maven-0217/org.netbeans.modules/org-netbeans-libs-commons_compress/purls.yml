@@ -10,4 +10,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-commons_compress@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-commons_compress@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-commons_compress@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-commons_compress@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-commons_compress@RELEASE90?classifier=sources

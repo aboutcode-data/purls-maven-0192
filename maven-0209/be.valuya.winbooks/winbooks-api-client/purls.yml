@@ -32,3 +32,5 @@
 - pkg:maven/be.valuya.winbooks/winbooks-api-client@3.0.0?classifier=sources
 - pkg:maven/be.valuya.winbooks/winbooks-api-client@4.0.0
 - pkg:maven/be.valuya.winbooks/winbooks-api-client@4.0.0?classifier=sources
+- pkg:maven/be.valuya.winbooks/winbooks-api-client@5.0.0
+- pkg:maven/be.valuya.winbooks/winbooks-api-client@5.0.0?classifier=sources
