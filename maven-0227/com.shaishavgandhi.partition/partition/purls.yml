@@ -1,0 +1,2 @@
+- pkg:maven/com.shaishavgandhi.partition/partition@0.1.0
+- pkg:maven/com.shaishavgandhi.partition/partition@0.1.0?classifier=sources

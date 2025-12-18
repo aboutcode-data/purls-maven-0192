@@ -1,2 +1,6 @@
+- pkg:maven/com.intel.arrow/arrow-plasma@0.17.0
 - pkg:maven/com.intel.arrow/arrow-plasma@0.17.0-Beta
 - pkg:maven/com.intel.arrow/arrow-plasma@0.17.0-Beta?classifier=sources
+- pkg:maven/com.intel.arrow/arrow-plasma@0.17.0-rc1
+- pkg:maven/com.intel.arrow/arrow-plasma@0.17.0-rc1?classifier=sources
+- pkg:maven/com.intel.arrow/arrow-plasma@0.17.0?classifier=sources

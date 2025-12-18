@@ -15,3 +15,4 @@
 - pkg:maven/org.apache.mahout/mahout@0.7?classifier=source-release&type=zip
 - pkg:maven/org.apache.mahout/mahout@0.8?classifier=source-release&type=zip
 - pkg:maven/org.apache.mahout/mahout@0.9?classifier=source-release&type=zip
+- pkg:maven/org.apache.mahout/mahout@14.1?classifier=source-release&type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/com.agile4j/agile4j-check@1.0.0
+- pkg:maven/com.agile4j/agile4j-check@1.0.0?classifier=sources

@@ -180,6 +180,14 @@
 - pkg:maven/org.openl.rules/org.openl.rules@5.23.0?type=zip
 - pkg:maven/org.openl.rules/org.openl.rules@5.23.1?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules@5.23.1?type=zip
+- pkg:maven/org.openl.rules/org.openl.rules@5.23.2?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules@5.23.2?type=zip
+- pkg:maven/org.openl.rules/org.openl.rules@5.23.3?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules@5.23.3?type=zip
+- pkg:maven/org.openl.rules/org.openl.rules@5.23.4?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules@5.23.4?type=zip
+- pkg:maven/org.openl.rules/org.openl.rules@5.23.5?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules@5.23.5?type=zip
 - pkg:maven/org.openl.rules/org.openl.rules@5.7.0?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules@5.7.0?type=zip
 - pkg:maven/org.openl.rules/org.openl.rules@5.7.1.1?classifier=sources

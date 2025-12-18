@@ -16,3 +16,15 @@
 - pkg:maven/com.gitee.sunchenbin.mybatis.actable/mybatis-enhance-actable@1.0.7.RELEASE?classifier=sources
 - pkg:maven/com.gitee.sunchenbin.mybatis.actable/mybatis-enhance-actable@1.0.8.1.RELEASE
 - pkg:maven/com.gitee.sunchenbin.mybatis.actable/mybatis-enhance-actable@1.0.8.1.RELEASE?classifier=sources
+- pkg:maven/com.gitee.sunchenbin.mybatis.actable/mybatis-enhance-actable@1.0.9.1.RELEASE
+- pkg:maven/com.gitee.sunchenbin.mybatis.actable/mybatis-enhance-actable@1.0.9.1.RELEASE?classifier=sources
+- pkg:maven/com.gitee.sunchenbin.mybatis.actable/mybatis-enhance-actable@1.0.9.RELEASE
+- pkg:maven/com.gitee.sunchenbin.mybatis.actable/mybatis-enhance-actable@1.0.9.RELEASE?classifier=sources
+- pkg:maven/com.gitee.sunchenbin.mybatis.actable/mybatis-enhance-actable@1.1.0.RELEASE
+- pkg:maven/com.gitee.sunchenbin.mybatis.actable/mybatis-enhance-actable@1.1.0.RELEASE?classifier=sources
+- pkg:maven/com.gitee.sunchenbin.mybatis.actable/mybatis-enhance-actable@1.1.1.RELEASE
+- pkg:maven/com.gitee.sunchenbin.mybatis.actable/mybatis-enhance-actable@1.1.1.RELEASE?classifier=sources
+- pkg:maven/com.gitee.sunchenbin.mybatis.actable/mybatis-enhance-actable@1.2.0.RELEASE
+- pkg:maven/com.gitee.sunchenbin.mybatis.actable/mybatis-enhance-actable@1.2.0.RELEASE?classifier=sources
+- pkg:maven/com.gitee.sunchenbin.mybatis.actable/mybatis-enhance-actable@1.2.1.RELEASE
+- pkg:maven/com.gitee.sunchenbin.mybatis.actable/mybatis-enhance-actable@1.2.1.RELEASE?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/write-file-atomic@2.4.2?classifier=sources
 - pkg:maven/org.webjars.npm/write-file-atomic@2.4.3
 - pkg:maven/org.webjars.npm/write-file-atomic@2.4.3?classifier=sources
+- pkg:maven/org.webjars.npm/write-file-atomic@3.0.3
+- pkg:maven/org.webjars.npm/write-file-atomic@3.0.3?classifier=sources

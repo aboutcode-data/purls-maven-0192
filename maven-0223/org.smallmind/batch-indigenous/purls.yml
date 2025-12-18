@@ -18,3 +18,9 @@
 - pkg:maven/org.smallmind/batch-indigenous@3.3.25?classifier=sources
 - pkg:maven/org.smallmind/batch-indigenous@3.5.0
 - pkg:maven/org.smallmind/batch-indigenous@3.5.0?classifier=sources
+- pkg:maven/org.smallmind/batch-indigenous@3.5.1
+- pkg:maven/org.smallmind/batch-indigenous@3.5.1?classifier=sources
+- pkg:maven/org.smallmind/batch-indigenous@3.6.0
+- pkg:maven/org.smallmind/batch-indigenous@3.6.0?classifier=sources
+- pkg:maven/org.smallmind/batch-indigenous@4.0.0
+- pkg:maven/org.smallmind/batch-indigenous@4.0.0?classifier=sources

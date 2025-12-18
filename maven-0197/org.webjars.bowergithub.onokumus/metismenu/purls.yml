@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bowergithub.onokumus/metismenu@2.7.9
 - pkg:maven/org.webjars.bowergithub.onokumus/metismenu@2.7.9?classifier=sources
+- pkg:maven/org.webjars.bowergithub.onokumus/metismenu@3.0.6
+- pkg:maven/org.webjars.bowergithub.onokumus/metismenu@3.0.6?classifier=sources

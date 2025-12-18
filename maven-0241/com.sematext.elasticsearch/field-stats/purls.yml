@@ -4,3 +4,4 @@
 - pkg:maven/com.sematext.elasticsearch/field-stats@6.4.1?classifier=sources
 - pkg:maven/com.sematext.elasticsearch/field-stats@6.4.2?classifier=sources
 - pkg:maven/com.sematext.elasticsearch/field-stats@6.5.0?classifier=sources
+- pkg:maven/com.sematext.elasticsearch/field-stats@7.6.1?classifier=sources

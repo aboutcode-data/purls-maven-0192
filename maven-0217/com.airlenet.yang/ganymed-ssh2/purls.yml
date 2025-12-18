@@ -1,0 +1,2 @@
+- pkg:maven/com.airlenet.yang/ganymed-ssh2@1.2.0
+- pkg:maven/com.airlenet.yang/ganymed-ssh2@1.2.0?classifier=sources

@@ -17,6 +17,8 @@
 - pkg:maven/org.apache.tomcat/tomcat-catalina-ws@7.0.103?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina-ws@7.0.104
 - pkg:maven/org.apache.tomcat/tomcat-catalina-ws@7.0.104?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-catalina-ws@7.0.105
+- pkg:maven/org.apache.tomcat/tomcat-catalina-ws@7.0.105?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina-ws@7.0.11
 - pkg:maven/org.apache.tomcat/tomcat-catalina-ws@7.0.11?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina-ws@7.0.12
@@ -322,6 +324,10 @@
 - pkg:maven/org.apache.tomcat/tomcat-catalina-ws@8.5.54?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina-ws@8.5.55
 - pkg:maven/org.apache.tomcat/tomcat-catalina-ws@8.5.55?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-catalina-ws@8.5.56
+- pkg:maven/org.apache.tomcat/tomcat-catalina-ws@8.5.56?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-catalina-ws@8.5.57
+- pkg:maven/org.apache.tomcat/tomcat-catalina-ws@8.5.57?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina-ws@8.5.5?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina-ws@8.5.6
 - pkg:maven/org.apache.tomcat/tomcat-catalina-ws@8.5.6?classifier=sources

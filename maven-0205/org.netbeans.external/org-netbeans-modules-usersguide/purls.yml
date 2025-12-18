@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.external/org-netbeans-modules-usersguide@RELEASE111
 - pkg:maven/org.netbeans.external/org-netbeans-modules-usersguide@RELEASE112
 - pkg:maven/org.netbeans.external/org-netbeans-modules-usersguide@RELEASE113
+- pkg:maven/org.netbeans.external/org-netbeans-modules-usersguide@RELEASE120
+- pkg:maven/org.netbeans.external/org-netbeans-modules-usersguide@RELEASE120-1
+- pkg:maven/org.netbeans.external/org-netbeans-modules-usersguide@RELEASE120-u1
 - pkg:maven/org.netbeans.external/org-netbeans-modules-usersguide@RELEASE90

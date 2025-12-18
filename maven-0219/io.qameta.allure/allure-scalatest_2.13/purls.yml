@@ -1,2 +1,4 @@
 - pkg:maven/io.qameta.allure/allure-scalatest_2.13@2.13.3
 - pkg:maven/io.qameta.allure/allure-scalatest_2.13@2.13.3?classifier=sources
+- pkg:maven/io.qameta.allure/allure-scalatest_2.13@2.13.5
+- pkg:maven/io.qameta.allure/allure-scalatest_2.13@2.13.5?classifier=sources

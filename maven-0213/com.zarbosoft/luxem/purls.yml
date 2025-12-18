@@ -9,3 +9,4 @@
 - pkg:maven/com.zarbosoft/luxem@1.0.6?classifier=sources
 - pkg:maven/com.zarbosoft/luxem@1.0.7?classifier=sources
 - pkg:maven/com.zarbosoft/luxem@1.0.8?classifier=sources
+- pkg:maven/com.zarbosoft/luxem@2.0.0?classifier=sources

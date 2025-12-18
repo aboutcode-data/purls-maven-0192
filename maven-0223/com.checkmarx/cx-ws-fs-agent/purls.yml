@@ -1,3 +1,5 @@
+- pkg:maven/com.checkmarx/cx-ws-fs-agent@20.0.3
+- pkg:maven/com.checkmarx/cx-ws-fs-agent@20.0.3?classifier=sources
 - pkg:maven/com.checkmarx/cx-ws-fs-agent@20.0.4
 - pkg:maven/com.checkmarx/cx-ws-fs-agent@20.0.4?classifier=sources
 - pkg:maven/com.checkmarx/cx-ws-fs-agent@20.0.5

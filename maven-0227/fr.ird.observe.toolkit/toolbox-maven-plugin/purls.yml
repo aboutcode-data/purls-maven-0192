@@ -70,8 +70,12 @@
 - pkg:maven/fr.ird.observe.toolkit/toolbox-maven-plugin@3.7.27?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/toolbox-maven-plugin@3.7.28
 - pkg:maven/fr.ird.observe.toolkit/toolbox-maven-plugin@3.7.28?classifier=sources
+- pkg:maven/fr.ird.observe.toolkit/toolbox-maven-plugin@3.7.29
+- pkg:maven/fr.ird.observe.toolkit/toolbox-maven-plugin@3.7.29?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/toolbox-maven-plugin@3.7.2?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/toolbox-maven-plugin@3.7.3
+- pkg:maven/fr.ird.observe.toolkit/toolbox-maven-plugin@3.7.30
+- pkg:maven/fr.ird.observe.toolkit/toolbox-maven-plugin@3.7.30?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/toolbox-maven-plugin@3.7.3?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/toolbox-maven-plugin@3.7.4
 - pkg:maven/fr.ird.observe.toolkit/toolbox-maven-plugin@3.7.4?classifier=sources
@@ -141,6 +145,10 @@
 - pkg:maven/fr.ird.observe.toolkit/toolbox-maven-plugin@4.31?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/toolbox-maven-plugin@4.32
 - pkg:maven/fr.ird.observe.toolkit/toolbox-maven-plugin@4.32?classifier=sources
+- pkg:maven/fr.ird.observe.toolkit/toolbox-maven-plugin@4.33
+- pkg:maven/fr.ird.observe.toolkit/toolbox-maven-plugin@4.33?classifier=sources
+- pkg:maven/fr.ird.observe.toolkit/toolbox-maven-plugin@4.34
+- pkg:maven/fr.ird.observe.toolkit/toolbox-maven-plugin@4.34?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/toolbox-maven-plugin@4.3?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/toolbox-maven-plugin@4.4
 - pkg:maven/fr.ird.observe.toolkit/toolbox-maven-plugin@4.4?classifier=sources

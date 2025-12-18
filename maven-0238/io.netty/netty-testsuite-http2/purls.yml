@@ -60,3 +60,5 @@
 - pkg:maven/io.netty/netty-testsuite-http2@4.1.49.Final?classifier=sources
 - pkg:maven/io.netty/netty-testsuite-http2@4.1.50.Final
 - pkg:maven/io.netty/netty-testsuite-http2@4.1.50.Final?classifier=sources
+- pkg:maven/io.netty/netty-testsuite-http2@4.1.51.Final
+- pkg:maven/io.netty/netty-testsuite-http2@4.1.51.Final?classifier=sources

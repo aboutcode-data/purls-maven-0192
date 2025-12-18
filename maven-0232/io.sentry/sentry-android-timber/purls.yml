@@ -1,0 +1,8 @@
+- pkg:maven/io.sentry/sentry-android-timber@2.2.0?classifier=sources
+- pkg:maven/io.sentry/sentry-android-timber@2.2.0?type=aar
+- pkg:maven/io.sentry/sentry-android-timber@2.2.1?classifier=sources
+- pkg:maven/io.sentry/sentry-android-timber@2.2.1?type=aar
+- pkg:maven/io.sentry/sentry-android-timber@2.2.2?classifier=sources
+- pkg:maven/io.sentry/sentry-android-timber@2.2.2?type=aar
+- pkg:maven/io.sentry/sentry-android-timber@2.3.0?classifier=sources
+- pkg:maven/io.sentry/sentry-android-timber@2.3.0?type=aar

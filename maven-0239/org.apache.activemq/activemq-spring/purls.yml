@@ -26,6 +26,7 @@
 - pkg:maven/org.apache.activemq/activemq-spring@5.15.10?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-spring@5.15.11?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-spring@5.15.12?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-spring@5.15.13?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-spring@5.15.1?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-spring@5.15.2?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-spring@5.15.3?classifier=sources
@@ -35,6 +36,7 @@
 - pkg:maven/org.apache.activemq/activemq-spring@5.15.7?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-spring@5.15.8?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-spring@5.15.9?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-spring@5.16.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-spring@5.4.0
 - pkg:maven/org.apache.activemq/activemq-spring@5.4.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-spring@5.4.1

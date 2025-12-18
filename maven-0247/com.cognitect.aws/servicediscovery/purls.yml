@@ -10,3 +10,7 @@
 - pkg:maven/com.cognitect.aws/servicediscovery@770.2.568.0?classifier=sources
 - pkg:maven/com.cognitect.aws/servicediscovery@796.2.666.0
 - pkg:maven/com.cognitect.aws/servicediscovery@796.2.666.0?classifier=sources
+- pkg:maven/com.cognitect.aws/servicediscovery@801.2.692.0
+- pkg:maven/com.cognitect.aws/servicediscovery@801.2.692.0?classifier=sources
+- pkg:maven/com.cognitect.aws/servicediscovery@807.2.729.0
+- pkg:maven/com.cognitect.aws/servicediscovery@807.2.729.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.bower/jsondiffpatch@0.1.43?classifier=sources
 - pkg:maven/org.webjars.bower/jsondiffpatch@0.2.4
 - pkg:maven/org.webjars.bower/jsondiffpatch@0.2.4?classifier=sources
+- pkg:maven/org.webjars.bower/jsondiffpatch@0.3.11
+- pkg:maven/org.webjars.bower/jsondiffpatch@0.3.11?classifier=sources

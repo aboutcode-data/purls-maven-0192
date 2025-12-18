@@ -16,3 +16,5 @@
 - pkg:maven/com.sdl.web/context-client@8.5.0-1102?classifier=sources
 - pkg:maven/com.sdl.web/context-client@8.5.0-1125
 - pkg:maven/com.sdl.web/context-client@8.5.0-1125?classifier=sources
+- pkg:maven/com.sdl.web/context-client@8.5.0-1149
+- pkg:maven/com.sdl.web/context-client@8.5.0-1149?classifier=sources

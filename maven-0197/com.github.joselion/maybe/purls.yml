@@ -1,3 +1,4 @@
 - pkg:maven/com.github.joselion/maybe@0.1.0-GA?classifier=sources
 - pkg:maven/com.github.joselion/maybe@1.0.0-GA?classifier=sources
 - pkg:maven/com.github.joselion/maybe@1.0.1-GA?classifier=sources
+- pkg:maven/com.github.joselion/maybe@1.0.2-GA?classifier=sources

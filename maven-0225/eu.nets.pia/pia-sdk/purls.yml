@@ -7,3 +7,4 @@
 - pkg:maven/eu.nets.pia/pia-sdk@1.5.0?type=aar
 - pkg:maven/eu.nets.pia/pia-sdk@1.6.0?type=aar
 - pkg:maven/eu.nets.pia/pia-sdk@1.7.0?type=aar
+- pkg:maven/eu.nets.pia/pia-sdk@1.8.0?type=aar

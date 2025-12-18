@@ -1,0 +1,4 @@
+- pkg:maven/com.weicoder/okhttp@3.4.0
+- pkg:maven/com.weicoder/okhttp@3.4.0-jdk8
+- pkg:maven/com.weicoder/okhttp@3.4.0-jdk8?classifier=sources
+- pkg:maven/com.weicoder/okhttp@3.4.0?classifier=sources

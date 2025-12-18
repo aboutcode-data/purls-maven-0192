@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-keyring@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-keyring@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-keyring@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-keyring@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-keyring@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-keyring@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-keyring@RELEASE90?classifier=sources

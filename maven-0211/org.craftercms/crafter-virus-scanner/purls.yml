@@ -87,6 +87,8 @@
 - pkg:maven/org.craftercms/crafter-virus-scanner@3.0.25?classifier=sources
 - pkg:maven/org.craftercms/crafter-virus-scanner@3.0.26
 - pkg:maven/org.craftercms/crafter-virus-scanner@3.0.26?classifier=sources
+- pkg:maven/org.craftercms/crafter-virus-scanner@3.0.27
+- pkg:maven/org.craftercms/crafter-virus-scanner@3.0.27?classifier=sources
 - pkg:maven/org.craftercms/crafter-virus-scanner@3.0.2?classifier=sources
 - pkg:maven/org.craftercms/crafter-virus-scanner@3.0.3
 - pkg:maven/org.craftercms/crafter-virus-scanner@3.0.3?classifier=sources
@@ -120,6 +122,18 @@
 - pkg:maven/org.craftercms/crafter-virus-scanner@3.1.6?classifier=sources
 - pkg:maven/org.craftercms/crafter-virus-scanner@3.1.6E
 - pkg:maven/org.craftercms/crafter-virus-scanner@3.1.6E?classifier=sources
+- pkg:maven/org.craftercms/crafter-virus-scanner@3.1.7
+- pkg:maven/org.craftercms/crafter-virus-scanner@3.1.7?classifier=sources
+- pkg:maven/org.craftercms/crafter-virus-scanner@3.1.7E
+- pkg:maven/org.craftercms/crafter-virus-scanner@3.1.7E?classifier=sources
+- pkg:maven/org.craftercms/crafter-virus-scanner@3.1.8
+- pkg:maven/org.craftercms/crafter-virus-scanner@3.1.8?classifier=sources
+- pkg:maven/org.craftercms/crafter-virus-scanner@3.1.8E
+- pkg:maven/org.craftercms/crafter-virus-scanner@3.1.8E?classifier=sources
+- pkg:maven/org.craftercms/crafter-virus-scanner@3.1.9
+- pkg:maven/org.craftercms/crafter-virus-scanner@3.1.9?classifier=sources
+- pkg:maven/org.craftercms/crafter-virus-scanner@3.1.9E
+- pkg:maven/org.craftercms/crafter-virus-scanner@3.1.9E?classifier=sources
 - pkg:maven/org.craftercms/crafter-virus-scanner@v2.5.0-Beta4
 - pkg:maven/org.craftercms/crafter-virus-scanner@v2.5.0-Beta4?classifier=sources
 - pkg:maven/org.craftercms/crafter-virus-scanner@v2.5.0-Beta5

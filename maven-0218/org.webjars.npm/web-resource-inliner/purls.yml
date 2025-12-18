@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/web-resource-inliner@4.2.1?classifier=sources
 - pkg:maven/org.webjars.npm/web-resource-inliner@4.3.3
 - pkg:maven/org.webjars.npm/web-resource-inliner@4.3.3?classifier=sources
+- pkg:maven/org.webjars.npm/web-resource-inliner@4.3.4
+- pkg:maven/org.webjars.npm/web-resource-inliner@4.3.4?classifier=sources

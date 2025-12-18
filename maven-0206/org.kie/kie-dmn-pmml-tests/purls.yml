@@ -1,0 +1,5 @@
+- pkg:maven/org.kie/kie-dmn-pmml-tests@7.40.0.20200703
+- pkg:maven/org.kie/kie-dmn-pmml-tests@7.40.0.Final
+- pkg:maven/org.kie/kie-dmn-pmml-tests@7.41.0.Final
+- pkg:maven/org.kie/kie-dmn-pmml-tests@7.41.0.t20200723
+- pkg:maven/org.kie/kie-dmn-pmml-tests@7.42.0.Final

@@ -16,3 +16,9 @@
 - pkg:maven/club.gclmit/chaos-web@1.4.8.RELEASE?classifier=sources
 - pkg:maven/club.gclmit/chaos-web@1.4.9.RELEASE
 - pkg:maven/club.gclmit/chaos-web@1.4.9.RELEASE?classifier=sources
+- pkg:maven/club.gclmit/chaos-web@1.5.0.RELEASE
+- pkg:maven/club.gclmit/chaos-web@1.5.0.RELEASE?classifier=sources
+- pkg:maven/club.gclmit/chaos-web@1.5.1.RELEASE
+- pkg:maven/club.gclmit/chaos-web@1.5.1.RELEASE?classifier=sources
+- pkg:maven/club.gclmit/chaos-web@1.5.2.RELEASE
+- pkg:maven/club.gclmit/chaos-web@1.5.2.RELEASE?classifier=sources

@@ -44,3 +44,7 @@
 - pkg:maven/org.nervos.ckb/utils@0.31.0?classifier=sources
 - pkg:maven/org.nervos.ckb/utils@0.32.0
 - pkg:maven/org.nervos.ckb/utils@0.32.0?classifier=sources
+- pkg:maven/org.nervos.ckb/utils@0.33.0
+- pkg:maven/org.nervos.ckb/utils@0.33.0?classifier=sources
+- pkg:maven/org.nervos.ckb/utils@0.34.0
+- pkg:maven/org.nervos.ckb/utils@0.34.0?classifier=sources

@@ -14,3 +14,10 @@
 - pkg:maven/io.prestosql/presto-google-sheets@331?classifier=sources
 - pkg:maven/io.prestosql/presto-google-sheets@332?classifier=sources
 - pkg:maven/io.prestosql/presto-google-sheets@333?classifier=sources
+- pkg:maven/io.prestosql/presto-google-sheets@334?classifier=sources
+- pkg:maven/io.prestosql/presto-google-sheets@335?classifier=sources
+- pkg:maven/io.prestosql/presto-google-sheets@336?classifier=sources
+- pkg:maven/io.prestosql/presto-google-sheets@337?classifier=sources
+- pkg:maven/io.prestosql/presto-google-sheets@338?classifier=sources
+- pkg:maven/io.prestosql/presto-google-sheets@339?classifier=sources
+- pkg:maven/io.prestosql/presto-google-sheets@340?classifier=sources

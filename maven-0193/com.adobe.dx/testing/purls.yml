@@ -1,0 +1,3 @@
+- pkg:maven/com.adobe.dx/testing@0.0.10
+- pkg:maven/com.adobe.dx/testing@0.0.10?classifier=source-release&type=zip
+- pkg:maven/com.adobe.dx/testing@0.0.10?classifier=sources

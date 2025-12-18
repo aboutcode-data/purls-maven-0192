@@ -32,5 +32,7 @@
 - pkg:maven/org.swisspush.gateleen/gateleen-hook-js@1.1.51
 - pkg:maven/org.swisspush.gateleen/gateleen-hook-js@1.1.52
 - pkg:maven/org.swisspush.gateleen/gateleen-hook-js@1.1.53
+- pkg:maven/org.swisspush.gateleen/gateleen-hook-js@1.1.53.1
 - pkg:maven/org.swisspush.gateleen/gateleen-hook-js@1.1.54
 - pkg:maven/org.swisspush.gateleen/gateleen-hook-js@1.1.55
+- pkg:maven/org.swisspush.gateleen/gateleen-hook-js@1.1.56

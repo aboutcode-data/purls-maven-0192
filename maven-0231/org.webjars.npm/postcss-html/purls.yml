@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/postcss-html@0.34.0
 - pkg:maven/org.webjars.npm/postcss-html@0.34.0?classifier=sources
+- pkg:maven/org.webjars.npm/postcss-html@0.36.0
+- pkg:maven/org.webjars.npm/postcss-html@0.36.0?classifier=sources

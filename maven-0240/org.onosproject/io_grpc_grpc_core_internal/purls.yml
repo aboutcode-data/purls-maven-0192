@@ -1,0 +1,6 @@
+- pkg:maven/org.onosproject/io_grpc_grpc_core_internal@2.2.3
+- pkg:maven/org.onosproject/io_grpc_grpc_core_internal@2.2.3?classifier=sources
+- pkg:maven/org.onosproject/io_grpc_grpc_core_internal@2.2.4
+- pkg:maven/org.onosproject/io_grpc_grpc_core_internal@2.2.4-b3
+- pkg:maven/org.onosproject/io_grpc_grpc_core_internal@2.2.4-b3?classifier=sources
+- pkg:maven/org.onosproject/io_grpc_grpc_core_internal@2.2.4?classifier=sources

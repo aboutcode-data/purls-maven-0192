@@ -1,6 +1,9 @@
 - pkg:maven/io.siddhi.extension.execution.string/siddhi-execution-string@5.0.10
 - pkg:maven/io.siddhi.extension.execution.string/siddhi-execution-string@5.0.10?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.execution.string/siddhi-execution-string@5.0.10?classifier=sources
+- pkg:maven/io.siddhi.extension.execution.string/siddhi-execution-string@5.0.11
+- pkg:maven/io.siddhi.extension.execution.string/siddhi-execution-string@5.0.11?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.execution.string/siddhi-execution-string@5.0.11?classifier=sources
 - pkg:maven/io.siddhi.extension.execution.string/siddhi-execution-string@5.0.2
 - pkg:maven/io.siddhi.extension.execution.string/siddhi-execution-string@5.0.2?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.execution.string/siddhi-execution-string@5.0.2?classifier=sources

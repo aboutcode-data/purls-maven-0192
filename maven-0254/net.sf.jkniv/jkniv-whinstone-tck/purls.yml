@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.jkniv/jkniv-whinstone-tck@0.6.4
+- pkg:maven/net.sf.jkniv/jkniv-whinstone-tck@0.6.4?classifier=sources

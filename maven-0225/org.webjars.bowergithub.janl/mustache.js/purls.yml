@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.bowergithub.janl/mustache.js@2.3.2?classifier=sources
 - pkg:maven/org.webjars.bowergithub.janl/mustache.js@3.0.1
 - pkg:maven/org.webjars.bowergithub.janl/mustache.js@3.0.1?classifier=sources
+- pkg:maven/org.webjars.bowergithub.janl/mustache.js@4.0.1
+- pkg:maven/org.webjars.bowergithub.janl/mustache.js@4.0.1?classifier=sources

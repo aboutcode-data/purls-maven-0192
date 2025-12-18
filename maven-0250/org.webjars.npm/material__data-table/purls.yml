@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/material__data-table@4.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__data-table@6.0.0
 - pkg:maven/org.webjars.npm/material__data-table@6.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__data-table@7.0.0
+- pkg:maven/org.webjars.npm/material__data-table@7.0.0?classifier=sources

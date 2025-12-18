@@ -4,3 +4,5 @@
 - pkg:maven/com.xceptance/xlt@5.1.0?type=zip
 - pkg:maven/com.xceptance/xlt@5.1.1?classifier=sources
 - pkg:maven/com.xceptance/xlt@5.1.1?type=zip
+- pkg:maven/com.xceptance/xlt@5.1.2?classifier=sources
+- pkg:maven/com.xceptance/xlt@5.1.2?type=zip

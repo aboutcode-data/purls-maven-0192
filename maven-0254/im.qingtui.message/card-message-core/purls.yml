@@ -1,0 +1,3 @@
+- pkg:maven/im.qingtui.message/card-message-core@0.0.0.10?classifier=sources
+- pkg:maven/im.qingtui.message/card-message-core@0.0.0.11?classifier=sources
+- pkg:maven/im.qingtui.message/card-message-core@0.0.0.9?classifier=sources

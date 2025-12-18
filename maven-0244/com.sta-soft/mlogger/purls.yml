@@ -10,3 +10,5 @@
 - pkg:maven/com.sta-soft/mlogger@1.36?classifier=sources
 - pkg:maven/com.sta-soft/mlogger@1.37
 - pkg:maven/com.sta-soft/mlogger@1.37?classifier=sources
+- pkg:maven/com.sta-soft/mlogger@1.38
+- pkg:maven/com.sta-soft/mlogger@1.38?classifier=sources

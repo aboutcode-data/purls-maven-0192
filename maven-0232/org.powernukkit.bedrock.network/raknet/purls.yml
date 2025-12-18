@@ -1,0 +1,4 @@
+- pkg:maven/org.powernukkit.bedrock.network/raknet@1.6.15-PN
+- pkg:maven/org.powernukkit.bedrock.network/raknet@1.6.15-PN2
+- pkg:maven/org.powernukkit.bedrock.network/raknet@1.6.15-PN2?classifier=sources
+- pkg:maven/org.powernukkit.bedrock.network/raknet@1.6.15-PN?classifier=sources

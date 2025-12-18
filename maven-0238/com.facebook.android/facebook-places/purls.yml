@@ -96,3 +96,7 @@
 - pkg:maven/com.facebook.android/facebook-places@6.5.1?type=aar
 - pkg:maven/com.facebook.android/facebook-places@7.0.0?classifier=sources
 - pkg:maven/com.facebook.android/facebook-places@7.0.0?type=aar
+- pkg:maven/com.facebook.android/facebook-places@7.0.1?classifier=sources
+- pkg:maven/com.facebook.android/facebook-places@7.0.1?type=aar
+- pkg:maven/com.facebook.android/facebook-places@7.1.0?classifier=sources
+- pkg:maven/com.facebook.android/facebook-places@7.1.0?type=aar

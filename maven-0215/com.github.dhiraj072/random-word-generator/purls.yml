@@ -1,2 +1,4 @@
 - pkg:maven/com.github.dhiraj072/random-word-generator@1.0.0
 - pkg:maven/com.github.dhiraj072/random-word-generator@1.0.0?classifier=sources
+- pkg:maven/com.github.dhiraj072/random-word-generator@1.1.0
+- pkg:maven/com.github.dhiraj072/random-word-generator@1.1.0?classifier=sources

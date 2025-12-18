@@ -18,3 +18,13 @@
 - pkg:maven/com.cognitect.aws/fsx@793.2.625.0?classifier=sources
 - pkg:maven/com.cognitect.aws/fsx@795.2.647.0
 - pkg:maven/com.cognitect.aws/fsx@795.2.647.0?classifier=sources
+- pkg:maven/com.cognitect.aws/fsx@801.2.687.0
+- pkg:maven/com.cognitect.aws/fsx@801.2.687.0?classifier=sources
+- pkg:maven/com.cognitect.aws/fsx@801.2.704.0
+- pkg:maven/com.cognitect.aws/fsx@801.2.704.0?classifier=sources
+- pkg:maven/com.cognitect.aws/fsx@803.2.719.0
+- pkg:maven/com.cognitect.aws/fsx@803.2.719.0?classifier=sources
+- pkg:maven/com.cognitect.aws/fsx@807.2.729.0
+- pkg:maven/com.cognitect.aws/fsx@807.2.729.0?classifier=sources
+- pkg:maven/com.cognitect.aws/fsx@809.2.734.0
+- pkg:maven/com.cognitect.aws/fsx@809.2.734.0?classifier=sources

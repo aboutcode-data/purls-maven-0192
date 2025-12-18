@@ -1,0 +1,4 @@
+- pkg:maven/com.github.microwww/redis-server@0.0.1-2.8
+- pkg:maven/com.github.microwww/redis-server@0.0.1-2.8?classifier=sources
+- pkg:maven/com.github.microwww/redis-server@0.0.2-2.8
+- pkg:maven/com.github.microwww/redis-server@0.0.2-2.8?classifier=sources

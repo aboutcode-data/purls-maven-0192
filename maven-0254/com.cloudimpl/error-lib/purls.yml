@@ -1,0 +1,4 @@
+- pkg:maven/com.cloudimpl/error-lib@2.0.0.20
+- pkg:maven/com.cloudimpl/error-lib@2.0.0.20?classifier=sources
+- pkg:maven/com.cloudimpl/error-lib@2.0.0.22
+- pkg:maven/com.cloudimpl/error-lib@2.0.0.22?classifier=sources

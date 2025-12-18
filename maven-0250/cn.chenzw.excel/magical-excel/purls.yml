@@ -1,2 +1,8 @@
 - pkg:maven/cn.chenzw.excel/magical-excel@1.0.3
 - pkg:maven/cn.chenzw.excel/magical-excel@1.0.3?classifier=sources
+- pkg:maven/cn.chenzw.excel/magical-excel@1.0.5-a
+- pkg:maven/cn.chenzw.excel/magical-excel@1.0.5-a?classifier=sources
+- pkg:maven/cn.chenzw.excel/magical-excel@1.0.5-b
+- pkg:maven/cn.chenzw.excel/magical-excel@1.0.5-b?classifier=sources
+- pkg:maven/cn.chenzw.excel/magical-excel@1.0.5-c
+- pkg:maven/cn.chenzw.excel/magical-excel@1.0.5-c?classifier=sources

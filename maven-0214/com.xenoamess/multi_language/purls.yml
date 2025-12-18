@@ -34,3 +34,5 @@
 - pkg:maven/com.xenoamess/multi_language@0.45.4?classifier=sources
 - pkg:maven/com.xenoamess/multi_language@0.46.0
 - pkg:maven/com.xenoamess/multi_language@0.46.0?classifier=sources
+- pkg:maven/com.xenoamess/multi_language@0.47.1
+- pkg:maven/com.xenoamess/multi_language@0.47.1?classifier=sources

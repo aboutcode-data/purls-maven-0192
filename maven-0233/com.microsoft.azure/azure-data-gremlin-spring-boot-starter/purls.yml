@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure/azure-data-gremlin-spring-boot-starter@2.3.3
+- pkg:maven/com.microsoft.azure/azure-data-gremlin-spring-boot-starter@2.3.3?classifier=sources

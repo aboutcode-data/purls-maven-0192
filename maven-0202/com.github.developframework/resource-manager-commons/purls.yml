@@ -1,0 +1,2 @@
+- pkg:maven/com.github.developframework/resource-manager-commons@0.1
+- pkg:maven/com.github.developframework/resource-manager-commons@0.1?classifier=sources

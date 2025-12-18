@@ -7,3 +7,7 @@
 - pkg:maven/com.github.jamesnetherton/wildfly-liquibase-itests@0.7.0
 - pkg:maven/com.github.jamesnetherton/wildfly-liquibase-itests@0.8.0
 - pkg:maven/com.github.jamesnetherton/wildfly-liquibase-itests@0.9.0
+- pkg:maven/com.github.jamesnetherton/wildfly-liquibase-itests@1.0.0
+- pkg:maven/com.github.jamesnetherton/wildfly-liquibase-itests@1.1.0
+- pkg:maven/com.github.jamesnetherton/wildfly-liquibase-itests@1.1.1
+- pkg:maven/com.github.jamesnetherton/wildfly-liquibase-itests@2.0.0

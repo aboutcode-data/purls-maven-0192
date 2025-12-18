@@ -1,0 +1,6 @@
+- pkg:maven/dev.zio/zio-process_2.11@0.0.6
+- pkg:maven/dev.zio/zio-process_2.11@0.0.6?classifier=sources
+- pkg:maven/dev.zio/zio-process_2.11@0.0.7
+- pkg:maven/dev.zio/zio-process_2.11@0.0.7?classifier=sources
+- pkg:maven/dev.zio/zio-process_2.11@0.1.0
+- pkg:maven/dev.zio/zio-process_2.11@0.1.0?classifier=sources

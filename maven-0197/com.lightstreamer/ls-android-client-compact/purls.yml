@@ -1,0 +1,2 @@
+- pkg:maven/com.lightstreamer/ls-android-client-compact@4.2.2-alpha?classifier=sources
+- pkg:maven/com.lightstreamer/ls-android-client-compact@4.2.2?classifier=sources

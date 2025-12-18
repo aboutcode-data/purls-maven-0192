@@ -1,0 +1,2 @@
+- pkg:maven/io.natix/slix@0.1.0
+- pkg:maven/io.natix/slix@0.1.0?classifier=sources

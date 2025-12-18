@@ -420,3 +420,4 @@
 - pkg:maven/com.landawn/abacus-android@1.9.7?classifier=sources
 - pkg:maven/com.landawn/abacus-android@1.9.8
 - pkg:maven/com.landawn/abacus-android@1.9.8?classifier=sources
+- pkg:maven/com.landawn/abacus-android@1.9.9?classifier=sources

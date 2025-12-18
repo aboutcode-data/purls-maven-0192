@@ -1,0 +1,2 @@
+- pkg:maven/io.smallrye.testing/smallrye-testing-utilities@0.1.0
+- pkg:maven/io.smallrye.testing/smallrye-testing-utilities@0.1.0?classifier=sources

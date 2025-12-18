@@ -1,0 +1,2 @@
+- pkg:maven/moe.lemonneko/neko-logger@1.0.0-RELEASE?classifier=sources
+- pkg:maven/moe.lemonneko/neko-logger@1.0.1-RELEASE?classifier=sources

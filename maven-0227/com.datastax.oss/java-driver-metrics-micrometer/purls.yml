@@ -1,0 +1,2 @@
+- pkg:maven/com.datastax.oss/java-driver-metrics-micrometer@4.8.0
+- pkg:maven/com.datastax.oss/java-driver-metrics-micrometer@4.8.0?classifier=sources

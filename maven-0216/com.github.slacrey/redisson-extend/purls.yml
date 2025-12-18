@@ -1,0 +1,8 @@
+- pkg:maven/com.github.slacrey/redisson-extend@1.1.2150
+- pkg:maven/com.github.slacrey/redisson-extend@1.1.2150?classifier=sources
+- pkg:maven/com.github.slacrey/redisson-extend@1.2.2150
+- pkg:maven/com.github.slacrey/redisson-extend@1.2.2150?classifier=sources
+- pkg:maven/com.github.slacrey/redisson-extend@1.3.2150
+- pkg:maven/com.github.slacrey/redisson-extend@1.3.2150?classifier=sources
+- pkg:maven/com.github.slacrey/redisson-extend@2.15.0
+- pkg:maven/com.github.slacrey/redisson-extend@2.15.0?classifier=sources

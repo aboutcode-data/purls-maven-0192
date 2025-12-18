@@ -1,0 +1,2 @@
+- pkg:maven/org.teiid.wildfly.connectors/connector-s3@15.0.0
+- pkg:maven/org.teiid.wildfly.connectors/connector-s3@15.0.0?classifier=sources

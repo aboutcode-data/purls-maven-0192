@@ -44,3 +44,4 @@
 - pkg:maven/p6spy/p6spy@3.8.6?classifier=sources
 - pkg:maven/p6spy/p6spy@3.8.7?classifier=sources
 - pkg:maven/p6spy/p6spy@3.9.0?classifier=sources
+- pkg:maven/p6spy/p6spy@3.9.1?classifier=sources

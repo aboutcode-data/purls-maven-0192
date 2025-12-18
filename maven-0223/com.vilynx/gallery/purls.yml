@@ -5,3 +5,5 @@
 - pkg:maven/com.vilynx/gallery@2.6.0?type=aar
 - pkg:maven/com.vilynx/gallery@2.6.1?type=aar
 - pkg:maven/com.vilynx/gallery@2.6.2?type=aar
+- pkg:maven/com.vilynx/gallery@2.6.3?type=aar
+- pkg:maven/com.vilynx/gallery@2.7.0?type=aar

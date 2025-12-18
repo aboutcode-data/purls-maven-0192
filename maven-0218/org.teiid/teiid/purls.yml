@@ -122,4 +122,7 @@
 - pkg:maven/org.teiid/teiid@13.0.3?classifier=src&type=zip
 - pkg:maven/org.teiid/teiid@13.1.0?classifier=src&type=zip
 - pkg:maven/org.teiid/teiid@13.1.1?classifier=src&type=zip
+- pkg:maven/org.teiid/teiid@13.1.2?classifier=src&type=zip
 - pkg:maven/org.teiid/teiid@14.0.0?classifier=src&type=zip
+- pkg:maven/org.teiid/teiid@14.0.1?classifier=src&type=zip
+- pkg:maven/org.teiid/teiid@15.0.0?classifier=src&type=zip

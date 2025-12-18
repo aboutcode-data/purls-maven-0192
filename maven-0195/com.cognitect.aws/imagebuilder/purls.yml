@@ -8,3 +8,9 @@
 - pkg:maven/com.cognitect.aws/imagebuilder@796.2.657.0?classifier=sources
 - pkg:maven/com.cognitect.aws/imagebuilder@798.2.677.0
 - pkg:maven/com.cognitect.aws/imagebuilder@798.2.677.0?classifier=sources
+- pkg:maven/com.cognitect.aws/imagebuilder@801.2.695.0
+- pkg:maven/com.cognitect.aws/imagebuilder@801.2.695.0?classifier=sources
+- pkg:maven/com.cognitect.aws/imagebuilder@801.2.709.0
+- pkg:maven/com.cognitect.aws/imagebuilder@801.2.709.0?classifier=sources
+- pkg:maven/com.cognitect.aws/imagebuilder@807.2.729.0
+- pkg:maven/com.cognitect.aws/imagebuilder@807.2.729.0?classifier=sources

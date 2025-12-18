@@ -67,6 +67,9 @@
 - pkg:maven/com.liferay/com.liferay.petra.reflect@2.1.6
 - pkg:maven/com.liferay/com.liferay.petra.reflect@2.1.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.reflect@2.1.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.petra.reflect@2.1.7
+- pkg:maven/com.liferay/com.liferay.petra.reflect@2.1.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.petra.reflect@2.1.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.petra.reflect@3.0.0
 - pkg:maven/com.liferay/com.liferay.petra.reflect@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.reflect@3.0.0?classifier=sources-commercial
@@ -82,6 +85,12 @@
 - pkg:maven/com.liferay/com.liferay.petra.reflect@3.0.4
 - pkg:maven/com.liferay/com.liferay.petra.reflect@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.reflect@3.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.petra.reflect@3.0.5
+- pkg:maven/com.liferay/com.liferay.petra.reflect@3.0.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.petra.reflect@3.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.petra.reflect@4.0.1
 - pkg:maven/com.liferay/com.liferay.petra.reflect@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.reflect@4.0.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.petra.reflect@4.1.0
+- pkg:maven/com.liferay/com.liferay.petra.reflect@4.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.petra.reflect@4.1.0?classifier=sources-commercial

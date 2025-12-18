@@ -1,0 +1,4 @@
+- pkg:maven/uk.co.probablyfine/java-8-matchers@1.8
+- pkg:maven/uk.co.probablyfine/java-8-matchers@1.8?classifier=sources
+- pkg:maven/uk.co.probablyfine/java-8-matchers@1.9
+- pkg:maven/uk.co.probablyfine/java-8-matchers@1.9?classifier=sources

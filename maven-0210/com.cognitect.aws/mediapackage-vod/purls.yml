@@ -14,3 +14,5 @@
 - pkg:maven/com.cognitect.aws/mediapackage-vod@791.2.618.0?classifier=sources
 - pkg:maven/com.cognitect.aws/mediapackage-vod@796.2.662.0
 - pkg:maven/com.cognitect.aws/mediapackage-vod@796.2.662.0?classifier=sources
+- pkg:maven/com.cognitect.aws/mediapackage-vod@801.2.690.0
+- pkg:maven/com.cognitect.aws/mediapackage-vod@801.2.690.0?classifier=sources

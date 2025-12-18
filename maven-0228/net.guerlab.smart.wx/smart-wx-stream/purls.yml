@@ -1,0 +1,6 @@
+- pkg:maven/net.guerlab.smart.wx/smart-wx-stream@20.1.4
+- pkg:maven/net.guerlab.smart.wx/smart-wx-stream@20.1.4?classifier=sources
+- pkg:maven/net.guerlab.smart.wx/smart-wx-stream@20.2.0
+- pkg:maven/net.guerlab.smart.wx/smart-wx-stream@20.2.0?classifier=sources
+- pkg:maven/net.guerlab.smart.wx/smart-wx-stream@20.2.1
+- pkg:maven/net.guerlab.smart.wx/smart-wx-stream@20.2.1?classifier=sources

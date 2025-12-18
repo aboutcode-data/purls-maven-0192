@@ -5,3 +5,16 @@
 - pkg:maven/org.eclipse.che/assembly-dashboard-war@7.13.0?type=war
 - pkg:maven/org.eclipse.che/assembly-dashboard-war@7.13.1?type=war
 - pkg:maven/org.eclipse.che/assembly-dashboard-war@7.13.2?type=war
+- pkg:maven/org.eclipse.che/assembly-dashboard-war@7.14.0?type=war
+- pkg:maven/org.eclipse.che/assembly-dashboard-war@7.14.1?type=war
+- pkg:maven/org.eclipse.che/assembly-dashboard-war@7.14.2?type=war
+- pkg:maven/org.eclipse.che/assembly-dashboard-war@7.14.3?type=war
+- pkg:maven/org.eclipse.che/assembly-dashboard-war@7.15.0?type=war
+- pkg:maven/org.eclipse.che/assembly-dashboard-war@7.15.1?type=war
+- pkg:maven/org.eclipse.che/assembly-dashboard-war@7.15.2?type=war
+- pkg:maven/org.eclipse.che/assembly-dashboard-war@7.16.0?type=war
+- pkg:maven/org.eclipse.che/assembly-dashboard-war@7.16.1?type=war
+- pkg:maven/org.eclipse.che/assembly-dashboard-war@7.16.2?type=war
+- pkg:maven/org.eclipse.che/assembly-dashboard-war@7.17.0?type=war
+- pkg:maven/org.eclipse.che/assembly-dashboard-war@7.17.1?type=war
+- pkg:maven/org.eclipse.che/assembly-dashboard-war@7.17.2?type=war

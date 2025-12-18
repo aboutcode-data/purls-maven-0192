@@ -6,3 +6,6 @@
 - pkg:maven/com.sap.cloud.servicesdk/odata-v2-connectivity@1.39.0
 - pkg:maven/com.sap.cloud.servicesdk/odata-v2-connectivity@1.39.3
 - pkg:maven/com.sap.cloud.servicesdk/odata-v2-connectivity@1.40.0
+- pkg:maven/com.sap.cloud.servicesdk/odata-v2-connectivity@1.40.1
+- pkg:maven/com.sap.cloud.servicesdk/odata-v2-connectivity@1.40.2
+- pkg:maven/com.sap.cloud.servicesdk/odata-v2-connectivity@1.40.6

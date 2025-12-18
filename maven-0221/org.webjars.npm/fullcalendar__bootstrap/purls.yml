@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/fullcalendar__bootstrap@4.3.0
 - pkg:maven/org.webjars.npm/fullcalendar__bootstrap@4.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/fullcalendar__bootstrap@5.0.0-rc
+- pkg:maven/org.webjars.npm/fullcalendar__bootstrap@5.0.0-rc?classifier=sources

@@ -28,5 +28,7 @@
 - pkg:maven/io.archivesunleashed/aut@0.60.0?type=zip
 - pkg:maven/io.archivesunleashed/aut@0.70.0?classifier=sources
 - pkg:maven/io.archivesunleashed/aut@0.70.0?type=zip
+- pkg:maven/io.archivesunleashed/aut@0.80.0?classifier=sources
+- pkg:maven/io.archivesunleashed/aut@0.80.0?type=zip
 - pkg:maven/io.archivesunleashed/aut@0.9.0
 - pkg:maven/io.archivesunleashed/aut@0.9.0?classifier=sources

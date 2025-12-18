@@ -14,3 +14,5 @@
 - pkg:maven/com.centit.support/centit-database-datasource@2.2.1812?classifier=sources
 - pkg:maven/com.centit.support/centit-database-datasource@2.3.2002
 - pkg:maven/com.centit.support/centit-database-datasource@2.3.2002?classifier=sources
+- pkg:maven/com.centit.support/centit-database-datasource@2.3.2007
+- pkg:maven/com.centit.support/centit-database-datasource@2.3.2007?classifier=sources

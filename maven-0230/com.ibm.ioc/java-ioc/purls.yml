@@ -1,0 +1,2 @@
+- pkg:maven/com.ibm.ioc/java-ioc@0.9.0
+- pkg:maven/com.ibm.ioc/java-ioc@0.9.0?classifier=sources
