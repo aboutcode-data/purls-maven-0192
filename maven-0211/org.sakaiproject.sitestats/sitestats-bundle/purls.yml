@@ -86,3 +86,5 @@
 - pkg:maven/org.sakaiproject.sitestats/sitestats-bundle@20.3?classifier=sources
 - pkg:maven/org.sakaiproject.sitestats/sitestats-bundle@21.0
 - pkg:maven/org.sakaiproject.sitestats/sitestats-bundle@21.0?classifier=sources
+- pkg:maven/org.sakaiproject.sitestats/sitestats-bundle@21.1
+- pkg:maven/org.sakaiproject.sitestats/sitestats-bundle@21.1?classifier=sources

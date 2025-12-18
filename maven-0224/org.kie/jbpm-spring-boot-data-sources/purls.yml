@@ -92,3 +92,7 @@
 - pkg:maven/org.kie/jbpm-spring-boot-data-sources@7.53.0.Final?classifier=sources
 - pkg:maven/org.kie/jbpm-spring-boot-data-sources@7.54.0.Final
 - pkg:maven/org.kie/jbpm-spring-boot-data-sources@7.54.0.Final?classifier=sources
+- pkg:maven/org.kie/jbpm-spring-boot-data-sources@7.55.0.Final
+- pkg:maven/org.kie/jbpm-spring-boot-data-sources@7.55.0.Final?classifier=sources
+- pkg:maven/org.kie/jbpm-spring-boot-data-sources@7.56.0.Final
+- pkg:maven/org.kie/jbpm-spring-boot-data-sources@7.56.0.Final?classifier=sources

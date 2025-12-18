@@ -1,1 +1,2 @@
 - pkg:maven/com.epion-t3/epion-t3-core@0.0.4?classifier=sources
+- pkg:maven/com.epion-t3/epion-t3-core@0.1.0?classifier=sources

@@ -27,4 +27,6 @@
 - pkg:maven/ru.sms-activate/SMSActivateApi@1.5.7?classifier=sources
 - pkg:maven/ru.sms-activate/SMSActivateApi@1.5.8
 - pkg:maven/ru.sms-activate/SMSActivateApi@1.5.8?classifier=sources
+- pkg:maven/ru.sms-activate/SMSActivateApi@1.5.9
+- pkg:maven/ru.sms-activate/SMSActivateApi@1.5.9?classifier=sources
 - pkg:maven/ru.sms-activate/SMSActivateApi@1.5?classifier=sources

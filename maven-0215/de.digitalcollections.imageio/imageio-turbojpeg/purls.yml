@@ -34,3 +34,5 @@
 - pkg:maven/de.digitalcollections.imageio/imageio-turbojpeg@0.5.0?classifier=sources
 - pkg:maven/de.digitalcollections.imageio/imageio-turbojpeg@0.5.1
 - pkg:maven/de.digitalcollections.imageio/imageio-turbojpeg@0.5.1?classifier=sources
+- pkg:maven/de.digitalcollections.imageio/imageio-turbojpeg@0.6.0
+- pkg:maven/de.digitalcollections.imageio/imageio-turbojpeg@0.6.0?classifier=sources

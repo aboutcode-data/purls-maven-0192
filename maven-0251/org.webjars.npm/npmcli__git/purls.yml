@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/npmcli__git@2.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/npmcli__git@2.0.4
 - pkg:maven/org.webjars.npm/npmcli__git@2.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/npmcli__git@2.0.9
+- pkg:maven/org.webjars.npm/npmcli__git@2.0.9?classifier=sources

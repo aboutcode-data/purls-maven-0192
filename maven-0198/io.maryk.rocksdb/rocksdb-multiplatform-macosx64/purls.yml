@@ -1,0 +1,1 @@
+- pkg:maven/io.maryk.rocksdb/rocksdb-multiplatform-macosx64@6.20.4?classifier=sources

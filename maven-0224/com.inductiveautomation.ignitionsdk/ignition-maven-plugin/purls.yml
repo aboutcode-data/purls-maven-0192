@@ -1,0 +1,2 @@
+- pkg:maven/com.inductiveautomation.ignitionsdk/ignition-maven-plugin@1.2.0
+- pkg:maven/com.inductiveautomation.ignitionsdk/ignition-maven-plugin@1.2.0?classifier=sources

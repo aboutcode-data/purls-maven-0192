@@ -9,3 +9,4 @@
 - pkg:maven/com.getbouncer/scan-payment-ocr@2.0.0087?classifier=sources
 - pkg:maven/com.getbouncer/scan-payment-ocr@2.0.0088?classifier=sources
 - pkg:maven/com.getbouncer/scan-payment-ocr@2.0.0089?classifier=sources
+- pkg:maven/com.getbouncer/scan-payment-ocr@2.0.0090?classifier=sources

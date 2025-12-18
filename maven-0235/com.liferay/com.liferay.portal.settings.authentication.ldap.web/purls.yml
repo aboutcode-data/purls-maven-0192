@@ -290,6 +290,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.settings.authentication.ldap.web@3.0.36
 - pkg:maven/com.liferay/com.liferay.portal.settings.authentication.ldap.web@3.0.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.settings.authentication.ldap.web@3.0.36?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.settings.authentication.ldap.web@3.0.37
+- pkg:maven/com.liferay/com.liferay.portal.settings.authentication.ldap.web@3.0.37?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.settings.authentication.ldap.web@3.0.37?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.settings.authentication.ldap.web@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.settings.authentication.ldap.web@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.settings.authentication.ldap.web@3.0.4
@@ -365,6 +368,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.settings.authentication.ldap.web@4.0.28
 - pkg:maven/com.liferay/com.liferay.portal.settings.authentication.ldap.web@4.0.28?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.settings.authentication.ldap.web@4.0.28?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.settings.authentication.ldap.web@4.0.29
+- pkg:maven/com.liferay/com.liferay.portal.settings.authentication.ldap.web@4.0.29?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.settings.authentication.ldap.web@4.0.29?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.settings.authentication.ldap.web@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.settings.authentication.ldap.web@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.settings.authentication.ldap.web@4.0.3
@@ -397,3 +403,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.settings.authentication.ldap.web@5.0.2
 - pkg:maven/com.liferay/com.liferay.portal.settings.authentication.ldap.web@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.settings.authentication.ldap.web@5.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.settings.authentication.ldap.web@5.0.3
+- pkg:maven/com.liferay/com.liferay.portal.settings.authentication.ldap.web@5.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.settings.authentication.ldap.web@5.0.3?classifier=sources-commercial

@@ -15,3 +15,4 @@
 - pkg:maven/com.unstoppabledomains/resolution@1.8.1?classifier=sources
 - pkg:maven/com.unstoppabledomains/resolution@1.9.0?classifier=sources
 - pkg:maven/com.unstoppabledomains/resolution@1.9.1?classifier=sources
+- pkg:maven/com.unstoppabledomains/resolution@2.0.0?classifier=sources

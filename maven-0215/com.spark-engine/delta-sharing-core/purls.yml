@@ -1,0 +1,2 @@
+- pkg:maven/com.spark-engine/delta-sharing-core@0.14.2
+- pkg:maven/com.spark-engine/delta-sharing-core@0.14.2?classifier=sources

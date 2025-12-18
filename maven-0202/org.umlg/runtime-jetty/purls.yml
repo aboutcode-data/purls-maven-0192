@@ -9,3 +9,4 @@
 - pkg:maven/org.umlg/runtime-jetty@1.2.5
 - pkg:maven/org.umlg/runtime-jetty@2.0.0
 - pkg:maven/org.umlg/runtime-jetty@2.0.1
+- pkg:maven/org.umlg/runtime-jetty@2.0.2

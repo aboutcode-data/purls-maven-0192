@@ -24,6 +24,12 @@
 - pkg:maven/pl.decerto/hyperon-persistence@1.17.1?classifier=sources
 - pkg:maven/pl.decerto/hyperon-persistence@1.18.0?classifier=sources
 - pkg:maven/pl.decerto/hyperon-persistence@1.18.1?classifier=sources
+- pkg:maven/pl.decerto/hyperon-persistence@1.18.2?classifier=sources
+- pkg:maven/pl.decerto/hyperon-persistence@1.19.0?classifier=sources
+- pkg:maven/pl.decerto/hyperon-persistence@1.19.1?classifier=sources
+- pkg:maven/pl.decerto/hyperon-persistence@1.19.2?classifier=sources
+- pkg:maven/pl.decerto/hyperon-persistence@1.19.3?classifier=sources
+- pkg:maven/pl.decerto/hyperon-persistence@1.20.0?classifier=sources
 - pkg:maven/pl.decerto/hyperon-persistence@1.6.31
 - pkg:maven/pl.decerto/hyperon-persistence@1.6.31?classifier=sources
 - pkg:maven/pl.decerto/hyperon-persistence@1.6.36

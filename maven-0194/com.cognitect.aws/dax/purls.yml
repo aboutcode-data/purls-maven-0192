@@ -8,3 +8,5 @@
 - pkg:maven/com.cognitect.aws/dax@768.2.563.0?classifier=sources
 - pkg:maven/com.cognitect.aws/dax@770.2.568.0
 - pkg:maven/com.cognitect.aws/dax@770.2.568.0?classifier=sources
+- pkg:maven/com.cognitect.aws/dax@811.2.934.0
+- pkg:maven/com.cognitect.aws/dax@811.2.934.0?classifier=sources

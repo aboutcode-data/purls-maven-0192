@@ -1,0 +1,5 @@
+- pkg:maven/com.facebook.presto/presto-iceberg@0.254.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-iceberg@0.254?classifier=sources
+- pkg:maven/com.facebook.presto/presto-iceberg@0.255?classifier=sources
+- pkg:maven/com.facebook.presto/presto-iceberg@0.256?classifier=sources
+- pkg:maven/com.facebook.presto/presto-iceberg@0.257?classifier=sources

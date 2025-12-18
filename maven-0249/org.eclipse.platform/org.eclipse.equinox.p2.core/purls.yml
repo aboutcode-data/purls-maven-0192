@@ -14,3 +14,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.core@2.6.200?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.core@2.6.300
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.core@2.6.300?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.core@2.7.0
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.core@2.7.0?classifier=sources

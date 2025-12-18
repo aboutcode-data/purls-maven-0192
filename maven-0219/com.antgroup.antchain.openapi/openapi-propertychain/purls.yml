@@ -1,2 +1,4 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-propertychain@1.0.44
 - pkg:maven/com.antgroup.antchain.openapi/openapi-propertychain@1.0.44?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-propertychain@1.0.45
+- pkg:maven/com.antgroup.antchain.openapi/openapi-propertychain@1.0.45?classifier=sources

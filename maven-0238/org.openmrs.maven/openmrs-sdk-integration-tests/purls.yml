@@ -27,3 +27,5 @@
 - pkg:maven/org.openmrs.maven/openmrs-sdk-integration-tests@3.8.2
 - pkg:maven/org.openmrs.maven/openmrs-sdk-integration-tests@3.9.0
 - pkg:maven/org.openmrs.maven/openmrs-sdk-integration-tests@4.0.0
+- pkg:maven/org.openmrs.maven/openmrs-sdk-integration-tests@4.0.1
+- pkg:maven/org.openmrs.maven/openmrs-sdk-integration-tests@4.1.0

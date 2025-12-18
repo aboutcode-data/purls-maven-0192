@@ -58,3 +58,5 @@
 - pkg:maven/com.amazonaws/aws-lambda-java-events@3.7.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-lambda-java-events@3.8.0
 - pkg:maven/com.amazonaws/aws-lambda-java-events@3.8.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-lambda-java-events@3.9.0
+- pkg:maven/com.amazonaws/aws-lambda-java-events@3.9.0?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/io.perfeccionista.framework/utils@0.0.1-Beta?classifier=sources
+- pkg:maven/io.perfeccionista.framework/utils@0.0.2-Beta?classifier=sources
+- pkg:maven/io.perfeccionista.framework/utils@0.0.3-Beta?classifier=sources

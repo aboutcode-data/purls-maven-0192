@@ -59,6 +59,8 @@
 - pkg:maven/com.github.marc-christian-schulze.structs4java/structs4java-maven-plugin@1.0.43?classifier=sources
 - pkg:maven/com.github.marc-christian-schulze.structs4java/structs4java-maven-plugin@1.0.45
 - pkg:maven/com.github.marc-christian-schulze.structs4java/structs4java-maven-plugin@1.0.45?classifier=sources
+- pkg:maven/com.github.marc-christian-schulze.structs4java/structs4java-maven-plugin@1.0.48
+- pkg:maven/com.github.marc-christian-schulze.structs4java/structs4java-maven-plugin@1.0.48?classifier=sources
 - pkg:maven/com.github.marc-christian-schulze.structs4java/structs4java-maven-plugin@1.0.4?classifier=sources
 - pkg:maven/com.github.marc-christian-schulze.structs4java/structs4java-maven-plugin@1.0.5
 - pkg:maven/com.github.marc-christian-schulze.structs4java/structs4java-maven-plugin@1.0.5?classifier=sources

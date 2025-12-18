@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/react-render-image@2.0.0-preview.1
+- pkg:maven/org.webjars.npm/react-render-image@2.0.0-preview.1?classifier=sources

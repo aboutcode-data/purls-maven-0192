@@ -72,6 +72,10 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-yanglib-api@0.12.6?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-yanglib-api@0.12.7
 - pkg:maven/org.opendaylight.mdsal/mdsal-yanglib-api@0.12.7?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-yanglib-api@0.12.8
+- pkg:maven/org.opendaylight.mdsal/mdsal-yanglib-api@0.12.8?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-yanglib-api@0.13.0
+- pkg:maven/org.opendaylight.mdsal/mdsal-yanglib-api@0.13.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-yanglib-api@0.9.10
 - pkg:maven/org.opendaylight.mdsal/mdsal-yanglib-api@0.9.10?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-yanglib-api@0.9.11

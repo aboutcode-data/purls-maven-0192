@@ -1,0 +1,2 @@
+- pkg:maven/in.revos.android/boltCore@1.0.32?classifier=sources
+- pkg:maven/in.revos.android/boltCore@1.0.34?classifier=sources

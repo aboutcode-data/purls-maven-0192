@@ -31,6 +31,8 @@
 - pkg:maven/net.unmz.java/unmz-common-util@1.0.23?classifier=sources
 - pkg:maven/net.unmz.java/unmz-common-util@1.0.24
 - pkg:maven/net.unmz.java/unmz-common-util@1.0.24?classifier=sources
+- pkg:maven/net.unmz.java/unmz-common-util@1.0.25
+- pkg:maven/net.unmz.java/unmz-common-util@1.0.25?classifier=sources
 - pkg:maven/net.unmz.java/unmz-common-util@1.0.2?classifier=sources
 - pkg:maven/net.unmz.java/unmz-common-util@1.0.4
 - pkg:maven/net.unmz.java/unmz-common-util@1.0.4?classifier=sources

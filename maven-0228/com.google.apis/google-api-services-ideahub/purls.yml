@@ -1,0 +1,12 @@
+- pkg:maven/com.google.apis/google-api-services-ideahub@v1alpha-rev20210528-1.31.0
+- pkg:maven/com.google.apis/google-api-services-ideahub@v1alpha-rev20210528-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-ideahub@v1alpha-rev20210528-1.31.5
+- pkg:maven/com.google.apis/google-api-services-ideahub@v1alpha-rev20210528-1.31.5?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-ideahub@v1alpha-rev20210618-1.31.5
+- pkg:maven/com.google.apis/google-api-services-ideahub@v1alpha-rev20210618-1.31.5?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-ideahub@v1alpha-rev20210622-1.31.5
+- pkg:maven/com.google.apis/google-api-services-ideahub@v1alpha-rev20210622-1.31.5?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-ideahub@v1alpha-rev20210622-1.32.1
+- pkg:maven/com.google.apis/google-api-services-ideahub@v1alpha-rev20210622-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-ideahub@v1alpha-rev20210707-1.32.1
+- pkg:maven/com.google.apis/google-api-services-ideahub@v1alpha-rev20210707-1.32.1?classifier=sources

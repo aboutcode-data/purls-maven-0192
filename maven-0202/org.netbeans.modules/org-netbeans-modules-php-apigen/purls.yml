@@ -9,3 +9,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-apigen@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-apigen@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-apigen@RELEASE123?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-apigen@RELEASE124?classifier=sources

@@ -3,3 +3,5 @@
 - pkg:maven/me.zalo/iBeaconSDK@1.0.20210507.1250?classifier=sources
 - pkg:maven/me.zalo/iBeaconSDK@1.0.20210507.1259?classifier=sources
 - pkg:maven/me.zalo/iBeaconSDK@1.0.20210524.1549?classifier=sources
+- pkg:maven/me.zalo/iBeaconSDK@1.0.20210528.1625?classifier=sources
+- pkg:maven/me.zalo/iBeaconSDK@1.0.20210708.1125?classifier=sources

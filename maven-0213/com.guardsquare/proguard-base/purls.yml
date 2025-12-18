@@ -2,3 +2,5 @@
 - pkg:maven/com.guardsquare/proguard-base@7.0.1?classifier=sources
 - pkg:maven/com.guardsquare/proguard-base@7.1.0-beta3?classifier=sources
 - pkg:maven/com.guardsquare/proguard-base@7.1.0-beta4?classifier=sources
+- pkg:maven/com.guardsquare/proguard-base@7.1.0-beta5?classifier=sources
+- pkg:maven/com.guardsquare/proguard-base@7.1.0?classifier=sources

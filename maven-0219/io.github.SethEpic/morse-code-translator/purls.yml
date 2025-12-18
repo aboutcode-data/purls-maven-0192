@@ -1,0 +1,6 @@
+- pkg:maven/io.github.SethEpic/morse-code-translator@1.0.0
+- pkg:maven/io.github.SethEpic/morse-code-translator@1.0.0-snapshot
+- pkg:maven/io.github.SethEpic/morse-code-translator@1.0.0-snapshot?classifier=sources
+- pkg:maven/io.github.SethEpic/morse-code-translator@1.0.0?classifier=sources
+- pkg:maven/io.github.SethEpic/morse-code-translator@1.0.1
+- pkg:maven/io.github.SethEpic/morse-code-translator@1.0.1?classifier=sources

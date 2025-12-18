@@ -24,3 +24,5 @@
 - pkg:maven/com.cognitect.aws/elasticfilesystem@802.2.711.0?classifier=sources
 - pkg:maven/com.cognitect.aws/elasticfilesystem@811.2.865.0
 - pkg:maven/com.cognitect.aws/elasticfilesystem@811.2.865.0?classifier=sources
+- pkg:maven/com.cognitect.aws/elasticfilesystem@811.2.934.0
+- pkg:maven/com.cognitect.aws/elasticfilesystem@811.2.934.0?classifier=sources

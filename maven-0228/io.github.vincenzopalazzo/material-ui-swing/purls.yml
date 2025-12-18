@@ -22,7 +22,9 @@
 - pkg:maven/io.github.vincenzopalazzo/material-ui-swing@1.1.1_beta?classifier=sources
 - pkg:maven/io.github.vincenzopalazzo/material-ui-swing@1.1.1_pre-release_6.1
 - pkg:maven/io.github.vincenzopalazzo/material-ui-swing@1.1.1_pre-release_6.1?classifier=sources
+- pkg:maven/io.github.vincenzopalazzo/material-ui-swing@1.1.2
 - pkg:maven/io.github.vincenzopalazzo/material-ui-swing@1.1.2-rc1
 - pkg:maven/io.github.vincenzopalazzo/material-ui-swing@1.1.2-rc1?classifier=sources
 - pkg:maven/io.github.vincenzopalazzo/material-ui-swing@1.1.2-rc2
 - pkg:maven/io.github.vincenzopalazzo/material-ui-swing@1.1.2-rc2?classifier=sources
+- pkg:maven/io.github.vincenzopalazzo/material-ui-swing@1.1.2?classifier=sources

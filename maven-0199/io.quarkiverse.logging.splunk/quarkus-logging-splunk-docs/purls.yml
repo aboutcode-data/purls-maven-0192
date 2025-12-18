@@ -1,1 +1,2 @@
 - pkg:maven/io.quarkiverse.logging.splunk/quarkus-logging-splunk-docs@1.0.0
+- pkg:maven/io.quarkiverse.logging.splunk/quarkus-logging-splunk-docs@2.0.0

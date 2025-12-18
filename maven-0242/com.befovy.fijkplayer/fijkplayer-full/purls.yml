@@ -1,0 +1,4 @@
+- pkg:maven/com.befovy.fijkplayer/fijkplayer-full@0.7.12?classifier=sources
+- pkg:maven/com.befovy.fijkplayer/fijkplayer-full@0.7.12?type=aar
+- pkg:maven/com.befovy.fijkplayer/fijkplayer-full@0.7.15?classifier=sources
+- pkg:maven/com.befovy.fijkplayer/fijkplayer-full@0.7.15?type=aar

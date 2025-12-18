@@ -7,6 +7,7 @@
 - pkg:maven/io.mockk/mockk-common@1.10.5?classifier=sources
 - pkg:maven/io.mockk/mockk-common@1.10.6?classifier=sources
 - pkg:maven/io.mockk/mockk-common@1.11.0?classifier=sources
+- pkg:maven/io.mockk/mockk-common@1.12.0?classifier=sources
 - pkg:maven/io.mockk/mockk-common@1.6
 - pkg:maven/io.mockk/mockk-common@1.6.1
 - pkg:maven/io.mockk/mockk-common@1.6.1?classifier=sources

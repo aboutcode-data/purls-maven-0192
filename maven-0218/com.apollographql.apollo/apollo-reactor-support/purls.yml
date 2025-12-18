@@ -1,0 +1,2 @@
+- pkg:maven/com.apollographql.apollo/apollo-reactor-support@2.5.8?classifier=sources
+- pkg:maven/com.apollographql.apollo/apollo-reactor-support@2.5.9?classifier=sources

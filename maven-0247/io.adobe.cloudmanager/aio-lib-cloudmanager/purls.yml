@@ -4,3 +4,7 @@
 - pkg:maven/io.adobe.cloudmanager/aio-lib-cloudmanager@0.3.0?classifier=sources
 - pkg:maven/io.adobe.cloudmanager/aio-lib-cloudmanager@0.4.0
 - pkg:maven/io.adobe.cloudmanager/aio-lib-cloudmanager@0.4.0?classifier=sources
+- pkg:maven/io.adobe.cloudmanager/aio-lib-cloudmanager@0.5.5
+- pkg:maven/io.adobe.cloudmanager/aio-lib-cloudmanager@0.5.5?classifier=sources
+- pkg:maven/io.adobe.cloudmanager/aio-lib-cloudmanager@1.0.0
+- pkg:maven/io.adobe.cloudmanager/aio-lib-cloudmanager@1.0.0?classifier=sources

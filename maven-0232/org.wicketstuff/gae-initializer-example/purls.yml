@@ -220,3 +220,5 @@
 - pkg:maven/org.wicketstuff/gae-initializer-example@9.2.0?type=war
 - pkg:maven/org.wicketstuff/gae-initializer-example@9.3.0?classifier=sources
 - pkg:maven/org.wicketstuff/gae-initializer-example@9.3.0?type=war
+- pkg:maven/org.wicketstuff/gae-initializer-example@9.4.0?classifier=sources
+- pkg:maven/org.wicketstuff/gae-initializer-example@9.4.0?type=war

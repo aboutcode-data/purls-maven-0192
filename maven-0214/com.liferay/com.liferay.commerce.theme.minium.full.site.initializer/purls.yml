@@ -4,6 +4,9 @@
 - pkg:maven/com.liferay/com.liferay.commerce.theme.minium.full.site.initializer@1.0.24
 - pkg:maven/com.liferay/com.liferay.commerce.theme.minium.full.site.initializer@1.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.commerce.theme.minium.full.site.initializer@1.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.commerce.theme.minium.full.site.initializer@1.0.25
+- pkg:maven/com.liferay/com.liferay.commerce.theme.minium.full.site.initializer@1.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.commerce.theme.minium.full.site.initializer@1.0.25?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.commerce.theme.minium.full.site.initializer@2.0.0
 - pkg:maven/com.liferay/com.liferay.commerce.theme.minium.full.site.initializer@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.commerce.theme.minium.full.site.initializer@2.0.0?classifier=sources-commercial
@@ -23,6 +26,9 @@
 - pkg:maven/com.liferay/com.liferay.commerce.theme.minium.full.site.initializer@3.0.12
 - pkg:maven/com.liferay/com.liferay.commerce.theme.minium.full.site.initializer@3.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.commerce.theme.minium.full.site.initializer@3.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.commerce.theme.minium.full.site.initializer@3.0.13
+- pkg:maven/com.liferay/com.liferay.commerce.theme.minium.full.site.initializer@3.0.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.commerce.theme.minium.full.site.initializer@3.0.13?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.commerce.theme.minium.full.site.initializer@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.commerce.theme.minium.full.site.initializer@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.commerce.theme.minium.full.site.initializer@3.0.2
@@ -52,3 +58,9 @@
 - pkg:maven/com.liferay/com.liferay.commerce.theme.minium.full.site.initializer@4.0.0
 - pkg:maven/com.liferay/com.liferay.commerce.theme.minium.full.site.initializer@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.commerce.theme.minium.full.site.initializer@4.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.commerce.theme.minium.full.site.initializer@4.0.1
+- pkg:maven/com.liferay/com.liferay.commerce.theme.minium.full.site.initializer@4.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.commerce.theme.minium.full.site.initializer@4.0.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.commerce.theme.minium.full.site.initializer@4.0.2
+- pkg:maven/com.liferay/com.liferay.commerce.theme.minium.full.site.initializer@4.0.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.commerce.theme.minium.full.site.initializer@4.0.2?classifier=sources-commercial

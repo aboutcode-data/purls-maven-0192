@@ -124,6 +124,10 @@
 - pkg:maven/org.gweninterpreter/gwen@2.32.0?classifier=sources
 - pkg:maven/org.gweninterpreter/gwen@2.32.1
 - pkg:maven/org.gweninterpreter/gwen@2.32.1?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen@2.33.0
+- pkg:maven/org.gweninterpreter/gwen@2.33.0?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen@2.34.0
+- pkg:maven/org.gweninterpreter/gwen@2.34.0?classifier=sources
 - pkg:maven/org.gweninterpreter/gwen@2.4.0
 - pkg:maven/org.gweninterpreter/gwen@2.4.0?classifier=sources
 - pkg:maven/org.gweninterpreter/gwen@2.4.1

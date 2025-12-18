@@ -1,0 +1,2 @@
+- pkg:maven/cc.taylorzhang/format-edit@0.1.0?classifier=sources
+- pkg:maven/cc.taylorzhang/format-edit@1.1.0?classifier=sources

@@ -24,3 +24,6 @@
 - pkg:maven/com.leanplum/leanplum-location@5.6.1-beta3?classifier=sources
 - pkg:maven/com.leanplum/leanplum-location@5.6.1-beta5?classifier=sources
 - pkg:maven/com.leanplum/leanplum-location@5.6.1?classifier=sources
+- pkg:maven/com.leanplum/leanplum-location@5.6.2-beta1?classifier=sources
+- pkg:maven/com.leanplum/leanplum-location@5.6.2?classifier=sources
+- pkg:maven/com.leanplum/leanplum-location@5.7.0?classifier=sources

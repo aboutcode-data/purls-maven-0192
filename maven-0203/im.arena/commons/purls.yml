@@ -22,6 +22,8 @@
 - pkg:maven/im.arena/commons@1.16.0?type=aar
 - pkg:maven/im.arena/commons@1.17.0?classifier=sources
 - pkg:maven/im.arena/commons@1.17.0?type=aar
+- pkg:maven/im.arena/commons@1.18.0?classifier=sources
+- pkg:maven/im.arena/commons@1.18.0?type=aar
 - pkg:maven/im.arena/commons@1.2.0?classifier=sources
 - pkg:maven/im.arena/commons@1.2.0?type=aar
 - pkg:maven/im.arena/commons@1.2.1?classifier=sources

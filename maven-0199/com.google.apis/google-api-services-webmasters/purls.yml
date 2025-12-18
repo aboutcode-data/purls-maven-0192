@@ -134,6 +134,10 @@
 - pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev20190428-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev20190428-1.31.0
 - pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev20190428-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev20190428-1.31.5
+- pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev20190428-1.31.5?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev20190428-1.32.1
+- pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev20190428-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-webmasters@v3-rev21-1.20.0

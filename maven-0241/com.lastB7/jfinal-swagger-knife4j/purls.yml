@@ -16,3 +16,5 @@
 - pkg:maven/com.lastB7/jfinal-swagger-knife4j@2.6?classifier=sources
 - pkg:maven/com.lastB7/jfinal-swagger-knife4j@2.7
 - pkg:maven/com.lastB7/jfinal-swagger-knife4j@2.7?classifier=sources
+- pkg:maven/com.lastB7/jfinal-swagger-knife4j@2.8
+- pkg:maven/com.lastB7/jfinal-swagger-knife4j@2.8?classifier=sources

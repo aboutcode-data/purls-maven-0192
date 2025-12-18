@@ -2,3 +2,4 @@
 - pkg:maven/nz.net.osnz.composite/composite-jersey-netty@1.3
 - pkg:maven/nz.net.osnz.composite/composite-jersey-netty@1.4
 - pkg:maven/nz.net.osnz.composite/composite-jersey-netty@2.1
+- pkg:maven/nz.net.osnz.composite/composite-jersey-netty@2.2

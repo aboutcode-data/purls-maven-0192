@@ -2,3 +2,5 @@
 - pkg:maven/one.leftshift.intent-markup/intent-markup@0.6.0
 - pkg:maven/one.leftshift.intent-markup/intent-markup@0.8.0
 - pkg:maven/one.leftshift.intent-markup/intent-markup@0.8.0?classifier=sources
+- pkg:maven/one.leftshift.intent-markup/intent-markup@0.9.0
+- pkg:maven/one.leftshift.intent-markup/intent-markup@0.9.0?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.npm/hyperscript.org@0.0.9
 - pkg:maven/org.webjars.npm/hyperscript.org@0.0.9?classifier=sources
+- pkg:maven/org.webjars.npm/hyperscript.org@0.8.0
+- pkg:maven/org.webjars.npm/hyperscript.org@0.8.0?classifier=sources
+- pkg:maven/org.webjars.npm/hyperscript.org@0.8.1
+- pkg:maven/org.webjars.npm/hyperscript.org@0.8.1?classifier=sources

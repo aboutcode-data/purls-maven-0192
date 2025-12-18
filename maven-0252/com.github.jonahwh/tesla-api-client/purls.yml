@@ -23,6 +23,8 @@
 - pkg:maven/com.github.jonahwh/tesla-api-client@1.14?classifier=sources
 - pkg:maven/com.github.jonahwh/tesla-api-client@1.15
 - pkg:maven/com.github.jonahwh/tesla-api-client@1.15?classifier=sources
+- pkg:maven/com.github.jonahwh/tesla-api-client@1.16
+- pkg:maven/com.github.jonahwh/tesla-api-client@1.16?classifier=sources
 - pkg:maven/com.github.jonahwh/tesla-api-client@1.2.0
 - pkg:maven/com.github.jonahwh/tesla-api-client@1.2.0?classifier=sources
 - pkg:maven/com.github.jonahwh/tesla-api-client@1.3.0

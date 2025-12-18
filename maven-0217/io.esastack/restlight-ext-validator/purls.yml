@@ -1,0 +1,2 @@
+- pkg:maven/io.esastack/restlight-ext-validator@0.1.1
+- pkg:maven/io.esastack/restlight-ext-validator@0.1.1?classifier=sources

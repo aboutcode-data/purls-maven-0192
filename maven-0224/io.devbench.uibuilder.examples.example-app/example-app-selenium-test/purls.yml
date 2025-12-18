@@ -1,2 +1,3 @@
 - pkg:maven/io.devbench.uibuilder.examples.example-app/example-app-selenium-test@2.1.0
 - pkg:maven/io.devbench.uibuilder.examples.example-app/example-app-selenium-test@2.1.1
+- pkg:maven/io.devbench.uibuilder.examples.example-app/example-app-selenium-test@2.1.2

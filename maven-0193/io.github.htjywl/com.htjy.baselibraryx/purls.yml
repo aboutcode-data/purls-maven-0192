@@ -2,3 +2,7 @@
 - pkg:maven/io.github.htjywl/com.htjy.baselibraryx@2.2.6?type=aar
 - pkg:maven/io.github.htjywl/com.htjy.baselibraryx@2.2.7?classifier=sources
 - pkg:maven/io.github.htjywl/com.htjy.baselibraryx@2.2.7?type=aar
+- pkg:maven/io.github.htjywl/com.htjy.baselibraryx@2.2.8?classifier=sources
+- pkg:maven/io.github.htjywl/com.htjy.baselibraryx@2.2.8?type=aar
+- pkg:maven/io.github.htjywl/com.htjy.baselibraryx@2.2.9?classifier=sources
+- pkg:maven/io.github.htjywl/com.htjy.baselibraryx@2.2.9?type=aar

@@ -106,3 +106,6 @@
 - pkg:maven/com.mappedin.sdk/mappedin@3.0.0-beta-8?type=aar
 - pkg:maven/com.mappedin.sdk/mappedin@3.0.0-beta-9?type=aar
 - pkg:maven/com.mappedin.sdk/mappedin@3.0.0-beta?type=aar
+- pkg:maven/com.mappedin.sdk/mappedin@3.0.0?type=aar
+- pkg:maven/com.mappedin.sdk/mappedin@3.0.1?type=aar
+- pkg:maven/com.mappedin.sdk/mappedin@3.0.2?type=aar

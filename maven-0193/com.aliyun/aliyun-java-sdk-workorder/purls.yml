@@ -2,3 +2,11 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-workorder@2.0.716?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-workorder@3.0.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-workorder@3.0.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-workorder@4.6.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-workorder@4.6.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-workorder@4.6.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-workorder@4.6.1?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-workorder@4.6.2
+- pkg:maven/com.aliyun/aliyun-java-sdk-workorder@4.6.2?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-workorder@4.6.3
+- pkg:maven/com.aliyun/aliyun-java-sdk-workorder@4.6.3?classifier=sources

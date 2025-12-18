@@ -124,4 +124,6 @@
 - pkg:maven/ru.yandex.clickhouse/clickhouse-jdbc@0.2?classifier=sources
 - pkg:maven/ru.yandex.clickhouse/clickhouse-jdbc@0.3.0?classifier=sources
 - pkg:maven/ru.yandex.clickhouse/clickhouse-jdbc@0.3.1
+- pkg:maven/ru.yandex.clickhouse/clickhouse-jdbc@0.3.1-patch
+- pkg:maven/ru.yandex.clickhouse/clickhouse-jdbc@0.3.1-patch?classifier=sources
 - pkg:maven/ru.yandex.clickhouse/clickhouse-jdbc@0.3.1?classifier=sources

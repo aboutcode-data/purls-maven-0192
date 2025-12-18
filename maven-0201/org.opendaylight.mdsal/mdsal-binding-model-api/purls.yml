@@ -1,0 +1,2 @@
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-model-api@8.0.0
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-model-api@8.0.0?classifier=sources
