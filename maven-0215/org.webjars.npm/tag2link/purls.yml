@@ -1,0 +1,8 @@
+- pkg:maven/org.webjars.npm/tag2link@2020.4.6
+- pkg:maven/org.webjars.npm/tag2link@2020.4.6?classifier=sources
+- pkg:maven/org.webjars.npm/tag2link@2020.5.10
+- pkg:maven/org.webjars.npm/tag2link@2020.5.10?classifier=sources
+- pkg:maven/org.webjars.npm/tag2link@2020.5.16
+- pkg:maven/org.webjars.npm/tag2link@2020.5.16?classifier=sources
+- pkg:maven/org.webjars.npm/tag2link@2020.5.4
+- pkg:maven/org.webjars.npm/tag2link@2020.5.4?classifier=sources

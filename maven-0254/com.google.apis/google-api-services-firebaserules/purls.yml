@@ -138,6 +138,10 @@
 - pkg:maven/com.google.apis/google-api-services-firebaserules@v1-rev20191209-1.30.8?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-firebaserules@v1-rev20200206-1.30.8
 - pkg:maven/com.google.apis/google-api-services-firebaserules@v1-rev20200206-1.30.8?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firebaserules@v1-rev20200206-1.30.9
+- pkg:maven/com.google.apis/google-api-services-firebaserules@v1-rev20200206-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firebaserules@v1-rev20200303-1.30.9
+- pkg:maven/com.google.apis/google-api-services-firebaserules@v1-rev20200303-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-firebaserules@v1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-firebaserules@v1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-firebaserules@v1-rev21-1.20.0
@@ -570,6 +574,10 @@
 - pkg:maven/com.google.apis/google-api-services-firebaserules@v1-rev305-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-firebaserules@v1-rev305-1.25.0
 - pkg:maven/com.google.apis/google-api-services-firebaserules@v1-rev305-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firebaserules@v1-rev306-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-firebaserules@v1-rev306-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firebaserules@v1-rev306-1.25.0
+- pkg:maven/com.google.apis/google-api-services-firebaserules@v1-rev306-1.25.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-firebaserules@v1-rev31-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-firebaserules@v1-rev31-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-firebaserules@v1-rev31-1.20.0

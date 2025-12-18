@@ -7,3 +7,6 @@
 - pkg:maven/org.jboss.windup.web/windup-web-keycloak-theme@5.1.0.Final
 - pkg:maven/org.jboss.windup.web/windup-web-keycloak-theme@5.1.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.windup.web/windup-web-keycloak-theme@5.1.0.Final?classifier=sources
+- pkg:maven/org.jboss.windup.web/windup-web-keycloak-theme@5.2.0.Final
+- pkg:maven/org.jboss.windup.web/windup-web-keycloak-theme@5.2.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.windup.web/windup-web-keycloak-theme@5.2.0.Final?classifier=sources

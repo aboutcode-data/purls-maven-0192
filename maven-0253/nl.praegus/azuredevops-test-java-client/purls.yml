@@ -1,0 +1,2 @@
+- pkg:maven/nl.praegus/azuredevops-test-java-client@0.2
+- pkg:maven/nl.praegus/azuredevops-test-java-client@0.2?classifier=sources

@@ -198,3 +198,11 @@
 - pkg:maven/io.sealights.on-premise.agents.plugin/sealights-gradle-plugin@2.1.451?classifier=sources
 - pkg:maven/io.sealights.on-premise.agents.plugin/sealights-gradle-plugin@2.1.461
 - pkg:maven/io.sealights.on-premise.agents.plugin/sealights-gradle-plugin@2.1.461?classifier=sources
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-gradle-plugin@2.1.475
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-gradle-plugin@2.1.475?classifier=sources
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-gradle-plugin@2.1.476
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-gradle-plugin@2.1.476?classifier=sources
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-gradle-plugin@2.1.483
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-gradle-plugin@2.1.483?classifier=sources
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-gradle-plugin@2.1.487
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-gradle-plugin@2.1.487?classifier=sources

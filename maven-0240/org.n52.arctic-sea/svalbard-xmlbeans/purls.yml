@@ -26,3 +26,11 @@
 - pkg:maven/org.n52.arctic-sea/svalbard-xmlbeans@7.2.0?classifier=sources
 - pkg:maven/org.n52.arctic-sea/svalbard-xmlbeans@7.3.0
 - pkg:maven/org.n52.arctic-sea/svalbard-xmlbeans@7.3.0?classifier=sources
+- pkg:maven/org.n52.arctic-sea/svalbard-xmlbeans@7.3.1
+- pkg:maven/org.n52.arctic-sea/svalbard-xmlbeans@7.3.1?classifier=sources
+- pkg:maven/org.n52.arctic-sea/svalbard-xmlbeans@7.4.0
+- pkg:maven/org.n52.arctic-sea/svalbard-xmlbeans@7.4.0?classifier=sources
+- pkg:maven/org.n52.arctic-sea/svalbard-xmlbeans@7.4.1
+- pkg:maven/org.n52.arctic-sea/svalbard-xmlbeans@7.4.1?classifier=sources
+- pkg:maven/org.n52.arctic-sea/svalbard-xmlbeans@7.5.0
+- pkg:maven/org.n52.arctic-sea/svalbard-xmlbeans@7.5.0?classifier=sources

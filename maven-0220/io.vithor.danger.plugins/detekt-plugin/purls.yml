@@ -1,0 +1,2 @@
+- pkg:maven/io.vithor.danger.plugins/detekt-plugin@0.0.5
+- pkg:maven/io.vithor.danger.plugins/detekt-plugin@0.0.5?classifier=sources

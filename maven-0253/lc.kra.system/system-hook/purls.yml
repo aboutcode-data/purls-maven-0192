@@ -1,0 +1,2 @@
+- pkg:maven/lc.kra.system/system-hook@3.7
+- pkg:maven/lc.kra.system/system-hook@3.7?classifier=sources

@@ -1,3 +1,5 @@
 - pkg:maven/org.axonframework.extensions.springcloud/axon-springcloud-spring-boot-starter@4.0
 - pkg:maven/org.axonframework.extensions.springcloud/axon-springcloud-spring-boot-starter@4.1
 - pkg:maven/org.axonframework.extensions.springcloud/axon-springcloud-spring-boot-starter@4.2
+- pkg:maven/org.axonframework.extensions.springcloud/axon-springcloud-spring-boot-starter@4.3
+- pkg:maven/org.axonframework.extensions.springcloud/axon-springcloud-spring-boot-starter@4.3.1

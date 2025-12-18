@@ -23,3 +23,4 @@
 - pkg:maven/be.looorent/jflu-store@0.8?classifier=sources
 - pkg:maven/be.looorent/jflu-store@0.9?classifier=sources
 - pkg:maven/be.looorent/jflu-store@1.0.0?classifier=sources
+- pkg:maven/be.looorent/jflu-store@1.0.1?classifier=sources

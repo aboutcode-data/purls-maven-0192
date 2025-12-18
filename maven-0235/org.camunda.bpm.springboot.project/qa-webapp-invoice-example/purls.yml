@@ -4,3 +4,15 @@
 - pkg:maven/org.camunda.bpm.springboot.project/qa-webapp-invoice-example@3.4.0?classifier=sources
 - pkg:maven/org.camunda.bpm.springboot.project/qa-webapp-invoice-example@3.4.1
 - pkg:maven/org.camunda.bpm.springboot.project/qa-webapp-invoice-example@3.4.1?classifier=sources
+- pkg:maven/org.camunda.bpm.springboot.project/qa-webapp-invoice-example@3.4.2
+- pkg:maven/org.camunda.bpm.springboot.project/qa-webapp-invoice-example@3.4.2?classifier=sources
+- pkg:maven/org.camunda.bpm.springboot.project/qa-webapp-invoice-example@3.4.3
+- pkg:maven/org.camunda.bpm.springboot.project/qa-webapp-invoice-example@3.4.3?classifier=sources
+- pkg:maven/org.camunda.bpm.springboot.project/qa-webapp-invoice-example@7.13.0
+- pkg:maven/org.camunda.bpm.springboot.project/qa-webapp-invoice-example@7.13.0-alpha3
+- pkg:maven/org.camunda.bpm.springboot.project/qa-webapp-invoice-example@7.13.0-alpha3?classifier=sources
+- pkg:maven/org.camunda.bpm.springboot.project/qa-webapp-invoice-example@7.13.0-alpha4
+- pkg:maven/org.camunda.bpm.springboot.project/qa-webapp-invoice-example@7.13.0-alpha4?classifier=sources
+- pkg:maven/org.camunda.bpm.springboot.project/qa-webapp-invoice-example@7.13.0-alpha5
+- pkg:maven/org.camunda.bpm.springboot.project/qa-webapp-invoice-example@7.13.0-alpha5?classifier=sources
+- pkg:maven/org.camunda.bpm.springboot.project/qa-webapp-invoice-example@7.13.0?classifier=sources

@@ -6,3 +6,7 @@
 - pkg:maven/net.soundvibe/kafka-config@1.0.2?classifier=sources
 - pkg:maven/net.soundvibe/kafka-config@2.4.0
 - pkg:maven/net.soundvibe/kafka-config@2.4.0?classifier=sources
+- pkg:maven/net.soundvibe/kafka-config@2.4.1
+- pkg:maven/net.soundvibe/kafka-config@2.4.1?classifier=sources
+- pkg:maven/net.soundvibe/kafka-config@2.5.0
+- pkg:maven/net.soundvibe/kafka-config@2.5.0?classifier=sources

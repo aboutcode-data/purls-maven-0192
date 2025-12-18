@@ -1,0 +1,2 @@
+- pkg:maven/io.kestros.commons/kestros-structured-sling-models@0.0.2
+- pkg:maven/io.kestros.commons/kestros-structured-sling-models@0.0.2?classifier=sources

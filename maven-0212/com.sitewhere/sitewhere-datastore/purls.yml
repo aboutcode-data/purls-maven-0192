@@ -28,6 +28,16 @@
 - pkg:maven/com.sitewhere/sitewhere-datastore@3.0.0.alpha23?classifier=sources
 - pkg:maven/com.sitewhere/sitewhere-datastore@3.0.0.alpha24
 - pkg:maven/com.sitewhere/sitewhere-datastore@3.0.0.alpha24?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-datastore@3.0.0.alpha25
+- pkg:maven/com.sitewhere/sitewhere-datastore@3.0.0.alpha25?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-datastore@3.0.0.alpha26
+- pkg:maven/com.sitewhere/sitewhere-datastore@3.0.0.alpha26?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-datastore@3.0.0.alpha27
+- pkg:maven/com.sitewhere/sitewhere-datastore@3.0.0.alpha27?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-datastore@3.0.0.alpha28
+- pkg:maven/com.sitewhere/sitewhere-datastore@3.0.0.alpha28?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-datastore@3.0.0.alpha29
+- pkg:maven/com.sitewhere/sitewhere-datastore@3.0.0.alpha29?classifier=sources
 - pkg:maven/com.sitewhere/sitewhere-datastore@3.0.0.alpha5
 - pkg:maven/com.sitewhere/sitewhere-datastore@3.0.0.alpha5?classifier=sources
 - pkg:maven/com.sitewhere/sitewhere-datastore@3.0.0.alpha6

@@ -1,2 +1,4 @@
 - pkg:maven/io.seata/seata-serializer-hessian@1.1.0
 - pkg:maven/io.seata/seata-serializer-hessian@1.1.0?classifier=sources
+- pkg:maven/io.seata/seata-serializer-hessian@1.2.0
+- pkg:maven/io.seata/seata-serializer-hessian@1.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.scalaprops/scalaprops-shapeless_sjs1_2.13@0.3.2
+- pkg:maven/com.github.scalaprops/scalaprops-shapeless_sjs1_2.13@0.3.2?classifier=sources

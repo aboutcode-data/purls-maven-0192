@@ -8,6 +8,8 @@
 - pkg:maven/org.webjars.bowergithub.mbostock-bower/d3-bower@5.0.0-rc.4
 - pkg:maven/org.webjars.bowergithub.mbostock-bower/d3-bower@5.0.0-rc.4?classifier=sources
 - pkg:maven/org.webjars.bowergithub.mbostock-bower/d3-bower@5.0.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.mbostock-bower/d3-bower@5.15.1
+- pkg:maven/org.webjars.bowergithub.mbostock-bower/d3-bower@5.15.1?classifier=sources
 - pkg:maven/org.webjars.bowergithub.mbostock-bower/d3-bower@5.2.0
 - pkg:maven/org.webjars.bowergithub.mbostock-bower/d3-bower@5.2.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.mbostock-bower/d3-bower@5.4.0

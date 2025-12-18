@@ -1,0 +1,2 @@
+- pkg:maven/at.rodrigo.api.gateway/api-gateway-entity@1.3.2
+- pkg:maven/at.rodrigo.api.gateway/api-gateway-entity@1.3.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.trellisldp/trellis-dropwizard-app@0.12.0?classifier=sources
+- pkg:maven/org.trellisldp/trellis-dropwizard-app@0.12.1?classifier=sources

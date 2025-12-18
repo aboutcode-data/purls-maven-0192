@@ -34,3 +34,5 @@
 - pkg:maven/com.ashokvarma.android/bottom-navigation-bar@2.0.5?type=aar
 - pkg:maven/com.ashokvarma.android/bottom-navigation-bar@2.1.0?classifier=sources
 - pkg:maven/com.ashokvarma.android/bottom-navigation-bar@2.1.0?type=aar
+- pkg:maven/com.ashokvarma.android/bottom-navigation-bar@2.2.0?classifier=sources
+- pkg:maven/com.ashokvarma.android/bottom-navigation-bar@2.2.0?type=aar

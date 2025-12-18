@@ -1,0 +1,2 @@
+- pkg:maven/io.github.see-es-vee/see-es-vee@1.0.0
+- pkg:maven/io.github.see-es-vee/see-es-vee@1.0.0?classifier=sources

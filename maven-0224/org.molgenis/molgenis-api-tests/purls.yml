@@ -21,6 +21,7 @@
 - pkg:maven/org.molgenis/molgenis-api-tests@7.3.7
 - pkg:maven/org.molgenis/molgenis-api-tests@7.4.1
 - pkg:maven/org.molgenis/molgenis-api-tests@7.4.8
+- pkg:maven/org.molgenis/molgenis-api-tests@7.4.9
 - pkg:maven/org.molgenis/molgenis-api-tests@8.0.4
 - pkg:maven/org.molgenis/molgenis-api-tests@8.1.1
 - pkg:maven/org.molgenis/molgenis-api-tests@8.1.6
@@ -29,5 +30,8 @@
 - pkg:maven/org.molgenis/molgenis-api-tests@8.2.1
 - pkg:maven/org.molgenis/molgenis-api-tests@8.2.3
 - pkg:maven/org.molgenis/molgenis-api-tests@8.2.4
+- pkg:maven/org.molgenis/molgenis-api-tests@8.3.10
+- pkg:maven/org.molgenis/molgenis-api-tests@8.3.11
 - pkg:maven/org.molgenis/molgenis-api-tests@8.3.4
 - pkg:maven/org.molgenis/molgenis-api-tests@8.3.5
+- pkg:maven/org.molgenis/molgenis-api-tests@8.3.6

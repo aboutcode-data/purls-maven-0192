@@ -2,3 +2,5 @@
 - pkg:maven/in.kyle.mcspring/simple-factions-addon@0.0.6?classifier=sources
 - pkg:maven/in.kyle.mcspring/simple-factions-addon@0.0.7
 - pkg:maven/in.kyle.mcspring/simple-factions-addon@0.0.7?classifier=sources
+- pkg:maven/in.kyle.mcspring/simple-factions-addon@0.69
+- pkg:maven/in.kyle.mcspring/simple-factions-addon@0.69?classifier=sources

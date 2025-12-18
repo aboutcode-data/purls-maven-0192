@@ -1,0 +1,2 @@
+- pkg:maven/io.github.starlangsoftware/MorphologicalAnalysis@1.0.15
+- pkg:maven/io.github.starlangsoftware/MorphologicalAnalysis@1.0.15?classifier=sources

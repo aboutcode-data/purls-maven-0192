@@ -4,3 +4,7 @@
 - pkg:maven/ru.albemuth.jcuda/jcusegsort@0.8.1?classifier=sources
 - pkg:maven/ru.albemuth.jcuda/jcusegsort@0.8.2
 - pkg:maven/ru.albemuth.jcuda/jcusegsort@0.8.2?classifier=sources
+- pkg:maven/ru.albemuth.jcuda/jcusegsort@10.2.0
+- pkg:maven/ru.albemuth.jcuda/jcusegsort@10.2.0.0
+- pkg:maven/ru.albemuth.jcuda/jcusegsort@10.2.0.0?classifier=sources
+- pkg:maven/ru.albemuth.jcuda/jcusegsort@10.2.0?classifier=sources

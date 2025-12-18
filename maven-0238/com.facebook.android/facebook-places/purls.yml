@@ -84,3 +84,15 @@
 - pkg:maven/com.facebook.android/facebook-places@6.0.0?type=aar
 - pkg:maven/com.facebook.android/facebook-places@6.1.0?classifier=sources
 - pkg:maven/com.facebook.android/facebook-places@6.1.0?type=aar
+- pkg:maven/com.facebook.android/facebook-places@6.2.0?classifier=sources
+- pkg:maven/com.facebook.android/facebook-places@6.2.0?type=aar
+- pkg:maven/com.facebook.android/facebook-places@6.3.0?classifier=sources
+- pkg:maven/com.facebook.android/facebook-places@6.3.0?type=aar
+- pkg:maven/com.facebook.android/facebook-places@6.4.0?classifier=sources
+- pkg:maven/com.facebook.android/facebook-places@6.4.0?type=aar
+- pkg:maven/com.facebook.android/facebook-places@6.5.0?classifier=sources
+- pkg:maven/com.facebook.android/facebook-places@6.5.0?type=aar
+- pkg:maven/com.facebook.android/facebook-places@6.5.1?classifier=sources
+- pkg:maven/com.facebook.android/facebook-places@6.5.1?type=aar
+- pkg:maven/com.facebook.android/facebook-places@7.0.0?classifier=sources
+- pkg:maven/com.facebook.android/facebook-places@7.0.0?type=aar

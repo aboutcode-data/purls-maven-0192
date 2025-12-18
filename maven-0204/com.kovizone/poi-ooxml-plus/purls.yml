@@ -1,0 +1,2 @@
+- pkg:maven/com.kovizone/poi-ooxml-plus@1.0.2
+- pkg:maven/com.kovizone/poi-ooxml-plus@1.0.2?classifier=sources

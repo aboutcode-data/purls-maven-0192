@@ -1,0 +1,4 @@
+- pkg:maven/com.threatconnect.app/services-core@2.12.0
+- pkg:maven/com.threatconnect.app/services-core@2.12.0?classifier=sources
+- pkg:maven/com.threatconnect.app/services-core@2.12.1
+- pkg:maven/com.threatconnect.app/services-core@2.12.1?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/io.mockk/mockk-common@1.10.0?classifier=sources
 - pkg:maven/io.mockk/mockk-common@1.6
 - pkg:maven/io.mockk/mockk-common@1.6.1
 - pkg:maven/io.mockk/mockk-common@1.6.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/nl.wouterbohlken.transip-api-kotlin/transip-api-client@0.1-RELEASE?classifier=sources
+- pkg:maven/nl.wouterbohlken.transip-api-kotlin/transip-api-client@1.0.0?classifier=sources

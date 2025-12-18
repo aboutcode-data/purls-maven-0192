@@ -14,3 +14,5 @@
 - pkg:maven/com.cognitect.aws/lex-models@785.2.597.0?classifier=sources
 - pkg:maven/com.cognitect.aws/lex-models@789.2.613.0
 - pkg:maven/com.cognitect.aws/lex-models@789.2.613.0?classifier=sources
+- pkg:maven/com.cognitect.aws/lex-models@794.2.639.0
+- pkg:maven/com.cognitect.aws/lex-models@794.2.639.0?classifier=sources

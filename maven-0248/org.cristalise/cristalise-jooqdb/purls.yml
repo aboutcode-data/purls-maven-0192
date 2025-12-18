@@ -32,3 +32,9 @@
 - pkg:maven/org.cristalise/cristalise-jooqdb@5.0.0-RC
 - pkg:maven/org.cristalise/cristalise-jooqdb@5.0.0-RC?classifier=sources
 - pkg:maven/org.cristalise/cristalise-jooqdb@5.0.0?classifier=sources
+- pkg:maven/org.cristalise/cristalise-jooqdb@5.1.0
+- pkg:maven/org.cristalise/cristalise-jooqdb@5.1.0?classifier=sources
+- pkg:maven/org.cristalise/cristalise-jooqdb@5.2.0
+- pkg:maven/org.cristalise/cristalise-jooqdb@5.2.0?classifier=sources
+- pkg:maven/org.cristalise/cristalise-jooqdb@5.2.1
+- pkg:maven/org.cristalise/cristalise-jooqdb@5.2.1?classifier=sources

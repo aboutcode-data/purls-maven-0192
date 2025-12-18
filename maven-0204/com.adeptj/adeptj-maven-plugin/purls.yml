@@ -8,3 +8,11 @@
 - pkg:maven/com.adeptj/adeptj-maven-plugin@1.0.3.Final?classifier=sources
 - pkg:maven/com.adeptj/adeptj-maven-plugin@1.1.0.Final
 - pkg:maven/com.adeptj/adeptj-maven-plugin@1.1.0.Final?classifier=sources
+- pkg:maven/com.adeptj/adeptj-maven-plugin@1.1.1.Final
+- pkg:maven/com.adeptj/adeptj-maven-plugin@1.1.1.Final?classifier=sources
+- pkg:maven/com.adeptj/adeptj-maven-plugin@1.2.0.Final
+- pkg:maven/com.adeptj/adeptj-maven-plugin@1.2.0.Final?classifier=sources
+- pkg:maven/com.adeptj/adeptj-maven-plugin@1.3.0.Final
+- pkg:maven/com.adeptj/adeptj-maven-plugin@1.3.0.Final?classifier=sources
+- pkg:maven/com.adeptj/adeptj-maven-plugin@1.4.0
+- pkg:maven/com.adeptj/adeptj-maven-plugin@1.4.0?classifier=sources

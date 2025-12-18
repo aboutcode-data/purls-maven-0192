@@ -56,6 +56,10 @@
 - pkg:maven/org.iot-dsa/dslink@0.23.0?classifier=sources
 - pkg:maven/org.iot-dsa/dslink@0.23.1
 - pkg:maven/org.iot-dsa/dslink@0.23.1?classifier=sources
+- pkg:maven/org.iot-dsa/dslink@0.23.2
+- pkg:maven/org.iot-dsa/dslink@0.23.2?classifier=sources
+- pkg:maven/org.iot-dsa/dslink@0.24.0
+- pkg:maven/org.iot-dsa/dslink@0.24.0?classifier=sources
 - pkg:maven/org.iot-dsa/dslink@0.3.0
 - pkg:maven/org.iot-dsa/dslink@0.3.0?classifier=sources
 - pkg:maven/org.iot-dsa/dslink@0.4.0

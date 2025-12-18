@@ -2,3 +2,7 @@
 - pkg:maven/io.prestosql.tempto/tempto-examples@172?classifier=sources
 - pkg:maven/io.prestosql.tempto/tempto-examples@173
 - pkg:maven/io.prestosql.tempto/tempto-examples@173?classifier=sources
+- pkg:maven/io.prestosql.tempto/tempto-examples@174
+- pkg:maven/io.prestosql.tempto/tempto-examples@174?classifier=sources
+- pkg:maven/io.prestosql.tempto/tempto-examples@175
+- pkg:maven/io.prestosql.tempto/tempto-examples@175?classifier=sources

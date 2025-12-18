@@ -1,4 +1,8 @@
 - pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-users@2.10.0?classifier=sources
+- pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-users@2.10.10?classifier=sources
+- pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-users@2.10.11?classifier=sources
+- pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-users@2.10.12?classifier=sources
+- pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-users@2.10.13?classifier=sources
 - pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-users@2.10.1?classifier=sources
 - pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-users@2.10.2?classifier=sources
 - pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-users@2.10.3?classifier=sources
@@ -22,3 +26,5 @@
 - pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-users@2.9.1?classifier=sources
 - pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-users@2.9.2?classifier=sources
 - pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-users@2.9.3?classifier=sources
+- pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-users@3.0.0?classifier=sources
+- pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-users@3.0.1?classifier=sources

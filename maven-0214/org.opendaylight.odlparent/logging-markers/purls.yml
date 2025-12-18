@@ -1,0 +1,4 @@
+- pkg:maven/org.opendaylight.odlparent/logging-markers@5.0.7
+- pkg:maven/org.opendaylight.odlparent/logging-markers@5.0.7?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/logging-markers@7.0.2
+- pkg:maven/org.opendaylight.odlparent/logging-markers@7.0.2?classifier=sources

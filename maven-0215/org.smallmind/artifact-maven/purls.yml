@@ -142,3 +142,5 @@
 - pkg:maven/org.smallmind/artifact-maven@3.3.8?classifier=sources
 - pkg:maven/org.smallmind/artifact-maven@3.3.9
 - pkg:maven/org.smallmind/artifact-maven@3.3.9?classifier=sources
+- pkg:maven/org.smallmind/artifact-maven@3.5.0
+- pkg:maven/org.smallmind/artifact-maven@3.5.0?classifier=sources

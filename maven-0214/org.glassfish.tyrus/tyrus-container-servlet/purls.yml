@@ -35,6 +35,10 @@
 - pkg:maven/org.glassfish.tyrus/tyrus-container-servlet@1.14?classifier=sources
 - pkg:maven/org.glassfish.tyrus/tyrus-container-servlet@1.15
 - pkg:maven/org.glassfish.tyrus/tyrus-container-servlet@1.15?classifier=sources
+- pkg:maven/org.glassfish.tyrus/tyrus-container-servlet@1.16
+- pkg:maven/org.glassfish.tyrus/tyrus-container-servlet@1.16?classifier=sources
+- pkg:maven/org.glassfish.tyrus/tyrus-container-servlet@1.17
+- pkg:maven/org.glassfish.tyrus/tyrus-container-servlet@1.17?classifier=sources
 - pkg:maven/org.glassfish.tyrus/tyrus-container-servlet@1.1?classifier=sources
 - pkg:maven/org.glassfish.tyrus/tyrus-container-servlet@1.2
 - pkg:maven/org.glassfish.tyrus/tyrus-container-servlet@1.2.1
@@ -70,3 +74,5 @@
 - pkg:maven/org.glassfish.tyrus/tyrus-container-servlet@1.8?classifier=sources
 - pkg:maven/org.glassfish.tyrus/tyrus-container-servlet@1.9
 - pkg:maven/org.glassfish.tyrus/tyrus-container-servlet@1.9?classifier=sources
+- pkg:maven/org.glassfish.tyrus/tyrus-container-servlet@2.0.0-M1
+- pkg:maven/org.glassfish.tyrus/tyrus-container-servlet@2.0.0-M1?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/in.norbor/yoda-security_2.13@20200330
+- pkg:maven/in.norbor/yoda-security_2.13@20200330?classifier=sources
+- pkg:maven/in.norbor/yoda-security_2.13@20200331
+- pkg:maven/in.norbor/yoda-security_2.13@20200331?classifier=sources
+- pkg:maven/in.norbor/yoda-security_2.13@20200401
+- pkg:maven/in.norbor/yoda-security_2.13@20200401?classifier=sources
+- pkg:maven/in.norbor/yoda-security_2.13@20200403
+- pkg:maven/in.norbor/yoda-security_2.13@20200403?classifier=sources
+- pkg:maven/in.norbor/yoda-security_2.13@20200429
+- pkg:maven/in.norbor/yoda-security_2.13@20200429?classifier=sources

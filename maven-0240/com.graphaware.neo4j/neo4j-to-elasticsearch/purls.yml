@@ -70,6 +70,8 @@
 - pkg:maven/com.graphaware.neo4j/neo4j-to-elasticsearch@3.5.13.55.10?classifier=sources
 - pkg:maven/com.graphaware.neo4j/neo4j-to-elasticsearch@3.5.14.55.10
 - pkg:maven/com.graphaware.neo4j/neo4j-to-elasticsearch@3.5.14.55.10?classifier=sources
+- pkg:maven/com.graphaware.neo4j/neo4j-to-elasticsearch@3.5.14.58.10
+- pkg:maven/com.graphaware.neo4j/neo4j-to-elasticsearch@3.5.14.58.10?classifier=sources
 - pkg:maven/com.graphaware.neo4j/neo4j-to-elasticsearch@3.5.2.53.11
 - pkg:maven/com.graphaware.neo4j/neo4j-to-elasticsearch@3.5.2.53.11?classifier=sources
 - pkg:maven/com.graphaware.neo4j/neo4j-to-elasticsearch@3.5.3.53.11

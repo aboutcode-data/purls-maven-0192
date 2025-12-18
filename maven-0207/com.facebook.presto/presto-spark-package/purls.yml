@@ -1,0 +1,9 @@
+- pkg:maven/com.facebook.presto/presto-spark-package@0.232?classifier=sources
+- pkg:maven/com.facebook.presto/presto-spark-package@0.233.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-spark-package@0.233?classifier=sources
+- pkg:maven/com.facebook.presto/presto-spark-package@0.234.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-spark-package@0.234.2?classifier=sources
+- pkg:maven/com.facebook.presto/presto-spark-package@0.234.3?classifier=sources
+- pkg:maven/com.facebook.presto/presto-spark-package@0.234?classifier=sources
+- pkg:maven/com.facebook.presto/presto-spark-package@0.235.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-spark-package@0.235?classifier=sources

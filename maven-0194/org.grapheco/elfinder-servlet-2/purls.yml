@@ -1,0 +1,2 @@
+- pkg:maven/org.grapheco/elfinder-servlet-2@1.4?classifier=sources
+- pkg:maven/org.grapheco/elfinder-servlet-2@1.4?type=war

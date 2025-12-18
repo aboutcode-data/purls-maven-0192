@@ -1,0 +1,8 @@
+- pkg:maven/me.phoboslabs.illuminati/illuminati-processor@0.9.9.32
+- pkg:maven/me.phoboslabs.illuminati/illuminati-processor@0.9.9.32?classifier=sources
+- pkg:maven/me.phoboslabs.illuminati/illuminati-processor@0.9.9.34
+- pkg:maven/me.phoboslabs.illuminati/illuminati-processor@0.9.9.34?classifier=sources
+- pkg:maven/me.phoboslabs.illuminati/illuminati-processor@0.9.9.35
+- pkg:maven/me.phoboslabs.illuminati/illuminati-processor@0.9.9.35?classifier=sources
+- pkg:maven/me.phoboslabs.illuminati/illuminati-processor@0.9.9.38
+- pkg:maven/me.phoboslabs.illuminati/illuminati-processor@0.9.9.38?classifier=sources

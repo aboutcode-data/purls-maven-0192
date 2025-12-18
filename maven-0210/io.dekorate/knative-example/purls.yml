@@ -1,0 +1,6 @@
+- pkg:maven/io.dekorate/knative-example@0.11.9
+- pkg:maven/io.dekorate/knative-example@0.11.9?classifier=sources
+- pkg:maven/io.dekorate/knative-example@0.12.0
+- pkg:maven/io.dekorate/knative-example@0.12.0?classifier=sources
+- pkg:maven/io.dekorate/knative-example@1.0.0
+- pkg:maven/io.dekorate/knative-example@1.0.0?classifier=sources

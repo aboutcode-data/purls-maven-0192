@@ -1,0 +1,2 @@
+- pkg:maven/com.haoxuer.discover/discover-plug-push-jpush@2.0.7
+- pkg:maven/com.haoxuer.discover/discover-plug-push-jpush@2.0.7?classifier=sources

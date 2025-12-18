@@ -8,3 +8,9 @@
 - pkg:maven/org.everit.atlassian/org.everit.atlassian.restclient.jiracloud@2.0.2-201909051218?classifier=sources
 - pkg:maven/org.everit.atlassian/org.everit.atlassian.restclient.jiracloud@2.0.3-201909051218
 - pkg:maven/org.everit.atlassian/org.everit.atlassian.restclient.jiracloud@2.0.3-201909051218?classifier=sources
+- pkg:maven/org.everit.atlassian/org.everit.atlassian.restclient.jiracloud@2.0.4-201909051218
+- pkg:maven/org.everit.atlassian/org.everit.atlassian.restclient.jiracloud@2.0.4-201909051218?classifier=sources
+- pkg:maven/org.everit.atlassian/org.everit.atlassian.restclient.jiracloud@2.0.5-201909051218
+- pkg:maven/org.everit.atlassian/org.everit.atlassian.restclient.jiracloud@2.0.5-201909051218?classifier=sources
+- pkg:maven/org.everit.atlassian/org.everit.atlassian.restclient.jiracloud@2.0.6-201909051218
+- pkg:maven/org.everit.atlassian/org.everit.atlassian.restclient.jiracloud@2.0.6-201909051218?classifier=sources

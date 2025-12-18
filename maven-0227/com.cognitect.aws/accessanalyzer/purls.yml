@@ -4,3 +4,7 @@
 - pkg:maven/com.cognitect.aws/accessanalyzer@780.2.582.0?classifier=sources
 - pkg:maven/com.cognitect.aws/accessanalyzer@783.2.589.0
 - pkg:maven/com.cognitect.aws/accessanalyzer@783.2.589.0?classifier=sources
+- pkg:maven/com.cognitect.aws/accessanalyzer@796.2.649.0
+- pkg:maven/com.cognitect.aws/accessanalyzer@796.2.649.0?classifier=sources
+- pkg:maven/com.cognitect.aws/accessanalyzer@796.2.664.0
+- pkg:maven/com.cognitect.aws/accessanalyzer@796.2.664.0?classifier=sources

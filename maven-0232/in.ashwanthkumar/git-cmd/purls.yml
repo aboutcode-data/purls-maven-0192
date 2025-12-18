@@ -8,3 +8,5 @@
 - pkg:maven/in.ashwanthkumar/git-cmd@1.3?classifier=sources
 - pkg:maven/in.ashwanthkumar/git-cmd@1.4
 - pkg:maven/in.ashwanthkumar/git-cmd@1.4?classifier=sources
+- pkg:maven/in.ashwanthkumar/git-cmd@2.0
+- pkg:maven/in.ashwanthkumar/git-cmd@2.0?classifier=sources

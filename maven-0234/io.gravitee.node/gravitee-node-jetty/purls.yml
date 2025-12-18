@@ -1,0 +1,2 @@
+- pkg:maven/io.gravitee.node/gravitee-node-jetty@1.7.0
+- pkg:maven/io.gravitee.node/gravitee-node-jetty@1.7.0?classifier=sources

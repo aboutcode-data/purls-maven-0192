@@ -20,3 +20,5 @@
 - pkg:maven/org.verapdf/verapdf-xmp-core@1.14.3-RC?classifier=sources
 - pkg:maven/org.verapdf/verapdf-xmp-core@1.14.6-RC
 - pkg:maven/org.verapdf/verapdf-xmp-core@1.14.6-RC?classifier=sources
+- pkg:maven/org.verapdf/verapdf-xmp-core@1.16.1
+- pkg:maven/org.verapdf/verapdf-xmp-core@1.16.1?classifier=sources

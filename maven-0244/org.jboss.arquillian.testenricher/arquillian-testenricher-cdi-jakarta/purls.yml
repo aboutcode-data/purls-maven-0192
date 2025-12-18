@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.arquillian.testenricher/arquillian-testenricher-cdi-jakarta@1.7.0.Alpha1
+- pkg:maven/org.jboss.arquillian.testenricher/arquillian-testenricher-cdi-jakarta@1.7.0.Alpha1?classifier=sources

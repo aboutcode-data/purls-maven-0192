@@ -1,2 +1,4 @@
 - pkg:maven/tech.ikora/ikora-core@0.0.2
 - pkg:maven/tech.ikora/ikora-core@0.0.2?classifier=sources
+- pkg:maven/tech.ikora/ikora-core@0.0.4
+- pkg:maven/tech.ikora/ikora-core@0.0.4?classifier=sources

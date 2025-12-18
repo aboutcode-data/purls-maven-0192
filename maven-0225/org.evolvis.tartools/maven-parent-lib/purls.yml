@@ -1,0 +1,2 @@
+- pkg:maven/org.evolvis.tartools/maven-parent-lib@1.24
+- pkg:maven/org.evolvis.tartools/maven-parent-lib@1.24?classifier=sources

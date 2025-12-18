@@ -22,3 +22,5 @@
 - pkg:maven/ch.digitalfondue.npjt-extra/npjt-extra@2.0.1?classifier=sources
 - pkg:maven/ch.digitalfondue.npjt-extra/npjt-extra@2.0.2
 - pkg:maven/ch.digitalfondue.npjt-extra/npjt-extra@2.0.2?classifier=sources
+- pkg:maven/ch.digitalfondue.npjt-extra/npjt-extra@2.0.3
+- pkg:maven/ch.digitalfondue.npjt-extra/npjt-extra@2.0.3?classifier=sources

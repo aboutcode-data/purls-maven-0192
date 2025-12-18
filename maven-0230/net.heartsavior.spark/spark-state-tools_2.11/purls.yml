@@ -1,0 +1,6 @@
+- pkg:maven/net.heartsavior.spark/spark-state-tools_2.11@0.1.99-crosscompile-test
+- pkg:maven/net.heartsavior.spark/spark-state-tools_2.11@0.1.99-crosscompile-test?classifier=sources
+- pkg:maven/net.heartsavior.spark/spark-state-tools_2.11@0.3.0
+- pkg:maven/net.heartsavior.spark/spark-state-tools_2.11@0.3.0?classifier=sources
+- pkg:maven/net.heartsavior.spark/spark-state-tools_2.11@0.4.0
+- pkg:maven/net.heartsavior.spark/spark-state-tools_2.11@0.4.0?classifier=sources

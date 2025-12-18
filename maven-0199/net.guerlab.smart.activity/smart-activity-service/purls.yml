@@ -1,0 +1,4 @@
+- pkg:maven/net.guerlab.smart.activity/smart-activity-service@20.0.2
+- pkg:maven/net.guerlab.smart.activity/smart-activity-service@20.0.2?classifier=sources
+- pkg:maven/net.guerlab.smart.activity/smart-activity-service@20.0.3
+- pkg:maven/net.guerlab.smart.activity/smart-activity-service@20.0.3?classifier=sources

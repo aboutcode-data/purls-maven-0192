@@ -44,3 +44,5 @@
 - pkg:maven/com.github.dannil/scb-java-client@2.5.0?classifier=sources
 - pkg:maven/com.github.dannil/scb-java-client@2.6.0
 - pkg:maven/com.github.dannil/scb-java-client@2.6.0?classifier=sources
+- pkg:maven/com.github.dannil/scb-java-client@3.0.0
+- pkg:maven/com.github.dannil/scb-java-client@3.0.0?classifier=sources

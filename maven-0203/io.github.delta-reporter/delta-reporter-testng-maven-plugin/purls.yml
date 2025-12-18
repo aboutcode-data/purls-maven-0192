@@ -1,0 +1,2 @@
+- pkg:maven/io.github.delta-reporter/delta-reporter-testng-maven-plugin@1.0
+- pkg:maven/io.github.delta-reporter/delta-reporter-testng-maven-plugin@1.0?classifier=sources

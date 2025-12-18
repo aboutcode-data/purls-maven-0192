@@ -22,3 +22,5 @@
 - pkg:maven/com.j2mvc/j2mvc-util@2.1.05?classifier=sources
 - pkg:maven/com.j2mvc/j2mvc-util@2.1.07
 - pkg:maven/com.j2mvc/j2mvc-util@2.1.07?classifier=sources
+- pkg:maven/com.j2mvc/j2mvc-util@2.1.08
+- pkg:maven/com.j2mvc/j2mvc-util@2.1.08?classifier=sources

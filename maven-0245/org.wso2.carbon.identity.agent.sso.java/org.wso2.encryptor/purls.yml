@@ -26,3 +26,5 @@
 - pkg:maven/org.wso2.carbon.identity.agent.sso.java/org.wso2.encryptor@5.1.22?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.agent.sso.java/org.wso2.encryptor@5.1.23
 - pkg:maven/org.wso2.carbon.identity.agent.sso.java/org.wso2.encryptor@5.1.23?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.agent.sso.java/org.wso2.encryptor@5.4.0
+- pkg:maven/org.wso2.carbon.identity.agent.sso.java/org.wso2.encryptor@5.4.0?classifier=sources

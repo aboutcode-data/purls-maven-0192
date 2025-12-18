@@ -1,1 +1,4 @@
 - pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e-jdk8@1.15?type=war
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e-jdk8@1.16?type=war
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e-jdk8@1.17?type=war
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e-jdk8@2.0.0-M1?type=war

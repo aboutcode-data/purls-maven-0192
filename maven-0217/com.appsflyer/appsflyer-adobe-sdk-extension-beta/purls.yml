@@ -1,0 +1,2 @@
+- pkg:maven/com.appsflyer/appsflyer-adobe-sdk-extension-beta@5.3.0_rc1?classifier=sources
+- pkg:maven/com.appsflyer/appsflyer-adobe-sdk-extension-beta@5.3.0_rc1?type=aar

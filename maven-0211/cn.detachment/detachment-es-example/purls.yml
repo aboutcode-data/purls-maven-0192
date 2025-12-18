@@ -1,0 +1,2 @@
+- pkg:maven/cn.detachment/detachment-es-example@1.0.2-RELEASE
+- pkg:maven/cn.detachment/detachment-es-example@1.0.2-RELEASE?classifier=sources

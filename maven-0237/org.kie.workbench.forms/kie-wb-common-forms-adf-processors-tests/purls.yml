@@ -14,3 +14,9 @@
 - pkg:maven/org.kie.workbench.forms/kie-wb-common-forms-adf-processors-tests@7.31.0.Final
 - pkg:maven/org.kie.workbench.forms/kie-wb-common-forms-adf-processors-tests@7.32.0.Final
 - pkg:maven/org.kie.workbench.forms/kie-wb-common-forms-adf-processors-tests@7.33.0.Final
+- pkg:maven/org.kie.workbench.forms/kie-wb-common-forms-adf-processors-tests@7.34.0.Final
+- pkg:maven/org.kie.workbench.forms/kie-wb-common-forms-adf-processors-tests@7.35.0.Final
+- pkg:maven/org.kie.workbench.forms/kie-wb-common-forms-adf-processors-tests@7.36.0.Final
+- pkg:maven/org.kie.workbench.forms/kie-wb-common-forms-adf-processors-tests@7.36.1.Final
+- pkg:maven/org.kie.workbench.forms/kie-wb-common-forms-adf-processors-tests@7.37.0.Final
+- pkg:maven/org.kie.workbench.forms/kie-wb-common-forms-adf-processors-tests@7.38.0.Final

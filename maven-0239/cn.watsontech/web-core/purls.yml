@@ -1,0 +1,4 @@
+- pkg:maven/cn.watsontech/web-core@0.1.1
+- pkg:maven/cn.watsontech/web-core@0.1.1?classifier=sources
+- pkg:maven/cn.watsontech/web-core@v0.1
+- pkg:maven/cn.watsontech/web-core@v0.1?classifier=sources

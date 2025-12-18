@@ -1,0 +1,2 @@
+- pkg:maven/com.github.patrick-mc/custom-entity-forge@1.12.2-1.0
+- pkg:maven/com.github.patrick-mc/custom-entity-forge@1.12.2-1.0?classifier=sources

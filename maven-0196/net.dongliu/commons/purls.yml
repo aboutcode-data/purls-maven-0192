@@ -342,3 +342,5 @@
 - pkg:maven/net.dongliu/commons@8.1.2?classifier=sources
 - pkg:maven/net.dongliu/commons@8.1.3
 - pkg:maven/net.dongliu/commons@8.1.3?classifier=sources
+- pkg:maven/net.dongliu/commons@8.1.5
+- pkg:maven/net.dongliu/commons@8.1.5?classifier=sources

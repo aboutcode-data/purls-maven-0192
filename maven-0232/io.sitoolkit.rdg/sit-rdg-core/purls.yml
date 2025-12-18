@@ -1,2 +1,4 @@
 - pkg:maven/io.sitoolkit.rdg/sit-rdg-core@0.9
 - pkg:maven/io.sitoolkit.rdg/sit-rdg-core@0.9?classifier=sources
+- pkg:maven/io.sitoolkit.rdg/sit-rdg-core@1.0.0-beta.1
+- pkg:maven/io.sitoolkit.rdg/sit-rdg-core@1.0.0-beta.1?classifier=sources

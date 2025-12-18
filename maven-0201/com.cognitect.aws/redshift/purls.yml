@@ -22,3 +22,11 @@
 - pkg:maven/com.cognitect.aws/redshift@784.2.595.0?classifier=sources
 - pkg:maven/com.cognitect.aws/redshift@786.2.606.0
 - pkg:maven/com.cognitect.aws/redshift@786.2.606.0?classifier=sources
+- pkg:maven/com.cognitect.aws/redshift@793.2.624.0
+- pkg:maven/com.cognitect.aws/redshift@793.2.624.0?classifier=sources
+- pkg:maven/com.cognitect.aws/redshift@794.2.638.0
+- pkg:maven/com.cognitect.aws/redshift@794.2.638.0?classifier=sources
+- pkg:maven/com.cognitect.aws/redshift@796.2.652.0
+- pkg:maven/com.cognitect.aws/redshift@796.2.652.0?classifier=sources
+- pkg:maven/com.cognitect.aws/redshift@796.2.661.0
+- pkg:maven/com.cognitect.aws/redshift@796.2.661.0?classifier=sources

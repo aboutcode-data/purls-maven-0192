@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/babel__helper-function-name@7.8.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-function-name@7.8.3
 - pkg:maven/org.webjars.npm/babel__helper-function-name@7.8.3?classifier=sources
+- pkg:maven/org.webjars.npm/babel__helper-function-name@7.9.5
+- pkg:maven/org.webjars.npm/babel__helper-function-name@7.9.5?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/cz.polankam.security.acl/jaclp@1.0?classifier=sources
 - pkg:maven/cz.polankam.security.acl/jaclp@2.0
 - pkg:maven/cz.polankam.security.acl/jaclp@2.0?classifier=sources
+- pkg:maven/cz.polankam.security.acl/jaclp@2.1
+- pkg:maven/cz.polankam.security.acl/jaclp@2.1?classifier=sources

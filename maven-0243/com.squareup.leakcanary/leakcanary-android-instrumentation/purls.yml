@@ -28,3 +28,5 @@
 - pkg:maven/com.squareup.leakcanary/leakcanary-android-instrumentation@2.1?type=aar
 - pkg:maven/com.squareup.leakcanary/leakcanary-android-instrumentation@2.2?classifier=sources
 - pkg:maven/com.squareup.leakcanary/leakcanary-android-instrumentation@2.2?type=aar
+- pkg:maven/com.squareup.leakcanary/leakcanary-android-instrumentation@2.3?classifier=sources
+- pkg:maven/com.squareup.leakcanary/leakcanary-android-instrumentation@2.3?type=aar

@@ -4,3 +4,5 @@
 - pkg:maven/com.aamend.spark/spark-gdelt@1.1?classifier=sources
 - pkg:maven/com.aamend.spark/spark-gdelt@2.0
 - pkg:maven/com.aamend.spark/spark-gdelt@2.0?classifier=sources
+- pkg:maven/com.aamend.spark/spark-gdelt@2.1
+- pkg:maven/com.aamend.spark/spark-gdelt@2.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.yesql4j/yesql4j-reactor@0.1-beta
+- pkg:maven/com.yesql4j/yesql4j-reactor@0.1-beta?classifier=sources
+- pkg:maven/com.yesql4j/yesql4j-reactor@0.1.1-beta
+- pkg:maven/com.yesql4j/yesql4j-reactor@0.1.1-beta?classifier=sources

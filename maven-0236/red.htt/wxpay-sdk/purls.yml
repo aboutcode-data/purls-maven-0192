@@ -1,0 +1,2 @@
+- pkg:maven/red.htt/wxpay-sdk@3.0.9
+- pkg:maven/red.htt/wxpay-sdk@3.0.9?classifier=sources

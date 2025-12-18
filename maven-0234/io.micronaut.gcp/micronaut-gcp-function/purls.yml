@@ -1,0 +1,2 @@
+- pkg:maven/io.micronaut.gcp/micronaut-gcp-function@2.0.0.M3
+- pkg:maven/io.micronaut.gcp/micronaut-gcp-function@2.0.0.M3?classifier=sources

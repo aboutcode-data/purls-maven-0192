@@ -1,2 +1,4 @@
 - pkg:maven/cn.6tail/nlf2-plugin-session@1.8.9
+- pkg:maven/cn.6tail/nlf2-plugin-session@1.8.93
+- pkg:maven/cn.6tail/nlf2-plugin-session@1.8.93?classifier=sources
 - pkg:maven/cn.6tail/nlf2-plugin-session@1.8.9?classifier=sources

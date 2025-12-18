@@ -1,0 +1,8 @@
+- pkg:maven/one.empty3/montemedia@0.0.7
+- pkg:maven/one.empty3/montemedia@0.0.7-1
+- pkg:maven/one.empty3/montemedia@0.0.7-1?classifier=sources
+- pkg:maven/one.empty3/montemedia@0.0.7-2
+- pkg:maven/one.empty3/montemedia@0.0.7-2?classifier=sources
+- pkg:maven/one.empty3/montemedia@0.0.7-4-Snapshot
+- pkg:maven/one.empty3/montemedia@0.0.7-4-Snapshot?classifier=sources
+- pkg:maven/one.empty3/montemedia@0.0.7?classifier=sources

@@ -26,3 +26,13 @@
 - pkg:maven/com.karumi/shot@3.0.2?classifier=sources
 - pkg:maven/com.karumi/shot@3.1.0
 - pkg:maven/com.karumi/shot@3.1.0?classifier=sources
+- pkg:maven/com.karumi/shot@4.0.0
+- pkg:maven/com.karumi/shot@4.0.0?classifier=sources
+- pkg:maven/com.karumi/shot@4.1.0
+- pkg:maven/com.karumi/shot@4.1.0?classifier=sources
+- pkg:maven/com.karumi/shot@4.1.1
+- pkg:maven/com.karumi/shot@4.1.1?classifier=sources
+- pkg:maven/com.karumi/shot@4.2.0
+- pkg:maven/com.karumi/shot@4.2.0?classifier=sources
+- pkg:maven/com.karumi/shot@4.3.0
+- pkg:maven/com.karumi/shot@4.3.0?classifier=sources

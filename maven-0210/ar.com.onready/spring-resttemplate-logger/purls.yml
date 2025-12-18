@@ -1,0 +1,2 @@
+- pkg:maven/ar.com.onready/spring-resttemplate-logger@1.0.2
+- pkg:maven/ar.com.onready/spring-resttemplate-logger@1.0.2?classifier=sources

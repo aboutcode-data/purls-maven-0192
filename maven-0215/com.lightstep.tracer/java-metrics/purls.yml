@@ -1,0 +1,6 @@
+- pkg:maven/com.lightstep.tracer/java-metrics@0.1.1
+- pkg:maven/com.lightstep.tracer/java-metrics@0.1.1?classifier=sources
+- pkg:maven/com.lightstep.tracer/java-metrics@0.21.0
+- pkg:maven/com.lightstep.tracer/java-metrics@0.21.0?classifier=sources
+- pkg:maven/com.lightstep.tracer/java-metrics@0.21.1
+- pkg:maven/com.lightstep.tracer/java-metrics@0.21.1?classifier=sources

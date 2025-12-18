@@ -6,3 +6,9 @@
 - pkg:maven/com.github.robozonky.distribution/robozonky-distribution-aggregate@5.7.0-cr-1
 - pkg:maven/com.github.robozonky.distribution/robozonky-distribution-aggregate@5.7.1
 - pkg:maven/com.github.robozonky.distribution/robozonky-distribution-aggregate@5.7.2
+- pkg:maven/com.github.robozonky.distribution/robozonky-distribution-aggregate@5.7.3
+- pkg:maven/com.github.robozonky.distribution/robozonky-distribution-aggregate@5.7.4
+- pkg:maven/com.github.robozonky.distribution/robozonky-distribution-aggregate@5.8.0
+- pkg:maven/com.github.robozonky.distribution/robozonky-distribution-aggregate@5.8.0-cr-2
+- pkg:maven/com.github.robozonky.distribution/robozonky-distribution-aggregate@5.8.1
+- pkg:maven/com.github.robozonky.distribution/robozonky-distribution-aggregate@5.8.2

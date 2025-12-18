@@ -1,0 +1,2 @@
+- pkg:maven/com.vmware.avi.sdk/avisdk@18.2.8-beta-1
+- pkg:maven/com.vmware.avi.sdk/avisdk@18.2.8-beta-1?classifier=sources

@@ -10,6 +10,10 @@
 - pkg:maven/edu.gemini/gsp-math_2.13@0.1.14?classifier=sources
 - pkg:maven/edu.gemini/gsp-math_2.13@0.1.15
 - pkg:maven/edu.gemini/gsp-math_2.13@0.1.15?classifier=sources
+- pkg:maven/edu.gemini/gsp-math_2.13@0.1.16
+- pkg:maven/edu.gemini/gsp-math_2.13@0.1.16?classifier=sources
+- pkg:maven/edu.gemini/gsp-math_2.13@0.1.17
+- pkg:maven/edu.gemini/gsp-math_2.13@0.1.17?classifier=sources
 - pkg:maven/edu.gemini/gsp-math_2.13@0.1.2
 - pkg:maven/edu.gemini/gsp-math_2.13@0.1.2?classifier=sources
 - pkg:maven/edu.gemini/gsp-math_2.13@0.1.3
@@ -24,3 +28,5 @@
 - pkg:maven/edu.gemini/gsp-math_2.13@0.1.8?classifier=sources
 - pkg:maven/edu.gemini/gsp-math_2.13@0.1.9
 - pkg:maven/edu.gemini/gsp-math_2.13@0.1.9?classifier=sources
+- pkg:maven/edu.gemini/gsp-math_2.13@0.2.0
+- pkg:maven/edu.gemini/gsp-math_2.13@0.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@1.0.3
+- pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@1.0.3?classifier=sources

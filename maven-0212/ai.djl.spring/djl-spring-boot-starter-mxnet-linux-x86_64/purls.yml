@@ -1,0 +1,2 @@
+- pkg:maven/ai.djl.spring/djl-spring-boot-starter-mxnet-linux-x86_64@0.2
+- pkg:maven/ai.djl.spring/djl-spring-boot-starter-mxnet-linux-x86_64@0.5

@@ -1,2 +1,4 @@
 - pkg:maven/org.hibernate.build.gradle/hibernate-matrix-testing@2.0.0.Final
 - pkg:maven/org.hibernate.build.gradle/hibernate-matrix-testing@2.0.0.Final?classifier=sources
+- pkg:maven/org.hibernate.build.gradle/hibernate-matrix-testing@3.0.0.Final
+- pkg:maven/org.hibernate.build.gradle/hibernate-matrix-testing@3.0.0.Final?classifier=sources

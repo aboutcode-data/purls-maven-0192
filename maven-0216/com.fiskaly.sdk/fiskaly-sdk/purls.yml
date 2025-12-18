@@ -1,0 +1,8 @@
+- pkg:maven/com.fiskaly.sdk/fiskaly-sdk@1.1.301-android?classifier=sources
+- pkg:maven/com.fiskaly.sdk/fiskaly-sdk@1.1.301-jre?classifier=sources
+- pkg:maven/com.fiskaly.sdk/fiskaly-sdk@1.1.401-android?classifier=sources
+- pkg:maven/com.fiskaly.sdk/fiskaly-sdk@1.1.401-jre?classifier=sources
+- pkg:maven/com.fiskaly.sdk/fiskaly-sdk@1.1.500-android
+- pkg:maven/com.fiskaly.sdk/fiskaly-sdk@1.1.500-android?classifier=sources
+- pkg:maven/com.fiskaly.sdk/fiskaly-sdk@1.1.500-jre
+- pkg:maven/com.fiskaly.sdk/fiskaly-sdk@1.1.500-jre?classifier=sources

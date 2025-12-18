@@ -12,3 +12,5 @@
 - pkg:maven/com.addc/addc-tag@2.5.2
 - pkg:maven/com.addc/addc-tag@2.5.2?classifier=sources
 - pkg:maven/com.addc/addc-tag@2.5?classifier=sources
+- pkg:maven/com.addc/addc-tag@2.6
+- pkg:maven/com.addc/addc-tag@2.6?classifier=sources

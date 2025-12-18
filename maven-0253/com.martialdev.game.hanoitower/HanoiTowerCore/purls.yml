@@ -1,0 +1,2 @@
+- pkg:maven/com.martialdev.game.hanoitower/HanoiTowerCore@1.2
+- pkg:maven/com.martialdev.game.hanoitower/HanoiTowerCore@1.2?classifier=sources

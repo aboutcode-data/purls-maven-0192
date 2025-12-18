@@ -6,3 +6,4 @@
 - pkg:maven/com.github.dreamhead/moco-junit@0.12.0?classifier=sources
 - pkg:maven/com.github.dreamhead/moco-junit@1.0.0
 - pkg:maven/com.github.dreamhead/moco-junit@1.0.0?classifier=sources
+- pkg:maven/com.github.dreamhead/moco-junit@1.1.0?classifier=sources

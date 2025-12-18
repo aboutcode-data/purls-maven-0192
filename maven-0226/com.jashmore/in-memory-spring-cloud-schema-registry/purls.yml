@@ -1,0 +1,2 @@
+- pkg:maven/com.jashmore/in-memory-spring-cloud-schema-registry@3.1.0
+- pkg:maven/com.jashmore/in-memory-spring-cloud-schema-registry@3.1.0?classifier=sources

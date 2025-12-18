@@ -2,3 +2,5 @@
 - pkg:maven/com.github.akvone/update-image-maven-plugin@0.5.2?classifier=sources
 - pkg:maven/com.github.akvone/update-image-maven-plugin@0.5.3
 - pkg:maven/com.github.akvone/update-image-maven-plugin@0.5.3?classifier=sources
+- pkg:maven/com.github.akvone/update-image-maven-plugin@0.6.0
+- pkg:maven/com.github.akvone/update-image-maven-plugin@0.6.0?classifier=sources
