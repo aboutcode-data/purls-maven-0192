@@ -23,3 +23,4 @@
 - pkg:maven/com.tencent.bk.devops.ci.monitoring/api-monitoring@1.5.8-RELEASE?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.monitoring/api-monitoring@1.6.0-RC.11-RELEASE?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.monitoring/api-monitoring@1.6.0-RC.9-RELEASE?classifier=sources
+- pkg:maven/com.tencent.bk.devops.ci.monitoring/api-monitoring@1.8.0-alpha.1-RELEASE?classifier=sources

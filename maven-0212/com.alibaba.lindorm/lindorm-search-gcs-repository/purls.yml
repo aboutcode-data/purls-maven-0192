@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.lindorm/lindorm-search-gcs-repository@8.9.0
+- pkg:maven/com.alibaba.lindorm/lindorm-search-gcs-repository@8.9.0?classifier=sources

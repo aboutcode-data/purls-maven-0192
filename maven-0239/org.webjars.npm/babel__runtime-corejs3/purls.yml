@@ -10,5 +10,7 @@
 - pkg:maven/org.webjars.npm/babel__runtime-corejs3@7.14.9?classifier=sources
 - pkg:maven/org.webjars.npm/babel__runtime-corejs3@7.15.4
 - pkg:maven/org.webjars.npm/babel__runtime-corejs3@7.15.4?classifier=sources
+- pkg:maven/org.webjars.npm/babel__runtime-corejs3@7.16.0
+- pkg:maven/org.webjars.npm/babel__runtime-corejs3@7.16.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel__runtime-corejs3@7.5.5
 - pkg:maven/org.webjars.npm/babel__runtime-corejs3@7.5.5?classifier=sources

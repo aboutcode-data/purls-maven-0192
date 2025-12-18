@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/rc-resize-observer@0.2.3?classifier=sources
 - pkg:maven/org.webjars.npm/rc-resize-observer@0.2.6
 - pkg:maven/org.webjars.npm/rc-resize-observer@0.2.6?classifier=sources
+- pkg:maven/org.webjars.npm/rc-resize-observer@1.0.1
+- pkg:maven/org.webjars.npm/rc-resize-observer@1.0.1?classifier=sources

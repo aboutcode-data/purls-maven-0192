@@ -1,1 +1,2 @@
 - pkg:maven/bg.devlabs/fullscreen-video-view@1.1.6?classifier=sources
+- pkg:maven/bg.devlabs/fullscreen-video-view@1.2.0?classifier=sources

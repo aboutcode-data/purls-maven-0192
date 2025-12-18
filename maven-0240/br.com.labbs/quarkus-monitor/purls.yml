@@ -6,3 +6,5 @@
 - pkg:maven/br.com.labbs/quarkus-monitor@0.1.7?classifier=sources
 - pkg:maven/br.com.labbs/quarkus-monitor@0.2.0
 - pkg:maven/br.com.labbs/quarkus-monitor@0.2.0?classifier=sources
+- pkg:maven/br.com.labbs/quarkus-monitor@0.3.0
+- pkg:maven/br.com.labbs/quarkus-monitor@0.3.0?classifier=sources

@@ -1,2 +1,4 @@
+- pkg:maven/com.chimerapps/discovery-lib@1.3.4?classifier=sources
 - pkg:maven/com.chimerapps/discovery-lib@2.12.0?classifier=sources
 - pkg:maven/com.chimerapps/discovery-lib@3.0.0?classifier=sources
+- pkg:maven/com.chimerapps/discovery-lib@4.0.0?classifier=sources

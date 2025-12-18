@@ -12,6 +12,16 @@
 - pkg:maven/sh.ory/ory-client@0.0.1-alpha.15?classifier=sources
 - pkg:maven/sh.ory/ory-client@0.0.1-alpha.21
 - pkg:maven/sh.ory/ory-client@0.0.1-alpha.21?classifier=sources
+- pkg:maven/sh.ory/ory-client@0.0.1-alpha.23
+- pkg:maven/sh.ory/ory-client@0.0.1-alpha.23?classifier=sources
+- pkg:maven/sh.ory/ory-client@0.0.1-alpha.24
+- pkg:maven/sh.ory/ory-client@0.0.1-alpha.24?classifier=sources
+- pkg:maven/sh.ory/ory-client@0.0.1-alpha.27
+- pkg:maven/sh.ory/ory-client@0.0.1-alpha.27?classifier=sources
+- pkg:maven/sh.ory/ory-client@0.0.1-alpha.29
+- pkg:maven/sh.ory/ory-client@0.0.1-alpha.29?classifier=sources
+- pkg:maven/sh.ory/ory-client@0.0.1-alpha.30
+- pkg:maven/sh.ory/ory-client@0.0.1-alpha.30?classifier=sources
 - pkg:maven/sh.ory/ory-client@0.0.1-alpha.5
 - pkg:maven/sh.ory/ory-client@0.0.1-alpha.5?classifier=sources
 - pkg:maven/sh.ory/ory-client@0.0.1-alpha.6

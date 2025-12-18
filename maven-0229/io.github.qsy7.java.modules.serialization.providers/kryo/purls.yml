@@ -1,0 +1,2 @@
+- pkg:maven/io.github.qsy7.java.modules.serialization.providers/kryo@0.1.1
+- pkg:maven/io.github.qsy7.java.modules.serialization.providers/kryo@0.1.1?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/com.xilinx.rapidwright/jupyter-kernel-jsr223@1.0.0?classifier=sources

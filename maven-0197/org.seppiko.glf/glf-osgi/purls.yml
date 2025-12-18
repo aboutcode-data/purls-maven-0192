@@ -1,0 +1,2 @@
+- pkg:maven/org.seppiko.glf/glf-osgi@1.4.RELEASE
+- pkg:maven/org.seppiko.glf/glf-osgi@1.4.RELEASE?classifier=sources

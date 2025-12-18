@@ -11,6 +11,7 @@
 - pkg:maven/org.openurp.edu.finalmakeup/openurp-edu-finalmakeup-adminapp@0.0.16?classifier=sources
 - pkg:maven/org.openurp.edu.finalmakeup/openurp-edu-finalmakeup-adminapp@0.0.16?type=war
 - pkg:maven/org.openurp.edu.finalmakeup/openurp-edu-finalmakeup-adminapp@0.0.19?classifier=sources
+- pkg:maven/org.openurp.edu.finalmakeup/openurp-edu-finalmakeup-adminapp@0.0.20?classifier=sources
 - pkg:maven/org.openurp.edu.finalmakeup/openurp-edu-finalmakeup-adminapp@0.0.2?classifier=sources
 - pkg:maven/org.openurp.edu.finalmakeup/openurp-edu-finalmakeup-adminapp@0.0.2?type=war
 - pkg:maven/org.openurp.edu.finalmakeup/openurp-edu-finalmakeup-adminapp@0.0.3?classifier=sources

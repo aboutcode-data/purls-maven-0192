@@ -8,3 +8,5 @@
 - pkg:maven/ca.nexapp/nexapp-tracing@1.0.0?classifier=sources
 - pkg:maven/ca.nexapp/nexapp-tracing@2.0.0
 - pkg:maven/ca.nexapp/nexapp-tracing@2.0.0?classifier=sources
+- pkg:maven/ca.nexapp/nexapp-tracing@2.0.1
+- pkg:maven/ca.nexapp/nexapp-tracing@2.0.1?classifier=sources

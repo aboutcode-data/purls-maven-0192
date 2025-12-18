@@ -1,0 +1,2 @@
+- pkg:maven/org.jeecgframework.boot/jeecg-boot-base-tools@3.0
+- pkg:maven/org.jeecgframework.boot/jeecg-boot-base-tools@3.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.nifi.registry/nifi-registry-web-docs@0.7.0?type=war
 - pkg:maven/org.apache.nifi.registry/nifi-registry-web-docs@0.8.0?type=war
 - pkg:maven/org.apache.nifi.registry/nifi-registry-web-docs@1.14.0?type=war
+- pkg:maven/org.apache.nifi.registry/nifi-registry-web-docs@1.15.0?type=war
+- pkg:maven/org.apache.nifi.registry/nifi-registry-web-docs@1.15.1?type=war

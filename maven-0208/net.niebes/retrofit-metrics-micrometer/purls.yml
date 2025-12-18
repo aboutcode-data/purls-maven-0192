@@ -16,6 +16,10 @@
 - pkg:maven/net.niebes/retrofit-metrics-micrometer@1.11.1?classifier=sources
 - pkg:maven/net.niebes/retrofit-metrics-micrometer@1.11.2
 - pkg:maven/net.niebes/retrofit-metrics-micrometer@1.11.2?classifier=sources
+- pkg:maven/net.niebes/retrofit-metrics-micrometer@1.12.0
+- pkg:maven/net.niebes/retrofit-metrics-micrometer@1.12.0?classifier=sources
+- pkg:maven/net.niebes/retrofit-metrics-micrometer@1.13.0
+- pkg:maven/net.niebes/retrofit-metrics-micrometer@1.13.0?classifier=sources
 - pkg:maven/net.niebes/retrofit-metrics-micrometer@1.2.0
 - pkg:maven/net.niebes/retrofit-metrics-micrometer@1.2.0?classifier=sources
 - pkg:maven/net.niebes/retrofit-metrics-micrometer@1.4.0

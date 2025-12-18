@@ -2,3 +2,5 @@
 - pkg:maven/net.wicp.tams/common-mybatis@3.6.16?classifier=sources
 - pkg:maven/net.wicp.tams/common-mybatis@3.6.17
 - pkg:maven/net.wicp.tams/common-mybatis@3.6.17?classifier=sources
+- pkg:maven/net.wicp.tams/common-mybatis@3.6.19
+- pkg:maven/net.wicp.tams/common-mybatis@3.6.19?classifier=sources

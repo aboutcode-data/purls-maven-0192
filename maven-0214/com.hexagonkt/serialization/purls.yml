@@ -1,0 +1,2 @@
+- pkg:maven/com.hexagonkt/serialization@1.4.10?classifier=sources
+- pkg:maven/com.hexagonkt/serialization@1.4.11?classifier=sources

@@ -24,3 +24,7 @@
 - pkg:maven/io.trino/trino-verifier@362?classifier=sources
 - pkg:maven/io.trino/trino-verifier@363
 - pkg:maven/io.trino/trino-verifier@363?classifier=sources
+- pkg:maven/io.trino/trino-verifier@364
+- pkg:maven/io.trino/trino-verifier@364?classifier=sources
+- pkg:maven/io.trino/trino-verifier@365
+- pkg:maven/io.trino/trino-verifier@365?classifier=sources

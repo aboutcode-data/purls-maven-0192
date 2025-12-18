@@ -129,6 +129,7 @@
 - pkg:maven/io.dropwizard.archetypes/java-simple@2.0.23?classifier=sources
 - pkg:maven/io.dropwizard.archetypes/java-simple@2.0.24?classifier=sources
 - pkg:maven/io.dropwizard.archetypes/java-simple@2.0.25?classifier=sources
+- pkg:maven/io.dropwizard.archetypes/java-simple@2.0.26?classifier=sources
 - pkg:maven/io.dropwizard.archetypes/java-simple@2.0.2?classifier=sources
 - pkg:maven/io.dropwizard.archetypes/java-simple@2.0.3?classifier=sources
 - pkg:maven/io.dropwizard.archetypes/java-simple@2.0.4?classifier=sources
@@ -141,3 +142,4 @@
 - pkg:maven/io.dropwizard.archetypes/java-simple@2.1.0-beta.2?classifier=sources
 - pkg:maven/io.dropwizard.archetypes/java-simple@2.1.0-beta.3?classifier=sources
 - pkg:maven/io.dropwizard.archetypes/java-simple@2.1.0-beta.4?classifier=sources
+- pkg:maven/io.dropwizard.archetypes/java-simple@2.1.0-beta.5?classifier=sources

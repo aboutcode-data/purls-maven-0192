@@ -64,6 +64,9 @@
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@2.0.29?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@2.0.3
+- pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@2.0.30
+- pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@2.0.30?classifier=sources
+- pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@2.0.30?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@2.0.4
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@2.0.4?classifier=sources
@@ -253,6 +256,9 @@
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@6.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@6.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@6.0.1
+- pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@6.0.10
+- pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@6.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@6.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@6.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@6.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@6.0.2
@@ -276,3 +282,6 @@
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@6.0.8
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@6.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@6.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@6.0.9
+- pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@6.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.ratings.page.ratings.web@6.0.9?classifier=sources-commercial

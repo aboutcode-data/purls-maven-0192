@@ -76,6 +76,14 @@
 - pkg:maven/com.daml/http-json-db-backend_2.12@1.11.2-snapshot.20210610.6433.1.a08f6ea2
 - pkg:maven/com.daml/http-json-db-backend_2.12@1.11.2-snapshot.20210610.6433.1.a08f6ea2?classifier=sources
 - pkg:maven/com.daml/http-json-db-backend_2.12@1.11.2?classifier=sources
+- pkg:maven/com.daml/http-json-db-backend_2.12@1.11.3
+- pkg:maven/com.daml/http-json-db-backend_2.12@1.11.3-snapshot.20211110.6439.0.632ba5a7
+- pkg:maven/com.daml/http-json-db-backend_2.12@1.11.3-snapshot.20211110.6439.0.632ba5a7?classifier=sources
+- pkg:maven/com.daml/http-json-db-backend_2.12@1.11.3-snapshot.20211111.6441.0.eed4ad32
+- pkg:maven/com.daml/http-json-db-backend_2.12@1.11.3-snapshot.20211111.6441.0.eed4ad32?classifier=sources
+- pkg:maven/com.daml/http-json-db-backend_2.12@1.11.3-snapshot.20211123.6448.0.c679b4ab
+- pkg:maven/com.daml/http-json-db-backend_2.12@1.11.3-snapshot.20211123.6448.0.c679b4ab?classifier=sources
+- pkg:maven/com.daml/http-json-db-backend_2.12@1.11.3?classifier=sources
 - pkg:maven/com.daml/http-json-db-backend_2.12@1.12.0
 - pkg:maven/com.daml/http-json-db-backend_2.12@1.12.0-snapshot.20210309.6463.0.f7abca91
 - pkg:maven/com.daml/http-json-db-backend_2.12@1.12.0-snapshot.20210309.6463.0.f7abca91?classifier=sources

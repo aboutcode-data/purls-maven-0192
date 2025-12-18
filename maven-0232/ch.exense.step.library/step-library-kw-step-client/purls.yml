@@ -1,5 +1,7 @@
 - pkg:maven/ch.exense.step.library/step-library-kw-step-client@1.0.10
 - pkg:maven/ch.exense.step.library/step-library-kw-step-client@1.0.10?classifier=sources
+- pkg:maven/ch.exense.step.library/step-library-kw-step-client@1.0.11
+- pkg:maven/ch.exense.step.library/step-library-kw-step-client@1.0.11?classifier=sources
 - pkg:maven/ch.exense.step.library/step-library-kw-step-client@1.0.3
 - pkg:maven/ch.exense.step.library/step-library-kw-step-client@1.0.3?classifier=sources
 - pkg:maven/ch.exense.step.library/step-library-kw-step-client@1.0.4

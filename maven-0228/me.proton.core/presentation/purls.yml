@@ -1,3 +1,4 @@
+- pkg:maven/me.proton.core/presentation@0.0.1-alpha01?classifier=sources
 - pkg:maven/me.proton.core/presentation@0.10.1?classifier=sources
 - pkg:maven/me.proton.core/presentation@0.10.2?classifier=sources
 - pkg:maven/me.proton.core/presentation@0.10.3?classifier=sources
@@ -48,6 +49,8 @@
 - pkg:maven/me.proton.core/presentation@1.16?classifier=sources
 - pkg:maven/me.proton.core/presentation@1.17?classifier=sources
 - pkg:maven/me.proton.core/presentation@1.18.1?classifier=sources
+- pkg:maven/me.proton.core/presentation@1.18.2?classifier=sources
+- pkg:maven/me.proton.core/presentation@1.18.3?classifier=sources
 - pkg:maven/me.proton.core/presentation@1.18?classifier=sources
 - pkg:maven/me.proton.core/presentation@1.5.2?classifier=sources
 - pkg:maven/me.proton.core/presentation@1.5.3?classifier=sources
@@ -55,3 +58,6 @@
 - pkg:maven/me.proton.core/presentation@1.5.5?classifier=sources
 - pkg:maven/me.proton.core/presentation@1.6.1?classifier=sources
 - pkg:maven/me.proton.core/presentation@1.6?classifier=sources
+- pkg:maven/me.proton.core/presentation@2.0.0-alpha01?classifier=sources
+- pkg:maven/me.proton.core/presentation@2.0.0?classifier=sources
+- pkg:maven/me.proton.core/presentation@3.0.0?classifier=sources

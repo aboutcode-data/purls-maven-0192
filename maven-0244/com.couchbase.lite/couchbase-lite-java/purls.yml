@@ -32,3 +32,5 @@
 - pkg:maven/com.couchbase.lite/couchbase-lite-java@2.8.4?classifier=sources
 - pkg:maven/com.couchbase.lite/couchbase-lite-java@3.0.0-beta01
 - pkg:maven/com.couchbase.lite/couchbase-lite-java@3.0.0-beta01?classifier=sources
+- pkg:maven/com.couchbase.lite/couchbase-lite-java@3.0.0-beta02
+- pkg:maven/com.couchbase.lite/couchbase-lite-java@3.0.0-beta02?classifier=sources

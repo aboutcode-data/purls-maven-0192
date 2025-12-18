@@ -14,3 +14,5 @@
 - pkg:maven/com.cognitect.aws/textract@809.2.797.0?classifier=sources
 - pkg:maven/com.cognitect.aws/textract@811.2.958.0
 - pkg:maven/com.cognitect.aws/textract@811.2.958.0?classifier=sources
+- pkg:maven/com.cognitect.aws/textract@814.2.1023.0
+- pkg:maven/com.cognitect.aws/textract@814.2.1023.0?classifier=sources

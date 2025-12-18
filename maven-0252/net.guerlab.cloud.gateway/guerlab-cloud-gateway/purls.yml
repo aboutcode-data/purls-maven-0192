@@ -1,2 +1,4 @@
+- pkg:maven/net.guerlab.cloud.gateway/guerlab-cloud-gateway@2022.0.0
+- pkg:maven/net.guerlab.cloud.gateway/guerlab-cloud-gateway@2022.0.0?classifier=sources
 - pkg:maven/net.guerlab.cloud.gateway/guerlab-cloud-gateway@21.11.0
 - pkg:maven/net.guerlab.cloud.gateway/guerlab-cloud-gateway@21.11.0?classifier=sources

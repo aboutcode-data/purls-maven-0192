@@ -140,6 +140,12 @@
 - pkg:maven/com.googlecode.libphonenumber/carrier@1.161?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/carrier@1.162
 - pkg:maven/com.googlecode.libphonenumber/carrier@1.162?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/carrier@1.163
+- pkg:maven/com.googlecode.libphonenumber/carrier@1.163?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/carrier@1.164
+- pkg:maven/com.googlecode.libphonenumber/carrier@1.164?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/carrier@1.165
+- pkg:maven/com.googlecode.libphonenumber/carrier@1.165?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/carrier@1.16?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/carrier@1.17
 - pkg:maven/com.googlecode.libphonenumber/carrier@1.17?classifier=sources

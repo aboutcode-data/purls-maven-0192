@@ -8,3 +8,5 @@
 - pkg:maven/video.api/android-video-uploader@0.0.6?type=aar
 - pkg:maven/video.api/android-video-uploader@0.0.7?classifier=sources
 - pkg:maven/video.api/android-video-uploader@0.0.7?type=aar
+- pkg:maven/video.api/android-video-uploader@0.1.0
+- pkg:maven/video.api/android-video-uploader@0.1.0?classifier=sources

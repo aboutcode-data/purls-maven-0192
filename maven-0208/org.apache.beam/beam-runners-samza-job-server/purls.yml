@@ -31,3 +31,4 @@
 - pkg:maven/org.apache.beam/beam-runners-samza-job-server@2.31.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-samza-job-server@2.32.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-samza-job-server@2.33.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-samza-job-server@2.34.0?classifier=sources

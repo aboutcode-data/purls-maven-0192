@@ -2,3 +2,4 @@
 - pkg:maven/de.vinado.boot/spring-boot-starter-dkim-javamail@1.1.0
 - pkg:maven/de.vinado.boot/spring-boot-starter-dkim-javamail@1.2.0
 - pkg:maven/de.vinado.boot/spring-boot-starter-dkim-javamail@1.2.1
+- pkg:maven/de.vinado.boot/spring-boot-starter-dkim-javamail@1.2.2

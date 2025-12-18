@@ -2,3 +2,6 @@
 - pkg:maven/com.nhn.gameanvil/gamehammer@1.2.0-jdk11?classifier=sources
 - pkg:maven/com.nhn.gameanvil/gamehammer@1.2.0-jdk8
 - pkg:maven/com.nhn.gameanvil/gamehammer@1.2.0-jdk8?classifier=sources
+- pkg:maven/com.nhn.gameanvil/gamehammer@1.2.1-jdk11
+- pkg:maven/com.nhn.gameanvil/gamehammer@1.2.1-jdk11?classifier=sources
+- pkg:maven/com.nhn.gameanvil/gamehammer@1.2.1-jdk8

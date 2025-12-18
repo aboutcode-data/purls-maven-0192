@@ -1,0 +1,2 @@
+- pkg:maven/dev.cerus.advance/test-plugin@1.0.0
+- pkg:maven/dev.cerus.advance/test-plugin@1.0.0?classifier=sources

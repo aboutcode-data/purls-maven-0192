@@ -1,1 +1,2 @@
 - pkg:maven/com.agorapulse/micronaut-aws-sdk-kinesis-worker@1.5.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-aws-sdk-kinesis-worker@1.5.1?classifier=sources

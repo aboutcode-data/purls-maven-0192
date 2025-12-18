@@ -1,2 +1,8 @@
 - pkg:maven/io.github.agdturner/ccg-v3d@0.10
 - pkg:maven/io.github.agdturner/ccg-v3d@0.10?classifier=sources
+- pkg:maven/io.github.agdturner/ccg-v3d@0.11
+- pkg:maven/io.github.agdturner/ccg-v3d@0.11?classifier=sources
+- pkg:maven/io.github.agdturner/ccg-v3d@0.12
+- pkg:maven/io.github.agdturner/ccg-v3d@0.12?classifier=sources
+- pkg:maven/io.github.agdturner/ccg-v3d@0.13
+- pkg:maven/io.github.agdturner/ccg-v3d@0.13?classifier=sources

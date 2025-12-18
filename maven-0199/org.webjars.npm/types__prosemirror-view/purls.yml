@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/types__prosemirror-view@1.17.2
 - pkg:maven/org.webjars.npm/types__prosemirror-view@1.17.2?classifier=sources
+- pkg:maven/org.webjars.npm/types__prosemirror-view@1.19.1
+- pkg:maven/org.webjars.npm/types__prosemirror-view@1.19.1?classifier=sources

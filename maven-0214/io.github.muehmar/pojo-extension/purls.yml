@@ -5,3 +5,11 @@
 - pkg:maven/io.github.muehmar/pojo-extension@0.2.3?classifier=sources
 - pkg:maven/io.github.muehmar/pojo-extension@0.2.4?classifier=sources
 - pkg:maven/io.github.muehmar/pojo-extension@0.2.5?classifier=sources
+- pkg:maven/io.github.muehmar/pojo-extension@0.3.0?classifier=sources
+- pkg:maven/io.github.muehmar/pojo-extension@0.3.1?classifier=sources
+- pkg:maven/io.github.muehmar/pojo-extension@0.4.0?classifier=sources
+- pkg:maven/io.github.muehmar/pojo-extension@0.5.0?classifier=sources
+- pkg:maven/io.github.muehmar/pojo-extension@0.6.0?classifier=sources
+- pkg:maven/io.github.muehmar/pojo-extension@0.7.0?classifier=sources
+- pkg:maven/io.github.muehmar/pojo-extension@0.7.1?classifier=sources
+- pkg:maven/io.github.muehmar/pojo-extension@0.7.2?classifier=sources

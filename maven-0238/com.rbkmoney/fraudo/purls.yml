@@ -14,3 +14,9 @@
 - pkg:maven/com.rbkmoney/fraudo@0.0.21?classifier=sources
 - pkg:maven/com.rbkmoney/fraudo@0.0.22
 - pkg:maven/com.rbkmoney/fraudo@0.0.22?classifier=sources
+- pkg:maven/com.rbkmoney/fraudo@0.0.23
+- pkg:maven/com.rbkmoney/fraudo@0.0.23?classifier=sources
+- pkg:maven/com.rbkmoney/fraudo@0.1.0
+- pkg:maven/com.rbkmoney/fraudo@0.1.0?classifier=sources
+- pkg:maven/com.rbkmoney/fraudo@0.2.0
+- pkg:maven/com.rbkmoney/fraudo@0.2.0?classifier=sources

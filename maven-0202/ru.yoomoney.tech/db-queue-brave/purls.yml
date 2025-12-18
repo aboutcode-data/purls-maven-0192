@@ -3,3 +3,4 @@
 - pkg:maven/ru.yoomoney.tech/db-queue-brave@13.1.0?classifier=sources
 - pkg:maven/ru.yoomoney.tech/db-queue-brave@14.0.0?classifier=sources
 - pkg:maven/ru.yoomoney.tech/db-queue-brave@15.0.0?classifier=sources
+- pkg:maven/ru.yoomoney.tech/db-queue-brave@15.0.1?classifier=sources

@@ -2,5 +2,7 @@
 - pkg:maven/com.sobot.library/picture@0.1?type=aar
 - pkg:maven/com.sobot.library/picture@0.2?classifier=sources
 - pkg:maven/com.sobot.library/picture@0.2?type=aar
+- pkg:maven/com.sobot.library/picture@1.0.1?classifier=sources
+- pkg:maven/com.sobot.library/picture@1.0.1?type=aar
 - pkg:maven/com.sobot.library/picture@1.0?classifier=sources
 - pkg:maven/com.sobot.library/picture@1.0?type=aar

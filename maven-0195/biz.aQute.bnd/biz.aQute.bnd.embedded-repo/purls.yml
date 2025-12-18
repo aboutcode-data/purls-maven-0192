@@ -18,3 +18,5 @@
 - pkg:maven/biz.aQute.bnd/biz.aQute.bnd.embedded-repo@5.3.0?classifier=sources
 - pkg:maven/biz.aQute.bnd/biz.aQute.bnd.embedded-repo@6.0.0
 - pkg:maven/biz.aQute.bnd/biz.aQute.bnd.embedded-repo@6.0.0?classifier=sources
+- pkg:maven/biz.aQute.bnd/biz.aQute.bnd.embedded-repo@6.1.0
+- pkg:maven/biz.aQute.bnd/biz.aQute.bnd.embedded-repo@6.1.0?classifier=sources

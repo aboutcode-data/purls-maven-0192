@@ -44,3 +44,5 @@
 - pkg:maven/com.thoughtworks.qdox/qdox@2.0-M9?classifier=sources
 - pkg:maven/com.thoughtworks.qdox/qdox@2.0.0
 - pkg:maven/com.thoughtworks.qdox/qdox@2.0.0?classifier=sources
+- pkg:maven/com.thoughtworks.qdox/qdox@2.0.1
+- pkg:maven/com.thoughtworks.qdox/qdox@2.0.1?classifier=sources

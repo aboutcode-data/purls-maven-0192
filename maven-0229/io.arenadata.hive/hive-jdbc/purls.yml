@@ -1,0 +1,2 @@
+- pkg:maven/io.arenadata.hive/hive-jdbc@2.3.8-arenadata-pxf-1
+- pkg:maven/io.arenadata.hive/hive-jdbc@2.3.8-arenadata-pxf-1?classifier=sources

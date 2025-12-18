@@ -1,2 +1,6 @@
 - pkg:maven/com.gantzgulch.tools/gantzgulch-logging-slf4j@1.0.22
 - pkg:maven/com.gantzgulch.tools/gantzgulch-logging-slf4j@1.0.22?classifier=sources
+- pkg:maven/com.gantzgulch.tools/gantzgulch-logging-slf4j@1.0.23
+- pkg:maven/com.gantzgulch.tools/gantzgulch-logging-slf4j@1.0.23?classifier=sources
+- pkg:maven/com.gantzgulch.tools/gantzgulch-logging-slf4j@1.0.24
+- pkg:maven/com.gantzgulch.tools/gantzgulch-logging-slf4j@1.0.24?classifier=sources

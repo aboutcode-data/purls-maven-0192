@@ -18,6 +18,8 @@
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-webapp@3.3.4?type=war
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-webapp@3.3.5?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-webapp@3.3.5?type=war
+- pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-webapp@3.3.6?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-webapp@3.3.6?type=war
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-webapp@3.4.0?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-webapp@3.4.0?type=war
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-webapp@3.4.1?classifier=sources
@@ -26,6 +28,8 @@
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-webapp@3.5.0?type=war
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-webapp@3.5.1?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-webapp@3.5.1?type=war
+- pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-webapp@3.5.2?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-webapp@3.5.2?type=war
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-webapp@4.0.0-PR.1?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-webapp@4.0.0-PR.1?type=war
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-webapp@4.0.0-PR.2?classifier=sources

@@ -17,3 +17,5 @@
 - pkg:maven/com.unstoppabledomains/resolution@1.9.1?classifier=sources
 - pkg:maven/com.unstoppabledomains/resolution@2.0.0?classifier=sources
 - pkg:maven/com.unstoppabledomains/resolution@3.0.0?classifier=sources
+- pkg:maven/com.unstoppabledomains/resolution@4.0.0?classifier=sources
+- pkg:maven/com.unstoppabledomains/resolution@5.0.0?classifier=sources

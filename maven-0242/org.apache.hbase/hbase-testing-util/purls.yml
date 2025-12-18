@@ -354,5 +354,7 @@
 - pkg:maven/org.apache.hbase/hbase-testing-util@2.4.6?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-testing-util@2.4.7
 - pkg:maven/org.apache.hbase/hbase-testing-util@2.4.7?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-testing-util@2.4.8
+- pkg:maven/org.apache.hbase/hbase-testing-util@2.4.8?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-testing-util@3.0.0-alpha-1
 - pkg:maven/org.apache.hbase/hbase-testing-util@3.0.0-alpha-1?classifier=sources

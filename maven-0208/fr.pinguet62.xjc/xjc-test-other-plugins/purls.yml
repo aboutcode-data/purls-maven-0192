@@ -2,3 +2,5 @@
 - pkg:maven/fr.pinguet62.xjc/xjc-test-other-plugins@2.0?classifier=sources
 - pkg:maven/fr.pinguet62.xjc/xjc-test-other-plugins@3.0
 - pkg:maven/fr.pinguet62.xjc/xjc-test-other-plugins@3.0?classifier=sources
+- pkg:maven/fr.pinguet62.xjc/xjc-test-other-plugins@4.0.0
+- pkg:maven/fr.pinguet62.xjc/xjc-test-other-plugins@4.0.0?classifier=sources

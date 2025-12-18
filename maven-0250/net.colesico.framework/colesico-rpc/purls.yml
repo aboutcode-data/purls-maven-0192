@@ -46,3 +46,7 @@
 - pkg:maven/net.colesico.framework/colesico-rpc@4.6.0?classifier=sources
 - pkg:maven/net.colesico.framework/colesico-rpc@5.0.0
 - pkg:maven/net.colesico.framework/colesico-rpc@5.0.0?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-rpc@5.1.0
+- pkg:maven/net.colesico.framework/colesico-rpc@5.1.0?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-rpc@5.1.1
+- pkg:maven/net.colesico.framework/colesico-rpc@5.1.1?classifier=sources

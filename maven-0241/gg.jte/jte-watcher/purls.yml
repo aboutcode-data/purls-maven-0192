@@ -12,5 +12,7 @@
 - pkg:maven/gg.jte/jte-watcher@1.11.4?classifier=sources
 - pkg:maven/gg.jte/jte-watcher@1.12.0
 - pkg:maven/gg.jte/jte-watcher@1.12.0?classifier=sources
+- pkg:maven/gg.jte/jte-watcher@1.12.1
+- pkg:maven/gg.jte/jte-watcher@1.12.1?classifier=sources
 - pkg:maven/gg.jte/jte-watcher@1.9.0
 - pkg:maven/gg.jte/jte-watcher@1.9.0?classifier=sources

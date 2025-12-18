@@ -60,3 +60,7 @@
 - pkg:maven/fr.ird.observe/toolkit-runner-navigation@5.0.51?classifier=sources
 - pkg:maven/fr.ird.observe/toolkit-runner-navigation@5.0.52
 - pkg:maven/fr.ird.observe/toolkit-runner-navigation@5.0.52?classifier=sources
+- pkg:maven/fr.ird.observe/toolkit-runner-navigation@5.0.53
+- pkg:maven/fr.ird.observe/toolkit-runner-navigation@5.0.53?classifier=sources
+- pkg:maven/fr.ird.observe/toolkit-runner-navigation@5.0.54
+- pkg:maven/fr.ird.observe/toolkit-runner-navigation@5.0.54?classifier=sources

@@ -94,3 +94,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-rds@2.5.7?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-rds@2.5.9
 - pkg:maven/com.aliyun/aliyun-java-sdk-rds@2.5.9?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-rds@2.6.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-rds@2.6.1?classifier=sources

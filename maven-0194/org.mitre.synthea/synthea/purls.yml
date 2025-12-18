@@ -3,3 +3,4 @@
 - pkg:maven/org.mitre.synthea/synthea@2.6.0?classifier=sources
 - pkg:maven/org.mitre.synthea/synthea@2.6.1?classifier=sources
 - pkg:maven/org.mitre.synthea/synthea@2.7.0?classifier=sources
+- pkg:maven/org.mitre.synthea/synthea@3.0.0?classifier=sources

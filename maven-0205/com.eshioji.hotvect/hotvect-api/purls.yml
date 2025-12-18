@@ -1,0 +1,2 @@
+- pkg:maven/com.eshioji.hotvect/hotvect-api@0.0.2
+- pkg:maven/com.eshioji.hotvect/hotvect-api@0.0.2?classifier=sources

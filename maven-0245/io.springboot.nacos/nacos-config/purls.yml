@@ -1,0 +1,2 @@
+- pkg:maven/io.springboot.nacos/nacos-config@2.0.3
+- pkg:maven/io.springboot.nacos/nacos-config@2.0.3?classifier=sources
