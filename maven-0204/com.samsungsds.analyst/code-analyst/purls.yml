@@ -12,3 +12,5 @@
 - pkg:maven/com.samsungsds.analyst/code-analyst@2.8.0?classifier=sources
 - pkg:maven/com.samsungsds.analyst/code-analyst@2.9.0
 - pkg:maven/com.samsungsds.analyst/code-analyst@2.9.0?classifier=sources
+- pkg:maven/com.samsungsds.analyst/code-analyst@2.9.2
+- pkg:maven/com.samsungsds.analyst/code-analyst@2.9.2?classifier=sources

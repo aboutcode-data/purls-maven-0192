@@ -1,0 +1,2 @@
+- pkg:maven/org.irlab/cartesian-product@1.0.0
+- pkg:maven/org.irlab/cartesian-product@1.0.0?classifier=sources

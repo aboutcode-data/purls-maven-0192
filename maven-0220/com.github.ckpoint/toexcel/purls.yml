@@ -28,3 +28,7 @@
 - pkg:maven/com.github.ckpoint/toexcel@0.91
 - pkg:maven/com.github.ckpoint/toexcel@0.91?classifier=sources
 - pkg:maven/com.github.ckpoint/toexcel@0.9?classifier=sources
+- pkg:maven/com.github.ckpoint/toexcel@1.0.0
+- pkg:maven/com.github.ckpoint/toexcel@1.0.0?classifier=sources
+- pkg:maven/com.github.ckpoint/toexcel@1.0.1
+- pkg:maven/com.github.ckpoint/toexcel@1.0.1?classifier=sources

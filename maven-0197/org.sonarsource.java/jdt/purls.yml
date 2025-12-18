@@ -1,0 +1,4 @@
+- pkg:maven/org.sonarsource.java/jdt@6.0.0.20538
+- pkg:maven/org.sonarsource.java/jdt@6.0.1.20589
+- pkg:maven/org.sonarsource.java/jdt@6.0.2.20657
+- pkg:maven/org.sonarsource.java/jdt@6.1.0.20866

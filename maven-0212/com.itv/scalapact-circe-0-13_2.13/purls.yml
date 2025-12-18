@@ -1,0 +1,2 @@
+- pkg:maven/com.itv/scalapact-circe-0-13_2.13@2.3.16
+- pkg:maven/com.itv/scalapact-circe-0-13_2.13@2.3.16?classifier=sources

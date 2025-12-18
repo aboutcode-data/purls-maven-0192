@@ -5,3 +5,4 @@
 - pkg:maven/com.coreoz/plume-archetype-querydsl-jersey-guice-grizzly@1.0.0?classifier=sources
 - pkg:maven/com.coreoz/plume-archetype-querydsl-jersey-guice-grizzly@1.0.1?classifier=sources
 - pkg:maven/com.coreoz/plume-archetype-querydsl-jersey-guice-grizzly@1.1.0?classifier=sources
+- pkg:maven/com.coreoz/plume-archetype-querydsl-jersey-guice-grizzly@2.0.0-RC1?classifier=sources

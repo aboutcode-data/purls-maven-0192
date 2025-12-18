@@ -1,0 +1,2 @@
+- pkg:maven/com.github.highposi/logutils@1.0.3
+- pkg:maven/com.github.highposi/logutils@1.0.3?classifier=sources

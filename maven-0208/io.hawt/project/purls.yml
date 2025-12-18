@@ -57,6 +57,7 @@
 - pkg:maven/io.hawt/project@1.5.0?classifier=source-release&type=zip
 - pkg:maven/io.hawt/project@1.5.10?classifier=source-release&type=zip
 - pkg:maven/io.hawt/project@1.5.11?classifier=source-release&type=zip
+- pkg:maven/io.hawt/project@1.5.12?classifier=source-release&type=zip
 - pkg:maven/io.hawt/project@1.5.1?classifier=source-release&type=zip
 - pkg:maven/io.hawt/project@1.5.2?classifier=source-release&type=zip
 - pkg:maven/io.hawt/project@1.5.3?classifier=source-release&type=zip
@@ -85,3 +86,5 @@
 - pkg:maven/io.hawt/project@2.7.0?classifier=source-release&type=zip
 - pkg:maven/io.hawt/project@2.7.1?classifier=source-release&type=zip
 - pkg:maven/io.hawt/project@2.8.0?classifier=source-release&type=zip
+- pkg:maven/io.hawt/project@2.9.0?classifier=source-release&type=zip
+- pkg:maven/io.hawt/project@2.9.1?classifier=source-release&type=zip

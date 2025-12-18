@@ -21,6 +21,7 @@
 - pkg:maven/junit/junit@4.12-beta-3
 - pkg:maven/junit/junit@4.12-beta-3?classifier=sources
 - pkg:maven/junit/junit@4.12?classifier=sources
+- pkg:maven/junit/junit@4.13
 - pkg:maven/junit/junit@4.13-beta-1
 - pkg:maven/junit/junit@4.13-beta-1?classifier=sources
 - pkg:maven/junit/junit@4.13-beta-2
@@ -29,6 +30,9 @@
 - pkg:maven/junit/junit@4.13-beta-3?classifier=sources
 - pkg:maven/junit/junit@4.13-rc-1
 - pkg:maven/junit/junit@4.13-rc-1?classifier=sources
+- pkg:maven/junit/junit@4.13-rc-2
+- pkg:maven/junit/junit@4.13-rc-2?classifier=sources
+- pkg:maven/junit/junit@4.13?classifier=sources
 - pkg:maven/junit/junit@4.1?classifier=sources
 - pkg:maven/junit/junit@4.2
 - pkg:maven/junit/junit@4.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/co.com.sofka/domain-driven-design@0.1.0a
+- pkg:maven/co.com.sofka/domain-driven-design@0.1.0a?classifier=sources
+- pkg:maven/co.com.sofka/domain-driven-design@0.1.1
+- pkg:maven/co.com.sofka/domain-driven-design@0.1.1?classifier=sources

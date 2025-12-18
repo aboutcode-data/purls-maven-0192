@@ -1,0 +1,6 @@
+- pkg:maven/io.scalecube/scalecube-codec-jackson-smile@2.4.10
+- pkg:maven/io.scalecube/scalecube-codec-jackson-smile@2.4.10-RC11
+- pkg:maven/io.scalecube/scalecube-codec-jackson-smile@2.4.10-RC11?classifier=sources
+- pkg:maven/io.scalecube/scalecube-codec-jackson-smile@2.4.10-RC9
+- pkg:maven/io.scalecube/scalecube-codec-jackson-smile@2.4.10-RC9?classifier=sources
+- pkg:maven/io.scalecube/scalecube-codec-jackson-smile@2.4.10?classifier=sources

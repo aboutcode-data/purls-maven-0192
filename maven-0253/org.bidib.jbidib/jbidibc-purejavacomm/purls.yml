@@ -1,0 +1,6 @@
+- pkg:maven/org.bidib.jbidib/jbidibc-purejavacomm@1.12.2
+- pkg:maven/org.bidib.jbidib/jbidibc-purejavacomm@1.12.2?classifier=sources
+- pkg:maven/org.bidib.jbidib/jbidibc-purejavacomm@1.12.3
+- pkg:maven/org.bidib.jbidib/jbidibc-purejavacomm@1.12.3?classifier=sources
+- pkg:maven/org.bidib.jbidib/jbidibc-purejavacomm@1.12.4
+- pkg:maven/org.bidib.jbidib/jbidibc-purejavacomm@1.12.4?classifier=sources

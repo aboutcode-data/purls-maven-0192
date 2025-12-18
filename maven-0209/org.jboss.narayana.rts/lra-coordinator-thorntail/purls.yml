@@ -1,1 +1,4 @@
 - pkg:maven/org.jboss.narayana.rts/lra-coordinator-thorntail@5.10.0.Final?type=war
+- pkg:maven/org.jboss.narayana.rts/lra-coordinator-thorntail@5.10.1.Final?type=war
+- pkg:maven/org.jboss.narayana.rts/lra-coordinator-thorntail@5.10.3.Final?type=war
+- pkg:maven/org.jboss.narayana.rts/lra-coordinator-thorntail@5.10.4.Final?type=war

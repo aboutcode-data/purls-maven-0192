@@ -20,5 +20,11 @@
 - pkg:maven/org.drools.testcoverage/test-compiler-integration@7.27.0.Final
 - pkg:maven/org.drools.testcoverage/test-compiler-integration@7.28.0.Final
 - pkg:maven/org.drools.testcoverage/test-compiler-integration@7.29.0.Final
+- pkg:maven/org.drools.testcoverage/test-compiler-integration@7.30.0.Final
+- pkg:maven/org.drools.testcoverage/test-compiler-integration@7.31.0.Final
+- pkg:maven/org.drools.testcoverage/test-compiler-integration@7.32.0.Final
+- pkg:maven/org.drools.testcoverage/test-compiler-integration@7.32.0.k20191220
+- pkg:maven/org.drools.testcoverage/test-compiler-integration@7.32.0.k20191223
+- pkg:maven/org.drools.testcoverage/test-compiler-integration@7.33.0.Final
 - pkg:maven/org.drools.testcoverage/test-compiler-integration@7.8.0.Final
 - pkg:maven/org.drools.testcoverage/test-compiler-integration@7.9.0.Final

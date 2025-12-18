@@ -1,2 +1,4 @@
 - pkg:maven/org.bytedeco/cuda-platform-redist@10.1-7.6-1.5.2
 - pkg:maven/org.bytedeco/cuda-platform-redist@10.1-7.6-1.5.2?classifier=sources
+- pkg:maven/org.bytedeco/cuda-platform-redist@10.2-7.6-1.5.2
+- pkg:maven/org.bytedeco/cuda-platform-redist@10.2-7.6-1.5.2?classifier=sources

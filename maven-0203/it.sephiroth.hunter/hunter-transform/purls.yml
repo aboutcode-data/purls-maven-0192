@@ -1,0 +1,4 @@
+- pkg:maven/it.sephiroth.hunter/hunter-transform@1.0.4
+- pkg:maven/it.sephiroth.hunter/hunter-transform@1.0.4-20191215
+- pkg:maven/it.sephiroth.hunter/hunter-transform@1.0.4-20191215?classifier=sources
+- pkg:maven/it.sephiroth.hunter/hunter-transform@1.0.4?classifier=sources

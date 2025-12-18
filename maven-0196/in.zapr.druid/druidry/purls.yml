@@ -40,3 +40,5 @@
 - pkg:maven/in.zapr.druid/druidry@2.8?classifier=sources
 - pkg:maven/in.zapr.druid/druidry@2.9
 - pkg:maven/in.zapr.druid/druidry@2.9?classifier=sources
+- pkg:maven/in.zapr.druid/druidry@3.0
+- pkg:maven/in.zapr.druid/druidry@3.0?classifier=sources

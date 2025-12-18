@@ -1,0 +1,2 @@
+- pkg:maven/com.nryanov.tarantool/tarantool-orm@0.5
+- pkg:maven/com.nryanov.tarantool/tarantool-orm@0.5?classifier=sources

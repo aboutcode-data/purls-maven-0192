@@ -1,0 +1,6 @@
+- pkg:maven/com.guicedee.services/log4j-core@1.0.2.15
+- pkg:maven/com.guicedee.services/log4j-core@1.0.2.15-jre13
+- pkg:maven/com.guicedee.services/log4j-core@1.0.2.15-jre13?classifier=sources
+- pkg:maven/com.guicedee.services/log4j-core@1.0.2.15?classifier=sources
+- pkg:maven/com.guicedee.services/log4j-core@1.0.2.16-jre13
+- pkg:maven/com.guicedee.services/log4j-core@1.0.2.16-jre13?classifier=sources

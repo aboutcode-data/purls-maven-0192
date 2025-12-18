@@ -1,0 +1,4 @@
+- pkg:maven/com.cognitect.aws/imagebuilder@776.2.582.0
+- pkg:maven/com.cognitect.aws/imagebuilder@776.2.582.0?classifier=sources
+- pkg:maven/com.cognitect.aws/imagebuilder@789.2.614.0
+- pkg:maven/com.cognitect.aws/imagebuilder@789.2.614.0?classifier=sources

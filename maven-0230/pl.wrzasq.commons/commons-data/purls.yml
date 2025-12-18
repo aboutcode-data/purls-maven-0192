@@ -50,3 +50,5 @@
 - pkg:maven/pl.wrzasq.commons/commons-data@1.0.9?classifier=sources
 - pkg:maven/pl.wrzasq.commons/commons-data@1.1.0
 - pkg:maven/pl.wrzasq.commons/commons-data@1.1.0?classifier=sources
+- pkg:maven/pl.wrzasq.commons/commons-data@1.1.1
+- pkg:maven/pl.wrzasq.commons/commons-data@1.1.1?classifier=sources

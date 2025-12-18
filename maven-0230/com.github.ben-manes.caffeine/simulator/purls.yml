@@ -38,3 +38,4 @@
 - pkg:maven/com.github.ben-manes.caffeine/simulator@2.6.2?classifier=sources
 - pkg:maven/com.github.ben-manes.caffeine/simulator@2.7.0?classifier=sources
 - pkg:maven/com.github.ben-manes.caffeine/simulator@2.8.0?classifier=sources
+- pkg:maven/com.github.ben-manes.caffeine/simulator@2.8.1?classifier=sources

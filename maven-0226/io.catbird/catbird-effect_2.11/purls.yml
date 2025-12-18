@@ -46,6 +46,8 @@
 - pkg:maven/io.catbird/catbird-effect_2.11@19.10.0?classifier=sources
 - pkg:maven/io.catbird/catbird-effect_2.11@19.11.0
 - pkg:maven/io.catbird/catbird-effect_2.11@19.11.0?classifier=sources
+- pkg:maven/io.catbird/catbird-effect_2.11@19.12.0
+- pkg:maven/io.catbird/catbird-effect_2.11@19.12.0?classifier=sources
 - pkg:maven/io.catbird/catbird-effect_2.11@19.2.0
 - pkg:maven/io.catbird/catbird-effect_2.11@19.2.0?classifier=sources
 - pkg:maven/io.catbird/catbird-effect_2.11@19.3.0
@@ -62,3 +64,5 @@
 - pkg:maven/io.catbird/catbird-effect_2.11@19.8.0?classifier=sources
 - pkg:maven/io.catbird/catbird-effect_2.11@19.9.0
 - pkg:maven/io.catbird/catbird-effect_2.11@19.9.0?classifier=sources
+- pkg:maven/io.catbird/catbird-effect_2.11@20.1.0
+- pkg:maven/io.catbird/catbird-effect_2.11@20.1.0?classifier=sources

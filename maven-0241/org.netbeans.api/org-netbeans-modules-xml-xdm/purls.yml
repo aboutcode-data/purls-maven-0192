@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-xdm@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-xdm@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-xdm@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-xml-xdm@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-xdm@RELEASE90?classifier=sources

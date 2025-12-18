@@ -1,0 +1,2 @@
+- pkg:maven/tech.ikora/ikora-core@0.0.2
+- pkg:maven/tech.ikora/ikora-core@0.0.2?classifier=sources

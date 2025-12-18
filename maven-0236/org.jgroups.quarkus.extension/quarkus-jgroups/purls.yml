@@ -4,3 +4,5 @@
 - pkg:maven/org.jgroups.quarkus.extension/quarkus-jgroups@0.20.0?classifier=sources
 - pkg:maven/org.jgroups.quarkus.extension/quarkus-jgroups@0.21.2
 - pkg:maven/org.jgroups.quarkus.extension/quarkus-jgroups@0.21.2?classifier=sources
+- pkg:maven/org.jgroups.quarkus.extension/quarkus-jgroups@1.0.1.Final
+- pkg:maven/org.jgroups.quarkus.extension/quarkus-jgroups@1.0.1.Final?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/io.github.vincenzopalazzo/material-ui-swing@1.0.3?classifier=sources
 - pkg:maven/io.github.vincenzopalazzo/material-ui-swing@1.0.6
 - pkg:maven/io.github.vincenzopalazzo/material-ui-swing@1.0.6?classifier=sources
+- pkg:maven/io.github.vincenzopalazzo/material-ui-swing@1.1.1_beta
+- pkg:maven/io.github.vincenzopalazzo/material-ui-swing@1.1.1_beta?classifier=sources

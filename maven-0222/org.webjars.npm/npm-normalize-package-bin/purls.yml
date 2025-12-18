@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/npm-normalize-package-bin@1.0.1
+- pkg:maven/org.webjars.npm/npm-normalize-package-bin@1.0.1?classifier=sources

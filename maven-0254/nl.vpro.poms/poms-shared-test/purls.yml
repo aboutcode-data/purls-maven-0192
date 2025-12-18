@@ -34,3 +34,9 @@
 - pkg:maven/nl.vpro.poms/poms-shared-test@5.11.5?classifier=sources
 - pkg:maven/nl.vpro.poms/poms-shared-test@5.11.6
 - pkg:maven/nl.vpro.poms/poms-shared-test@5.11.6?classifier=sources
+- pkg:maven/nl.vpro.poms/poms-shared-test@5.11.7
+- pkg:maven/nl.vpro.poms/poms-shared-test@5.11.7?classifier=sources
+- pkg:maven/nl.vpro.poms/poms-shared-test@5.11.8
+- pkg:maven/nl.vpro.poms/poms-shared-test@5.11.8?classifier=sources
+- pkg:maven/nl.vpro.poms/poms-shared-test@5.11.9
+- pkg:maven/nl.vpro.poms/poms-shared-test@5.11.9?classifier=sources

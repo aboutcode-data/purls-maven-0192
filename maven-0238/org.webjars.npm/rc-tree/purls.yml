@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/rc-tree@1.7.11?classifier=sources
 - pkg:maven/org.webjars.npm/rc-tree@2.0.0
 - pkg:maven/org.webjars.npm/rc-tree@2.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/rc-tree@3.0.0-alpha.9
+- pkg:maven/org.webjars.npm/rc-tree@3.0.0-alpha.9?classifier=sources

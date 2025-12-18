@@ -10,3 +10,7 @@
 - pkg:maven/com.cognitect.aws/fsx@746.2.533.0?classifier=sources
 - pkg:maven/com.cognitect.aws/fsx@770.2.568.0
 - pkg:maven/com.cognitect.aws/fsx@770.2.568.0?classifier=sources
+- pkg:maven/com.cognitect.aws/fsx@773.2.576.0
+- pkg:maven/com.cognitect.aws/fsx@773.2.576.0?classifier=sources
+- pkg:maven/com.cognitect.aws/fsx@784.2.596.0
+- pkg:maven/com.cognitect.aws/fsx@784.2.596.0?classifier=sources

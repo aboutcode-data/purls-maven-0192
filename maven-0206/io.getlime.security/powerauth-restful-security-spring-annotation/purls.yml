@@ -1,0 +1,2 @@
+- pkg:maven/io.getlime.security/powerauth-restful-security-spring-annotation@0.23.0
+- pkg:maven/io.getlime.security/powerauth-restful-security-spring-annotation@0.23.0?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-nodejs@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-nodejs@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-nodejs@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-nodejs@RELEASE113?classifier=sources

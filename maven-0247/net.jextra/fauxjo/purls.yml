@@ -2,6 +2,8 @@
 - pkg:maven/net.jextra/fauxjo@10.1.0-1?classifier=sources
 - pkg:maven/net.jextra/fauxjo@11.3.0-1
 - pkg:maven/net.jextra/fauxjo@11.3.0-1?classifier=sources
+- pkg:maven/net.jextra/fauxjo@11.3.0-2
+- pkg:maven/net.jextra/fauxjo@11.3.0-2?classifier=sources
 - pkg:maven/net.jextra/fauxjo@7.9.0-2
 - pkg:maven/net.jextra/fauxjo@7.9.0-2?classifier=sources
 - pkg:maven/net.jextra/fauxjo@8.1.0-1

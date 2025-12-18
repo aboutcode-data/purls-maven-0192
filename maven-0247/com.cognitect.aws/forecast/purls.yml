@@ -4,3 +4,5 @@
 - pkg:maven/com.cognitect.aws/forecast@746.2.533.0?classifier=sources
 - pkg:maven/com.cognitect.aws/forecast@770.2.568.0
 - pkg:maven/com.cognitect.aws/forecast@770.2.568.0?classifier=sources
+- pkg:maven/com.cognitect.aws/forecast@773.2.578.0
+- pkg:maven/com.cognitect.aws/forecast@773.2.578.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/ru.stqa.selenium/decorated-webdriver@3.0?classifier=sources
 - pkg:maven/ru.stqa.selenium/decorated-webdriver@4.0
 - pkg:maven/ru.stqa.selenium/decorated-webdriver@4.0?classifier=sources
+- pkg:maven/ru.stqa.selenium/decorated-webdriver@4.1
+- pkg:maven/ru.stqa.selenium/decorated-webdriver@4.1?classifier=sources

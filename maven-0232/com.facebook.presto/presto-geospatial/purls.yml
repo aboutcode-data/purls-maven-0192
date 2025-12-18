@@ -43,3 +43,6 @@
 - pkg:maven/com.facebook.presto/presto-geospatial@0.227?classifier=sources
 - pkg:maven/com.facebook.presto/presto-geospatial@0.228?classifier=sources
 - pkg:maven/com.facebook.presto/presto-geospatial@0.229?classifier=sources
+- pkg:maven/com.facebook.presto/presto-geospatial@0.230?classifier=sources
+- pkg:maven/com.facebook.presto/presto-geospatial@0.231.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-geospatial@0.231?classifier=sources

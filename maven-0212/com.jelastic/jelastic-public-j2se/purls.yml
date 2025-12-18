@@ -45,4 +45,10 @@
 - pkg:maven/com.jelastic/jelastic-public-j2se@5.7-5?classifier=sources
 - pkg:maven/com.jelastic/jelastic-public-j2se@5.7-6
 - pkg:maven/com.jelastic/jelastic-public-j2se@5.7-6?classifier=sources
+- pkg:maven/com.jelastic/jelastic-public-j2se@5.7-7
+- pkg:maven/com.jelastic/jelastic-public-j2se@5.7-7?classifier=sources
+- pkg:maven/com.jelastic/jelastic-public-j2se@5.7-8
+- pkg:maven/com.jelastic/jelastic-public-j2se@5.7-8?classifier=sources
 - pkg:maven/com.jelastic/jelastic-public-j2se@5.7?classifier=sources
+- pkg:maven/com.jelastic/jelastic-public-j2se@5.8-1
+- pkg:maven/com.jelastic/jelastic-public-j2se@5.8-1?classifier=sources

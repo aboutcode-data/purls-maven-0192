@@ -194,3 +194,5 @@
 - pkg:maven/com.automattic/elasticsearch-statsd@6.8.0.0?type=zip
 - pkg:maven/com.automattic/elasticsearch-statsd@6.8.1.0?classifier=sources
 - pkg:maven/com.automattic/elasticsearch-statsd@6.8.1.0?type=zip
+- pkg:maven/com.automattic/elasticsearch-statsd@7.0.0.0?classifier=sources
+- pkg:maven/com.automattic/elasticsearch-statsd@7.0.0.0?type=zip

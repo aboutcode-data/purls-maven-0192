@@ -20,3 +20,7 @@
 - pkg:maven/com.cognitect.aws/monitoring@758.2.553.0?classifier=sources
 - pkg:maven/com.cognitect.aws/monitoring@770.2.568.0
 - pkg:maven/com.cognitect.aws/monitoring@770.2.568.0?classifier=sources
+- pkg:maven/com.cognitect.aws/monitoring@773.2.579.0
+- pkg:maven/com.cognitect.aws/monitoring@773.2.579.0?classifier=sources
+- pkg:maven/com.cognitect.aws/monitoring@788.2.607.0
+- pkg:maven/com.cognitect.aws/monitoring@788.2.607.0?classifier=sources

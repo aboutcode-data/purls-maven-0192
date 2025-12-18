@@ -17,4 +17,6 @@
 - pkg:maven/de.alpharogroup/vintage-time@5
 - pkg:maven/de.alpharogroup/vintage-time@5.1
 - pkg:maven/de.alpharogroup/vintage-time@5.1?classifier=sources
+- pkg:maven/de.alpharogroup/vintage-time@5.2
+- pkg:maven/de.alpharogroup/vintage-time@5.2?classifier=sources
 - pkg:maven/de.alpharogroup/vintage-time@5?classifier=sources

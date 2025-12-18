@@ -60,6 +60,12 @@
 - pkg:maven/com.amazon.alexa/ask-sdk-dynamodb-persistence-adapter@2.25.1?classifier=sources
 - pkg:maven/com.amazon.alexa/ask-sdk-dynamodb-persistence-adapter@2.26.0
 - pkg:maven/com.amazon.alexa/ask-sdk-dynamodb-persistence-adapter@2.26.0?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-dynamodb-persistence-adapter@2.27.0
+- pkg:maven/com.amazon.alexa/ask-sdk-dynamodb-persistence-adapter@2.27.0?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-dynamodb-persistence-adapter@2.27.1
+- pkg:maven/com.amazon.alexa/ask-sdk-dynamodb-persistence-adapter@2.27.1?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-dynamodb-persistence-adapter@2.27.2
+- pkg:maven/com.amazon.alexa/ask-sdk-dynamodb-persistence-adapter@2.27.2?classifier=sources
 - pkg:maven/com.amazon.alexa/ask-sdk-dynamodb-persistence-adapter@2.3.0
 - pkg:maven/com.amazon.alexa/ask-sdk-dynamodb-persistence-adapter@2.3.0?classifier=sources
 - pkg:maven/com.amazon.alexa/ask-sdk-dynamodb-persistence-adapter@2.3.1

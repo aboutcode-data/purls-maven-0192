@@ -2,3 +2,5 @@
 - pkg:maven/jakarta.jms/jakarta.jms-api@2.0.2?classifier=sources
 - pkg:maven/jakarta.jms/jakarta.jms-api@2.0.3
 - pkg:maven/jakarta.jms/jakarta.jms-api@2.0.3?classifier=sources
+- pkg:maven/jakarta.jms/jakarta.jms-api@3.0.0-RC1
+- pkg:maven/jakarta.jms/jakarta.jms-api@3.0.0-RC1?classifier=sources

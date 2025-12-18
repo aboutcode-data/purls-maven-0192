@@ -1,0 +1,2 @@
+- pkg:maven/com.github.fridujo/classpath-junit-extension@1.0.0
+- pkg:maven/com.github.fridujo/classpath-junit-extension@1.0.0?classifier=sources

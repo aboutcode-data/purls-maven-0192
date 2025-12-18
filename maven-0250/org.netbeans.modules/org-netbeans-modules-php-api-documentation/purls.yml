@@ -2,3 +2,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-documentation@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-documentation@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-documentation@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-documentation@RELEASE113?classifier=sources

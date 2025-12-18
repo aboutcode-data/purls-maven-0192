@@ -14,3 +14,5 @@
 - pkg:maven/org.ibissource/ibis-adapterframework-example@7.3?type=war
 - pkg:maven/org.ibissource/ibis-adapterframework-example@7.4?classifier=sources
 - pkg:maven/org.ibissource/ibis-adapterframework-example@7.4?type=war
+- pkg:maven/org.ibissource/ibis-adapterframework-example@7.5-RC1?classifier=sources
+- pkg:maven/org.ibissource/ibis-adapterframework-example@7.5-RC1?type=war

@@ -1,2 +1,14 @@
 - pkg:maven/dev.jeka/springboot-plugin@2.0.0.RC8
 - pkg:maven/dev.jeka/springboot-plugin@2.0.0.RC8?classifier=sources
+- pkg:maven/dev.jeka/springboot-plugin@2.0.0.RELEASE
+- pkg:maven/dev.jeka/springboot-plugin@2.0.0.RELEASE?classifier=sources
+- pkg:maven/dev.jeka/springboot-plugin@2.0.1.RELEASE
+- pkg:maven/dev.jeka/springboot-plugin@2.0.1.RELEASE?classifier=sources
+- pkg:maven/dev.jeka/springboot-plugin@2.1.0.RELEASE
+- pkg:maven/dev.jeka/springboot-plugin@2.1.0.RELEASE?classifier=sources
+- pkg:maven/dev.jeka/springboot-plugin@2.2.2.RELEASE
+- pkg:maven/dev.jeka/springboot-plugin@2.2.2.RELEASE?classifier=sources
+- pkg:maven/dev.jeka/springboot-plugin@2.2.3.RELEASE
+- pkg:maven/dev.jeka/springboot-plugin@2.2.3.RELEASE?classifier=sources
+- pkg:maven/dev.jeka/springboot-plugin@2.3.0.RELEASE
+- pkg:maven/dev.jeka/springboot-plugin@2.3.0.RELEASE?classifier=sources

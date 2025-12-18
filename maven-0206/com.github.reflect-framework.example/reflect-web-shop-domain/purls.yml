@@ -1,0 +1,2 @@
+- pkg:maven/com.github.reflect-framework.example/reflect-web-shop-domain@0.0.1
+- pkg:maven/com.github.reflect-framework.example/reflect-web-shop-domain@0.0.1?classifier=sources

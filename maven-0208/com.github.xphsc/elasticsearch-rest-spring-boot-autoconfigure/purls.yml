@@ -7,3 +7,5 @@
 - pkg:maven/com.github.xphsc/elasticsearch-rest-spring-boot-autoconfigure@1.0.0-RC4?classifier=sources
 - pkg:maven/com.github.xphsc/elasticsearch-rest-spring-boot-autoconfigure@1.0.0-RC?classifier=sources
 - pkg:maven/com.github.xphsc/elasticsearch-rest-spring-boot-autoconfigure@1.0.0?classifier=sources
+- pkg:maven/com.github.xphsc/elasticsearch-rest-spring-boot-autoconfigure@1.0.1
+- pkg:maven/com.github.xphsc/elasticsearch-rest-spring-boot-autoconfigure@1.0.1?classifier=sources

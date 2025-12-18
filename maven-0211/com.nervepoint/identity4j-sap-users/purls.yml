@@ -1,0 +1,2 @@
+- pkg:maven/com.nervepoint/identity4j-sap-users@1.0.4
+- pkg:maven/com.nervepoint/identity4j-sap-users@1.0.4?classifier=sources

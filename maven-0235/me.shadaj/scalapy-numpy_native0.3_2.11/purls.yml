@@ -1,2 +1,6 @@
 - pkg:maven/me.shadaj/scalapy-numpy_native0.3_2.11@0.1.0%2B3-046d1d67
 - pkg:maven/me.shadaj/scalapy-numpy_native0.3_2.11@0.1.0%2B3-046d1d67?classifier=sources
+- pkg:maven/me.shadaj/scalapy-numpy_native0.3_2.11@0.1.0%2B4-e07f0f61
+- pkg:maven/me.shadaj/scalapy-numpy_native0.3_2.11@0.1.0%2B4-e07f0f61?classifier=sources
+- pkg:maven/me.shadaj/scalapy-numpy_native0.3_2.11@0.1.0%2B5-ad550211
+- pkg:maven/me.shadaj/scalapy-numpy_native0.3_2.11@0.1.0%2B5-ad550211?classifier=sources

@@ -13,3 +13,5 @@
 - pkg:maven/com.sap.cloud.db.jdbc/ngdbc@2.4.62?classifier=sources
 - pkg:maven/com.sap.cloud.db.jdbc/ngdbc@2.4.63?classifier=sources
 - pkg:maven/com.sap.cloud.db.jdbc/ngdbc@2.4.64?classifier=sources
+- pkg:maven/com.sap.cloud.db.jdbc/ngdbc@2.4.67?classifier=sources
+- pkg:maven/com.sap.cloud.db.jdbc/ngdbc@2.4.70?classifier=sources

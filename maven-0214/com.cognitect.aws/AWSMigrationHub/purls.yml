@@ -6,3 +6,7 @@
 - pkg:maven/com.cognitect.aws/AWSMigrationHub@746.2.533.0?classifier=sources
 - pkg:maven/com.cognitect.aws/AWSMigrationHub@770.2.568.0
 - pkg:maven/com.cognitect.aws/AWSMigrationHub@770.2.568.0?classifier=sources
+- pkg:maven/com.cognitect.aws/AWSMigrationHub@773.2.576.0
+- pkg:maven/com.cognitect.aws/AWSMigrationHub@773.2.576.0?classifier=sources
+- pkg:maven/com.cognitect.aws/AWSMigrationHub@785.2.599.0
+- pkg:maven/com.cognitect.aws/AWSMigrationHub@785.2.599.0?classifier=sources

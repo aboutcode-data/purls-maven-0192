@@ -62,5 +62,7 @@
 - pkg:maven/org.dbflute.jetty/jetty-boot@0.4.9-RC1
 - pkg:maven/org.dbflute.jetty/jetty-boot@0.4.9-RC1?classifier=sources
 - pkg:maven/org.dbflute.jetty/jetty-boot@0.4.9?classifier=sources
+- pkg:maven/org.dbflute.jetty/jetty-boot@0.5.0
 - pkg:maven/org.dbflute.jetty/jetty-boot@0.5.0-RC1
 - pkg:maven/org.dbflute.jetty/jetty-boot@0.5.0-RC1?classifier=sources
+- pkg:maven/org.dbflute.jetty/jetty-boot@0.5.0?classifier=sources

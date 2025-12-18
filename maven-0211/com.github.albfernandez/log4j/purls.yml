@@ -1,0 +1,2 @@
+- pkg:maven/com.github.albfernandez/log4j@1.2.18.ayg01
+- pkg:maven/com.github.albfernandez/log4j@1.2.18.ayg01?classifier=sources

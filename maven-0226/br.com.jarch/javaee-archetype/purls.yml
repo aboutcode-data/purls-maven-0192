@@ -1,1 +1,2 @@
+- pkg:maven/br.com.jarch/javaee-archetype@19.12.0?classifier=sources
 - pkg:maven/br.com.jarch/javaee-archetype@19.9.0?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/org.webjars/jquery-i18n-properties@1.0.9
 - pkg:maven/org.webjars/jquery-i18n-properties@1.10.2
 - pkg:maven/org.webjars/jquery-i18n-properties@1.2.2
+- pkg:maven/org.webjars/jquery-i18n-properties@1.2.7

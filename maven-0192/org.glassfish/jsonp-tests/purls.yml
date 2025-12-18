@@ -1,2 +1,4 @@
 - pkg:maven/org.glassfish/jsonp-tests@1.1.6
 - pkg:maven/org.glassfish/jsonp-tests@1.1.6?classifier=sources
+- pkg:maven/org.glassfish/jsonp-tests@2.0.0-RC1
+- pkg:maven/org.glassfish/jsonp-tests@2.0.0-RC1?classifier=sources

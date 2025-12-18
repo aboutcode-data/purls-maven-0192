@@ -1,3 +1,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-struts@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-struts@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-struts@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-struts@RELEASE113?classifier=sources

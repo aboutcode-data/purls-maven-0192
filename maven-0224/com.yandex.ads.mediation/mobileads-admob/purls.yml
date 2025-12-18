@@ -12,3 +12,5 @@
 - pkg:maven/com.yandex.ads.mediation/mobileads-admob@1.5.0?type=aar
 - pkg:maven/com.yandex.ads.mediation/mobileads-admob@1.6.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-admob@1.6.0?type=aar
+- pkg:maven/com.yandex.ads.mediation/mobileads-admob@1.7.0?classifier=sources
+- pkg:maven/com.yandex.ads.mediation/mobileads-admob@1.7.0?type=aar

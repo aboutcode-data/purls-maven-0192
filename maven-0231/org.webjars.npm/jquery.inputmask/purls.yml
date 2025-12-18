@@ -1,3 +1,7 @@
+- pkg:maven/org.webjars.npm/jquery.inputmask@3.2.0
+- pkg:maven/org.webjars.npm/jquery.inputmask@3.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/jquery.inputmask@3.2.7
+- pkg:maven/org.webjars.npm/jquery.inputmask@3.2.7?classifier=sources
 - pkg:maven/org.webjars.npm/jquery.inputmask@3.3.1
 - pkg:maven/org.webjars.npm/jquery.inputmask@3.3.1?classifier=sources
 - pkg:maven/org.webjars.npm/jquery.inputmask@3.3.3

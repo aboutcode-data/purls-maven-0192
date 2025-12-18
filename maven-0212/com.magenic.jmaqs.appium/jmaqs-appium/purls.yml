@@ -1,0 +1,2 @@
+- pkg:maven/com.magenic.jmaqs.appium/jmaqs-appium@2.0.0
+- pkg:maven/com.magenic.jmaqs.appium/jmaqs-appium@2.0.0?classifier=sources

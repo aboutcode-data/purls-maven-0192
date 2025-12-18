@@ -134,3 +134,5 @@
 - pkg:maven/net.morimekta.utils/io-util@3.6.0?classifier=sources
 - pkg:maven/net.morimekta.utils/io-util@3.7.0
 - pkg:maven/net.morimekta.utils/io-util@3.7.0?classifier=sources
+- pkg:maven/net.morimekta.utils/io-util@3.7.1
+- pkg:maven/net.morimekta.utils/io-util@3.7.1?classifier=sources

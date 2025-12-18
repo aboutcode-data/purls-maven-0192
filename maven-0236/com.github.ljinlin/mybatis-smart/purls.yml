@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ljinlin/mybatis-smart@1.0.0-beta1
+- pkg:maven/com.github.ljinlin/mybatis-smart@1.0.0-beta1?classifier=sources

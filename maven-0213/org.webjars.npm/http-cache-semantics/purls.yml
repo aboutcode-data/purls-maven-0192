@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/http-cache-semantics@3.8.1
 - pkg:maven/org.webjars.npm/http-cache-semantics@3.8.1?classifier=sources
+- pkg:maven/org.webjars.npm/http-cache-semantics@4.0.4
+- pkg:maven/org.webjars.npm/http-cache-semantics@4.0.4?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/de.alpharogroup/yaml-to-prop-to-yaml@1
 - pkg:maven/de.alpharogroup/yaml-to-prop-to-yaml@1.1
+- pkg:maven/de.alpharogroup/yaml-to-prop-to-yaml@1.1.1
+- pkg:maven/de.alpharogroup/yaml-to-prop-to-yaml@1.1.1?classifier=sources
 - pkg:maven/de.alpharogroup/yaml-to-prop-to-yaml@1.1?classifier=sources
 - pkg:maven/de.alpharogroup/yaml-to-prop-to-yaml@1?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-was-api@0.10
+- pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-was-api@0.10?classifier=sources
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-was-api@0.7
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-was-api@0.7?classifier=sources
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-was-api@0.8

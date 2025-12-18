@@ -4,3 +4,5 @@
 - pkg:maven/br.com.objectos.comuns/comuns-collections@0.20.0?classifier=sources
 - pkg:maven/br.com.objectos.comuns/comuns-collections@0.21.0
 - pkg:maven/br.com.objectos.comuns/comuns-collections@0.21.0?classifier=sources
+- pkg:maven/br.com.objectos.comuns/comuns-collections@0.22.0
+- pkg:maven/br.com.objectos.comuns/comuns-collections@0.22.0?classifier=sources

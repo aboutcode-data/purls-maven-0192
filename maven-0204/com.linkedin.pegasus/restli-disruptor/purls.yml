@@ -16,3 +16,5 @@
 - pkg:maven/com.linkedin.pegasus/restli-disruptor@23.0.19?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-disruptor@24.0.2
 - pkg:maven/com.linkedin.pegasus/restli-disruptor@24.0.2?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-disruptor@27.7.18
+- pkg:maven/com.linkedin.pegasus/restli-disruptor@27.7.18?classifier=sources

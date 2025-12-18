@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/quill-image-resize@3.0.9
+- pkg:maven/org.webjars.npm/quill-image-resize@3.0.9?classifier=sources

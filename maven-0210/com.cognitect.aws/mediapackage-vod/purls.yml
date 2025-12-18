@@ -6,3 +6,9 @@
 - pkg:maven/com.cognitect.aws/mediapackage-vod@747.2.533.0?classifier=sources
 - pkg:maven/com.cognitect.aws/mediapackage-vod@770.2.568.0
 - pkg:maven/com.cognitect.aws/mediapackage-vod@770.2.568.0?classifier=sources
+- pkg:maven/com.cognitect.aws/mediapackage-vod@773.2.578.0
+- pkg:maven/com.cognitect.aws/mediapackage-vod@773.2.578.0?classifier=sources
+- pkg:maven/com.cognitect.aws/mediapackage-vod@773.2.579.0
+- pkg:maven/com.cognitect.aws/mediapackage-vod@773.2.579.0?classifier=sources
+- pkg:maven/com.cognitect.aws/mediapackage-vod@791.2.618.0
+- pkg:maven/com.cognitect.aws/mediapackage-vod@791.2.618.0?classifier=sources

@@ -54,3 +54,7 @@
 - pkg:maven/tech.tablesaw/tablesaw-aggregate@0.34.2
 - pkg:maven/tech.tablesaw/tablesaw-aggregate@0.35.0
 - pkg:maven/tech.tablesaw/tablesaw-aggregate@0.36.0
+- pkg:maven/tech.tablesaw/tablesaw-aggregate@0.37.0
+- pkg:maven/tech.tablesaw/tablesaw-aggregate@0.37.1
+- pkg:maven/tech.tablesaw/tablesaw-aggregate@0.37.2
+- pkg:maven/tech.tablesaw/tablesaw-aggregate@0.37.3

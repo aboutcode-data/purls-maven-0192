@@ -48,3 +48,13 @@
 - pkg:maven/org.eclipse.che.docs/che-docs@7.3.2?type=war
 - pkg:maven/org.eclipse.che.docs/che-docs@7.4.0?classifier=source-release&type=zip
 - pkg:maven/org.eclipse.che.docs/che-docs@7.4.0?type=war
+- pkg:maven/org.eclipse.che.docs/che-docs@7.5.0?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che.docs/che-docs@7.5.0?type=war
+- pkg:maven/org.eclipse.che.docs/che-docs@7.6.0?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che.docs/che-docs@7.6.0?type=war
+- pkg:maven/org.eclipse.che.docs/che-docs@7.7.0?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che.docs/che-docs@7.7.0?type=war
+- pkg:maven/org.eclipse.che.docs/che-docs@7.8.0?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che.docs/che-docs@7.8.0?type=war
+- pkg:maven/org.eclipse.che.docs/che-docs@7.9.0?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.che.docs/che-docs@7.9.0?type=war

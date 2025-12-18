@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/github-com-coreui-coreui@2.1.12?classifier=sources
 - pkg:maven/org.webjars.npm/github-com-coreui-coreui@2.1.7
 - pkg:maven/org.webjars.npm/github-com-coreui-coreui@2.1.7?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-coreui-coreui@3.0.0-beta.3
+- pkg:maven/org.webjars.npm/github-com-coreui-coreui@3.0.0-beta.3?classifier=sources

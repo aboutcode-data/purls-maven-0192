@@ -1,0 +1,6 @@
+- pkg:maven/org.nutz/nutz-spring-boot-starter@2.2.2.RELEASE
+- pkg:maven/org.nutz/nutz-spring-boot-starter@2.2.2.RELEASE?classifier=sources
+- pkg:maven/org.nutz/nutz-spring-boot-starter@2.2.3.RELEASE
+- pkg:maven/org.nutz/nutz-spring-boot-starter@2.2.3.RELEASE?classifier=sources
+- pkg:maven/org.nutz/nutz-spring-boot-starter@2.2.4.RELEASE
+- pkg:maven/org.nutz/nutz-spring-boot-starter@2.2.4.RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.webdevice/webdevice-spring-core@0.0.12
+- pkg:maven/io.webdevice/webdevice-spring-core@0.0.12?classifier=sources

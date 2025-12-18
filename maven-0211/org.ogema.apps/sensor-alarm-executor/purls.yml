@@ -1,0 +1,2 @@
+- pkg:maven/org.ogema.apps/sensor-alarm-executor@2.2.1
+- pkg:maven/org.ogema.apps/sensor-alarm-executor@2.2.1?classifier=sources
