@@ -7,3 +7,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-platform@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-platform@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-platform@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-platform@RELEASE123?classifier=sources

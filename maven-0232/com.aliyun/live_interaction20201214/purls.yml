@@ -1,2 +1,4 @@
 - pkg:maven/com.aliyun/live_interaction20201214@1.0.0
 - pkg:maven/com.aliyun/live_interaction20201214@1.0.0?classifier=sources
+- pkg:maven/com.aliyun/live_interaction20201214@2.0.1
+- pkg:maven/com.aliyun/live_interaction20201214@2.0.1?classifier=sources

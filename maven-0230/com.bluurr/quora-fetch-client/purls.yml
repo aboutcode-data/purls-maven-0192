@@ -1,0 +1,2 @@
+- pkg:maven/com.bluurr/quora-fetch-client@1.8.0
+- pkg:maven/com.bluurr/quora-fetch-client@1.8.0?classifier=sources

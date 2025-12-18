@@ -7,6 +7,7 @@
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@7.6
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@7.7
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@7.8
+- pkg:maven/org.opencastproject/opencast-engage-paella-player@7.9
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@8.0
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@8.1
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@8.10
@@ -15,6 +16,8 @@
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@8.5
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@8.6
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@8.7
+- pkg:maven/org.opencastproject/opencast-engage-paella-player@8.8
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@8.9
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@9.0
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@9.1
+- pkg:maven/org.opencastproject/opencast-engage-paella-player@9.2

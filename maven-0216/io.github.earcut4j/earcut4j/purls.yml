@@ -1,0 +1,2 @@
+- pkg:maven/io.github.earcut4j/earcut4j@2.2.2
+- pkg:maven/io.github.earcut4j/earcut4j@2.2.2?classifier=sources

@@ -30,3 +30,7 @@
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-opentracing@6.5.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-opentracing@6.6.0
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-opentracing@6.6.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-opentracing@6.7.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-opentracing@6.7.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-opentracing@6.8.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-opentracing@6.8.0?classifier=sources

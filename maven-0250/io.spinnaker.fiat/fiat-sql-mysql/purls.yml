@@ -1,0 +1,1 @@
+- pkg:maven/io.spinnaker.fiat/fiat-sql-mysql@1.27.0?classifier=sources

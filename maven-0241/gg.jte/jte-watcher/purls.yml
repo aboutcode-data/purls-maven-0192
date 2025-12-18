@@ -1,0 +1,2 @@
+- pkg:maven/gg.jte/jte-watcher@1.9.0
+- pkg:maven/gg.jte/jte-watcher@1.9.0?classifier=sources

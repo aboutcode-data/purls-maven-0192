@@ -1,2 +1,8 @@
 - pkg:maven/io.trino/trino-verifier@351
 - pkg:maven/io.trino/trino-verifier@351?classifier=sources
+- pkg:maven/io.trino/trino-verifier@352
+- pkg:maven/io.trino/trino-verifier@352?classifier=sources
+- pkg:maven/io.trino/trino-verifier@353
+- pkg:maven/io.trino/trino-verifier@353?classifier=sources
+- pkg:maven/io.trino/trino-verifier@354
+- pkg:maven/io.trino/trino-verifier@354?classifier=sources

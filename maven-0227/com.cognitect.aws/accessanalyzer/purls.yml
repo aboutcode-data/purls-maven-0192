@@ -10,3 +10,7 @@
 - pkg:maven/com.cognitect.aws/accessanalyzer@796.2.664.0?classifier=sources
 - pkg:maven/com.cognitect.aws/accessanalyzer@809.2.784.0
 - pkg:maven/com.cognitect.aws/accessanalyzer@809.2.784.0?classifier=sources
+- pkg:maven/com.cognitect.aws/accessanalyzer@811.2.834.0
+- pkg:maven/com.cognitect.aws/accessanalyzer@811.2.834.0?classifier=sources
+- pkg:maven/com.cognitect.aws/accessanalyzer@811.2.865.0
+- pkg:maven/com.cognitect.aws/accessanalyzer@811.2.865.0?classifier=sources

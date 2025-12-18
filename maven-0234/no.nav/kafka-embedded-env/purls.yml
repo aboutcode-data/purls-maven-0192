@@ -24,3 +24,5 @@
 - pkg:maven/no.nav/kafka-embedded-env@2.4.0?classifier=sources
 - pkg:maven/no.nav/kafka-embedded-env@2.5.0
 - pkg:maven/no.nav/kafka-embedded-env@2.5.0?classifier=sources
+- pkg:maven/no.nav/kafka-embedded-env@2.7.0
+- pkg:maven/no.nav/kafka-embedded-env@2.7.0?classifier=sources

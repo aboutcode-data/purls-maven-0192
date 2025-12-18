@@ -1,0 +1,2 @@
+- pkg:maven/io.appform.opentracing.annotations/opentracing-annotations@1.0.2
+- pkg:maven/io.appform.opentracing.annotations/opentracing-annotations@1.0.2?classifier=sources

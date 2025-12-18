@@ -1,0 +1,6 @@
+- pkg:maven/com.linkedin.android.litr/litr@1.4.10?classifier=sources
+- pkg:maven/com.linkedin.android.litr/litr@1.4.11?classifier=sources
+- pkg:maven/com.linkedin.android.litr/litr@1.4.12?classifier=sources
+- pkg:maven/com.linkedin.android.litr/litr@1.4.13?classifier=sources
+- pkg:maven/com.linkedin.android.litr/litr@1.4.8?classifier=sources
+- pkg:maven/com.linkedin.android.litr/litr@1.4.9?classifier=sources

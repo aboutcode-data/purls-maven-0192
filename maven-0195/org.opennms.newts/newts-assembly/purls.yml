@@ -16,3 +16,5 @@
 - pkg:maven/org.opennms.newts/newts-assembly@1.5.1?classifier=src&type=tar.gz
 - pkg:maven/org.opennms.newts/newts-assembly@1.5.2?classifier=src&type=tar.gz
 - pkg:maven/org.opennms.newts/newts-assembly@1.5.3?classifier=src&type=tar.gz
+- pkg:maven/org.opennms.newts/newts-assembly@1.5.4?classifier=src&type=tar.gz
+- pkg:maven/org.opennms.newts/newts-assembly@1.5.5?classifier=src&type=tar.gz

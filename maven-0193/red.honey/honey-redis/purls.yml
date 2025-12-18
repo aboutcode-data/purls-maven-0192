@@ -1,2 +1,4 @@
 - pkg:maven/red.honey/honey-redis@1.0.0
 - pkg:maven/red.honey/honey-redis@1.0.0?classifier=sources
+- pkg:maven/red.honey/honey-redis@1.1.0
+- pkg:maven/red.honey/honey-redis@1.1.0?classifier=sources

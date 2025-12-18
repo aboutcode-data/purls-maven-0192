@@ -98,6 +98,12 @@
 - pkg:maven/com.googlecode.libphonenumber/carrier@1.142?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/carrier@1.143
 - pkg:maven/com.googlecode.libphonenumber/carrier@1.143?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/carrier@1.144
+- pkg:maven/com.googlecode.libphonenumber/carrier@1.144?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/carrier@1.145
+- pkg:maven/com.googlecode.libphonenumber/carrier@1.145?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/carrier@1.146
+- pkg:maven/com.googlecode.libphonenumber/carrier@1.146?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/carrier@1.14?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/carrier@1.15
 - pkg:maven/com.googlecode.libphonenumber/carrier@1.15?classifier=sources

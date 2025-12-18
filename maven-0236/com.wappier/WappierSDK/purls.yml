@@ -1,0 +1,2 @@
+- pkg:maven/com.wappier/WappierSDK@3.9.10-nobillingRelease?classifier=sources
+- pkg:maven/com.wappier/WappierSDK@3.9.9-nobillingRelease?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/uk.gov.service.notify/notifications-java-client@3.17.0-RELEASE
+- pkg:maven/uk.gov.service.notify/notifications-java-client@3.17.0-RELEASE?classifier=sources

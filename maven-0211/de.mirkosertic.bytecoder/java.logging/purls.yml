@@ -18,3 +18,5 @@
 - pkg:maven/de.mirkosertic.bytecoder/java.logging@2020-12-01?classifier=sources
 - pkg:maven/de.mirkosertic.bytecoder/java.logging@2021-01-26
 - pkg:maven/de.mirkosertic.bytecoder/java.logging@2021-01-26?classifier=sources
+- pkg:maven/de.mirkosertic.bytecoder/java.logging@2021-03-08
+- pkg:maven/de.mirkosertic.bytecoder/java.logging@2021-03-08?classifier=sources

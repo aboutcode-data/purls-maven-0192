@@ -49,3 +49,5 @@
 - pkg:maven/org.javalite/activejdbc-instrumentation@2.3?classifier=sources
 - pkg:maven/org.javalite/activejdbc-instrumentation@2.4-j8
 - pkg:maven/org.javalite/activejdbc-instrumentation@2.4-j8?classifier=sources
+- pkg:maven/org.javalite/activejdbc-instrumentation@2.5-j8
+- pkg:maven/org.javalite/activejdbc-instrumentation@2.5-j8?classifier=sources

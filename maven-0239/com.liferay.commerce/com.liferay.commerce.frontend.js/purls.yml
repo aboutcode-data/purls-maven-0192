@@ -113,6 +113,12 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@1.0.43
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@1.0.43?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@1.0.43?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@1.0.44
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@1.0.44?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@1.0.44?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@1.0.45
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@1.0.45?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@1.0.45?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@1.0.4?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@1.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@1.0.5
@@ -185,6 +191,12 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@3.0.24
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@3.0.24?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@3.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@3.0.25
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@3.0.25?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@3.0.25?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@3.0.26
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@3.0.26?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@3.0.26?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@3.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@3.0.3
@@ -208,3 +220,6 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@3.0.9
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@3.0.9?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@3.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@4.0.0
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@4.0.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.js@4.0.0?classifier=sources-commercial

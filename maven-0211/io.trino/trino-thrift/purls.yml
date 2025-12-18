@@ -1,1 +1,4 @@
 - pkg:maven/io.trino/trino-thrift@351?classifier=sources
+- pkg:maven/io.trino/trino-thrift@352?classifier=sources
+- pkg:maven/io.trino/trino-thrift@353?classifier=sources
+- pkg:maven/io.trino/trino-thrift@354?classifier=sources

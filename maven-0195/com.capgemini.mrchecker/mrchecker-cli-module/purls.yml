@@ -1,0 +1,2 @@
+- pkg:maven/com.capgemini.mrchecker/mrchecker-cli-module@1.0.1
+- pkg:maven/com.capgemini.mrchecker/mrchecker-cli-module@1.0.1?classifier=sources

@@ -1,1 +1,5 @@
 - pkg:maven/net.sourceforge.streamsupport/schwefel@6.15.2.1?classifier=sources
+- pkg:maven/net.sourceforge.streamsupport/schwefel@6.15.2.2?classifier=sources
+- pkg:maven/net.sourceforge.streamsupport/schwefel@6.15.5.1?classifier=sources
+- pkg:maven/net.sourceforge.streamsupport/schwefel@6.15.5.2?classifier=sources
+- pkg:maven/net.sourceforge.streamsupport/schwefel@6.16.4.1?classifier=sources

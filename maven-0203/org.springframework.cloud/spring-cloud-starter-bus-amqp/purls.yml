@@ -54,3 +54,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-bus-amqp@2.2.3.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-bus-amqp@3.0.0
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-bus-amqp@3.0.1
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-bus-amqp@3.0.2

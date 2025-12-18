@@ -1,0 +1,2 @@
+- pkg:maven/org.openurp.qos.evaluation/openurp-qos-evaluation-adminapp@0.0.19?classifier=sources
+- pkg:maven/org.openurp.qos.evaluation/openurp-qos-evaluation-adminapp@0.0.19?type=war

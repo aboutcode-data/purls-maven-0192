@@ -16,3 +16,17 @@
 - pkg:maven/io.github.willena/sqlite-jdbc@3.33.0.1
 - pkg:maven/io.github.willena/sqlite-jdbc@3.33.0.1?classifier=sources
 - pkg:maven/io.github.willena/sqlite-jdbc@3.33.0?classifier=sources
+- pkg:maven/io.github.willena/sqlite-jdbc@3.34.0
+- pkg:maven/io.github.willena/sqlite-jdbc@3.34.0?classifier=sources
+- pkg:maven/io.github.willena/sqlite-jdbc@3.34.1
+- pkg:maven/io.github.willena/sqlite-jdbc@3.34.1?classifier=sources
+- pkg:maven/io.github.willena/sqlite-jdbc@3.35.0
+- pkg:maven/io.github.willena/sqlite-jdbc@3.35.0?classifier=sources
+- pkg:maven/io.github.willena/sqlite-jdbc@3.35.1
+- pkg:maven/io.github.willena/sqlite-jdbc@3.35.1?classifier=sources
+- pkg:maven/io.github.willena/sqlite-jdbc@3.35.2
+- pkg:maven/io.github.willena/sqlite-jdbc@3.35.2?classifier=sources
+- pkg:maven/io.github.willena/sqlite-jdbc@3.35.3
+- pkg:maven/io.github.willena/sqlite-jdbc@3.35.3?classifier=sources
+- pkg:maven/io.github.willena/sqlite-jdbc@3.35.4
+- pkg:maven/io.github.willena/sqlite-jdbc@3.35.4?classifier=sources

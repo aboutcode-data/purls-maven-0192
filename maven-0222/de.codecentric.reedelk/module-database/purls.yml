@@ -1,0 +1,4 @@
+- pkg:maven/de.codecentric.reedelk/module-database@1.1.0
+- pkg:maven/de.codecentric.reedelk/module-database@1.1.0?classifier=sources
+- pkg:maven/de.codecentric.reedelk/module-database@2.0.0
+- pkg:maven/de.codecentric.reedelk/module-database@2.0.0?classifier=sources

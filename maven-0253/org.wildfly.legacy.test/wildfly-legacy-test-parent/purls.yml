@@ -6,3 +6,4 @@
 - pkg:maven/org.wildfly.legacy.test/wildfly-legacy-test-parent@2.0.0.CR1?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.legacy.test/wildfly-legacy-test-parent@3.0.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.legacy.test/wildfly-legacy-test-parent@4.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.legacy.test/wildfly-legacy-test-parent@6.0.0.Final?classifier=source-release&type=zip

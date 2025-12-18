@@ -1,0 +1,2 @@
+- pkg:maven/io.siddhi.extension.map.binarypassthrough/siddhi-map-binarypassthrough@1.0.0
+- pkg:maven/io.siddhi.extension.map.binarypassthrough/siddhi-map-binarypassthrough@1.0.0?classifier=sources

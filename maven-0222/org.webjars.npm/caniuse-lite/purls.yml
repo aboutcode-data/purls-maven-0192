@@ -8,3 +8,9 @@
 - pkg:maven/org.webjars.npm/caniuse-lite@1.0.30000746?classifier=sources
 - pkg:maven/org.webjars.npm/caniuse-lite@1.0.30000748
 - pkg:maven/org.webjars.npm/caniuse-lite@1.0.30000748?classifier=sources
+- pkg:maven/org.webjars.npm/caniuse-lite@1.0.30001197
+- pkg:maven/org.webjars.npm/caniuse-lite@1.0.30001197?classifier=sources
+- pkg:maven/org.webjars.npm/caniuse-lite@1.0.30001200
+- pkg:maven/org.webjars.npm/caniuse-lite@1.0.30001200?classifier=sources
+- pkg:maven/org.webjars.npm/caniuse-lite@1.0.30001205
+- pkg:maven/org.webjars.npm/caniuse-lite@1.0.30001205?classifier=sources

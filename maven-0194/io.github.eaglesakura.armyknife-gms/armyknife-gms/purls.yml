@@ -1,0 +1,2 @@
+- pkg:maven/io.github.eaglesakura.armyknife-gms/armyknife-gms@1.7.1-beta01?classifier=sources
+- pkg:maven/io.github.eaglesakura.armyknife-gms/armyknife-gms@1.7.1?classifier=sources

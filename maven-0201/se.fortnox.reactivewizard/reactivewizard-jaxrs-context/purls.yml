@@ -24,6 +24,8 @@
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@5.0.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@5.1.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@5.1.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@5.10.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@5.10.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@5.2.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@5.2.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@5.3.0
@@ -46,3 +48,5 @@
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@5.7.2?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@5.8.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@5.8.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@5.9.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@5.9.0?classifier=sources

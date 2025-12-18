@@ -8,3 +8,7 @@
 - pkg:maven/dev.javatools/map-utils@0.0.4?classifier=sources
 - pkg:maven/dev.javatools/map-utils@0.0.5
 - pkg:maven/dev.javatools/map-utils@0.0.5?classifier=sources
+- pkg:maven/dev.javatools/map-utils@1.0.0
+- pkg:maven/dev.javatools/map-utils@1.0.0?classifier=sources
+- pkg:maven/dev.javatools/map-utils@1.0.1
+- pkg:maven/dev.javatools/map-utils@1.0.1?classifier=sources

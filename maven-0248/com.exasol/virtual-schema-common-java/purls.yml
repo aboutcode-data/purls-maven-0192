@@ -18,6 +18,10 @@
 - pkg:maven/com.exasol/virtual-schema-common-java@13.0.0?classifier=sources
 - pkg:maven/com.exasol/virtual-schema-common-java@14.0.0
 - pkg:maven/com.exasol/virtual-schema-common-java@14.0.0?classifier=sources
+- pkg:maven/com.exasol/virtual-schema-common-java@15.0.0
+- pkg:maven/com.exasol/virtual-schema-common-java@15.0.0?classifier=sources
+- pkg:maven/com.exasol/virtual-schema-common-java@15.0.1
+- pkg:maven/com.exasol/virtual-schema-common-java@15.0.1?classifier=sources
 - pkg:maven/com.exasol/virtual-schema-common-java@2.0.0
 - pkg:maven/com.exasol/virtual-schema-common-java@2.0.0?classifier=sources
 - pkg:maven/com.exasol/virtual-schema-common-java@2.1.0

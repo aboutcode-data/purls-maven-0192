@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-kit@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-kit@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-kit@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-kit@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-kit@RELEASE90?classifier=sources

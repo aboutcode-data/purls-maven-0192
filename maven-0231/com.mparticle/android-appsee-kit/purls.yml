@@ -51,6 +51,9 @@
 - pkg:maven/com.mparticle/android-appsee-kit@5.15.4?type=aar
 - pkg:maven/com.mparticle/android-appsee-kit@5.16.0?type=aar
 - pkg:maven/com.mparticle/android-appsee-kit@5.16.1?type=aar
+- pkg:maven/com.mparticle/android-appsee-kit@5.16.2?type=aar
+- pkg:maven/com.mparticle/android-appsee-kit@5.16.3?type=aar
+- pkg:maven/com.mparticle/android-appsee-kit@5.16.4?type=aar
 - pkg:maven/com.mparticle/android-appsee-kit@5.5.0?type=aar
 - pkg:maven/com.mparticle/android-appsee-kit@5.5.1?type=aar
 - pkg:maven/com.mparticle/android-appsee-kit@5.6.0?type=aar

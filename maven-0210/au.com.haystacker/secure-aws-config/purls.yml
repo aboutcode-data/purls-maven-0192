@@ -2,3 +2,7 @@
 - pkg:maven/au.com.haystacker/secure-aws-config@2.0.0?classifier=sources
 - pkg:maven/au.com.haystacker/secure-aws-config@2.1.0
 - pkg:maven/au.com.haystacker/secure-aws-config@2.1.0?classifier=sources
+- pkg:maven/au.com.haystacker/secure-aws-config@2.1.2
+- pkg:maven/au.com.haystacker/secure-aws-config@2.1.2?classifier=sources
+- pkg:maven/au.com.haystacker/secure-aws-config@2.1.3
+- pkg:maven/au.com.haystacker/secure-aws-config@2.1.3?classifier=sources

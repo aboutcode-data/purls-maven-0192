@@ -44,6 +44,8 @@
 - pkg:maven/com.yungouos.pay/yungouos-pay-sdk@1.1.8?classifier=sources
 - pkg:maven/com.yungouos.pay/yungouos-pay-sdk@1.1.9
 - pkg:maven/com.yungouos.pay/yungouos-pay-sdk@1.1.9?classifier=sources
+- pkg:maven/com.yungouos.pay/yungouos-pay-sdk@2.0.10
+- pkg:maven/com.yungouos.pay/yungouos-pay-sdk@2.0.10?classifier=sources
 - pkg:maven/com.yungouos.pay/yungouos-pay-sdk@2.0.2
 - pkg:maven/com.yungouos.pay/yungouos-pay-sdk@2.0.2?classifier=sources
 - pkg:maven/com.yungouos.pay/yungouos-pay-sdk@2.0.3
@@ -57,3 +59,5 @@
 - pkg:maven/com.yungouos.pay/yungouos-pay-sdk@2.0.7?classifier=sources
 - pkg:maven/com.yungouos.pay/yungouos-pay-sdk@2.0.8
 - pkg:maven/com.yungouos.pay/yungouos-pay-sdk@2.0.8?classifier=sources
+- pkg:maven/com.yungouos.pay/yungouos-pay-sdk@2.0.9
+- pkg:maven/com.yungouos.pay/yungouos-pay-sdk@2.0.9?classifier=sources

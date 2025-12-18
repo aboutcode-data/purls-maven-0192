@@ -1,0 +1,2 @@
+- pkg:maven/com.pslib.jtool/pslib-jtool-jftpl@1.0.4
+- pkg:maven/com.pslib.jtool/pslib-jtool-jftpl@1.0.4?classifier=sources

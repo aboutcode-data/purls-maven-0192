@@ -1,0 +1,4 @@
+- pkg:maven/org.finos.legend.engine/legend-engine-external-format-jsonSchema@2.20.0
+- pkg:maven/org.finos.legend.engine/legend-engine-external-format-jsonSchema@2.20.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-external-format-jsonSchema@2.21.0
+- pkg:maven/org.finos.legend.engine/legend-engine-external-format-jsonSchema@2.21.0?classifier=sources

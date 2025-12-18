@@ -26,3 +26,5 @@
 - pkg:maven/org.freemarker/freemarker-gae@2.3.29?classifier=sources
 - pkg:maven/org.freemarker/freemarker-gae@2.3.30
 - pkg:maven/org.freemarker/freemarker-gae@2.3.30?classifier=sources
+- pkg:maven/org.freemarker/freemarker-gae@2.3.31
+- pkg:maven/org.freemarker/freemarker-gae@2.3.31?classifier=sources

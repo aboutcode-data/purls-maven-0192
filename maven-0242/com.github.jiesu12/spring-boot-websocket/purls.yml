@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jiesu12/spring-boot-websocket@1.0.1
+- pkg:maven/com.github.jiesu12/spring-boot-websocket@1.0.1?classifier=sources

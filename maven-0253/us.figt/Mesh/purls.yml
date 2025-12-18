@@ -1,0 +1,2 @@
+- pkg:maven/us.figt/Mesh@1.1.1
+- pkg:maven/us.figt/Mesh@1.1.1?classifier=sources

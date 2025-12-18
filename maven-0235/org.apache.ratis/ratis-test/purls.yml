@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.ratis/ratis-test@0.5.0?classifier=sources
 - pkg:maven/org.apache.ratis/ratis-test@1.0.0
 - pkg:maven/org.apache.ratis/ratis-test@1.0.0?classifier=sources
+- pkg:maven/org.apache.ratis/ratis-test@2.0.0
+- pkg:maven/org.apache.ratis/ratis-test@2.0.0?classifier=sources

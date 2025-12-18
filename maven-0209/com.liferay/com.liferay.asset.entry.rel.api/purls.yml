@@ -55,6 +55,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.entry.rel.api@1.2.4
 - pkg:maven/com.liferay/com.liferay.asset.entry.rel.api@1.2.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.entry.rel.api@1.2.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.entry.rel.api@1.2.5
+- pkg:maven/com.liferay/com.liferay.asset.entry.rel.api@1.2.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.entry.rel.api@1.2.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.entry.rel.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.asset.entry.rel.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.entry.rel.api@2.0.0?classifier=sources-commercial
@@ -97,6 +100,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.entry.rel.api@2.2.7
 - pkg:maven/com.liferay/com.liferay.asset.entry.rel.api@2.2.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.entry.rel.api@2.2.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.entry.rel.api@2.2.8
+- pkg:maven/com.liferay/com.liferay.asset.entry.rel.api@2.2.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.entry.rel.api@2.2.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.entry.rel.api@3.0.0
 - pkg:maven/com.liferay/com.liferay.asset.entry.rel.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.entry.rel.api@3.0.0?classifier=sources-commercial
@@ -127,3 +133,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.entry.rel.api@3.2.6
 - pkg:maven/com.liferay/com.liferay.asset.entry.rel.api@3.2.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.entry.rel.api@3.2.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.entry.rel.api@3.2.7
+- pkg:maven/com.liferay/com.liferay.asset.entry.rel.api@3.2.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.entry.rel.api@3.2.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.entry.rel.api@4.0.0
+- pkg:maven/com.liferay/com.liferay.asset.entry.rel.api@4.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.entry.rel.api@4.0.0?classifier=sources-commercial

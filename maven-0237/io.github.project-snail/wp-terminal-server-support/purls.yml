@@ -1,0 +1,2 @@
+- pkg:maven/io.github.project-snail/wp-terminal-server-support@1.2
+- pkg:maven/io.github.project-snail/wp-terminal-server-support@1.2?classifier=sources

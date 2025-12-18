@@ -1,0 +1,2 @@
+- pkg:maven/com.liferay.faces.archetype/com.liferay.faces.archetype.adf.portlet@5.1.0?classifier=sources
+- pkg:maven/com.liferay.faces.archetype/com.liferay.faces.archetype.adf.portlet@6.1.0?classifier=sources

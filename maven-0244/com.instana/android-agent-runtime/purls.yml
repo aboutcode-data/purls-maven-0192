@@ -1,0 +1,5 @@
+- pkg:maven/com.instana/android-agent-runtime@1.5.4?classifier=sources
+- pkg:maven/com.instana/android-agent-runtime@1.5.4?type=aar
+- pkg:maven/com.instana/android-agent-runtime@2.5.4?classifier=sources
+- pkg:maven/com.instana/android-agent-runtime@3.5.4?classifier=sources
+- pkg:maven/com.instana/android-agent-runtime@4.5.4?classifier=sources

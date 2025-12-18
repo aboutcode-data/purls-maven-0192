@@ -1,4 +1,14 @@
+- pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-snakeyaml@0.10.1
+- pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-snakeyaml@0.10.1?classifier=sources
 - pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-snakeyaml@0.9.108
 - pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-snakeyaml@0.9.108?classifier=sources
 - pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-snakeyaml@0.9.109
 - pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-snakeyaml@0.9.109?classifier=sources
+- pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-snakeyaml@0.9.110
+- pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-snakeyaml@0.9.110?classifier=sources
+- pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-snakeyaml@0.9.111
+- pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-snakeyaml@0.9.111?classifier=sources
+- pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-snakeyaml@0.9.112
+- pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-snakeyaml@0.9.112?classifier=sources
+- pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-snakeyaml@0.9.113
+- pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-snakeyaml@0.9.113?classifier=sources

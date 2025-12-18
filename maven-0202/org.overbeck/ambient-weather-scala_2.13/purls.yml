@@ -1,0 +1,2 @@
+- pkg:maven/org.overbeck/ambient-weather-scala_2.13@0.0.1
+- pkg:maven/org.overbeck/ambient-weather-scala_2.13@0.0.1?classifier=sources

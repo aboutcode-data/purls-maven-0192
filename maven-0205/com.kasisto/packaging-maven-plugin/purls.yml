@@ -6,3 +6,7 @@
 - pkg:maven/com.kasisto/packaging-maven-plugin@SNAPSHOT-3.1.2.2?classifier=sources
 - pkg:maven/com.kasisto/packaging-maven-plugin@SNAPSHOT-4.0.7
 - pkg:maven/com.kasisto/packaging-maven-plugin@SNAPSHOT-4.0.7?classifier=sources
+- pkg:maven/com.kasisto/packaging-maven-plugin@SNAPSHOT-4.0.8
+- pkg:maven/com.kasisto/packaging-maven-plugin@SNAPSHOT-4.0.8?classifier=sources
+- pkg:maven/com.kasisto/packaging-maven-plugin@SNAPSHOT-4.1.0
+- pkg:maven/com.kasisto/packaging-maven-plugin@SNAPSHOT-4.1.0?classifier=sources

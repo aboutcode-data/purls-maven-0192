@@ -2,5 +2,7 @@
 - pkg:maven/org.webjars.npm/material-ui__icons@2.0.0-beta.1?classifier=sources
 - pkg:maven/org.webjars.npm/material-ui__icons@3.0.2
 - pkg:maven/org.webjars.npm/material-ui__icons@3.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/material-ui__icons@4.11.2
+- pkg:maven/org.webjars.npm/material-ui__icons@4.11.2?classifier=sources
 - pkg:maven/org.webjars.npm/material-ui__icons@4.9.1
 - pkg:maven/org.webjars.npm/material-ui__icons@4.9.1?classifier=sources

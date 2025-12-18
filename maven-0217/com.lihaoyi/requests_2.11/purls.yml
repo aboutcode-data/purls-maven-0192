@@ -18,3 +18,7 @@
 - pkg:maven/com.lihaoyi/requests_2.11@0.1.8?classifier=sources
 - pkg:maven/com.lihaoyi/requests_2.11@0.1.9
 - pkg:maven/com.lihaoyi/requests_2.11@0.1.9?classifier=sources
+- pkg:maven/com.lihaoyi/requests_2.11@0.6.6
+- pkg:maven/com.lihaoyi/requests_2.11@0.6.6?classifier=sources
+- pkg:maven/com.lihaoyi/requests_2.11@0.6.7
+- pkg:maven/com.lihaoyi/requests_2.11@0.6.7?classifier=sources

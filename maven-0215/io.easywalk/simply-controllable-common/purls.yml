@@ -1,0 +1,2 @@
+- pkg:maven/io.easywalk/simply-controllable-common@0.0.1.RELEASE
+- pkg:maven/io.easywalk/simply-controllable-common@0.0.1.RELEASE?classifier=sources

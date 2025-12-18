@@ -8,6 +8,7 @@
 - pkg:maven/org.webjars/datatables-plugins@1.10.19
 - pkg:maven/org.webjars/datatables-plugins@1.10.20
 - pkg:maven/org.webjars/datatables-plugins@1.10.21
+- pkg:maven/org.webjars/datatables-plugins@1.10.24
 - pkg:maven/org.webjars/datatables-plugins@1.10.5
 - pkg:maven/org.webjars/datatables-plugins@1.10.6
 - pkg:maven/org.webjars/datatables-plugins@1.10.7
