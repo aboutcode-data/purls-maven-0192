@@ -34,3 +34,5 @@
 - pkg:maven/fr.jetoile.hadoop/spark-streaming-cassandra@3.3?classifier=sources
 - pkg:maven/fr.jetoile.hadoop/spark-streaming-cassandra@3.4
 - pkg:maven/fr.jetoile.hadoop/spark-streaming-cassandra@3.4?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/spark-streaming-cassandra@3.5
+- pkg:maven/fr.jetoile.hadoop/spark-streaming-cassandra@3.5?classifier=sources

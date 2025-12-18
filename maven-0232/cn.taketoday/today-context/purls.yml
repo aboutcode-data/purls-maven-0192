@@ -4,3 +4,5 @@
 - pkg:maven/cn.taketoday/today-context@2.1.4.RELEASE?classifier=sources
 - pkg:maven/cn.taketoday/today-context@2.1.5.RELEASE
 - pkg:maven/cn.taketoday/today-context@2.1.5.RELEASE?classifier=sources
+- pkg:maven/cn.taketoday/today-context@2.1.6.RELEASE
+- pkg:maven/cn.taketoday/today-context@2.1.6.RELEASE?classifier=sources

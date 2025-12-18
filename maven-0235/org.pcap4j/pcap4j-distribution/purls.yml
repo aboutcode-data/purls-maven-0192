@@ -21,3 +21,6 @@
 - pkg:maven/org.pcap4j/pcap4j-distribution@1.7.4?classifier=src&type=zip
 - pkg:maven/org.pcap4j/pcap4j-distribution@1.7.5?classifier=src&type=zip
 - pkg:maven/org.pcap4j/pcap4j-distribution@1.7.6?classifier=src&type=zip
+- pkg:maven/org.pcap4j/pcap4j-distribution@1.7.7?classifier=src&type=zip
+- pkg:maven/org.pcap4j/pcap4j-distribution@1.8.0?classifier=src&type=zip
+- pkg:maven/org.pcap4j/pcap4j-distribution@1.8.1?classifier=src&type=zip

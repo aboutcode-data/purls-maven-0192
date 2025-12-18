@@ -1,0 +1,8 @@
+- pkg:maven/com.35liuqi/Nuna-Web-core@0.0.1-preview
+- pkg:maven/com.35liuqi/Nuna-Web-core@0.0.1-preview?classifier=sources
+- pkg:maven/com.35liuqi/Nuna-Web-core@0.0.2-preview
+- pkg:maven/com.35liuqi/Nuna-Web-core@0.0.2-preview?classifier=sources
+- pkg:maven/com.35liuqi/Nuna-Web-core@0.0.3-preview
+- pkg:maven/com.35liuqi/Nuna-Web-core@0.0.3-preview?classifier=sources
+- pkg:maven/com.35liuqi/Nuna-Web-core@0.0.4-preview
+- pkg:maven/com.35liuqi/Nuna-Web-core@0.0.4-preview?classifier=sources

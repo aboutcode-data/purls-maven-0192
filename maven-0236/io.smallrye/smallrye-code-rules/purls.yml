@@ -1,0 +1,2 @@
+- pkg:maven/io.smallrye/smallrye-code-rules@1
+- pkg:maven/io.smallrye/smallrye-code-rules@1?classifier=sources

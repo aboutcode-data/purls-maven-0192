@@ -1,0 +1,2 @@
+- pkg:maven/com.jpmorgan.quorum/tessera-data@0.10
+- pkg:maven/com.jpmorgan.quorum/tessera-data@0.10?classifier=sources

@@ -1,7 +1,9 @@
+- pkg:maven/org.controlsfx/controlsfx@11.0.0
 - pkg:maven/org.controlsfx/controlsfx@11.0.0-RC1
 - pkg:maven/org.controlsfx/controlsfx@11.0.0-RC1?classifier=sources
 - pkg:maven/org.controlsfx/controlsfx@11.0.0-RC2
 - pkg:maven/org.controlsfx/controlsfx@11.0.0-RC2?classifier=sources
+- pkg:maven/org.controlsfx/controlsfx@11.0.0?classifier=sources
 - pkg:maven/org.controlsfx/controlsfx@8.0.1
 - pkg:maven/org.controlsfx/controlsfx@8.0.1?classifier=sources
 - pkg:maven/org.controlsfx/controlsfx@8.0.2
@@ -32,6 +34,8 @@
 - pkg:maven/org.controlsfx/controlsfx@8.40.13?classifier=sources
 - pkg:maven/org.controlsfx/controlsfx@8.40.14
 - pkg:maven/org.controlsfx/controlsfx@8.40.14?classifier=sources
+- pkg:maven/org.controlsfx/controlsfx@8.40.15
+- pkg:maven/org.controlsfx/controlsfx@8.40.15?classifier=sources
 - pkg:maven/org.controlsfx/controlsfx@8.40.9
 - pkg:maven/org.controlsfx/controlsfx@8.40.9?classifier=sources
 - pkg:maven/org.controlsfx/controlsfx@9.0.0

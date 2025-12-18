@@ -16,3 +16,7 @@
 - pkg:maven/ch.digitalfondue.npjt-extra/npjt-extra@1.1.4?classifier=sources
 - pkg:maven/ch.digitalfondue.npjt-extra/npjt-extra@1.1.5
 - pkg:maven/ch.digitalfondue.npjt-extra/npjt-extra@1.1.5?classifier=sources
+- pkg:maven/ch.digitalfondue.npjt-extra/npjt-extra@2.0.0
+- pkg:maven/ch.digitalfondue.npjt-extra/npjt-extra@2.0.0?classifier=sources
+- pkg:maven/ch.digitalfondue.npjt-extra/npjt-extra@2.0.1
+- pkg:maven/ch.digitalfondue.npjt-extra/npjt-extra@2.0.1?classifier=sources

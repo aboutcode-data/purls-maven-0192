@@ -1,0 +1,2 @@
+- pkg:maven/net.snowflake/snowflake-hive-metastore-connector@0.3.0
+- pkg:maven/net.snowflake/snowflake-hive-metastore-connector@0.3.0?classifier=sources

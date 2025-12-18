@@ -1,0 +1,2 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-jaxws-lightapi@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-jaxws-lightapi@RELEASE111?classifier=sources

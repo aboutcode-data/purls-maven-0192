@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.containerservice.v2018_09_30_preview/azure-mgmt-containerservice@1.0.0-beta
+- pkg:maven/com.microsoft.azure.containerservice.v2018_09_30_preview/azure-mgmt-containerservice@1.0.0-beta?classifier=sources

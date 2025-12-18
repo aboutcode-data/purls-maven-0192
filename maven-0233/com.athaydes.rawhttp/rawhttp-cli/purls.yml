@@ -3,3 +3,4 @@
 - pkg:maven/com.athaydes.rawhttp/rawhttp-cli@1.0?classifier=sources
 - pkg:maven/com.athaydes.rawhttp/rawhttp-cli@1.1.1?classifier=sources
 - pkg:maven/com.athaydes.rawhttp/rawhttp-cli@1.1?classifier=sources
+- pkg:maven/com.athaydes.rawhttp/rawhttp-cli@1.2?classifier=sources

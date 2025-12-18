@@ -1,0 +1,2 @@
+- pkg:maven/com.tradeshift/spring-rabbitmq-tuning-lib@0.0.1
+- pkg:maven/com.tradeshift/spring-rabbitmq-tuning-lib@0.0.1?classifier=sources

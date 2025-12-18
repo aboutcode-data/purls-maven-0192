@@ -4,3 +4,5 @@
 - pkg:maven/com.cognitect.aws/rds-data@695.2.387.0?classifier=sources
 - pkg:maven/com.cognitect.aws/rds-data@697.2.391.0
 - pkg:maven/com.cognitect.aws/rds-data@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/rds-data@722.2.466.0
+- pkg:maven/com.cognitect.aws/rds-data@722.2.466.0?classifier=sources

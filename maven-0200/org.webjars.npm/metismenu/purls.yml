@@ -8,6 +8,8 @@
 - pkg:maven/org.webjars.npm/metismenu@2.7.2?classifier=sources
 - pkg:maven/org.webjars.npm/metismenu@2.7.8
 - pkg:maven/org.webjars.npm/metismenu@2.7.8?classifier=sources
+- pkg:maven/org.webjars.npm/metismenu@2.7.9
+- pkg:maven/org.webjars.npm/metismenu@2.7.9?classifier=sources
 - pkg:maven/org.webjars.npm/metismenu@3.0.0
 - pkg:maven/org.webjars.npm/metismenu@3.0.0-beta.0
 - pkg:maven/org.webjars.npm/metismenu@3.0.0-beta.0?classifier=sources

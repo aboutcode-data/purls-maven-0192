@@ -1,0 +1,2 @@
+- pkg:maven/org.gerweck.scala/gerweck-utils-akka_2.13@5.0.0
+- pkg:maven/org.gerweck.scala/gerweck-utils-akka_2.13@5.0.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.appng/appng-application-camunda@1.17.0?type=war
 - pkg:maven/org.appng/appng-application-camunda@1.17.1?type=war
 - pkg:maven/org.appng/appng-application-camunda@1.18.0?type=war
+- pkg:maven/org.appng/appng-application-camunda@1.19.0?type=war
+- pkg:maven/org.appng/appng-application-camunda@1.19.1?type=war

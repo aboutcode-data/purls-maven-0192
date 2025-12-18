@@ -1,0 +1,2 @@
+- pkg:maven/de.javacook/proxifier@3.0
+- pkg:maven/de.javacook/proxifier@3.0?classifier=sources

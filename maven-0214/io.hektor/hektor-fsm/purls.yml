@@ -1,0 +1,2 @@
+- pkg:maven/io.hektor/hektor-fsm@0.0.2
+- pkg:maven/io.hektor/hektor-fsm@0.0.2?classifier=sources

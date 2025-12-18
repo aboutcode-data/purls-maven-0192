@@ -1,3 +1,4 @@
+- pkg:maven/org.finra.herd/herd-docs-swagger@0.100.0?type=zip
 - pkg:maven/org.finra.herd/herd-docs-swagger@0.20.0?type=zip
 - pkg:maven/org.finra.herd/herd-docs-swagger@0.21.0?type=zip
 - pkg:maven/org.finra.herd/herd-docs-swagger@0.22.0?type=zip
@@ -64,3 +65,8 @@
 - pkg:maven/org.finra.herd/herd-docs-swagger@0.91.0?type=zip
 - pkg:maven/org.finra.herd/herd-docs-swagger@0.92.0?type=zip
 - pkg:maven/org.finra.herd/herd-docs-swagger@0.93.0?type=zip
+- pkg:maven/org.finra.herd/herd-docs-swagger@0.94.0?type=zip
+- pkg:maven/org.finra.herd/herd-docs-swagger@0.96.0?type=zip
+- pkg:maven/org.finra.herd/herd-docs-swagger@0.97.0?type=zip
+- pkg:maven/org.finra.herd/herd-docs-swagger@0.98.0?type=zip
+- pkg:maven/org.finra.herd/herd-docs-swagger@0.99.0?type=zip

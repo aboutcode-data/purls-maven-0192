@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/emotion__css@10.0.14
+- pkg:maven/org.webjars.npm/emotion__css@10.0.14?classifier=sources

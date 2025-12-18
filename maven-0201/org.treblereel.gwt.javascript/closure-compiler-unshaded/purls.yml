@@ -1,0 +1,2 @@
+- pkg:maven/org.treblereel.gwt.javascript/closure-compiler-unshaded@0.1
+- pkg:maven/org.treblereel.gwt.javascript/closure-compiler-unshaded@0.1?classifier=sources

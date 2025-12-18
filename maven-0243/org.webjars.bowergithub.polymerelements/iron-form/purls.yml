@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.bowergithub.polymerelements/iron-form@2.3.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.polymerelements/iron-form@2.4.0
 - pkg:maven/org.webjars.bowergithub.polymerelements/iron-form@2.4.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.polymerelements/iron-form@3.0.1
+- pkg:maven/org.webjars.bowergithub.polymerelements/iron-form@3.0.1?classifier=sources

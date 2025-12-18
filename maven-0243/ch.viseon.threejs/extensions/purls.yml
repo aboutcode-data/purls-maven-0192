@@ -1,0 +1,4 @@
+- pkg:maven/ch.viseon.threejs/extensions@105.0.0
+- pkg:maven/ch.viseon.threejs/extensions@105.0.0?classifier=sources
+- pkg:maven/ch.viseon.threejs/extensions@106.0.0
+- pkg:maven/ch.viseon.threejs/extensions@106.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.sciss/desktop-mac_2.13@0.10.4
+- pkg:maven/de.sciss/desktop-mac_2.13@0.10.4?classifier=sources

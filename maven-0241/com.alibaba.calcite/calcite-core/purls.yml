@@ -2,4 +2,6 @@
 - pkg:maven/com.alibaba.calcite/calcite-core@1.17.0-flink-r1?classifier=sources
 - pkg:maven/com.alibaba.calcite/calcite-core@1.17.0-flink-r2
 - pkg:maven/com.alibaba.calcite/calcite-core@1.17.0-flink-r2?classifier=sources
+- pkg:maven/com.alibaba.calcite/calcite-core@1.17.0-flink-r3
+- pkg:maven/com.alibaba.calcite/calcite-core@1.17.0-flink-r3?classifier=sources
 - pkg:maven/com.alibaba.calcite/calcite-core@1.17.0-flink?classifier=sources

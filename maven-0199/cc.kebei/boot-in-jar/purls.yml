@@ -1,0 +1,2 @@
+- pkg:maven/cc.kebei/boot-in-jar@1.1
+- pkg:maven/cc.kebei/boot-in-jar@1.1?classifier=sources

@@ -50,3 +50,4 @@
 - pkg:maven/org.dspace.modules/swordv2@6.1?type=war
 - pkg:maven/org.dspace.modules/swordv2@6.2?type=war
 - pkg:maven/org.dspace.modules/swordv2@6.3?type=war
+- pkg:maven/org.dspace.modules/swordv2@7.0-preview-1?type=war

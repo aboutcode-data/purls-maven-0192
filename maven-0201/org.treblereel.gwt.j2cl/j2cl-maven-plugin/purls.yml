@@ -1,0 +1,2 @@
+- pkg:maven/org.treblereel.gwt.j2cl/j2cl-maven-plugin@0.1
+- pkg:maven/org.treblereel.gwt.j2cl/j2cl-maven-plugin@0.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-versioning-indexingbridge@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-versioning-indexingbridge@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-versioning-indexingbridge@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-versioning-indexingbridge@RELEASE90?classifier=sources

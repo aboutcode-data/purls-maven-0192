@@ -10,3 +10,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.metadata@2.4.200?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.metadata@2.4.300
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.metadata@2.4.300?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.metadata@2.4.400
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.metadata@2.4.400?classifier=sources

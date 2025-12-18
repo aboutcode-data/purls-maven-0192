@@ -2,3 +2,5 @@
 - pkg:maven/com.alibaba.flink/flink-shaded-hive@6.0-flink?classifier=sources
 - pkg:maven/com.alibaba.flink/flink-shaded-hive@6.0.1-flink
 - pkg:maven/com.alibaba.flink/flink-shaded-hive@6.0.1-flink?classifier=sources
+- pkg:maven/com.alibaba.flink/flink-shaded-hive@6.0.2-flink
+- pkg:maven/com.alibaba.flink/flink-shaded-hive@6.0.2-flink?classifier=sources

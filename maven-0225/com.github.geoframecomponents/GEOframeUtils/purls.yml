@@ -26,5 +26,7 @@
 - pkg:maven/com.github.geoframecomponents/GEOframeUtils@0.3.8?classifier=sources
 - pkg:maven/com.github.geoframecomponents/GEOframeUtils@0.3.9
 - pkg:maven/com.github.geoframecomponents/GEOframeUtils@0.3.9?classifier=sources
+- pkg:maven/com.github.geoframecomponents/GEOframeUtils@0.4
+- pkg:maven/com.github.geoframecomponents/GEOframeUtils@0.4?classifier=sources
 - pkg:maven/com.github.geoframecomponents/GEOframeUtils@unspecified
 - pkg:maven/com.github.geoframecomponents/GEOframeUtils@unspecified?classifier=sources

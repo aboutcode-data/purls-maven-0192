@@ -1,0 +1,2 @@
+- pkg:maven/org.immutables/processor-testlib@2.8.0-CriteriaPreview0
+- pkg:maven/org.immutables/processor-testlib@2.8.0-CriteriaPreview0?classifier=sources

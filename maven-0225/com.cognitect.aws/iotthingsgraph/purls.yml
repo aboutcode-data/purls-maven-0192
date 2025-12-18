@@ -1,0 +1,2 @@
+- pkg:maven/com.cognitect.aws/iotthingsgraph@722.2.470.0
+- pkg:maven/com.cognitect.aws/iotthingsgraph@722.2.470.0?classifier=sources

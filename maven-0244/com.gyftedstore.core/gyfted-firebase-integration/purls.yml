@@ -1,2 +1,4 @@
 - pkg:maven/com.gyftedstore.core/gyfted-firebase-integration@1.0.3
 - pkg:maven/com.gyftedstore.core/gyfted-firebase-integration@1.0.3?classifier=sources
+- pkg:maven/com.gyftedstore.core/gyfted-firebase-integration@1.0.5
+- pkg:maven/com.gyftedstore.core/gyfted-firebase-integration@1.0.5?classifier=sources

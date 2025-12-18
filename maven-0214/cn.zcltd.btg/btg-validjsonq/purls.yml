@@ -2,3 +2,4 @@
 - pkg:maven/cn.zcltd.btg/btg-validjsonq@3.0.20?classifier=sources
 - pkg:maven/cn.zcltd.btg/btg-validjsonq@4.0.1
 - pkg:maven/cn.zcltd.btg/btg-validjsonq@4.0.1?classifier=sources
+- pkg:maven/cn.zcltd.btg/btg-validjsonq@4.0.2

@@ -18,3 +18,5 @@
 - pkg:maven/org.webjars.bowergithub.mbostock-bower/d3-bower@5.7.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.mbostock-bower/d3-bower@5.9.2
 - pkg:maven/org.webjars.bowergithub.mbostock-bower/d3-bower@5.9.2?classifier=sources
+- pkg:maven/org.webjars.bowergithub.mbostock-bower/d3-bower@5.9.7
+- pkg:maven/org.webjars.bowergithub.mbostock-bower/d3-bower@5.9.7?classifier=sources

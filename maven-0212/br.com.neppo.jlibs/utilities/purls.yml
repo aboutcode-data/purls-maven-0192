@@ -1,0 +1,2 @@
+- pkg:maven/br.com.neppo.jlibs/utilities@0.0.1
+- pkg:maven/br.com.neppo.jlibs/utilities@0.0.1?classifier=sources

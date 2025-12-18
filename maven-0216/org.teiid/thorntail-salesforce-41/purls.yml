@@ -3,3 +3,4 @@
 - pkg:maven/org.teiid/thorntail-salesforce-41@1.0.2
 - pkg:maven/org.teiid/thorntail-salesforce-41@1.0.3
 - pkg:maven/org.teiid/thorntail-salesforce-41@2.0.0
+- pkg:maven/org.teiid/thorntail-salesforce-41@2.1.0

@@ -2,3 +2,7 @@
 - pkg:maven/ru.ilb.common/common-aspect@1.26?classifier=sources
 - pkg:maven/ru.ilb.common/common-aspect@1.28
 - pkg:maven/ru.ilb.common/common-aspect@1.28?classifier=sources
+- pkg:maven/ru.ilb.common/common-aspect@1.29
+- pkg:maven/ru.ilb.common/common-aspect@1.29?classifier=sources
+- pkg:maven/ru.ilb.common/common-aspect@1.30
+- pkg:maven/ru.ilb.common/common-aspect@1.30?classifier=sources

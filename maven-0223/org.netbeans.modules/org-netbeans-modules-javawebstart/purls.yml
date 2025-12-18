@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javawebstart@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javawebstart@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javawebstart@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javawebstart@RELEASE90?classifier=sources

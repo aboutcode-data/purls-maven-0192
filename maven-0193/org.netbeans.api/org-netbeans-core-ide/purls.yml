@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.api/org-netbeans-core-ide@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-core-ide@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-core-ide@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-core-ide@RELEASE90?classifier=sources

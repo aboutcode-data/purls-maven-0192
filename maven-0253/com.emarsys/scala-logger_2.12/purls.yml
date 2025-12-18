@@ -35,6 +35,14 @@
 - pkg:maven/com.emarsys/scala-logger_2.12@0.5.0%2B1-f6972acc?classifier=sources
 - pkg:maven/com.emarsys/scala-logger_2.12@0.5.0%2B3-eb349da6
 - pkg:maven/com.emarsys/scala-logger_2.12@0.5.0%2B3-eb349da6?classifier=sources
+- pkg:maven/com.emarsys/scala-logger_2.12@0.5.0%2B4-8b8dd638%2B20190510-0707
+- pkg:maven/com.emarsys/scala-logger_2.12@0.5.0%2B4-8b8dd638%2B20190510-0707?classifier=sources
+- pkg:maven/com.emarsys/scala-logger_2.12@0.5.0%2B5-32139c27%2B20190516-1730
+- pkg:maven/com.emarsys/scala-logger_2.12@0.5.0%2B5-32139c27%2B20190516-1730?classifier=sources
 - pkg:maven/com.emarsys/scala-logger_2.12@0.5.0?classifier=sources
 - pkg:maven/com.emarsys/scala-logger_2.12@0.5.1
 - pkg:maven/com.emarsys/scala-logger_2.12@0.5.1?classifier=sources
+- pkg:maven/com.emarsys/scala-logger_2.12@0.5.2%2B1-13f37d00%2B20190620-0850
+- pkg:maven/com.emarsys/scala-logger_2.12@0.5.2%2B1-13f37d00%2B20190620-0850?classifier=sources
+- pkg:maven/com.emarsys/scala-logger_2.12@0.5.2%2B20190517-2110
+- pkg:maven/com.emarsys/scala-logger_2.12@0.5.2%2B20190517-2110?classifier=sources

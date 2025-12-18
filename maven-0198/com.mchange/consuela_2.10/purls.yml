@@ -6,6 +6,8 @@
 - pkg:maven/com.mchange/consuela_2.10@0.0.12?classifier=sources
 - pkg:maven/com.mchange/consuela_2.10@0.0.13
 - pkg:maven/com.mchange/consuela_2.10@0.0.13?classifier=sources
+- pkg:maven/com.mchange/consuela_2.10@0.0.15
+- pkg:maven/com.mchange/consuela_2.10@0.0.15?classifier=sources
 - pkg:maven/com.mchange/consuela_2.10@0.0.2
 - pkg:maven/com.mchange/consuela_2.10@0.0.2?classifier=sources
 - pkg:maven/com.mchange/consuela_2.10@0.0.3

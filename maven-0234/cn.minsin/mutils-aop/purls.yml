@@ -1,0 +1,2 @@
+- pkg:maven/cn.minsin/mutils-aop@0.0.4.RELEASE
+- pkg:maven/cn.minsin/mutils-aop@0.0.4.RELEASE?classifier=sources

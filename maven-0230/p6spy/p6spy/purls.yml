@@ -38,3 +38,5 @@
 - pkg:maven/p6spy/p6spy@3.8.0?classifier=sources
 - pkg:maven/p6spy/p6spy@3.8.1?classifier=sources
 - pkg:maven/p6spy/p6spy@3.8.2?classifier=sources
+- pkg:maven/p6spy/p6spy@3.8.3?classifier=sources
+- pkg:maven/p6spy/p6spy@3.8.4?classifier=sources

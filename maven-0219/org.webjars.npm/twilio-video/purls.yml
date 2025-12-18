@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/twilio-video@2.0.0-beta12
+- pkg:maven/org.webjars.npm/twilio-video@2.0.0-beta12?classifier=sources

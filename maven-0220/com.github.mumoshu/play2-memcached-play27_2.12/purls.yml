@@ -6,3 +6,5 @@
 - pkg:maven/com.github.mumoshu/play2-memcached-play27_2.12@0.10.0-RC3
 - pkg:maven/com.github.mumoshu/play2-memcached-play27_2.12@0.10.0-RC3?classifier=sources
 - pkg:maven/com.github.mumoshu/play2-memcached-play27_2.12@0.10.0?classifier=sources
+- pkg:maven/com.github.mumoshu/play2-memcached-play27_2.12@0.10.1
+- pkg:maven/com.github.mumoshu/play2-memcached-play27_2.12@0.10.1?classifier=sources

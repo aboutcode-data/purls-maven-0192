@@ -6,6 +6,12 @@
 - pkg:maven/io.ebean/ebean-elastic@11.15.2?classifier=sources
 - pkg:maven/io.ebean/ebean-elastic@11.18.1
 - pkg:maven/io.ebean/ebean-elastic@11.18.1?classifier=sources
+- pkg:maven/io.ebean/ebean-elastic@11.37.1
+- pkg:maven/io.ebean/ebean-elastic@11.37.1?classifier=sources
+- pkg:maven/io.ebean/ebean-elastic@11.38.1
+- pkg:maven/io.ebean/ebean-elastic@11.38.1?classifier=sources
+- pkg:maven/io.ebean/ebean-elastic@11.39.1
+- pkg:maven/io.ebean/ebean-elastic@11.39.1?classifier=sources
 - pkg:maven/io.ebean/ebean-elastic@2.1.1
 - pkg:maven/io.ebean/ebean-elastic@2.1.1?classifier=sources
 - pkg:maven/io.ebean/ebean-elastic@2.1.2

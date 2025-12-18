@@ -1,0 +1,2 @@
+- pkg:maven/org.opendaylight.mdsal/mdsal-yanglib-rfc7895@0.9.3
+- pkg:maven/org.opendaylight.mdsal/mdsal-yanglib-rfc7895@0.9.3?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/com.squareup.retrofit2/adapter-scala@2.4.0?classifier=sources
 - pkg:maven/com.squareup.retrofit2/adapter-scala@2.5.0
 - pkg:maven/com.squareup.retrofit2/adapter-scala@2.5.0?classifier=sources
+- pkg:maven/com.squareup.retrofit2/adapter-scala@2.6.0
+- pkg:maven/com.squareup.retrofit2/adapter-scala@2.6.0?classifier=sources
+- pkg:maven/com.squareup.retrofit2/adapter-scala@2.6.1
+- pkg:maven/com.squareup.retrofit2/adapter-scala@2.6.1?classifier=sources

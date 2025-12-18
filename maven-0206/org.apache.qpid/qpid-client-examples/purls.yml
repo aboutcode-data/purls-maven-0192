@@ -44,3 +44,5 @@
 - pkg:maven/org.apache.qpid/qpid-client-examples@6.3.2?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-client-examples@6.3.3
 - pkg:maven/org.apache.qpid/qpid-client-examples@6.3.3?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-client-examples@6.3.4
+- pkg:maven/org.apache.qpid/qpid-client-examples@6.3.4?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/se.mtm.addons/mtm-dotify-addons@2.4.0?classifier=sources
 - pkg:maven/se.mtm.addons/mtm-dotify-addons@3.0.0
 - pkg:maven/se.mtm.addons/mtm-dotify-addons@3.0.0?classifier=sources
+- pkg:maven/se.mtm.addons/mtm-dotify-addons@4.0.0
+- pkg:maven/se.mtm.addons/mtm-dotify-addons@4.0.0?classifier=sources

@@ -17,4 +17,14 @@
 - pkg:maven/in.erail/glue@2.4.6?classifier=sources
 - pkg:maven/in.erail/glue@2.4.7
 - pkg:maven/in.erail/glue@2.4.7?classifier=sources
+- pkg:maven/in.erail/glue@2.4.8
+- pkg:maven/in.erail/glue@2.4.8?classifier=sources
+- pkg:maven/in.erail/glue@2.4.9
+- pkg:maven/in.erail/glue@2.4.9?classifier=sources
 - pkg:maven/in.erail/glue@2.4?classifier=sources
+- pkg:maven/in.erail/glue@2.5.0
+- pkg:maven/in.erail/glue@2.5.0?classifier=sources
+- pkg:maven/in.erail/glue@2.5.1
+- pkg:maven/in.erail/glue@2.5.1?classifier=sources
+- pkg:maven/in.erail/glue@6.7.8
+- pkg:maven/in.erail/glue@6.7.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.jaegertracing/jaeger-core-ot-0.32.0-itest@1.0.0
+- pkg:maven/io.jaegertracing/jaeger-core-ot-0.32.0-itest@1.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.almasb/fxgl-trade@11.3
+- pkg:maven/com.github.almasb/fxgl-trade@11.3?classifier=sources
+- pkg:maven/com.github.almasb/fxgl-trade@11.4
+- pkg:maven/com.github.almasb/fxgl-trade@11.4?classifier=sources

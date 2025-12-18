@@ -1,2 +1,3 @@
 - pkg:maven/org.apache.unomi/unomi-router-karaf-feature@1.2.0-incubating?classifier=sources
 - pkg:maven/org.apache.unomi/unomi-router-karaf-feature@1.3.0-incubating?classifier=sources
+- pkg:maven/org.apache.unomi/unomi-router-karaf-feature@1.4.0?classifier=sources

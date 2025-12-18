@@ -2,3 +2,5 @@
 - pkg:maven/net.sf.tweety.logics/mln@1.11?classifier=sources
 - pkg:maven/net.sf.tweety.logics/mln@1.12
 - pkg:maven/net.sf.tweety.logics/mln@1.12?classifier=sources
+- pkg:maven/net.sf.tweety.logics/mln@1.14
+- pkg:maven/net.sf.tweety.logics/mln@1.14?classifier=sources

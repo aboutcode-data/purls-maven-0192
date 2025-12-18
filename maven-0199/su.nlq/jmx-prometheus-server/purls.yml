@@ -12,3 +12,5 @@
 - pkg:maven/su.nlq/jmx-prometheus-server@0.4.0?classifier=sources
 - pkg:maven/su.nlq/jmx-prometheus-server@0.6.0
 - pkg:maven/su.nlq/jmx-prometheus-server@0.6.0?classifier=sources
+- pkg:maven/su.nlq/jmx-prometheus-server@0.6.1
+- pkg:maven/su.nlq/jmx-prometheus-server@0.6.1?classifier=sources

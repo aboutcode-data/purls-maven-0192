@@ -14,3 +14,5 @@
 - pkg:maven/com.github.moceanapi/moceanapisdk@0.0.17
 - pkg:maven/com.github.moceanapi/moceanapisdk@0.0.17?classifier=sources
 - pkg:maven/com.github.moceanapi/moceanapisdk@0.0.3
+- pkg:maven/com.github.moceanapi/moceanapisdk@1.0.0
+- pkg:maven/com.github.moceanapi/moceanapisdk@1.0.0?classifier=sources

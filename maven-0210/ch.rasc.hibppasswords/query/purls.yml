@@ -1,0 +1,2 @@
+- pkg:maven/ch.rasc.hibppasswords/query@1.0.0
+- pkg:maven/ch.rasc.hibppasswords/query@1.0.0?classifier=sources

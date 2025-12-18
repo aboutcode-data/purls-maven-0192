@@ -5,6 +5,8 @@
 - pkg:maven/ru.fix/jfix-stdlib-ratelimiter@1.0.13
 - pkg:maven/ru.fix/jfix-stdlib-ratelimiter@1.0.13?classifier=sources
 - pkg:maven/ru.fix/jfix-stdlib-ratelimiter@1.0.2
+- pkg:maven/ru.fix/jfix-stdlib-ratelimiter@1.0.22
+- pkg:maven/ru.fix/jfix-stdlib-ratelimiter@1.0.22?classifier=sources
 - pkg:maven/ru.fix/jfix-stdlib-ratelimiter@1.0.2?classifier=sources
 - pkg:maven/ru.fix/jfix-stdlib-ratelimiter@1.0.7
 - pkg:maven/ru.fix/jfix-stdlib-ratelimiter@1.0.7?classifier=sources

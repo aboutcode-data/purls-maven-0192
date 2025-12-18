@@ -1,0 +1,2 @@
+- pkg:maven/io.mfj/textricator-web@9.2.23
+- pkg:maven/io.mfj/textricator-web@9.2.23?classifier=sources

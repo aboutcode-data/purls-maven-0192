@@ -16,3 +16,5 @@
 - pkg:maven/it.uniroma2.art.semanticturkey/st-codegen-annotations@4.0?classifier=sources
 - pkg:maven/it.uniroma2.art.semanticturkey/st-codegen-annotations@5.0
 - pkg:maven/it.uniroma2.art.semanticturkey/st-codegen-annotations@5.0?classifier=sources
+- pkg:maven/it.uniroma2.art.semanticturkey/st-codegen-annotations@6.0
+- pkg:maven/it.uniroma2.art.semanticturkey/st-codegen-annotations@6.0?classifier=sources

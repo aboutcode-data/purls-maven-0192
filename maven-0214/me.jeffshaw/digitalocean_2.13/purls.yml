@@ -1,0 +1,2 @@
+- pkg:maven/me.jeffshaw/digitalocean_2.13@6.2
+- pkg:maven/me.jeffshaw/digitalocean_2.13@6.2?classifier=sources

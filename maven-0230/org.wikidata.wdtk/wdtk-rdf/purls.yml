@@ -1,3 +1,5 @@
+- pkg:maven/org.wikidata.wdtk/wdtk-rdf@0.10.0
+- pkg:maven/org.wikidata.wdtk/wdtk-rdf@0.10.0?classifier=sources
 - pkg:maven/org.wikidata.wdtk/wdtk-rdf@0.2.0
 - pkg:maven/org.wikidata.wdtk/wdtk-rdf@0.2.0?classifier=sources
 - pkg:maven/org.wikidata.wdtk/wdtk-rdf@0.3.0

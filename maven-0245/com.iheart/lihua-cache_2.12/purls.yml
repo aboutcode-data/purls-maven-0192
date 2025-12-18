@@ -1,0 +1,4 @@
+- pkg:maven/com.iheart/lihua-cache_2.12@0.19
+- pkg:maven/com.iheart/lihua-cache_2.12@0.19?classifier=sources
+- pkg:maven/com.iheart/lihua-cache_2.12@0.21
+- pkg:maven/com.iheart/lihua-cache_2.12@0.21?classifier=sources

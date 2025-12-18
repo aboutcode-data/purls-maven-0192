@@ -1,0 +1,2 @@
+- pkg:maven/io.github.lomom/agent-logger@1.0.1-Release
+- pkg:maven/io.github.lomom/agent-logger@1.0.1-Release?classifier=sources

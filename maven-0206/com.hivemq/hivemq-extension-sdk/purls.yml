@@ -1,2 +1,6 @@
 - pkg:maven/com.hivemq/hivemq-extension-sdk@4.0.0
 - pkg:maven/com.hivemq/hivemq-extension-sdk@4.0.0?classifier=sources
+- pkg:maven/com.hivemq/hivemq-extension-sdk@4.1.0
+- pkg:maven/com.hivemq/hivemq-extension-sdk@4.1.0?classifier=sources
+- pkg:maven/com.hivemq/hivemq-extension-sdk@4.2.0
+- pkg:maven/com.hivemq/hivemq-extension-sdk@4.2.0?classifier=sources

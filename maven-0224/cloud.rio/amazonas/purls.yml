@@ -1,0 +1,2 @@
+- pkg:maven/cloud.rio/amazonas@0.1.0
+- pkg:maven/cloud.rio/amazonas@0.1.0?classifier=sources

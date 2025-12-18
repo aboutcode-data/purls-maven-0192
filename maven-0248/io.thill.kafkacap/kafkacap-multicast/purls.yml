@@ -1,0 +1,2 @@
+- pkg:maven/io.thill.kafkacap/kafkacap-multicast@0.1.0
+- pkg:maven/io.thill.kafkacap/kafkacap-multicast@0.1.0?classifier=sources

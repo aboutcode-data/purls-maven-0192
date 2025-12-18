@@ -8,3 +8,7 @@
 - pkg:maven/com.xlrit.gears.scripts/diagram-viewer@0.3.3?classifier=sources
 - pkg:maven/com.xlrit.gears.scripts/diagram-viewer@0.3.3b
 - pkg:maven/com.xlrit.gears.scripts/diagram-viewer@0.3.3b?classifier=sources
+- pkg:maven/com.xlrit.gears.scripts/diagram-viewer@0.3.4
+- pkg:maven/com.xlrit.gears.scripts/diagram-viewer@0.3.4?classifier=sources
+- pkg:maven/com.xlrit.gears.scripts/diagram-viewer@0.3.5
+- pkg:maven/com.xlrit.gears.scripts/diagram-viewer@0.3.5?classifier=sources

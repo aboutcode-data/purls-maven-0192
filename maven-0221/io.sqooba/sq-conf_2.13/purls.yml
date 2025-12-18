@@ -1,0 +1,2 @@
+- pkg:maven/io.sqooba/sq-conf_2.13@0.5.2
+- pkg:maven/io.sqooba/sq-conf_2.13@0.5.2?classifier=sources

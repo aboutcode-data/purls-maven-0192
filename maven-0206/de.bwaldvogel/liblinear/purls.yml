@@ -16,3 +16,5 @@
 - pkg:maven/de.bwaldvogel/liblinear@2.20?classifier=sources
 - pkg:maven/de.bwaldvogel/liblinear@2.21
 - pkg:maven/de.bwaldvogel/liblinear@2.21?classifier=sources
+- pkg:maven/de.bwaldvogel/liblinear@2.30
+- pkg:maven/de.bwaldvogel/liblinear@2.30?classifier=sources

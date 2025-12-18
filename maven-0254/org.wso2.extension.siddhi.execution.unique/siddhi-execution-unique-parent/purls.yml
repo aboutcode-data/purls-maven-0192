@@ -18,3 +18,4 @@
 - pkg:maven/org.wso2.extension.siddhi.execution.unique/siddhi-execution-unique-parent@4.0.27?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.unique/siddhi-execution-unique-parent@4.0.28?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.unique/siddhi-execution-unique-parent@4.1.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.execution.unique/siddhi-execution-unique-parent@4.1.2?classifier=source-release&type=zip

@@ -2,6 +2,12 @@
 - pkg:maven/io.choerodon/choerodon-starter-statemachine@0.1.0.RELEASE?classifier=sources
 - pkg:maven/io.choerodon/choerodon-starter-statemachine@0.10.0.RELEASE
 - pkg:maven/io.choerodon/choerodon-starter-statemachine@0.10.0.RELEASE?classifier=sources
+- pkg:maven/io.choerodon/choerodon-starter-statemachine@0.10.1.RELEASE
+- pkg:maven/io.choerodon/choerodon-starter-statemachine@0.10.1.RELEASE?classifier=sources
+- pkg:maven/io.choerodon/choerodon-starter-statemachine@0.11.0.RELEASE
+- pkg:maven/io.choerodon/choerodon-starter-statemachine@0.11.0.RELEASE?classifier=sources
+- pkg:maven/io.choerodon/choerodon-starter-statemachine@0.11.1.RELEASE
+- pkg:maven/io.choerodon/choerodon-starter-statemachine@0.11.1.RELEASE?classifier=sources
 - pkg:maven/io.choerodon/choerodon-starter-statemachine@0.8.0.RELEASE
 - pkg:maven/io.choerodon/choerodon-starter-statemachine@0.8.0.RELEASE?classifier=sources
 - pkg:maven/io.choerodon/choerodon-starter-statemachine@0.8.1.RELEASE

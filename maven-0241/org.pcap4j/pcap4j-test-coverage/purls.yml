@@ -12,3 +12,6 @@
 - pkg:maven/org.pcap4j/pcap4j-test-coverage@1.7.4
 - pkg:maven/org.pcap4j/pcap4j-test-coverage@1.7.5
 - pkg:maven/org.pcap4j/pcap4j-test-coverage@1.7.6
+- pkg:maven/org.pcap4j/pcap4j-test-coverage@1.7.7
+- pkg:maven/org.pcap4j/pcap4j-test-coverage@1.8.0
+- pkg:maven/org.pcap4j/pcap4j-test-coverage@1.8.1

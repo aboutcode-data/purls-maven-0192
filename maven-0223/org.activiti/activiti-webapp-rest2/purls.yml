@@ -36,6 +36,8 @@
 - pkg:maven/org.activiti/activiti-webapp-rest2@5.21.0?type=war
 - pkg:maven/org.activiti/activiti-webapp-rest2@5.22.0?classifier=sources
 - pkg:maven/org.activiti/activiti-webapp-rest2@5.22.0?type=war
+- pkg:maven/org.activiti/activiti-webapp-rest2@5.23.0-RC1?classifier=sources
+- pkg:maven/org.activiti/activiti-webapp-rest2@5.23.0-RC1?type=war
 - pkg:maven/org.activiti/activiti-webapp-rest2@6.0.0.Beta1?classifier=sources
 - pkg:maven/org.activiti/activiti-webapp-rest2@6.0.0.Beta1?type=war
 - pkg:maven/org.activiti/activiti-webapp-rest2@6.0.0.Beta2?classifier=sources

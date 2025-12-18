@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-projectsupport@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-projectsupport@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-projectsupport@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-projectsupport@RELEASE90?classifier=sources

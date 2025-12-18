@@ -3,4 +3,6 @@
 - pkg:maven/com.microsoft.azure.mysql.v2017_12_01/azure-mgmt-mysql@1.0.0-beta-2?classifier=sources
 - pkg:maven/com.microsoft.azure.mysql.v2017_12_01/azure-mgmt-mysql@1.0.0-beta-3
 - pkg:maven/com.microsoft.azure.mysql.v2017_12_01/azure-mgmt-mysql@1.0.0-beta-3?classifier=sources
+- pkg:maven/com.microsoft.azure.mysql.v2017_12_01/azure-mgmt-mysql@1.0.0-beta-4
+- pkg:maven/com.microsoft.azure.mysql.v2017_12_01/azure-mgmt-mysql@1.0.0-beta-4?classifier=sources
 - pkg:maven/com.microsoft.azure.mysql.v2017_12_01/azure-mgmt-mysql@1.0.0-beta?classifier=sources

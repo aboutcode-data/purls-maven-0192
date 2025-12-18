@@ -46,3 +46,5 @@
 - pkg:maven/com.xing.api/api-client@3.0.6?classifier=sources
 - pkg:maven/com.xing.api/api-client@3.0.7
 - pkg:maven/com.xing.api/api-client@3.0.7?classifier=sources
+- pkg:maven/com.xing.api/api-client@3.1.0
+- pkg:maven/com.xing.api/api-client@3.1.0?classifier=sources

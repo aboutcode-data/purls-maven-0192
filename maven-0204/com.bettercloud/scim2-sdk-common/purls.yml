@@ -1,0 +1,2 @@
+- pkg:maven/com.bettercloud/scim2-sdk-common@1.0.0
+- pkg:maven/com.bettercloud/scim2-sdk-common@1.0.0?classifier=sources
