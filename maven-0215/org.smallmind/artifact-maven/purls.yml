@@ -198,3 +198,5 @@
 - pkg:maven/org.smallmind/artifact-maven@4.8.4?classifier=sources
 - pkg:maven/org.smallmind/artifact-maven@4.8.5
 - pkg:maven/org.smallmind/artifact-maven@4.8.5?classifier=sources
+- pkg:maven/org.smallmind/artifact-maven@4.9.0
+- pkg:maven/org.smallmind/artifact-maven@4.9.0?classifier=sources

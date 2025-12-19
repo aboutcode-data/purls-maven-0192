@@ -1,0 +1,1 @@
+- pkg:maven/software.amazon.smithy.kotlin/smithy-kotlin-codegen-testutils@0.14.2?classifier=sources

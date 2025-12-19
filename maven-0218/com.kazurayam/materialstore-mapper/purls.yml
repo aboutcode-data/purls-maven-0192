@@ -3,3 +3,4 @@
 - pkg:maven/com.kazurayam/materialstore-mapper@0.6.0?classifier=sources
 - pkg:maven/com.kazurayam/materialstore-mapper@0.7.0?classifier=sources
 - pkg:maven/com.kazurayam/materialstore-mapper@0.8.4?classifier=sources
+- pkg:maven/com.kazurayam/materialstore-mapper@0.9.0?classifier=sources

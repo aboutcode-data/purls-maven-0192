@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/kapsule@1.10.0?classifier=sources
 - pkg:maven/org.webjars.npm/kapsule@1.13.3
 - pkg:maven/org.webjars.npm/kapsule@1.13.3?classifier=sources
+- pkg:maven/org.webjars.npm/kapsule@1.13.8
+- pkg:maven/org.webjars.npm/kapsule@1.13.8?classifier=sources

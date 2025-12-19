@@ -10,3 +10,5 @@
 - pkg:maven/com.quectel.aiot/quecloud-sdk-dev-common@1.1.6.RELEASE?classifier=sources
 - pkg:maven/com.quectel.aiot/quecloud-sdk-dev-common@1.1.7.RELEASE
 - pkg:maven/com.quectel.aiot/quecloud-sdk-dev-common@1.1.7.RELEASE?classifier=sources
+- pkg:maven/com.quectel.aiot/quecloud-sdk-dev-common@1.2.0.RELEASE
+- pkg:maven/com.quectel.aiot/quecloud-sdk-dev-common@1.2.0.RELEASE?classifier=sources

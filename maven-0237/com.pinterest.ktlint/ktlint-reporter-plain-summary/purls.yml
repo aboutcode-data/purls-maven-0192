@@ -1,0 +1,1 @@
+- pkg:maven/com.pinterest.ktlint/ktlint-reporter-plain-summary@0.48.0?classifier=sources

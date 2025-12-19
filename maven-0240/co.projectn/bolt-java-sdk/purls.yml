@@ -1,0 +1,2 @@
+- pkg:maven/co.projectn/bolt-java-sdk@1.0.2
+- pkg:maven/co.projectn/bolt-java-sdk@1.0.2?classifier=sources

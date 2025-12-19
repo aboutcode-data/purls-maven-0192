@@ -42,6 +42,10 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dialogflow-cx-v3@0.15.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dialogflow-cx-v3@0.16.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dialogflow-cx-v3@0.16.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-dialogflow-cx-v3@0.17.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-dialogflow-cx-v3@0.17.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-dialogflow-cx-v3@0.18.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-dialogflow-cx-v3@0.18.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dialogflow-cx-v3@0.4.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dialogflow-cx-v3@0.4.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dialogflow-cx-v3@0.4.1

@@ -1,2 +1,4 @@
 - pkg:maven/io.github.gdutxiaoxu/publishplugin@0.0.10?classifier=sources
 - pkg:maven/io.github.gdutxiaoxu/publishplugin@0.0.11?classifier=sources
+- pkg:maven/io.github.gdutxiaoxu/publishplugin@0.0.12?classifier=sources
+- pkg:maven/io.github.gdutxiaoxu/publishplugin@0.0.14?classifier=sources

@@ -15,4 +15,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-keyring@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-keyring@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-keyring@RELEASE150?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-keyring@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-keyring@RELEASE90?classifier=sources

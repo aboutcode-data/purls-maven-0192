@@ -134,6 +134,7 @@
 - pkg:maven/pl.decerto/hyperon-persistence@2.0.1?classifier=sources
 - pkg:maven/pl.decerto/hyperon-persistence@2.0.2?classifier=sources
 - pkg:maven/pl.decerto/hyperon-persistence@2.1.10?classifier=sources
+- pkg:maven/pl.decerto/hyperon-persistence@2.1.11?classifier=sources
 - pkg:maven/pl.decerto/hyperon-persistence@2.1.2?classifier=sources
 - pkg:maven/pl.decerto/hyperon-persistence@2.1.3?classifier=sources
 - pkg:maven/pl.decerto/hyperon-persistence@2.1.4?classifier=sources
@@ -144,3 +145,5 @@
 - pkg:maven/pl.decerto/hyperon-persistence@2.1.9?classifier=sources
 - pkg:maven/pl.decerto/hyperon-persistence@2.2.0?classifier=sources
 - pkg:maven/pl.decerto/hyperon-persistence@2.2.1?classifier=sources
+- pkg:maven/pl.decerto/hyperon-persistence@2.2.2?classifier=sources
+- pkg:maven/pl.decerto/hyperon-persistence@2.2.3?classifier=sources

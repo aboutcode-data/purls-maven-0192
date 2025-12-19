@@ -152,5 +152,7 @@
 - pkg:maven/org.thymeleaf/thymeleaf@3.1.0.RC2?classifier=sources
 - pkg:maven/org.thymeleaf/thymeleaf@3.1.0.RELEASE
 - pkg:maven/org.thymeleaf/thymeleaf@3.1.0.RELEASE?classifier=sources
+- pkg:maven/org.thymeleaf/thymeleaf@3.1.1.RELEASE
+- pkg:maven/org.thymeleaf/thymeleaf@3.1.1.RELEASE?classifier=sources
 - pkg:maven/org.thymeleaf/thymeleaf@m1
 - pkg:maven/org.thymeleaf/thymeleaf@m1?classifier=sources

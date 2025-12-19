@@ -1,0 +1,4 @@
+- pkg:maven/com.innovenso.townplanner/innovenso-townplanner-io-excel_2.13@0.0.0%2B315-f08515a9
+- pkg:maven/com.innovenso.townplanner/innovenso-townplanner-io-excel_2.13@0.0.0%2B315-f08515a9?classifier=sources
+- pkg:maven/com.innovenso.townplanner/innovenso-townplanner-io-excel_2.13@3.0.0
+- pkg:maven/com.innovenso.townplanner/innovenso-townplanner-io-excel_2.13@3.0.0?classifier=sources

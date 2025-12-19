@@ -9,6 +9,9 @@
 - pkg:maven/com.github.sonus21/rqueue-core@2.10.1-RELEASE?classifier=sources
 - pkg:maven/com.github.sonus21/rqueue-core@2.10.2-RELEASE?classifier=sources
 - pkg:maven/com.github.sonus21/rqueue-core@2.11-RELEASE?classifier=sources
+- pkg:maven/com.github.sonus21/rqueue-core@2.11.1-RELEASE?classifier=sources
+- pkg:maven/com.github.sonus21/rqueue-core@2.12.0-RELEASE?classifier=sources
+- pkg:maven/com.github.sonus21/rqueue-core@2.13.0-RELEASE?classifier=sources
 - pkg:maven/com.github.sonus21/rqueue-core@2.2.0-RELEASE?classifier=sources
 - pkg:maven/com.github.sonus21/rqueue-core@2.3.0-RELEASE?classifier=sources
 - pkg:maven/com.github.sonus21/rqueue-core@2.4.0-RELEASE?classifier=sources

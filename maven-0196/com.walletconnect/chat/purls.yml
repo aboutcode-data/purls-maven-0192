@@ -1,3 +1,7 @@
 - pkg:maven/com.walletconnect/chat@1.0.0-alpha01?classifier=sources
 - pkg:maven/com.walletconnect/chat@1.0.0-alpha02-test2?classifier=sources
 - pkg:maven/com.walletconnect/chat@1.0.0-alpha02?classifier=sources
+- pkg:maven/com.walletconnect/chat@1.0.0-alpha03?classifier=sources
+- pkg:maven/com.walletconnect/chat@1.0.0-alpha04?classifier=sources
+- pkg:maven/com.walletconnect/chat@1.0.0-alpha05?classifier=sources
+- pkg:maven/com.walletconnect/chat@1.0.0-alpha06?classifier=sources

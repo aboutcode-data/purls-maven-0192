@@ -2,3 +2,4 @@
 - pkg:maven/org.apache.camel.k/camel-k-resume-kafka@1.15.0
 - pkg:maven/org.apache.camel.k/camel-k-resume-kafka@1.15.1
 - pkg:maven/org.apache.camel.k/camel-k-resume-kafka@1.15.2
+- pkg:maven/org.apache.camel.k/camel-k-resume-kafka@1.16.0

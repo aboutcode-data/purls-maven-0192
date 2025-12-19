@@ -1,0 +1,2 @@
+- pkg:maven/org.finos.tracdap.tools/secret-tool@0.5.4?classifier=sources
+- pkg:maven/org.finos.tracdap.tools/secret-tool@0.5.5?classifier=sources

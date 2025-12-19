@@ -1,1 +1,2 @@
 - pkg:maven/one.tomorrow.transactional-outbox/outbox-kafka-spring@1.1.4?classifier=sources
+- pkg:maven/one.tomorrow.transactional-outbox/outbox-kafka-spring@1.1.5?classifier=sources

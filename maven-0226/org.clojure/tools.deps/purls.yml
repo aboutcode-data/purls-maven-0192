@@ -1,0 +1,4 @@
+- pkg:maven/org.clojure/tools.deps@0.16.1260
+- pkg:maven/org.clojure/tools.deps@0.16.1260?classifier=sources
+- pkg:maven/org.clojure/tools.deps@0.16.1264
+- pkg:maven/org.clojure/tools.deps@0.16.1264?classifier=sources

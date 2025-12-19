@@ -20,3 +20,5 @@
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.google/org.wso2.carbon.identity.application.authenticator.google@5.2.3?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.google/org.wso2.carbon.identity.application.authenticator.google@5.2.4
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.google/org.wso2.carbon.identity.application.authenticator.google@5.2.4?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.google/org.wso2.carbon.identity.application.authenticator.google@5.2.5
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.google/org.wso2.carbon.identity.application.authenticator.google@5.2.5?classifier=sources

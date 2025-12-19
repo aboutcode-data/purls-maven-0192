@@ -1,0 +1,2 @@
+- pkg:maven/group.liquido/data-buffer-autoconfigure@1.0
+- pkg:maven/group.liquido/data-buffer-autoconfigure@1.0?classifier=sources

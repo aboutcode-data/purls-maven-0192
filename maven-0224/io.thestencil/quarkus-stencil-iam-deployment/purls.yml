@@ -1,0 +1,2 @@
+- pkg:maven/io.thestencil/quarkus-stencil-iam-deployment@1.148.16
+- pkg:maven/io.thestencil/quarkus-stencil-iam-deployment@1.148.16?classifier=sources

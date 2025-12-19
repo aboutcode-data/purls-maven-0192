@@ -153,3 +153,4 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-xoo-plugin@9.6.1.59531?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-xoo-plugin@9.7.0.61563?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-xoo-plugin@9.7.1.62043?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-xoo-plugin@9.8.0.63668?classifier=sources

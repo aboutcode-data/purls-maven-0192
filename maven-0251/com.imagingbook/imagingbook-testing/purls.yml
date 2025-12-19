@@ -1,0 +1,4 @@
+- pkg:maven/com.imagingbook/imagingbook-testing@6.0.0
+- pkg:maven/com.imagingbook/imagingbook-testing@6.0.0?classifier=sources
+- pkg:maven/com.imagingbook/imagingbook-testing@7.0.0
+- pkg:maven/com.imagingbook/imagingbook-testing@7.0.0?classifier=sources

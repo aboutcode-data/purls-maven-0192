@@ -1,3 +1,4 @@
 - pkg:maven/pl.mk5.gdx-fireapp/gdx-fireapp-ios@3.1.0?classifier=sources
 - pkg:maven/pl.mk5.gdx-fireapp/gdx-fireapp-ios@3.2.0?classifier=sources
 - pkg:maven/pl.mk5.gdx-fireapp/gdx-fireapp-ios@3.3.0?classifier=sources
+- pkg:maven/pl.mk5.gdx-fireapp/gdx-fireapp-ios@3.3.1?classifier=sources

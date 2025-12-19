@@ -992,6 +992,9 @@
 - pkg:maven/com.liferay/com.liferay.roles.admin.web@4.0.74
 - pkg:maven/com.liferay/com.liferay.roles.admin.web@4.0.74?classifier=sources
 - pkg:maven/com.liferay/com.liferay.roles.admin.web@4.0.74?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.roles.admin.web@4.0.78
+- pkg:maven/com.liferay/com.liferay.roles.admin.web@4.0.78?classifier=sources
+- pkg:maven/com.liferay/com.liferay.roles.admin.web@4.0.78?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.roles.admin.web@4.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.roles.admin.web@4.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.roles.admin.web@4.0.8
@@ -1121,6 +1124,15 @@
 - pkg:maven/com.liferay/com.liferay.roles.admin.web@5.0.60
 - pkg:maven/com.liferay/com.liferay.roles.admin.web@5.0.60?classifier=sources
 - pkg:maven/com.liferay/com.liferay.roles.admin.web@5.0.60?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.roles.admin.web@5.0.61
+- pkg:maven/com.liferay/com.liferay.roles.admin.web@5.0.61?classifier=sources
+- pkg:maven/com.liferay/com.liferay.roles.admin.web@5.0.61?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.roles.admin.web@5.0.62
+- pkg:maven/com.liferay/com.liferay.roles.admin.web@5.0.62?classifier=sources
+- pkg:maven/com.liferay/com.liferay.roles.admin.web@5.0.62?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.roles.admin.web@5.0.63
+- pkg:maven/com.liferay/com.liferay.roles.admin.web@5.0.63?classifier=sources
+- pkg:maven/com.liferay/com.liferay.roles.admin.web@5.0.63?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.roles.admin.web@5.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.roles.admin.web@5.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.roles.admin.web@5.0.7

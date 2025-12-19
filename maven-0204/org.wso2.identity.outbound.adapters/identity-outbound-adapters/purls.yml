@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.identity.outbound.adapters/identity-outbound-adapters@1.0.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.identity.outbound.adapters/identity-outbound-adapters@1.0.1?classifier=source-release&type=zip

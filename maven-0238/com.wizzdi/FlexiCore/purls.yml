@@ -40,3 +40,7 @@
 - pkg:maven/com.wizzdi/FlexiCore@5.3.0?classifier=sources
 - pkg:maven/com.wizzdi/FlexiCore@5.3.2
 - pkg:maven/com.wizzdi/FlexiCore@5.3.2?classifier=sources
+- pkg:maven/com.wizzdi/FlexiCore@6.0.1
+- pkg:maven/com.wizzdi/FlexiCore@6.0.1?classifier=sources
+- pkg:maven/com.wizzdi/FlexiCore@7.0.0
+- pkg:maven/com.wizzdi/FlexiCore@7.0.0?classifier=sources

@@ -79,11 +79,17 @@
 - pkg:maven/com.myadsget/san-sdk@3.12.7.2?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.12.7.6?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.12.7.7?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.12.7.8.1?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.12.7.8?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.12.7.9?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.12.7?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.13.0.1-ln?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.13.0.2-ln?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.13.0.3_ln?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.13.0.4_ln?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.13.0.5?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.13.0.5_ln?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.13.0.6_ln?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.2.0.0?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.2.0.1?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.2.0.2?classifier=sources

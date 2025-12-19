@@ -1,0 +1,2 @@
+- pkg:maven/org.genesys-pgr/amphibian-client-resttemplate@3.1
+- pkg:maven/org.genesys-pgr/amphibian-client-resttemplate@3.1?classifier=sources

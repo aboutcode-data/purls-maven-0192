@@ -75,7 +75,12 @@
 - pkg:maven/com.sap.cloud.sdk.archetypes/scp-cf-spring@3.74.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.archetypes/scp-cf-spring@3.75.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.archetypes/scp-cf-spring@3.76.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.archetypes/scp-cf-spring@3.77.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.archetypes/scp-cf-spring@3.78.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.archetypes/scp-cf-spring@3.8.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.archetypes/scp-cf-spring@3.9.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.archetypes/scp-cf-spring@4.0.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.archetypes/scp-cf-spring@4.1.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.archetypes/scp-cf-spring@4.2.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.archetypes/scp-cf-spring@4.3.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.archetypes/scp-cf-spring@4.4.0?classifier=sources

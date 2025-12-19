@@ -114,6 +114,10 @@
 - pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.5.6?type=war
 - pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.6.0?classifier=sources
 - pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.6.0?type=war
+- pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.6.10?classifier=sources
+- pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.6.10?type=war
+- pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.6.11?classifier=sources
+- pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.6.11?type=war
 - pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.6.1?classifier=sources
 - pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.6.1?type=war
 - pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.6.2?classifier=sources
@@ -148,6 +152,10 @@
 - pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.7.6?type=war
 - pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.7.7?classifier=sources
 - pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.7.7?type=war
+- pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.7.8?classifier=sources
+- pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.7.8?type=war
+- pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.7.9?classifier=sources
+- pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.7.9?type=war
 - pkg:maven/de.codecentric/spring-boot-admin-sample-war@3.0.0-M1?classifier=sources
 - pkg:maven/de.codecentric/spring-boot-admin-sample-war@3.0.0-M1?type=war
 - pkg:maven/de.codecentric/spring-boot-admin-sample-war@3.0.0-M2?classifier=sources
@@ -158,3 +166,9 @@
 - pkg:maven/de.codecentric/spring-boot-admin-sample-war@3.0.0-M4?type=war
 - pkg:maven/de.codecentric/spring-boot-admin-sample-war@3.0.0-M5?classifier=sources
 - pkg:maven/de.codecentric/spring-boot-admin-sample-war@3.0.0-M5?type=war
+- pkg:maven/de.codecentric/spring-boot-admin-sample-war@3.0.0-M6?classifier=sources
+- pkg:maven/de.codecentric/spring-boot-admin-sample-war@3.0.0-M6?type=war
+- pkg:maven/de.codecentric/spring-boot-admin-sample-war@3.0.0-M7?classifier=sources
+- pkg:maven/de.codecentric/spring-boot-admin-sample-war@3.0.0-M7?type=war
+- pkg:maven/de.codecentric/spring-boot-admin-sample-war@3.0.0-M8?classifier=sources
+- pkg:maven/de.codecentric/spring-boot-admin-sample-war@3.0.0-M8?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.pjfanning/jackson-module-enumeratum_3@2.14.1
+- pkg:maven/com.github.pjfanning/jackson-module-enumeratum_3@2.14.1?classifier=sources

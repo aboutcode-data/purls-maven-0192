@@ -23,6 +23,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.term.web@1.0.25
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.term.web@1.0.25?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.term.web@1.0.25?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.term.web@1.0.26
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.term.web@1.0.26?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.term.web@1.0.26?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.term.web@1.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.term.web@1.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.term.web@1.0.3

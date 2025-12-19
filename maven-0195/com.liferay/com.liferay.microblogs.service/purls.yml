@@ -191,6 +191,9 @@
 - pkg:maven/com.liferay/com.liferay.microblogs.service@2.1.64
 - pkg:maven/com.liferay/com.liferay.microblogs.service@2.1.64?classifier=sources
 - pkg:maven/com.liferay/com.liferay.microblogs.service@2.1.64?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.microblogs.service@2.1.65
+- pkg:maven/com.liferay/com.liferay.microblogs.service@2.1.65?classifier=sources
+- pkg:maven/com.liferay/com.liferay.microblogs.service@2.1.65?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.microblogs.service@2.1.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.microblogs.service@2.1.7
 - pkg:maven/com.liferay/com.liferay.microblogs.service@2.1.7?classifier=sources
@@ -589,6 +592,12 @@
 - pkg:maven/com.liferay/com.liferay.microblogs.service@6.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.microblogs.service@6.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.microblogs.service@6.0.3
+- pkg:maven/com.liferay/com.liferay.microblogs.service@6.0.30
+- pkg:maven/com.liferay/com.liferay.microblogs.service@6.0.30?classifier=sources
+- pkg:maven/com.liferay/com.liferay.microblogs.service@6.0.30?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.microblogs.service@6.0.31
+- pkg:maven/com.liferay/com.liferay.microblogs.service@6.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.microblogs.service@6.0.31?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.microblogs.service@6.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.microblogs.service@6.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.microblogs.service@6.0.4

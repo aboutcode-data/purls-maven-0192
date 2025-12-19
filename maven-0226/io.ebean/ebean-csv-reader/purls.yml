@@ -2,6 +2,10 @@
 - pkg:maven/io.ebean/ebean-csv-reader@13.10.0?classifier=sources
 - pkg:maven/io.ebean/ebean-csv-reader@13.10.1
 - pkg:maven/io.ebean/ebean-csv-reader@13.10.1?classifier=sources
+- pkg:maven/io.ebean/ebean-csv-reader@13.10.2
+- pkg:maven/io.ebean/ebean-csv-reader@13.10.2?classifier=sources
+- pkg:maven/io.ebean/ebean-csv-reader@13.11.0
+- pkg:maven/io.ebean/ebean-csv-reader@13.11.0?classifier=sources
 - pkg:maven/io.ebean/ebean-csv-reader@13.9.0
 - pkg:maven/io.ebean/ebean-csv-reader@13.9.0?classifier=sources
 - pkg:maven/io.ebean/ebean-csv-reader@13.9.1

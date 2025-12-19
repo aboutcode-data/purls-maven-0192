@@ -1,0 +1,2 @@
+- pkg:maven/org.nachc.cad.tools/hivcdsapi@0.0.1-001
+- pkg:maven/org.nachc.cad.tools/hivcdsapi@0.0.1-001?classifier=sources

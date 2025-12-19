@@ -1,3 +1,4 @@
 - pkg:maven/love.forte.simbot.component/simbot-component-kook-boot@3.0.0.0-alpha.1?classifier=sources
 - pkg:maven/love.forte.simbot.component/simbot-component-kook-boot@3.0.0.0-alpha.2?classifier=sources
+- pkg:maven/love.forte.simbot.component/simbot-component-kook-boot@3.0.0.0-alpha.3?classifier=sources
 - pkg:maven/love.forte.simbot.component/simbot-component-kook-boot@3.0.0.0.preview.14.0?classifier=sources

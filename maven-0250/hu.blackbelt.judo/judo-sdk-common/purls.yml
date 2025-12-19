@@ -1,3 +1,4 @@
 - pkg:maven/hu.blackbelt.judo/judo-sdk-common@1.0.0
 - pkg:maven/hu.blackbelt.judo/judo-sdk-common@1.0.1
 - pkg:maven/hu.blackbelt.judo/judo-sdk-common@1.0.2
+- pkg:maven/hu.blackbelt.judo/judo-sdk-common@1.0.3

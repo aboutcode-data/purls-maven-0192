@@ -1,0 +1,2 @@
+- pkg:maven/cn.iosd/simple-starter-grpc@2022.1.0.0
+- pkg:maven/cn.iosd/simple-starter-grpc@2022.1.0.0?classifier=sources

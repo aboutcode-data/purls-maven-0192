@@ -56,3 +56,5 @@
 - pkg:maven/com.github.agourlay/cornichon-kafka_2.12@0.20.3?classifier=sources
 - pkg:maven/com.github.agourlay/cornichon-kafka_2.12@0.20.4
 - pkg:maven/com.github.agourlay/cornichon-kafka_2.12@0.20.4?classifier=sources
+- pkg:maven/com.github.agourlay/cornichon-kafka_2.12@0.20.5
+- pkg:maven/com.github.agourlay/cornichon-kafka_2.12@0.20.5?classifier=sources
