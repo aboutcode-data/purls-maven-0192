@@ -1,0 +1,2 @@
+- pkg:maven/com.mengweifeng.tool/dependency-check@0.0.2
+- pkg:maven/com.mengweifeng.tool/dependency-check@0.0.2?classifier=sources

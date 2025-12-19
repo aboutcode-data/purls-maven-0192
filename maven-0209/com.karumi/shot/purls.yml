@@ -65,6 +65,8 @@
 - pkg:maven/com.karumi/shot@5.11.2?classifier=sources
 - pkg:maven/com.karumi/shot@5.12.0?classifier=sources
 - pkg:maven/com.karumi/shot@5.12.1?classifier=sources
+- pkg:maven/com.karumi/shot@5.12.2?classifier=sources
+- pkg:maven/com.karumi/shot@5.13.0?classifier=sources
 - pkg:maven/com.karumi/shot@5.2.0
 - pkg:maven/com.karumi/shot@5.2.0?classifier=sources
 - pkg:maven/com.karumi/shot@5.2.1

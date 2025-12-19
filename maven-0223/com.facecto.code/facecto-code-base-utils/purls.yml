@@ -5,4 +5,8 @@
 - pkg:maven/com.facecto.code/facecto-code-base-utils@1.1.1
 - pkg:maven/com.facecto.code/facecto-code-base-utils@1.1.1.1
 - pkg:maven/com.facecto.code/facecto-code-base-utils@1.1.1.1?classifier=sources
+- pkg:maven/com.facecto.code/facecto-code-base-utils@1.1.1.2
+- pkg:maven/com.facecto.code/facecto-code-base-utils@1.1.1.2?classifier=sources
 - pkg:maven/com.facecto.code/facecto-code-base-utils@1.1.1?classifier=sources
+- pkg:maven/com.facecto.code/facecto-code-base-utils@1.1.2
+- pkg:maven/com.facecto.code/facecto-code-base-utils@1.1.2?classifier=sources

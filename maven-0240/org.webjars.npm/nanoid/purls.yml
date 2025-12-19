@@ -22,3 +22,5 @@
 - pkg:maven/org.webjars.npm/nanoid@3.1.29?classifier=sources
 - pkg:maven/org.webjars.npm/nanoid@3.1.30
 - pkg:maven/org.webjars.npm/nanoid@3.1.30?classifier=sources
+- pkg:maven/org.webjars.npm/nanoid@3.2.0
+- pkg:maven/org.webjars.npm/nanoid@3.2.0?classifier=sources

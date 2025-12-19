@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.pusher.beams/quarkus-pusher-beams-deployment@1.0.0
+- pkg:maven/io.quarkiverse.pusher.beams/quarkus-pusher-beams-deployment@1.0.0?classifier=sources

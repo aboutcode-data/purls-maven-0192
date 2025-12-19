@@ -34,3 +34,4 @@
 - pkg:maven/com.bbossgroups/bboss-spring-boot-starter@5.8.8?classifier=sources
 - pkg:maven/com.bbossgroups/bboss-spring-boot-starter@5.8.9?classifier=sources
 - pkg:maven/com.bbossgroups/bboss-spring-boot-starter@5.9.0?classifier=sources
+- pkg:maven/com.bbossgroups/bboss-spring-boot-starter@5.9.1?classifier=sources

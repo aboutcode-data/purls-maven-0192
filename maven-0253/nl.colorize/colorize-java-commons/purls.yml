@@ -110,3 +110,4 @@
 - pkg:maven/nl.colorize/colorize-java-commons@2021.7?classifier=sources
 - pkg:maven/nl.colorize/colorize-java-commons@2021.8?classifier=sources
 - pkg:maven/nl.colorize/colorize-java-commons@2021.9?classifier=sources
+- pkg:maven/nl.colorize/colorize-java-commons@2022.1?classifier=sources

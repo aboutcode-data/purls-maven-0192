@@ -95,6 +95,9 @@
 - pkg:maven/com.liferay/com.liferay.users.admin.api@3.0.32
 - pkg:maven/com.liferay/com.liferay.users.admin.api@3.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.users.admin.api@3.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.users.admin.api@3.0.33
+- pkg:maven/com.liferay/com.liferay.users.admin.api@3.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.users.admin.api@3.0.33?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.users.admin.api@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.users.admin.api@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.users.admin.api@3.0.4
@@ -158,6 +161,9 @@
 - pkg:maven/com.liferay/com.liferay.users.admin.api@4.0.22
 - pkg:maven/com.liferay/com.liferay.users.admin.api@4.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.users.admin.api@4.0.22?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.users.admin.api@4.0.23
+- pkg:maven/com.liferay/com.liferay.users.admin.api@4.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.users.admin.api@4.0.23?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.users.admin.api@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.users.admin.api@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.users.admin.api@4.0.3
@@ -230,6 +236,9 @@
 - pkg:maven/com.liferay/com.liferay.users.admin.api@5.1.12
 - pkg:maven/com.liferay/com.liferay.users.admin.api@5.1.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.users.admin.api@5.1.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.users.admin.api@5.1.13
+- pkg:maven/com.liferay/com.liferay.users.admin.api@5.1.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.users.admin.api@5.1.13?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.users.admin.api@5.1.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.users.admin.api@5.1.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.users.admin.api@5.1.2

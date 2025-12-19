@@ -1,3 +1,5 @@
+- pkg:maven/io.datarouter/datarouter-secret-web@0.0.100
+- pkg:maven/io.datarouter/datarouter-secret-web@0.0.100?classifier=sources
 - pkg:maven/io.datarouter/datarouter-secret-web@0.0.39
 - pkg:maven/io.datarouter/datarouter-secret-web@0.0.39?classifier=sources
 - pkg:maven/io.datarouter/datarouter-secret-web@0.0.40
@@ -114,3 +116,5 @@
 - pkg:maven/io.datarouter/datarouter-secret-web@0.0.97?classifier=sources
 - pkg:maven/io.datarouter/datarouter-secret-web@0.0.98
 - pkg:maven/io.datarouter/datarouter-secret-web@0.0.98?classifier=sources
+- pkg:maven/io.datarouter/datarouter-secret-web@0.0.99
+- pkg:maven/io.datarouter/datarouter-secret-web@0.0.99?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.pepperkit/git-hooks-maven-plugin@0.9.0
+- pkg:maven/io.github.pepperkit/git-hooks-maven-plugin@0.9.0?classifier=sources

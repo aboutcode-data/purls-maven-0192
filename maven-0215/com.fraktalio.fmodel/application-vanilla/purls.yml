@@ -1,2 +1,9 @@
+- pkg:maven/com.fraktalio.fmodel/application-vanilla@1.3.0
+- pkg:maven/com.fraktalio.fmodel/application-vanilla@1.3.0?classifier=sources
+- pkg:maven/com.fraktalio.fmodel/application-vanilla@1.3.1
+- pkg:maven/com.fraktalio.fmodel/application-vanilla@1.3.1?classifier=sources
 - pkg:maven/com.fraktalio.fmodel/application-vanilla@2.3.0
 - pkg:maven/com.fraktalio.fmodel/application-vanilla@2.3.0?classifier=sources
+- pkg:maven/com.fraktalio.fmodel/application-vanilla@2.3.1
+- pkg:maven/com.fraktalio.fmodel/application-vanilla@2.3.1?classifier=sources
+- pkg:maven/com.fraktalio.fmodel/application-vanilla@3.0.0?classifier=sources

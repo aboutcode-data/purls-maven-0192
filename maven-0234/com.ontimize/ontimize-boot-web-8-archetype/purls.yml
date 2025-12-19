@@ -1,1 +1,2 @@
 - pkg:maven/com.ontimize/ontimize-boot-web-8-archetype@1.0.0?classifier=sources
+- pkg:maven/com.ontimize/ontimize-boot-web-8-archetype@1.0.1?classifier=sources

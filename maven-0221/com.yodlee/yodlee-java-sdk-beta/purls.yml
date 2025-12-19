@@ -10,3 +10,5 @@
 - pkg:maven/com.yodlee/yodlee-java-sdk-beta@1.0.22.beta3?classifier=sources
 - pkg:maven/com.yodlee/yodlee-java-sdk-beta@1.0.22.beta4
 - pkg:maven/com.yodlee/yodlee-java-sdk-beta@1.0.22.beta4?classifier=sources
+- pkg:maven/com.yodlee/yodlee-java-sdk-beta@1.0.23.beta1
+- pkg:maven/com.yodlee/yodlee-java-sdk-beta@1.0.23.beta1?classifier=sources

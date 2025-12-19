@@ -59,3 +59,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-docs@2.8.4
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-docs@2.9.0
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-docs@2.9.1
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-docs@2.9.2

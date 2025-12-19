@@ -12,6 +12,8 @@
 - pkg:maven/org.jfxtras/jfxtras-fxml@15-r1?classifier=sources
 - pkg:maven/org.jfxtras/jfxtras-fxml@15-r2
 - pkg:maven/org.jfxtras/jfxtras-fxml@15-r2?classifier=sources
+- pkg:maven/org.jfxtras/jfxtras-fxml@17-r1
+- pkg:maven/org.jfxtras/jfxtras-fxml@17-r1?classifier=sources
 - pkg:maven/org.jfxtras/jfxtras-fxml@8.0-r1
 - pkg:maven/org.jfxtras/jfxtras-fxml@8.0-r1?classifier=sources
 - pkg:maven/org.jfxtras/jfxtras-fxml@8.0-r2

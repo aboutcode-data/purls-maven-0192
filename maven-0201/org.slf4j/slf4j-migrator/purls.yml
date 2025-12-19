@@ -91,6 +91,12 @@
 - pkg:maven/org.slf4j/slf4j-migrator@1.7.31?classifier=sources
 - pkg:maven/org.slf4j/slf4j-migrator@1.7.32
 - pkg:maven/org.slf4j/slf4j-migrator@1.7.32?classifier=sources
+- pkg:maven/org.slf4j/slf4j-migrator@1.7.33
+- pkg:maven/org.slf4j/slf4j-migrator@1.7.33?classifier=sources
+- pkg:maven/org.slf4j/slf4j-migrator@1.7.34
+- pkg:maven/org.slf4j/slf4j-migrator@1.7.34?classifier=sources
+- pkg:maven/org.slf4j/slf4j-migrator@1.7.35
+- pkg:maven/org.slf4j/slf4j-migrator@1.7.35?classifier=sources
 - pkg:maven/org.slf4j/slf4j-migrator@1.7.3?classifier=sources
 - pkg:maven/org.slf4j/slf4j-migrator@1.7.4
 - pkg:maven/org.slf4j/slf4j-migrator@1.7.4?classifier=sources
@@ -122,3 +128,5 @@
 - pkg:maven/org.slf4j/slf4j-migrator@2.0.0-alpha4?classifier=sources
 - pkg:maven/org.slf4j/slf4j-migrator@2.0.0-alpha5
 - pkg:maven/org.slf4j/slf4j-migrator@2.0.0-alpha5?classifier=sources
+- pkg:maven/org.slf4j/slf4j-migrator@2.0.0-alpha6
+- pkg:maven/org.slf4j/slf4j-migrator@2.0.0-alpha6?classifier=sources

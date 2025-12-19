@@ -1,5 +1,6 @@
 - pkg:maven/com.mopub.mediation/vungle@6.10.1.0?type=aar
 - pkg:maven/com.mopub.mediation/vungle@6.10.2.0?type=aar
+- pkg:maven/com.mopub.mediation/vungle@6.10.3.0?type=aar
 - pkg:maven/com.mopub.mediation/vungle@6.3.24.2?type=aar
 - pkg:maven/com.mopub.mediation/vungle@6.3.24.3?type=aar
 - pkg:maven/com.mopub.mediation/vungle@6.3.24.4?type=aar

@@ -1,3 +1,15 @@
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@10.0.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@10.0.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@10.1.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@10.1.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@10.2.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@10.2.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@10.3.2
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@10.3.2?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@10.3.3
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@10.3.3?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@10.3.4
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@10.3.4?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@3.5.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@3.5.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-context@3.5.1

@@ -32,3 +32,5 @@
 - pkg:maven/org.eobjects.metamodel/MetaModel-sugarcrm@3.4.9
 - pkg:maven/org.eobjects.metamodel/MetaModel-sugarcrm@3.4.9?classifier=sources
 - pkg:maven/org.eobjects.metamodel/MetaModel-sugarcrm@3.4?classifier=sources
+- pkg:maven/org.eobjects.metamodel/MetaModel-sugarcrm@5.3.4
+- pkg:maven/org.eobjects.metamodel/MetaModel-sugarcrm@5.3.4?classifier=sources

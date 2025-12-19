@@ -18,6 +18,12 @@
 - pkg:maven/de.gematik/rbellogger@0.18.0?classifier=sources
 - pkg:maven/de.gematik/rbellogger@0.19.0
 - pkg:maven/de.gematik/rbellogger@0.19.0?classifier=sources
+- pkg:maven/de.gematik/rbellogger@0.20.0
+- pkg:maven/de.gematik/rbellogger@0.20.0?classifier=sources
+- pkg:maven/de.gematik/rbellogger@0.21.0
+- pkg:maven/de.gematik/rbellogger@0.21.0?classifier=sources
+- pkg:maven/de.gematik/rbellogger@0.22.0
+- pkg:maven/de.gematik/rbellogger@0.22.0?classifier=sources
 - pkg:maven/de.gematik/rbellogger@0.6.3
 - pkg:maven/de.gematik/rbellogger@0.6.3?classifier=sources
 - pkg:maven/de.gematik/rbellogger@0.7.0

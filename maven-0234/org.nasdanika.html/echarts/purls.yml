@@ -94,3 +94,7 @@
 - pkg:maven/org.nasdanika.html/echarts@2021.7.3?classifier=sources
 - pkg:maven/org.nasdanika.html/echarts@2021.9.0
 - pkg:maven/org.nasdanika.html/echarts@2021.9.0?classifier=sources
+- pkg:maven/org.nasdanika.html/echarts@2022.1.0
+- pkg:maven/org.nasdanika.html/echarts@2022.1.0?classifier=sources
+- pkg:maven/org.nasdanika.html/echarts@2022.1.1
+- pkg:maven/org.nasdanika.html/echarts@2022.1.1?classifier=sources

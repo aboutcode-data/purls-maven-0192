@@ -90,3 +90,4 @@
 - pkg:maven/io.dekorate/openshift-spring-starter@2.5.0
 - pkg:maven/io.dekorate/openshift-spring-starter@2.6.0
 - pkg:maven/io.dekorate/openshift-spring-starter@2.7.0
+- pkg:maven/io.dekorate/openshift-spring-starter@2.8.0

@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/workbox-precaching@5.1.4?classifier=sources
 - pkg:maven/org.webjars.npm/workbox-precaching@6.2.4
 - pkg:maven/org.webjars.npm/workbox-precaching@6.2.4?classifier=sources
+- pkg:maven/org.webjars.npm/workbox-precaching@6.4.2
+- pkg:maven/org.webjars.npm/workbox-precaching@6.4.2?classifier=sources

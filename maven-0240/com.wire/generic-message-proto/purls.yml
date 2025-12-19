@@ -4,3 +4,5 @@
 - pkg:maven/com.wire/generic-message-proto@1.28.2?classifier=sources
 - pkg:maven/com.wire/generic-message-proto@1.35.0
 - pkg:maven/com.wire/generic-message-proto@1.35.0?classifier=sources
+- pkg:maven/com.wire/generic-message-proto@1.36.0
+- pkg:maven/com.wire/generic-message-proto@1.36.0?classifier=sources

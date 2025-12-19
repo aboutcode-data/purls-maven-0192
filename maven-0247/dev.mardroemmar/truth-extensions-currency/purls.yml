@@ -1,0 +1,2 @@
+- pkg:maven/dev.mardroemmar/truth-extensions-currency@0.2.0?classifier=sources
+- pkg:maven/dev.mardroemmar/truth-extensions-currency@0.3.0?classifier=sources

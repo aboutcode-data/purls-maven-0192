@@ -2,6 +2,8 @@
 - pkg:maven/org.webjars.npm/graphql-language-service-parser@0.0.14?classifier=sources
 - pkg:maven/org.webjars.npm/graphql-language-service-parser@0.0.15
 - pkg:maven/org.webjars.npm/graphql-language-service-parser@0.0.15?classifier=sources
+- pkg:maven/org.webjars.npm/graphql-language-service-parser@1.10.4
+- pkg:maven/org.webjars.npm/graphql-language-service-parser@1.10.4?classifier=sources
 - pkg:maven/org.webjars.npm/graphql-language-service-parser@1.5.0
 - pkg:maven/org.webjars.npm/graphql-language-service-parser@1.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/graphql-language-service-parser@1.5.2

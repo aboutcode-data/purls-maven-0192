@@ -1,0 +1,2 @@
+- pkg:maven/dev.vality/webhook-dispatcher-proto@1.12-49f714e
+- pkg:maven/dev.vality/webhook-dispatcher-proto@1.12-49f714e?classifier=sources

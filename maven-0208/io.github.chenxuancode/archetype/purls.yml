@@ -1,0 +1,2 @@
+- pkg:maven/io.github.chenxuancode/archetype@1.0.0-Release
+- pkg:maven/io.github.chenxuancode/archetype@1.0.0-Release?classifier=sources

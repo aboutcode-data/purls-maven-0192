@@ -1,0 +1,2 @@
+- pkg:maven/kz.greetgo.spring/greetgo-spring-websocket@0.0.7
+- pkg:maven/kz.greetgo.spring/greetgo-spring-websocket@0.0.7?classifier=sources

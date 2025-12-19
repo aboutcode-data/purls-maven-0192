@@ -4,3 +4,4 @@
 - pkg:maven/com.tomergoldst.android/tooltips@1.0.6?type=aar
 - pkg:maven/com.tomergoldst.android/tooltips@1.1.0?classifier=sources
 - pkg:maven/com.tomergoldst.android/tooltips@1.1.0?type=aar
+- pkg:maven/com.tomergoldst.android/tooltips@1.1.1?classifier=sources

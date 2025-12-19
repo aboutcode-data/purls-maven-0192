@@ -148,6 +148,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@2.0.26
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@2.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@2.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@2.0.27
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@2.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@2.0.27?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@2.0.3
@@ -214,6 +217,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@3.0.21
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@3.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@3.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@3.0.22
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@3.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@3.0.22?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@3.0.3
@@ -274,6 +280,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@4.0.20
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@4.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@4.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@4.0.21
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@4.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@4.0.21?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@4.0.3
@@ -316,6 +325,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@5.0.14
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@5.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@5.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@5.0.15
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@5.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@5.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@5.0.2

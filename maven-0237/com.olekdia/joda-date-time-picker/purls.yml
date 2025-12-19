@@ -6,3 +6,5 @@
 - pkg:maven/com.olekdia/joda-date-time-picker@0.7.2?type=aar
 - pkg:maven/com.olekdia/joda-date-time-picker@0.7.3?classifier=sources
 - pkg:maven/com.olekdia/joda-date-time-picker@0.7.3?type=aar
+- pkg:maven/com.olekdia/joda-date-time-picker@0.7.4?classifier=sources
+- pkg:maven/com.olekdia/joda-date-time-picker@0.7.4?type=aar

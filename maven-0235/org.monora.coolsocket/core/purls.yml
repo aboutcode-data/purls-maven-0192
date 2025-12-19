@@ -4,3 +4,5 @@
 - pkg:maven/org.monora.coolsocket/core@2.0-rc16?classifier=sources
 - pkg:maven/org.monora.coolsocket/core@2.0-rc17
 - pkg:maven/org.monora.coolsocket/core@2.0-rc17?classifier=sources
+- pkg:maven/org.monora.coolsocket/core@2.0-rc18
+- pkg:maven/org.monora.coolsocket/core@2.0-rc18?classifier=sources

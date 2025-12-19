@@ -20,3 +20,5 @@
 - pkg:maven/com.simplaex/vertx-sugar@2020.01.30?classifier=sources
 - pkg:maven/com.simplaex/vertx-sugar@2020.01.31
 - pkg:maven/com.simplaex/vertx-sugar@2020.01.31?classifier=sources
+- pkg:maven/com.simplaex/vertx-sugar@2021.12.14
+- pkg:maven/com.simplaex/vertx-sugar@2021.12.14?classifier=sources

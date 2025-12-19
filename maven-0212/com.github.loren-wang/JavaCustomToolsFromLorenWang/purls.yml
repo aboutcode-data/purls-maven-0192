@@ -6,3 +6,5 @@
 - pkg:maven/com.github.loren-wang/JavaCustomToolsFromLorenWang@2.2.9?classifier=sources
 - pkg:maven/com.github.loren-wang/JavaCustomToolsFromLorenWang@2.3.1
 - pkg:maven/com.github.loren-wang/JavaCustomToolsFromLorenWang@2.3.1?classifier=sources
+- pkg:maven/com.github.loren-wang/JavaCustomToolsFromLorenWang@4.0.0
+- pkg:maven/com.github.loren-wang/JavaCustomToolsFromLorenWang@4.0.0?classifier=sources

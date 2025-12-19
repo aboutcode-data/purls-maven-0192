@@ -28,3 +28,9 @@
 - pkg:maven/io.trino/trino-client@364?classifier=sources
 - pkg:maven/io.trino/trino-client@365
 - pkg:maven/io.trino/trino-client@365?classifier=sources
+- pkg:maven/io.trino/trino-client@366
+- pkg:maven/io.trino/trino-client@366?classifier=sources
+- pkg:maven/io.trino/trino-client@367
+- pkg:maven/io.trino/trino-client@367?classifier=sources
+- pkg:maven/io.trino/trino-client@368
+- pkg:maven/io.trino/trino-client@368?classifier=sources

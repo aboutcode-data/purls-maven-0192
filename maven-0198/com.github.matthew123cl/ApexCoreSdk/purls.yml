@@ -1,1 +1,6 @@
+- pkg:maven/com.github.matthew123cl/ApexCoreSdk@1.0.0.1.1?type=aar
+- pkg:maven/com.github.matthew123cl/ApexCoreSdk@1.0.0.1.4?type=aar
+- pkg:maven/com.github.matthew123cl/ApexCoreSdk@1.0.0.1.6?type=aar
+- pkg:maven/com.github.matthew123cl/ApexCoreSdk@1.0.0.1.7?type=aar
 - pkg:maven/com.github.matthew123cl/ApexCoreSdk@1.0.0.1?type=aar
+- pkg:maven/com.github.matthew123cl/ApexCoreSdk@1.0.2.0?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/graphql-tools__utils@8.6.1
+- pkg:maven/org.webjars.npm/graphql-tools__utils@8.6.1?classifier=sources

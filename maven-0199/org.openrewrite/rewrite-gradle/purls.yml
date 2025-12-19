@@ -3,3 +3,6 @@
 - pkg:maven/org.openrewrite/rewrite-gradle@7.16.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-gradle@7.16.2?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-gradle@7.16.3?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-gradle@7.17.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-gradle@7.17.1?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-gradle@7.17.2?classifier=sources

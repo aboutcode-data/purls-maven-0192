@@ -8,3 +8,13 @@
 - pkg:maven/io.renku/jsonld4s_2.13@0.1.24?classifier=sources
 - pkg:maven/io.renku/jsonld4s_2.13@0.1.27
 - pkg:maven/io.renku/jsonld4s_2.13@0.1.27?classifier=sources
+- pkg:maven/io.renku/jsonld4s_2.13@0.1.28
+- pkg:maven/io.renku/jsonld4s_2.13@0.1.28?classifier=sources
+- pkg:maven/io.renku/jsonld4s_2.13@0.1.29
+- pkg:maven/io.renku/jsonld4s_2.13@0.1.29?classifier=sources
+- pkg:maven/io.renku/jsonld4s_2.13@0.1.30
+- pkg:maven/io.renku/jsonld4s_2.13@0.1.30?classifier=sources
+- pkg:maven/io.renku/jsonld4s_2.13@0.1.32
+- pkg:maven/io.renku/jsonld4s_2.13@0.1.32?classifier=sources
+- pkg:maven/io.renku/jsonld4s_2.13@0.1.33
+- pkg:maven/io.renku/jsonld4s_2.13@0.1.33?classifier=sources

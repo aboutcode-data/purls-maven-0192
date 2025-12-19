@@ -60,3 +60,4 @@
 - pkg:maven/org.codehaus.cargo/cargo-sample-ant-configurationFiles-xmlReplacements-test@1.9.6
 - pkg:maven/org.codehaus.cargo/cargo-sample-ant-configurationFiles-xmlReplacements-test@1.9.7
 - pkg:maven/org.codehaus.cargo/cargo-sample-ant-configurationFiles-xmlReplacements-test@1.9.8
+- pkg:maven/org.codehaus.cargo/cargo-sample-ant-configurationFiles-xmlReplacements-test@1.9.9

@@ -9,3 +9,4 @@
 - pkg:maven/com.stripe/payments-core@18.1.0?classifier=sources
 - pkg:maven/com.stripe/payments-core@18.2.0?classifier=sources
 - pkg:maven/com.stripe/payments-core@19.0.0?classifier=sources
+- pkg:maven/com.stripe/payments-core@19.1.0?classifier=sources

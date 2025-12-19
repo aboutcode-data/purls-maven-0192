@@ -114,4 +114,9 @@
 - pkg:maven/io.atlasmap/atlas-itests-reference-mappings@2.3.3
 - pkg:maven/io.atlasmap/atlas-itests-reference-mappings@2.3.4
 - pkg:maven/io.atlasmap/atlas-itests-reference-mappings@2.3.5
+- pkg:maven/io.atlasmap/atlas-itests-reference-mappings@2.3.6
+- pkg:maven/io.atlasmap/atlas-itests-reference-mappings@2.3.7
+- pkg:maven/io.atlasmap/atlas-itests-reference-mappings@2.3.8
 - pkg:maven/io.atlasmap/atlas-itests-reference-mappings@2.4.0-M.1
+- pkg:maven/io.atlasmap/atlas-itests-reference-mappings@2.4.0-M.2
+- pkg:maven/io.atlasmap/atlas-itests-reference-mappings@2.4.0-M.3

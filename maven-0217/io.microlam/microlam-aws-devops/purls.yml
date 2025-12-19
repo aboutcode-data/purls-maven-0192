@@ -1,0 +1,6 @@
+- pkg:maven/io.microlam/microlam-aws-devops@0.2
+- pkg:maven/io.microlam/microlam-aws-devops@0.2?classifier=sources
+- pkg:maven/io.microlam/microlam-aws-devops@0.4
+- pkg:maven/io.microlam/microlam-aws-devops@0.4?classifier=sources
+- pkg:maven/io.microlam/microlam-aws-devops@0.5
+- pkg:maven/io.microlam/microlam-aws-devops@0.5?classifier=sources

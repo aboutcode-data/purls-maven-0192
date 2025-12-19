@@ -13,3 +13,6 @@
 - pkg:maven/io.trino/trino-thrift@363?classifier=sources
 - pkg:maven/io.trino/trino-thrift@364?classifier=sources
 - pkg:maven/io.trino/trino-thrift@365?classifier=sources
+- pkg:maven/io.trino/trino-thrift@366?classifier=sources
+- pkg:maven/io.trino/trino-thrift@367?classifier=sources
+- pkg:maven/io.trino/trino-thrift@368?classifier=sources

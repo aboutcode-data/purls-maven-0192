@@ -1,0 +1,2 @@
+- pkg:maven/com.consoliads/mintegral-mediation@v15.4.61?classifier=sources
+- pkg:maven/com.consoliads/mintegral-mediation@v15.8.01-1.0?classifier=sources

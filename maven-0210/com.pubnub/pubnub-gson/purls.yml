@@ -122,3 +122,7 @@
 - pkg:maven/com.pubnub/pubnub-gson@5.2.3?classifier=sources
 - pkg:maven/com.pubnub/pubnub-gson@5.2.4
 - pkg:maven/com.pubnub/pubnub-gson@5.2.4?classifier=sources
+- pkg:maven/com.pubnub/pubnub-gson@5.3.0
+- pkg:maven/com.pubnub/pubnub-gson@5.3.0?classifier=sources
+- pkg:maven/com.pubnub/pubnub-gson@6.0.0
+- pkg:maven/com.pubnub/pubnub-gson@6.0.0?classifier=sources

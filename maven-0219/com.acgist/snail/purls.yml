@@ -10,6 +10,8 @@
 - pkg:maven/com.acgist/snail@1.1.1?classifier=sources
 - pkg:maven/com.acgist/snail@1.17.0
 - pkg:maven/com.acgist/snail@1.17.0?classifier=sources
+- pkg:maven/com.acgist/snail@1.17.1
+- pkg:maven/com.acgist/snail@1.17.1?classifier=sources
 - pkg:maven/com.acgist/snail@1.2.0
 - pkg:maven/com.acgist/snail@1.2.0?classifier=sources
 - pkg:maven/com.acgist/snail@1.2.1

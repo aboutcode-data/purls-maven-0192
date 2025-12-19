@@ -15,3 +15,5 @@
 - pkg:maven/pro.haichuang.framework/hc-sdk-wxmp@1.2.0.211209
 - pkg:maven/pro.haichuang.framework/hc-sdk-wxmp@1.2.0.211209?classifier=sources
 - pkg:maven/pro.haichuang.framework/hc-sdk-wxmp@1.2.1.211214?classifier=sources
+- pkg:maven/pro.haichuang.framework/hc-sdk-wxmp@1.2.2.211220
+- pkg:maven/pro.haichuang.framework/hc-sdk-wxmp@1.2.2.211220?classifier=sources

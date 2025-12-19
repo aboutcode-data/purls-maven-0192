@@ -1,0 +1,2 @@
+- pkg:maven/io.servicetalk/servicetalk-serializer-api@0.42.0?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-serializer-api@0.42.1?classifier=sources

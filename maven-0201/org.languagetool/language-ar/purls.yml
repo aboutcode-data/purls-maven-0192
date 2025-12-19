@@ -12,3 +12,5 @@
 - pkg:maven/org.languagetool/language-ar@5.4?classifier=sources
 - pkg:maven/org.languagetool/language-ar@5.5
 - pkg:maven/org.languagetool/language-ar@5.5?classifier=sources
+- pkg:maven/org.languagetool/language-ar@5.6
+- pkg:maven/org.languagetool/language-ar@5.6?classifier=sources

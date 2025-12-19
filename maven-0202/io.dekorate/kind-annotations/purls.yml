@@ -1,0 +1,2 @@
+- pkg:maven/io.dekorate/kind-annotations@2.8.0
+- pkg:maven/io.dekorate/kind-annotations@2.8.0?classifier=sources

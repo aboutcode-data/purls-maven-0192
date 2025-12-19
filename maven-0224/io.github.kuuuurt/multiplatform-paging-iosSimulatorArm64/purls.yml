@@ -1,1 +1,2 @@
 - pkg:maven/io.github.kuuuurt/multiplatform-paging-iosSimulatorArm64@0.4.6?classifier=sources
+- pkg:maven/io.github.kuuuurt/multiplatform-paging-iosSimulatorArm64@0.4.7?classifier=sources
