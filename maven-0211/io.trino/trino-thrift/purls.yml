@@ -26,3 +26,10 @@
 - pkg:maven/io.trino/trino-thrift@376?classifier=sources
 - pkg:maven/io.trino/trino-thrift@377?classifier=sources
 - pkg:maven/io.trino/trino-thrift@378?classifier=sources
+- pkg:maven/io.trino/trino-thrift@379?classifier=sources
+- pkg:maven/io.trino/trino-thrift@380?classifier=sources
+- pkg:maven/io.trino/trino-thrift@381?classifier=sources
+- pkg:maven/io.trino/trino-thrift@382?classifier=sources
+- pkg:maven/io.trino/trino-thrift@383?classifier=sources
+- pkg:maven/io.trino/trino-thrift@384?classifier=sources
+- pkg:maven/io.trino/trino-thrift@385?classifier=sources

@@ -16,6 +16,9 @@
 - pkg:maven/com.feedad.android/feedad-sdk@1.3.0?classifier=sources
 - pkg:maven/com.feedad.android/feedad-sdk@1.3.1?classifier=sources
 - pkg:maven/com.feedad.android/feedad-sdk@1.4.0?classifier=sources
+- pkg:maven/com.feedad.android/feedad-sdk@1.4.10?classifier=sources
+- pkg:maven/com.feedad.android/feedad-sdk@1.4.11?classifier=sources
+- pkg:maven/com.feedad.android/feedad-sdk@1.4.12?classifier=sources
 - pkg:maven/com.feedad.android/feedad-sdk@1.4.1?classifier=sources
 - pkg:maven/com.feedad.android/feedad-sdk@1.4.2?classifier=sources
 - pkg:maven/com.feedad.android/feedad-sdk@1.4.3?classifier=sources

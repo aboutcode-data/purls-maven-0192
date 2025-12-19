@@ -47,6 +47,8 @@
 - pkg:maven/org.kie/kie-dmn-pmml-tests-trusty@7.66.0.Final
 - pkg:maven/org.kie/kie-dmn-pmml-tests-trusty@7.67.0.Final
 - pkg:maven/org.kie/kie-dmn-pmml-tests-trusty@7.68.0.Final
+- pkg:maven/org.kie/kie-dmn-pmml-tests-trusty@7.69.0.Final
+- pkg:maven/org.kie/kie-dmn-pmml-tests-trusty@7.70.0.Final
 - pkg:maven/org.kie/kie-dmn-pmml-tests-trusty@8.13.0.Beta
 - pkg:maven/org.kie/kie-dmn-pmml-tests-trusty@8.14.0.Beta
 - pkg:maven/org.kie/kie-dmn-pmml-tests-trusty@8.14.1.Beta
@@ -57,3 +59,6 @@
 - pkg:maven/org.kie/kie-dmn-pmml-tests-trusty@8.18.0.Beta
 - pkg:maven/org.kie/kie-dmn-pmml-tests-trusty@8.19.0.Beta
 - pkg:maven/org.kie/kie-dmn-pmml-tests-trusty@8.20.0.Beta
+- pkg:maven/org.kie/kie-dmn-pmml-tests-trusty@8.21.0.Beta
+- pkg:maven/org.kie/kie-dmn-pmml-tests-trusty@8.22.0.Beta
+- pkg:maven/org.kie/kie-dmn-pmml-tests-trusty@8.22.1.Beta

@@ -4,3 +4,5 @@
 - pkg:maven/com.github.fracpete/graphviz-treevisualize-weka-package@2017.3.3?classifier=sources
 - pkg:maven/com.github.fracpete/graphviz-treevisualize-weka-package@2018.5.13
 - pkg:maven/com.github.fracpete/graphviz-treevisualize-weka-package@2018.5.13?classifier=sources
+- pkg:maven/com.github.fracpete/graphviz-treevisualize-weka-package@2022.4.13
+- pkg:maven/com.github.fracpete/graphviz-treevisualize-weka-package@2022.4.13?classifier=sources

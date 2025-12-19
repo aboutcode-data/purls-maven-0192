@@ -6,6 +6,8 @@
 - pkg:maven/io.hyphenate/chat-sdk@3.8.7.1?type=aar
 - pkg:maven/io.hyphenate/chat-sdk@3.8.7.2?classifier=sources
 - pkg:maven/io.hyphenate/chat-sdk@3.8.7.2?type=aar
+- pkg:maven/io.hyphenate/chat-sdk@3.8.7.3?classifier=sources
+- pkg:maven/io.hyphenate/chat-sdk@3.8.7.3?type=aar
 - pkg:maven/io.hyphenate/chat-sdk@3.8.7?classifier=sources
 - pkg:maven/io.hyphenate/chat-sdk@3.8.7?type=aar
 - pkg:maven/io.hyphenate/chat-sdk@3.8.8?classifier=sources

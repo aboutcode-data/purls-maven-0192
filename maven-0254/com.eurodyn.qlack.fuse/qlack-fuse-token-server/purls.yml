@@ -50,3 +50,5 @@
 - pkg:maven/com.eurodyn.qlack.fuse/qlack-fuse-token-server@3.5.7?classifier=sources
 - pkg:maven/com.eurodyn.qlack.fuse/qlack-fuse-token-server@3.5.8
 - pkg:maven/com.eurodyn.qlack.fuse/qlack-fuse-token-server@3.5.8?classifier=sources
+- pkg:maven/com.eurodyn.qlack.fuse/qlack-fuse-token-server@3.5.9
+- pkg:maven/com.eurodyn.qlack.fuse/qlack-fuse-token-server@3.5.9?classifier=sources

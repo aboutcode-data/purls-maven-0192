@@ -15,3 +15,6 @@
 - pkg:maven/org.openrewrite/rewrite-gradle@7.21.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-gradle@7.21.1?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-gradle@7.21.3?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-gradle@7.22.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-gradle@7.23.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-gradle@7.24.0?classifier=sources

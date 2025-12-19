@@ -1,0 +1,7 @@
+- pkg:maven/io.trino/trino-mariadb@379?classifier=sources
+- pkg:maven/io.trino/trino-mariadb@380?classifier=sources
+- pkg:maven/io.trino/trino-mariadb@381?classifier=sources
+- pkg:maven/io.trino/trino-mariadb@382?classifier=sources
+- pkg:maven/io.trino/trino-mariadb@383?classifier=sources
+- pkg:maven/io.trino/trino-mariadb@384?classifier=sources
+- pkg:maven/io.trino/trino-mariadb@385?classifier=sources

@@ -451,6 +451,12 @@
 - pkg:maven/com.liferay/com.liferay.asset.browser.web@4.0.43
 - pkg:maven/com.liferay/com.liferay.asset.browser.web@4.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.browser.web@4.0.43?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.browser.web@4.0.44
+- pkg:maven/com.liferay/com.liferay.asset.browser.web@4.0.44?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.browser.web@4.0.44?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.browser.web@4.0.45
+- pkg:maven/com.liferay/com.liferay.asset.browser.web@4.0.45?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.browser.web@4.0.45?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.browser.web@4.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.browser.web@4.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.browser.web@4.0.5
@@ -517,6 +523,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.browser.web@5.0.23
 - pkg:maven/com.liferay/com.liferay.asset.browser.web@5.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.browser.web@5.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.browser.web@5.0.24
+- pkg:maven/com.liferay/com.liferay.asset.browser.web@5.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.browser.web@5.0.24?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.browser.web@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.browser.web@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.browser.web@5.0.3

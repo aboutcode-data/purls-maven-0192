@@ -1,0 +1,2 @@
+- pkg:maven/io.github.open-accelerators/direct-debit-mandate-client@1.0.2
+- pkg:maven/io.github.open-accelerators/direct-debit-mandate-client@1.0.2?classifier=sources

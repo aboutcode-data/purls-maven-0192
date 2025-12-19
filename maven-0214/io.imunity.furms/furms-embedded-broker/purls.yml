@@ -8,3 +8,5 @@
 - pkg:maven/io.imunity.furms/furms-embedded-broker@4.0.0-rc1
 - pkg:maven/io.imunity.furms/furms-embedded-broker@4.1.0
 - pkg:maven/io.imunity.furms/furms-embedded-broker@4.1.0-rc
+- pkg:maven/io.imunity.furms/furms-embedded-broker@4.1.1
+- pkg:maven/io.imunity.furms/furms-embedded-broker@4.1.2

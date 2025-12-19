@@ -2,3 +2,5 @@
 - pkg:maven/com.northdata.schema/lei@1.0.0?classifier=sources
 - pkg:maven/com.northdata.schema/lei@2.0.0
 - pkg:maven/com.northdata.schema/lei@2.0.0?classifier=sources
+- pkg:maven/com.northdata.schema/lei@3.0.0
+- pkg:maven/com.northdata.schema/lei@3.0.0?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/com.redis/redis-sidecar-jdbc@0.1.0?classifier=sources

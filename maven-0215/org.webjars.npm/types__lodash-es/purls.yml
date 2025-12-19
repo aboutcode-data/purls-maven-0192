@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/types__lodash-es@4.17.6
+- pkg:maven/org.webjars.npm/types__lodash-es@4.17.6?classifier=sources

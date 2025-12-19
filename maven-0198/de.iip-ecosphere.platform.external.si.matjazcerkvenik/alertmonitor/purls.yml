@@ -1,0 +1,4 @@
+- pkg:maven/de.iip-ecosphere.platform.external.si.matjazcerkvenik/alertmonitor@2.3.0
+- pkg:maven/de.iip-ecosphere.platform.external.si.matjazcerkvenik/alertmonitor@2.3.0?classifier=sources
+- pkg:maven/de.iip-ecosphere.platform.external.si.matjazcerkvenik/alertmonitor@2.3.0a
+- pkg:maven/de.iip-ecosphere.platform.external.si.matjazcerkvenik/alertmonitor@2.3.0a?classifier=sources

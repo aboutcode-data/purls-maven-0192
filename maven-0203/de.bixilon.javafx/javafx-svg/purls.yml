@@ -1,0 +1,2 @@
+- pkg:maven/de.bixilon.javafx/javafx-svg@0.2
+- pkg:maven/de.bixilon.javafx/javafx-svg@0.2?classifier=sources

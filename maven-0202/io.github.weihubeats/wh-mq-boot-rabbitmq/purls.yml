@@ -1,2 +1,4 @@
 - pkg:maven/io.github.weihubeats/wh-mq-boot-rabbitmq@1.1.0
+- pkg:maven/io.github.weihubeats/wh-mq-boot-rabbitmq@1.1.0-Release
+- pkg:maven/io.github.weihubeats/wh-mq-boot-rabbitmq@1.1.0-Release?classifier=sources
 - pkg:maven/io.github.weihubeats/wh-mq-boot-rabbitmq@1.1.0?classifier=sources

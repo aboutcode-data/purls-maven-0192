@@ -112,6 +112,12 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@4.5.2
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@4.5.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@4.5.2?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@4.6.0
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@4.6.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@4.6.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@4.6.1
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@4.6.1?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@4.6.1?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@5.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@5.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@5.0.0?classifier=sources-commercial
@@ -145,6 +151,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@5.6.0
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@5.6.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@5.6.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@5.6.1
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@5.6.1?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@5.6.1?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@6.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@6.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@6.0.0?classifier=sources-commercial
@@ -190,6 +199,15 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@6.5.0
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@6.5.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@6.5.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@6.5.1
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@6.5.1?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@6.5.1?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@6.5.2
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@6.5.2?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@6.5.2?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@6.5.3
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@6.5.3?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@6.5.3?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@7.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@7.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@7.0.0?classifier=sources-commercial
@@ -223,3 +241,6 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@7.3.0
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@7.3.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@7.3.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@7.3.1
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@7.3.1?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@7.3.1?classifier=sources-commercial

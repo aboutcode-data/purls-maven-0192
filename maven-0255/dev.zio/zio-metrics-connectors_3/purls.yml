@@ -1,0 +1,2 @@
+- pkg:maven/dev.zio/zio-metrics-connectors_3@2.0.0-RC6
+- pkg:maven/dev.zio/zio-metrics-connectors_3@2.0.0-RC6?classifier=sources

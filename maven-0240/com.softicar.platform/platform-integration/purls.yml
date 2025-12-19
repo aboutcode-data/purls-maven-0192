@@ -3,3 +3,7 @@
 - pkg:maven/com.softicar.platform/platform-integration@17.0.2?classifier=sources
 - pkg:maven/com.softicar.platform/platform-integration@17.0.3?classifier=sources
 - pkg:maven/com.softicar.platform/platform-integration@18.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-integration@18.0.1?classifier=sources
+- pkg:maven/com.softicar.platform/platform-integration@18.0.2?classifier=sources
+- pkg:maven/com.softicar.platform/platform-integration@19.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-integration@19.0.1?classifier=sources

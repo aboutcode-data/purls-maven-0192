@@ -1,2 +1,4 @@
 - pkg:maven/jakarta.authentication/jakarta.authentication-api@2.0.0
 - pkg:maven/jakarta.authentication/jakarta.authentication-api@2.0.0?classifier=sources
+- pkg:maven/jakarta.authentication/jakarta.authentication-api@3.0.0
+- pkg:maven/jakarta.authentication/jakarta.authentication-api@3.0.0?classifier=sources

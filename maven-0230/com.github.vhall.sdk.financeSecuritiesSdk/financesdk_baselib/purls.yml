@@ -1,0 +1,2 @@
+- pkg:maven/com.github.vhall.sdk.financeSecuritiesSdk/financesdk_baselib@0.0.1?classifier=sources
+- pkg:maven/com.github.vhall.sdk.financeSecuritiesSdk/financesdk_baselib@0.0.1?type=aar

@@ -50,6 +50,12 @@
 - pkg:maven/com.myadsget/san-sdk@3.1.0.0?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.1.0.1?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.1.0.2?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.10.0?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.10.1?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.10.2?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.10.3?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.10.4?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.10.5?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.2.0.0?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.2.0.1?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.2.0.2?classifier=sources
@@ -84,4 +90,10 @@
 - pkg:maven/com.myadsget/san-sdk@3.7.1?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.8.0?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.8.1?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.8.2?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.8.3?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.9.0?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.9.1?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.9.2?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.9.3?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.9.4?classifier=sources

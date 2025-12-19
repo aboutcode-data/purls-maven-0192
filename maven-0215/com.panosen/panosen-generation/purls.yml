@@ -1,0 +1,4 @@
+- pkg:maven/com.panosen/panosen-generation@1.0.0
+- pkg:maven/com.panosen/panosen-generation@1.0.0?classifier=sources
+- pkg:maven/com.panosen/panosen-generation@1.1.0
+- pkg:maven/com.panosen/panosen-generation@1.1.0?classifier=sources

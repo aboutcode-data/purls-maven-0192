@@ -102,3 +102,7 @@
 - pkg:maven/com.google.http-client/google-http-client-gson@1.41.6?classifier=sources
 - pkg:maven/com.google.http-client/google-http-client-gson@1.41.7
 - pkg:maven/com.google.http-client/google-http-client-gson@1.41.7?classifier=sources
+- pkg:maven/com.google.http-client/google-http-client-gson@1.41.8
+- pkg:maven/com.google.http-client/google-http-client-gson@1.41.8?classifier=sources
+- pkg:maven/com.google.http-client/google-http-client-gson@1.42.0
+- pkg:maven/com.google.http-client/google-http-client-gson@1.42.0?classifier=sources

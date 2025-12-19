@@ -1,0 +1,2 @@
+- pkg:maven/net.optionfactory/undertow-embedded-webserver@1.0
+- pkg:maven/net.optionfactory/undertow-embedded-webserver@1.0?classifier=sources

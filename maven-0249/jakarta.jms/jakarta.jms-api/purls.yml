@@ -6,3 +6,5 @@
 - pkg:maven/jakarta.jms/jakarta.jms-api@3.0.0-RC1
 - pkg:maven/jakarta.jms/jakarta.jms-api@3.0.0-RC1?classifier=sources
 - pkg:maven/jakarta.jms/jakarta.jms-api@3.0.0?classifier=sources
+- pkg:maven/jakarta.jms/jakarta.jms-api@3.1.0
+- pkg:maven/jakarta.jms/jakarta.jms-api@3.1.0?classifier=sources

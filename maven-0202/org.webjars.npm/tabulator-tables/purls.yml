@@ -28,3 +28,11 @@
 - pkg:maven/org.webjars.npm/tabulator-tables@5.1.4?classifier=sources
 - pkg:maven/org.webjars.npm/tabulator-tables@5.1.7
 - pkg:maven/org.webjars.npm/tabulator-tables@5.1.7?classifier=sources
+- pkg:maven/org.webjars.npm/tabulator-tables@5.2.1
+- pkg:maven/org.webjars.npm/tabulator-tables@5.2.1?classifier=sources
+- pkg:maven/org.webjars.npm/tabulator-tables@5.2.2
+- pkg:maven/org.webjars.npm/tabulator-tables@5.2.2?classifier=sources
+- pkg:maven/org.webjars.npm/tabulator-tables@5.2.4
+- pkg:maven/org.webjars.npm/tabulator-tables@5.2.4?classifier=sources
+- pkg:maven/org.webjars.npm/tabulator-tables@5.2.5
+- pkg:maven/org.webjars.npm/tabulator-tables@5.2.5?classifier=sources

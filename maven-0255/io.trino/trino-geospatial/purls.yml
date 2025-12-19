@@ -26,3 +26,10 @@
 - pkg:maven/io.trino/trino-geospatial@376?classifier=sources
 - pkg:maven/io.trino/trino-geospatial@377?classifier=sources
 - pkg:maven/io.trino/trino-geospatial@378?classifier=sources
+- pkg:maven/io.trino/trino-geospatial@379?classifier=sources
+- pkg:maven/io.trino/trino-geospatial@380?classifier=sources
+- pkg:maven/io.trino/trino-geospatial@381?classifier=sources
+- pkg:maven/io.trino/trino-geospatial@382?classifier=sources
+- pkg:maven/io.trino/trino-geospatial@383?classifier=sources
+- pkg:maven/io.trino/trino-geospatial@384?classifier=sources
+- pkg:maven/io.trino/trino-geospatial@385?classifier=sources

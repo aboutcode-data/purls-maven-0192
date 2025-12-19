@@ -1,0 +1,2 @@
+- pkg:maven/io.sreworks/tesla-user-spring-boot-starter@2.1.10
+- pkg:maven/io.sreworks/tesla-user-spring-boot-starter@2.1.10?classifier=sources

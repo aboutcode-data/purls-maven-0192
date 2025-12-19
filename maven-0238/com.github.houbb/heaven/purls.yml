@@ -140,6 +140,10 @@
 - pkg:maven/com.github.houbb/heaven@0.1.16
 - pkg:maven/com.github.houbb/heaven@0.1.160
 - pkg:maven/com.github.houbb/heaven@0.1.160?classifier=sources
+- pkg:maven/com.github.houbb/heaven@0.1.161
+- pkg:maven/com.github.houbb/heaven@0.1.161?classifier=sources
+- pkg:maven/com.github.houbb/heaven@0.1.162
+- pkg:maven/com.github.houbb/heaven@0.1.162?classifier=sources
 - pkg:maven/com.github.houbb/heaven@0.1.16?classifier=sources
 - pkg:maven/com.github.houbb/heaven@0.1.17
 - pkg:maven/com.github.houbb/heaven@0.1.17?classifier=sources

@@ -3,4 +3,5 @@
 - pkg:maven/com.github.hschneid/xfvrp@11.3.0-RELEASE?classifier=sources
 - pkg:maven/com.github.hschneid/xfvrp@11.4.0-RELEASE?classifier=sources
 - pkg:maven/com.github.hschneid/xfvrp@11.4.4-RELEASE?classifier=sources
+- pkg:maven/com.github.hschneid/xfvrp@11.4.5-JDK8-RELEASE?classifier=sources
 - pkg:maven/com.github.hschneid/xfvrp@11.4.5-RELEASE?classifier=sources

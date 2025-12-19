@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.awscdk/emrserverless@1.159.0
+- pkg:maven/software.amazon.awscdk/emrserverless@1.159.0?classifier=sources

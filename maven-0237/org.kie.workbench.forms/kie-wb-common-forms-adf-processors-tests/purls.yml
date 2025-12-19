@@ -54,3 +54,5 @@
 - pkg:maven/org.kie.workbench.forms/kie-wb-common-forms-adf-processors-tests@7.66.0.Final
 - pkg:maven/org.kie.workbench.forms/kie-wb-common-forms-adf-processors-tests@7.67.0.Final
 - pkg:maven/org.kie.workbench.forms/kie-wb-common-forms-adf-processors-tests@7.68.0.Final
+- pkg:maven/org.kie.workbench.forms/kie-wb-common-forms-adf-processors-tests@7.69.0.Final
+- pkg:maven/org.kie.workbench.forms/kie-wb-common-forms-adf-processors-tests@7.70.0.Final

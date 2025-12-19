@@ -26,3 +26,10 @@
 - pkg:maven/io.trino/trino-bigquery@376?classifier=sources
 - pkg:maven/io.trino/trino-bigquery@377?classifier=sources
 - pkg:maven/io.trino/trino-bigquery@378?classifier=sources
+- pkg:maven/io.trino/trino-bigquery@379?classifier=sources
+- pkg:maven/io.trino/trino-bigquery@380?classifier=sources
+- pkg:maven/io.trino/trino-bigquery@381?classifier=sources
+- pkg:maven/io.trino/trino-bigquery@382?classifier=sources
+- pkg:maven/io.trino/trino-bigquery@383?classifier=sources
+- pkg:maven/io.trino/trino-bigquery@384?classifier=sources
+- pkg:maven/io.trino/trino-bigquery@385?classifier=sources

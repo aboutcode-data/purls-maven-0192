@@ -1,3 +1,4 @@
 - pkg:maven/us.ihmc/ihmc-javafx-toolkit-visualizers@0.19.3?classifier=sources
 - pkg:maven/us.ihmc/ihmc-javafx-toolkit-visualizers@0.20.0?classifier=sources
 - pkg:maven/us.ihmc/ihmc-javafx-toolkit-visualizers@0.21.0?classifier=sources
+- pkg:maven/us.ihmc/ihmc-javafx-toolkit-visualizers@0.21.1?classifier=sources

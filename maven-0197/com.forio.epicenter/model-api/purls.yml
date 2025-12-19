@@ -24,3 +24,7 @@
 - pkg:maven/com.forio.epicenter/model-api@1.9.0?classifier=sources
 - pkg:maven/com.forio.epicenter/model-api@1.9.1
 - pkg:maven/com.forio.epicenter/model-api@1.9.1?classifier=sources
+- pkg:maven/com.forio.epicenter/model-api@2.1.0
+- pkg:maven/com.forio.epicenter/model-api@2.1.0?classifier=sources
+- pkg:maven/com.forio.epicenter/model-api@2.2.0
+- pkg:maven/com.forio.epicenter/model-api@2.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.timestream/flink-connector-timestream@0.1
+- pkg:maven/software.amazon.timestream/flink-connector-timestream@0.1?classifier=sources

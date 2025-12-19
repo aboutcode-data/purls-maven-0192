@@ -1,2 +1,4 @@
 - pkg:maven/com.manydesigns/portofino-aws@5.3.1
 - pkg:maven/com.manydesigns/portofino-aws@5.3.1?classifier=sources
+- pkg:maven/com.manydesigns/portofino-aws@5.3.2
+- pkg:maven/com.manydesigns/portofino-aws@5.3.2?classifier=sources

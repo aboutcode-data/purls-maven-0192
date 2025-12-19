@@ -1,5 +1,9 @@
 - pkg:maven/one.leftshift.explicit/explicit@0.10.0
 - pkg:maven/one.leftshift.explicit/explicit@0.10.0?classifier=sources
+- pkg:maven/one.leftshift.explicit/explicit@0.10.5
+- pkg:maven/one.leftshift.explicit/explicit@0.10.5?classifier=sources
+- pkg:maven/one.leftshift.explicit/explicit@0.10.6
+- pkg:maven/one.leftshift.explicit/explicit@0.10.6?classifier=sources
 - pkg:maven/one.leftshift.explicit/explicit@0.9.0
 - pkg:maven/one.leftshift.explicit/explicit@0.9.0?classifier=sources
 - pkg:maven/one.leftshift.explicit/explicit@0.9.1

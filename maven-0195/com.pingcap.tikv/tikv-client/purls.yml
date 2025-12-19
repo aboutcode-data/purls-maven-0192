@@ -100,3 +100,5 @@
 - pkg:maven/com.pingcap.tikv/tikv-client@2.5.0-rc.1
 - pkg:maven/com.pingcap.tikv/tikv-client@2.5.0-rc.1?classifier=sources
 - pkg:maven/com.pingcap.tikv/tikv-client@2.5.0?classifier=sources
+- pkg:maven/com.pingcap.tikv/tikv-client@2.5.1
+- pkg:maven/com.pingcap.tikv/tikv-client@2.5.1?classifier=sources

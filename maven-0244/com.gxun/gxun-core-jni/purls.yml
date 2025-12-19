@@ -1,0 +1,4 @@
+- pkg:maven/com.gxun/gxun-core-jni@0.9.11?classifier=sources
+- pkg:maven/com.gxun/gxun-core-jni@0.9.14?classifier=sources
+- pkg:maven/com.gxun/gxun-core-jni@0.9.7?classifier=sources
+- pkg:maven/com.gxun/gxun-core-jni@0.9.9?classifier=sources

@@ -72,3 +72,5 @@
 - pkg:maven/org.digidoc4j/digidoc4j@4.2.2?classifier=sources
 - pkg:maven/org.digidoc4j/digidoc4j@4.3.0
 - pkg:maven/org.digidoc4j/digidoc4j@4.3.0?classifier=sources
+- pkg:maven/org.digidoc4j/digidoc4j@5.0.0
+- pkg:maven/org.digidoc4j/digidoc4j@5.0.0?classifier=sources

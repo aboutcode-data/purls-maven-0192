@@ -15,3 +15,4 @@
 - pkg:maven/org.sonarsource.sonarlint.ls/sonarlint-language-server@2.3.0.43114?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.ls/sonarlint-language-server@2.4.0.45727?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.ls/sonarlint-language-server@2.4.1.46285?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.ls/sonarlint-language-server@2.5.0.48102?classifier=sources

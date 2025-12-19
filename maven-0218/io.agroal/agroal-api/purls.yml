@@ -22,3 +22,4 @@
 - pkg:maven/io.agroal/agroal-api@1.7?classifier=sources
 - pkg:maven/io.agroal/agroal-api@1.8?classifier=sources
 - pkg:maven/io.agroal/agroal-api@1.9?classifier=sources
+- pkg:maven/io.agroal/agroal-api@2.0?classifier=sources

@@ -30,3 +30,7 @@
 - pkg:maven/com.exasol/virtual-schema-common-document@8.1.0?classifier=sources
 - pkg:maven/com.exasol/virtual-schema-common-document@8.1.1
 - pkg:maven/com.exasol/virtual-schema-common-document@8.1.1?classifier=sources
+- pkg:maven/com.exasol/virtual-schema-common-document@9.0.0
+- pkg:maven/com.exasol/virtual-schema-common-document@9.0.0?classifier=sources
+- pkg:maven/com.exasol/virtual-schema-common-document@9.0.1
+- pkg:maven/com.exasol/virtual-schema-common-document@9.0.1?classifier=sources

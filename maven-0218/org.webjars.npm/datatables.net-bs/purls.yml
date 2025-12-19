@@ -18,5 +18,7 @@
 - pkg:maven/org.webjars.npm/datatables.net-bs@1.11.2?classifier=sources
 - pkg:maven/org.webjars.npm/datatables.net-bs@1.11.4
 - pkg:maven/org.webjars.npm/datatables.net-bs@1.11.4?classifier=sources
+- pkg:maven/org.webjars.npm/datatables.net-bs@1.12.0
+- pkg:maven/org.webjars.npm/datatables.net-bs@1.12.0?classifier=sources
 - pkg:maven/org.webjars.npm/datatables.net-bs@2.1.1
 - pkg:maven/org.webjars.npm/datatables.net-bs@2.1.1?classifier=sources

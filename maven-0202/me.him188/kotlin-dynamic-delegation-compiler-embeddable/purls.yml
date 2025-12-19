@@ -4,3 +4,9 @@
 - pkg:maven/me.him188/kotlin-dynamic-delegation-compiler-embeddable@0.1.1-160.1?classifier=sources
 - pkg:maven/me.him188/kotlin-dynamic-delegation-compiler-embeddable@0.2.0-160.1
 - pkg:maven/me.him188/kotlin-dynamic-delegation-compiler-embeddable@0.2.0-160.1?classifier=sources
+- pkg:maven/me.him188/kotlin-dynamic-delegation-compiler-embeddable@0.3.0-162.1
+- pkg:maven/me.him188/kotlin-dynamic-delegation-compiler-embeddable@0.3.0-162.1?classifier=sources
+- pkg:maven/me.him188/kotlin-dynamic-delegation-compiler-embeddable@0.3.0-162.4
+- pkg:maven/me.him188/kotlin-dynamic-delegation-compiler-embeddable@0.3.0-162.4?classifier=sources
+- pkg:maven/me.him188/kotlin-dynamic-delegation-compiler-embeddable@0.3.0-170.1
+- pkg:maven/me.him188/kotlin-dynamic-delegation-compiler-embeddable@0.3.0-170.1?classifier=sources

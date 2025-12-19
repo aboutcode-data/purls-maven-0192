@@ -10,3 +10,4 @@
 - pkg:maven/com.dlocal.android/data-collector@0.1.2-UB?classifier=sources
 - pkg:maven/com.dlocal.android/data-collector@0.1.2?classifier=sources
 - pkg:maven/com.dlocal.android/data-collector@1.0.0?classifier=sources
+- pkg:maven/com.dlocal.android/data-collector@1.0.1?classifier=sources

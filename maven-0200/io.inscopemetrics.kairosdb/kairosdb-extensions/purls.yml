@@ -12,3 +12,5 @@
 - pkg:maven/io.inscopemetrics.kairosdb/kairosdb-extensions@2.3.0?classifier=sources
 - pkg:maven/io.inscopemetrics.kairosdb/kairosdb-extensions@2.3.1
 - pkg:maven/io.inscopemetrics.kairosdb/kairosdb-extensions@2.3.1?classifier=sources
+- pkg:maven/io.inscopemetrics.kairosdb/kairosdb-extensions@2.3.4
+- pkg:maven/io.inscopemetrics.kairosdb/kairosdb-extensions@2.3.4?classifier=sources

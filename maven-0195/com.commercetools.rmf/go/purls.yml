@@ -1,0 +1,4 @@
+- pkg:maven/com.commercetools.rmf/go@0.1.30?classifier=sources
+- pkg:maven/com.commercetools.rmf/go@1.0.0-20220509072230?classifier=sources
+- pkg:maven/com.commercetools.rmf/go@1.0.0-20220513094737?classifier=sources
+- pkg:maven/com.commercetools.rmf/go@1.0.0-20220516202952?classifier=sources

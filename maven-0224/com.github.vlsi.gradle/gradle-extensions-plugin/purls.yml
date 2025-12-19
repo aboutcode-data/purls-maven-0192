@@ -32,3 +32,7 @@
 - pkg:maven/com.github.vlsi.gradle/gradle-extensions-plugin@1.77?classifier=sources
 - pkg:maven/com.github.vlsi.gradle/gradle-extensions-plugin@1.78
 - pkg:maven/com.github.vlsi.gradle/gradle-extensions-plugin@1.78?classifier=sources
+- pkg:maven/com.github.vlsi.gradle/gradle-extensions-plugin@1.79
+- pkg:maven/com.github.vlsi.gradle/gradle-extensions-plugin@1.79?classifier=sources
+- pkg:maven/com.github.vlsi.gradle/gradle-extensions-plugin@1.80
+- pkg:maven/com.github.vlsi.gradle/gradle-extensions-plugin@1.80?classifier=sources

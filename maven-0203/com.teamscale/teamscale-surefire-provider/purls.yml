@@ -1,0 +1,2 @@
+- pkg:maven/com.teamscale/teamscale-surefire-provider@24.0.0?classifier=sources
+- pkg:maven/com.teamscale/teamscale-surefire-provider@24.0.1?classifier=sources

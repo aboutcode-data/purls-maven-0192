@@ -39,3 +39,4 @@
 - pkg:maven/com.launchdarkly/api-client@7.1.1?classifier=sources
 - pkg:maven/com.launchdarkly/api-client@8.0.0?classifier=sources
 - pkg:maven/com.launchdarkly/api-client@9.0.0?classifier=sources
+- pkg:maven/com.launchdarkly/api-client@9.0.1?classifier=sources
