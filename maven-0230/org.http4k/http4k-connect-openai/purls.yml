@@ -1,0 +1,2 @@
+- pkg:maven/org.http4k/http4k-connect-openai@3.38.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-openai@3.38.0.1?classifier=sources

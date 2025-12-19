@@ -1,0 +1,12 @@
+- pkg:maven/io.github.ar-log/hileiaps-android@2.1.14-beta03?classifier=sources
+- pkg:maven/io.github.ar-log/hileiaps-android@2.1.14-beta04?classifier=sources
+- pkg:maven/io.github.ar-log/hileiaps-android@2.1.14-rc01?classifier=sources
+- pkg:maven/io.github.ar-log/hileiaps-android@2.1.14-rc02?classifier=sources
+- pkg:maven/io.github.ar-log/hileiaps-android@2.1.14-rc03?classifier=sources
+- pkg:maven/io.github.ar-log/hileiaps-android@2.1.14-rc04?classifier=sources
+- pkg:maven/io.github.ar-log/hileiaps-android@2.1.14-rc05?classifier=sources
+- pkg:maven/io.github.ar-log/hileiaps-android@2.1.14-rc06?classifier=sources
+- pkg:maven/io.github.ar-log/hileiaps-android@2.1.14-rc07?classifier=sources
+- pkg:maven/io.github.ar-log/hileiaps-android@2.1.14-rc08?classifier=sources
+- pkg:maven/io.github.ar-log/hileiaps-android@2.1.14?classifier=sources
+- pkg:maven/io.github.ar-log/hileiaps-android@2.1.15-beta01?classifier=sources

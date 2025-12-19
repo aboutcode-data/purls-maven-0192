@@ -6,6 +6,10 @@
 - pkg:maven/com.straitchain/shangchain-strait-chain-sdk@1.2.12?classifier=sources
 - pkg:maven/com.straitchain/shangchain-strait-chain-sdk@1.2.13
 - pkg:maven/com.straitchain/shangchain-strait-chain-sdk@1.2.13?classifier=sources
+- pkg:maven/com.straitchain/shangchain-strait-chain-sdk@1.2.14
+- pkg:maven/com.straitchain/shangchain-strait-chain-sdk@1.2.14?classifier=sources
+- pkg:maven/com.straitchain/shangchain-strait-chain-sdk@1.2.15
+- pkg:maven/com.straitchain/shangchain-strait-chain-sdk@1.2.15?classifier=sources
 - pkg:maven/com.straitchain/shangchain-strait-chain-sdk@1.2.3
 - pkg:maven/com.straitchain/shangchain-strait-chain-sdk@1.2.3?classifier=sources
 - pkg:maven/com.straitchain/shangchain-strait-chain-sdk@1.2.4

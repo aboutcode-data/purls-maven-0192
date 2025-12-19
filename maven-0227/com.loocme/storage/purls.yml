@@ -8,3 +8,9 @@
 - pkg:maven/com.loocme/storage@7.0.3?classifier=sources
 - pkg:maven/com.loocme/storage@7.0.4
 - pkg:maven/com.loocme/storage@7.0.4?classifier=sources
+- pkg:maven/com.loocme/storage@7.0.5
+- pkg:maven/com.loocme/storage@7.0.5?classifier=sources
+- pkg:maven/com.loocme/storage@7.0.6
+- pkg:maven/com.loocme/storage@7.0.6?classifier=sources
+- pkg:maven/com.loocme/storage@7.0.7
+- pkg:maven/com.loocme/storage@7.0.7?classifier=sources

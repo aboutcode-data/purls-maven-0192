@@ -1,0 +1,2 @@
+- pkg:maven/io.apicurio/apicurio-common-app-components-multitenancy@0.1.19.Final
+- pkg:maven/io.apicurio/apicurio-common-app-components-multitenancy@0.1.19.Final?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/com.alibaba/druid-wrapper@1.2.15?classifier=sources
 - pkg:maven/com.alibaba/druid-wrapper@1.2.16
 - pkg:maven/com.alibaba/druid-wrapper@1.2.16?classifier=sources
+- pkg:maven/com.alibaba/druid-wrapper@1.2.17
+- pkg:maven/com.alibaba/druid-wrapper@1.2.17?classifier=sources

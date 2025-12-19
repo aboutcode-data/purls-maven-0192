@@ -62,3 +62,7 @@
 - pkg:maven/dev.feast/feast-serving-client@0.28.0?classifier=sources
 - pkg:maven/dev.feast/feast-serving-client@0.29.0
 - pkg:maven/dev.feast/feast-serving-client@0.29.0?classifier=sources
+- pkg:maven/dev.feast/feast-serving-client@0.30.0
+- pkg:maven/dev.feast/feast-serving-client@0.30.0?classifier=sources
+- pkg:maven/dev.feast/feast-serving-client@0.30.2
+- pkg:maven/dev.feast/feast-serving-client@0.30.2?classifier=sources

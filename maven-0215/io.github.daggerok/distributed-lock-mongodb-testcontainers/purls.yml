@@ -1,0 +1,2 @@
+- pkg:maven/io.github.daggerok/distributed-lock-mongodb-testcontainers@3.0.5-2
+- pkg:maven/io.github.daggerok/distributed-lock-mongodb-testcontainers@3.0.5-2?classifier=sources

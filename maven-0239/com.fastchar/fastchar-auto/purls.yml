@@ -40,3 +40,5 @@
 - pkg:maven/com.fastchar/fastchar-auto@1.2.5?classifier=sources
 - pkg:maven/com.fastchar/fastchar-auto@2.0.0
 - pkg:maven/com.fastchar/fastchar-auto@2.0.0?classifier=sources
+- pkg:maven/com.fastchar/fastchar-auto@2.0.1
+- pkg:maven/com.fastchar/fastchar-auto@2.0.1?classifier=sources

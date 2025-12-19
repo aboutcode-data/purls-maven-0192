@@ -1,0 +1,2 @@
+- pkg:maven/io.github.haopenge/easy-gray-api@1.0.0
+- pkg:maven/io.github.haopenge/easy-gray-api@1.0.0?classifier=sources

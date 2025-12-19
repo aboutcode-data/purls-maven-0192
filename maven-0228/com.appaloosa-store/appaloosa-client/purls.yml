@@ -16,3 +16,5 @@
 - pkg:maven/com.appaloosa-store/appaloosa-client@1.6?classifier=sources
 - pkg:maven/com.appaloosa-store/appaloosa-client@1.9
 - pkg:maven/com.appaloosa-store/appaloosa-client@1.9?classifier=sources
+- pkg:maven/com.appaloosa-store/appaloosa-client@2.0
+- pkg:maven/com.appaloosa-store/appaloosa-client@2.0?classifier=sources

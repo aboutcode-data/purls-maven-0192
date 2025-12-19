@@ -326,6 +326,8 @@
 - pkg:maven/io.netty/netty-all@4.1.89.Final
 - pkg:maven/io.netty/netty-all@4.1.9.Final
 - pkg:maven/io.netty/netty-all@4.1.9.Final?classifier=sources
+- pkg:maven/io.netty/netty-all@4.1.90.Final
+- pkg:maven/io.netty/netty-all@4.1.91.Final
 - pkg:maven/io.netty/netty-all@5.0.0.Alpha1
 - pkg:maven/io.netty/netty-all@5.0.0.Alpha1?classifier=sources
 - pkg:maven/io.netty/netty-all@5.0.0.Alpha2

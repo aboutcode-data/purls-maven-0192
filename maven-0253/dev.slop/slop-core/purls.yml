@@ -4,4 +4,6 @@
 - pkg:maven/dev.slop/slop-core@1.31?classifier=sources
 - pkg:maven/dev.slop/slop-core@1.32?classifier=sources
 - pkg:maven/dev.slop/slop-core@1.35?classifier=sources
+- pkg:maven/dev.slop/slop-core@1.36?classifier=sources
+- pkg:maven/dev.slop/slop-core@1.37?classifier=sources
 - pkg:maven/dev.slop/slop-core@1.3?classifier=sources

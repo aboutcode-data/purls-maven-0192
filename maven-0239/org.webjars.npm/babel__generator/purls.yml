@@ -42,6 +42,8 @@
 - pkg:maven/org.webjars.npm/babel__generator@7.20.7?classifier=sources
 - pkg:maven/org.webjars.npm/babel__generator@7.21.1
 - pkg:maven/org.webjars.npm/babel__generator@7.21.1?classifier=sources
+- pkg:maven/org.webjars.npm/babel__generator@7.21.3
+- pkg:maven/org.webjars.npm/babel__generator@7.21.3?classifier=sources
 - pkg:maven/org.webjars.npm/babel__generator@7.3.0
 - pkg:maven/org.webjars.npm/babel__generator@7.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel__generator@7.3.4

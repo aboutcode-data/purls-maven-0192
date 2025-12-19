@@ -1,3 +1,8 @@
+- pkg:maven/com.pulumi/vault@5.10.0-alpha.1679337644%2Bf3c51a5b?classifier=sources
+- pkg:maven/com.pulumi/vault@5.10.0-alpha.1679405880%2Be5a88f57?classifier=sources
+- pkg:maven/com.pulumi/vault@5.10.0?classifier=sources
+- pkg:maven/com.pulumi/vault@5.11.0-alpha.1679420017%2Bac76db8a?classifier=sources
+- pkg:maven/com.pulumi/vault@5.11.0-alpha.1680912576%2Bc764c59b?classifier=sources
 - pkg:maven/com.pulumi/vault@5.6.0-alpha.1660649408%2B7c17b76a?classifier=sources
 - pkg:maven/com.pulumi/vault@5.6.0?classifier=sources
 - pkg:maven/com.pulumi/vault@5.7.0?classifier=sources

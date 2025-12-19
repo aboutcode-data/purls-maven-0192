@@ -6,3 +6,5 @@
 - pkg:maven/org.opencds.cqf.cql/evaluator.fhir-npm@2.5.0?classifier=sources
 - pkg:maven/org.opencds.cqf.cql/evaluator.fhir-npm@2.6.0
 - pkg:maven/org.opencds.cqf.cql/evaluator.fhir-npm@2.6.0?classifier=sources
+- pkg:maven/org.opencds.cqf.cql/evaluator.fhir-npm@3.0.0.PRE-1
+- pkg:maven/org.opencds.cqf.cql/evaluator.fhir-npm@3.0.0.PRE-1?classifier=sources

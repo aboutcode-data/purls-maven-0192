@@ -1,3 +1,5 @@
 - pkg:maven/app.getxray/xray-maven-plugin@0.5.0
 - pkg:maven/app.getxray/xray-maven-plugin@0.6.0
 - pkg:maven/app.getxray/xray-maven-plugin@0.7.0
+- pkg:maven/app.getxray/xray-maven-plugin@0.7.1
+- pkg:maven/app.getxray/xray-maven-plugin@0.7.2

@@ -8,3 +8,5 @@
 - pkg:maven/com.github.dreamroute/locker-spring-boot-starter@3.3-RELEASE?classifier=sources
 - pkg:maven/com.github.dreamroute/locker-spring-boot-starter@3.4-RELEASE
 - pkg:maven/com.github.dreamroute/locker-spring-boot-starter@3.4-RELEASE?classifier=sources
+- pkg:maven/com.github.dreamroute/locker-spring-boot-starter@3.5-RELEASE
+- pkg:maven/com.github.dreamroute/locker-spring-boot-starter@3.5-RELEASE?classifier=sources

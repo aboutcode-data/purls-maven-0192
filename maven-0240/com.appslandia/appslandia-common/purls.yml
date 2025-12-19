@@ -138,6 +138,8 @@
 - pkg:maven/com.appslandia/appslandia-common@13.1.0?classifier=sources
 - pkg:maven/com.appslandia/appslandia-common@13.2.0
 - pkg:maven/com.appslandia/appslandia-common@13.2.0?classifier=sources
+- pkg:maven/com.appslandia/appslandia-common@15.0.0
+- pkg:maven/com.appslandia/appslandia-common@15.0.0?classifier=sources
 - pkg:maven/com.appslandia/appslandia-common@2.0
 - pkg:maven/com.appslandia/appslandia-common@2.0?classifier=sources
 - pkg:maven/com.appslandia/appslandia-common@2.1

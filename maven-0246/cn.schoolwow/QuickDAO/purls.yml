@@ -98,3 +98,5 @@
 - pkg:maven/cn.schoolwow/QuickDAO@4.1.9
 - pkg:maven/cn.schoolwow/QuickDAO@4.1.9?classifier=sources
 - pkg:maven/cn.schoolwow/QuickDAO@4.1?classifier=sources
+- pkg:maven/cn.schoolwow/QuickDAO@5.0.0
+- pkg:maven/cn.schoolwow/QuickDAO@5.0.0?classifier=sources

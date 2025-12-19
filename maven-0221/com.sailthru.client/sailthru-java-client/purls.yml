@@ -40,3 +40,5 @@
 - pkg:maven/com.sailthru.client/sailthru-java-client@2.2.3?classifier=sources
 - pkg:maven/com.sailthru.client/sailthru-java-client@2.3.0
 - pkg:maven/com.sailthru.client/sailthru-java-client@2.3.0?classifier=sources
+- pkg:maven/com.sailthru.client/sailthru-java-client@2.3.1
+- pkg:maven/com.sailthru.client/sailthru-java-client@2.3.1?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.senzing/g2@3.0.0-b02
 - pkg:maven/com.senzing/g2@3.0.0-b02?classifier=sources
 - pkg:maven/com.senzing/g2@3.0.0?classifier=sources
+- pkg:maven/com.senzing/g2@3.0.1
+- pkg:maven/com.senzing/g2@3.0.1?classifier=sources

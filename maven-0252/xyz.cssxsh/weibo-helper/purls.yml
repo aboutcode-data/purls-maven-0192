@@ -46,3 +46,4 @@
 - pkg:maven/xyz.cssxsh/weibo-helper@1.5.9-M1?classifier=sources
 - pkg:maven/xyz.cssxsh/weibo-helper@1.6.0?classifier=sources
 - pkg:maven/xyz.cssxsh/weibo-helper@1.6.1?classifier=sources
+- pkg:maven/xyz.cssxsh/weibo-helper@1.6.2?classifier=sources

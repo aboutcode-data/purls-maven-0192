@@ -1,0 +1,4 @@
+- pkg:maven/eu.maveniverse.maven.mima.runtime/standalone-sisu-uber@1.0.2
+- pkg:maven/eu.maveniverse.maven.mima.runtime/standalone-sisu-uber@1.0.2?classifier=sources
+- pkg:maven/eu.maveniverse.maven.mima.runtime/standalone-sisu-uber@1.0.3
+- pkg:maven/eu.maveniverse.maven.mima.runtime/standalone-sisu-uber@1.0.3?classifier=sources

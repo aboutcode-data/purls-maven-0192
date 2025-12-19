@@ -1,3 +1,4 @@
+- pkg:maven/org.sonarsource.sonarqube/sonar-plugin-api-impl@10.0.0.68432?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-plugin-api-impl@8.0
 - pkg:maven/org.sonarsource.sonarqube/sonar-plugin-api-impl@8.0?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-plugin-api-impl@8.1.0.31197

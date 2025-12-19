@@ -1,2 +1,3 @@
 - pkg:maven/com.truecaller.android.sdk/truecaller-sdk@2.7.0?classifier=sources
 - pkg:maven/com.truecaller.android.sdk/truecaller-sdk@2.8.0?classifier=sources
+- pkg:maven/com.truecaller.android.sdk/truecaller-sdk@2.9.0?classifier=sources

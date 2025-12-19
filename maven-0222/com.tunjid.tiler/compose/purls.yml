@@ -1,2 +1,4 @@
 - pkg:maven/com.tunjid.tiler/compose@0.0.3?classifier=sources
 - pkg:maven/com.tunjid.tiler/compose@1.0.0-rc02?classifier=sources
+- pkg:maven/com.tunjid.tiler/compose@1.0.1-alpha01?classifier=sources
+- pkg:maven/com.tunjid.tiler/compose@1.0.1-alpha02?classifier=sources

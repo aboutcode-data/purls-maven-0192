@@ -36,3 +36,9 @@
 - pkg:maven/com.google.apis/google-api-services-contactcenterinsights@v1-rev20221219-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-contactcenterinsights@v1-rev20230129-2.0.0
 - pkg:maven/com.google.apis/google-api-services-contactcenterinsights@v1-rev20230129-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-contactcenterinsights@v1-rev20230312-2.0.0
+- pkg:maven/com.google.apis/google-api-services-contactcenterinsights@v1-rev20230312-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-contactcenterinsights@v1-rev20230330-2.0.0
+- pkg:maven/com.google.apis/google-api-services-contactcenterinsights@v1-rev20230330-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-contactcenterinsights@v1-rev20230409-2.0.0
+- pkg:maven/com.google.apis/google-api-services-contactcenterinsights@v1-rev20230409-2.0.0?classifier=sources

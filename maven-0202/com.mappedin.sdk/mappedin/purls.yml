@@ -126,3 +126,5 @@
 - pkg:maven/com.mappedin.sdk/mappedin@5.0.0?type=aar
 - pkg:maven/com.mappedin.sdk/mappedin@5.0.3?type=aar
 - pkg:maven/com.mappedin.sdk/mappedin@5.0.4?type=aar
+- pkg:maven/com.mappedin.sdk/mappedin@5.1.0?type=aar
+- pkg:maven/com.mappedin.sdk/mappedin@5.2.0?type=aar

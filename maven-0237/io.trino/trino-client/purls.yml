@@ -116,3 +116,9 @@
 - pkg:maven/io.trino/trino-client@409?classifier=sources
 - pkg:maven/io.trino/trino-client@410
 - pkg:maven/io.trino/trino-client@410?classifier=sources
+- pkg:maven/io.trino/trino-client@411
+- pkg:maven/io.trino/trino-client@411?classifier=sources
+- pkg:maven/io.trino/trino-client@412
+- pkg:maven/io.trino/trino-client@412?classifier=sources
+- pkg:maven/io.trino/trino-client@413
+- pkg:maven/io.trino/trino-client@413?classifier=sources

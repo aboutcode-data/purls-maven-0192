@@ -1,3 +1,4 @@
 - pkg:maven/org.mvnpm/vaadin-web-components@23.3.7
 - pkg:maven/org.mvnpm/vaadin-web-components@23.3.8
 - pkg:maven/org.mvnpm/vaadin-web-components@24.0.0
+- pkg:maven/org.mvnpm/vaadin-web-components@24.0.2

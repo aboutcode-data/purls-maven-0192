@@ -80,3 +80,5 @@
 - pkg:maven/za.co.absa.enceladus/plugins-builtin@2.8.0?classifier=sources
 - pkg:maven/za.co.absa.enceladus/plugins-builtin@2.9.0
 - pkg:maven/za.co.absa.enceladus/plugins-builtin@2.9.0?classifier=sources
+- pkg:maven/za.co.absa.enceladus/plugins-builtin@3.0.0
+- pkg:maven/za.co.absa.enceladus/plugins-builtin@3.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.apache.resources/apache-jar-txt-resource-bundle@1.5
+- pkg:maven/org.apache.apache.resources/apache-jar-txt-resource-bundle@1.5?classifier=sources

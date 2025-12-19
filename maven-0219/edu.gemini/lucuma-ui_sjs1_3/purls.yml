@@ -114,3 +114,9 @@
 - pkg:maven/edu.gemini/lucuma-ui_sjs1_3@0.68.0?classifier=sources
 - pkg:maven/edu.gemini/lucuma-ui_sjs1_3@0.68.1
 - pkg:maven/edu.gemini/lucuma-ui_sjs1_3@0.68.1?classifier=sources
+- pkg:maven/edu.gemini/lucuma-ui_sjs1_3@0.68.2
+- pkg:maven/edu.gemini/lucuma-ui_sjs1_3@0.68.2?classifier=sources
+- pkg:maven/edu.gemini/lucuma-ui_sjs1_3@0.69.0
+- pkg:maven/edu.gemini/lucuma-ui_sjs1_3@0.69.0?classifier=sources
+- pkg:maven/edu.gemini/lucuma-ui_sjs1_3@0.69.1
+- pkg:maven/edu.gemini/lucuma-ui_sjs1_3@0.69.1?classifier=sources

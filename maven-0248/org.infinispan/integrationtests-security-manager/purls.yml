@@ -111,6 +111,7 @@
 - pkg:maven/org.infinispan/integrationtests-security-manager@14.0.5.Final
 - pkg:maven/org.infinispan/integrationtests-security-manager@14.0.6.Final
 - pkg:maven/org.infinispan/integrationtests-security-manager@14.0.7.Final
+- pkg:maven/org.infinispan/integrationtests-security-manager@14.0.8.Final
 - pkg:maven/org.infinispan/integrationtests-security-manager@7.0.0.Alpha3
 - pkg:maven/org.infinispan/integrationtests-security-manager@7.0.0.Alpha3?classifier=sources
 - pkg:maven/org.infinispan/integrationtests-security-manager@7.0.0.Alpha4

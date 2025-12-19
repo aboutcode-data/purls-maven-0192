@@ -1,3 +1,4 @@
+- pkg:maven/org.sonarsource.sonarqube/sonar-db-core@10.0.0.68432?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-db-core@6.4
 - pkg:maven/org.sonarsource.sonarqube/sonar-db-core@6.4-RC1
 - pkg:maven/org.sonarsource.sonarqube/sonar-db-core@6.4-RC1?classifier=sources

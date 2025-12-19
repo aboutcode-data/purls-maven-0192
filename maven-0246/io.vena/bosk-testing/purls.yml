@@ -1,1 +1,3 @@
 - pkg:maven/io.vena/bosk-testing@0.0.75?classifier=sources
+- pkg:maven/io.vena/bosk-testing@0.0.76?classifier=sources
+- pkg:maven/io.vena/bosk-testing@0.0.77?classifier=sources
