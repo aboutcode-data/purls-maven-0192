@@ -38,6 +38,8 @@
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@13.2
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@13.4
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@13.6
+- pkg:maven/org.opencastproject/opencast-engage-paella-player@13.7
+- pkg:maven/org.opencastproject/opencast-engage-paella-player@14.0
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@6.6
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@7.2

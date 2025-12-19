@@ -170,3 +170,7 @@
 - pkg:maven/org.apache.hbase/hbase-rsgroup@2.5.4-hadoop3
 - pkg:maven/org.apache.hbase/hbase-rsgroup@2.5.4-hadoop3?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-rsgroup@2.5.4?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-rsgroup@2.5.5
+- pkg:maven/org.apache.hbase/hbase-rsgroup@2.5.5-hadoop3
+- pkg:maven/org.apache.hbase/hbase-rsgroup@2.5.5-hadoop3?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-rsgroup@2.5.5?classifier=sources

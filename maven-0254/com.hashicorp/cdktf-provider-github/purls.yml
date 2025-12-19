@@ -1020,6 +1020,14 @@
 - pkg:maven/com.hashicorp/cdktf-provider-github@1.0.1?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-github@1.0.2
 - pkg:maven/com.hashicorp/cdktf-provider-github@1.0.2?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-github@10.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-github@10.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-github@10.0.1
+- pkg:maven/com.hashicorp/cdktf-provider-github@10.0.1?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-github@10.0.2
+- pkg:maven/com.hashicorp/cdktf-provider-github@10.0.2?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-github@10.0.3
+- pkg:maven/com.hashicorp/cdktf-provider-github@10.0.3?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-github@2.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-github@2.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-github@2.0.1
@@ -1242,3 +1250,11 @@
 - pkg:maven/com.hashicorp/cdktf-provider-github@8.0.1?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-github@8.0.2
 - pkg:maven/com.hashicorp/cdktf-provider-github@8.0.2?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-github@8.0.3
+- pkg:maven/com.hashicorp/cdktf-provider-github@8.0.3?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-github@8.0.4
+- pkg:maven/com.hashicorp/cdktf-provider-github@8.0.4?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-github@8.0.5
+- pkg:maven/com.hashicorp/cdktf-provider-github@8.0.5?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-github@9.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-github@9.0.0?classifier=sources

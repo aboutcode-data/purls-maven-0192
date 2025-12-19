@@ -1,1 +1,2 @@
 - pkg:maven/com.iwinback/gopush-messaging@1.0.0?classifier=sources
+- pkg:maven/com.iwinback/gopush-messaging@1.1.0?classifier=sources

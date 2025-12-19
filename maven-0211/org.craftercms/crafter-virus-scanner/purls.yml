@@ -245,6 +245,7 @@
 - pkg:maven/org.craftercms/crafter-virus-scanner@4.0.1
 - pkg:maven/org.craftercms/crafter-virus-scanner@4.0.2
 - pkg:maven/org.craftercms/crafter-virus-scanner@4.0.4
+- pkg:maven/org.craftercms/crafter-virus-scanner@4.0.5
 - pkg:maven/org.craftercms/crafter-virus-scanner@v2.5.0-Beta4
 - pkg:maven/org.craftercms/crafter-virus-scanner@v2.5.0-Beta4?classifier=sources
 - pkg:maven/org.craftercms/crafter-virus-scanner@v2.5.0-Beta5

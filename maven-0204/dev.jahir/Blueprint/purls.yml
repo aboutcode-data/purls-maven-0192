@@ -6,4 +6,5 @@
 - pkg:maven/dev.jahir/Blueprint@2.2.8?classifier=sources
 - pkg:maven/dev.jahir/Blueprint@2.3.0?classifier=sources
 - pkg:maven/dev.jahir/Blueprint@2.3.4?classifier=sources
+- pkg:maven/dev.jahir/Blueprint@2.3.5?classifier=sources
 - pkg:maven/dev.jahir/Blueprint@218?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/org.openwms/org.openwms.core.util@1.8.0?classifier=sources
 - pkg:maven/org.openwms/org.openwms.core.util@1.9.0
 - pkg:maven/org.openwms/org.openwms.core.util@1.9.0?classifier=sources
+- pkg:maven/org.openwms/org.openwms.core.util@2.0.0
+- pkg:maven/org.openwms/org.openwms.core.util@2.0.0?classifier=sources

@@ -14,6 +14,8 @@
 - pkg:maven/de.lars-sh/lombok-annotations@1.18.24?classifier=sources
 - pkg:maven/de.lars-sh/lombok-annotations@1.18.26
 - pkg:maven/de.lars-sh/lombok-annotations@1.18.26?classifier=sources
+- pkg:maven/de.lars-sh/lombok-annotations@1.18.28
+- pkg:maven/de.lars-sh/lombok-annotations@1.18.28?classifier=sources
 - pkg:maven/de.lars-sh/lombok-annotations@1.18.4
 - pkg:maven/de.lars-sh/lombok-annotations@1.18.4?classifier=sources
 - pkg:maven/de.lars-sh/lombok-annotations@1.18.6

@@ -4,3 +4,4 @@
 - pkg:maven/io.fluidsonic.mongo/fluid-mongo-jvm@1.4.0?classifier=sources
 - pkg:maven/io.fluidsonic.mongo/fluid-mongo-jvm@1.5.0?classifier=sources
 - pkg:maven/io.fluidsonic.mongo/fluid-mongo-jvm@1.6.0?classifier=sources
+- pkg:maven/io.fluidsonic.mongo/fluid-mongo-jvm@1.7.0?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/com.permutive.android/appnexus@0.1.0?type=aar
 - pkg:maven/com.permutive.android/appnexus@1.5.10?classifier=sources
 - pkg:maven/com.permutive.android/appnexus@1.6.0?classifier=sources
+- pkg:maven/com.permutive.android/appnexus@1.6.1?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/kg.apc/jmeter-plugins-table-server@2.4?classifier=sources
 - pkg:maven/kg.apc/jmeter-plugins-table-server@3.1
 - pkg:maven/kg.apc/jmeter-plugins-table-server@3.1?classifier=sources
+- pkg:maven/kg.apc/jmeter-plugins-table-server@4.0
+- pkg:maven/kg.apc/jmeter-plugins-table-server@4.0?classifier=sources

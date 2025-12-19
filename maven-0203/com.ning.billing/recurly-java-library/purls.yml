@@ -47,6 +47,8 @@
 - pkg:maven/com.ning.billing/recurly-java-library@0.113.0
 - pkg:maven/com.ning.billing/recurly-java-library@0.113.0?classifier=sources
 - pkg:maven/com.ning.billing/recurly-java-library@0.113.1
+- pkg:maven/com.ning.billing/recurly-java-library@0.113.11
+- pkg:maven/com.ning.billing/recurly-java-library@0.113.11?classifier=sources
 - pkg:maven/com.ning.billing/recurly-java-library@0.113.1?classifier=sources
 - pkg:maven/com.ning.billing/recurly-java-library@0.113.2
 - pkg:maven/com.ning.billing/recurly-java-library@0.113.2?classifier=sources
@@ -62,6 +64,8 @@
 - pkg:maven/com.ning.billing/recurly-java-library@0.113.7?classifier=sources
 - pkg:maven/com.ning.billing/recurly-java-library@0.113.8
 - pkg:maven/com.ning.billing/recurly-java-library@0.113.8?classifier=sources
+- pkg:maven/com.ning.billing/recurly-java-library@0.113.9
+- pkg:maven/com.ning.billing/recurly-java-library@0.113.9?classifier=sources
 - pkg:maven/com.ning.billing/recurly-java-library@0.12.0
 - pkg:maven/com.ning.billing/recurly-java-library@0.12.0?classifier=sources
 - pkg:maven/com.ning.billing/recurly-java-library@0.13.0

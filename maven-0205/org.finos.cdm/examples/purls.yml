@@ -1,0 +1,7 @@
+- pkg:maven/org.finos.cdm/examples@0.0.1-dev.20?classifier=sources
+- pkg:maven/org.finos.cdm/examples@0.0.1-dev.5?classifier=sources
+- pkg:maven/org.finos.cdm/examples@4.0.0-dev.56?classifier=sources
+- pkg:maven/org.finos.cdm/examples@4.0.0?classifier=sources
+- pkg:maven/org.finos.cdm/examples@5.0.0-dev.0?classifier=sources
+- pkg:maven/org.finos.cdm/examples@5.0.0-dev.1?classifier=sources
+- pkg:maven/org.finos.cdm/examples@5.0.0-dev.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.lee1208/nacos-config-2.2.7-decode@1.0-RELEASE
+- pkg:maven/io.github.lee1208/nacos-config-2.2.7-decode@1.0-RELEASE?classifier=sources

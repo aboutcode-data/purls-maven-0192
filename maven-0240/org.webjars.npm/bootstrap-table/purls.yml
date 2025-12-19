@@ -56,3 +56,5 @@
 - pkg:maven/org.webjars.npm/bootstrap-table@1.21.3?classifier=sources
 - pkg:maven/org.webjars.npm/bootstrap-table@1.21.4
 - pkg:maven/org.webjars.npm/bootstrap-table@1.21.4?classifier=sources
+- pkg:maven/org.webjars.npm/bootstrap-table@1.22.0
+- pkg:maven/org.webjars.npm/bootstrap-table@1.22.0?classifier=sources

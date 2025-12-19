@@ -1,0 +1,2 @@
+- pkg:maven/monster.sultanpower/AnalyticsToolsSet@0.0.2?classifier=sources
+- pkg:maven/monster.sultanpower/AnalyticsToolsSet@0.0.3?classifier=sources

@@ -22,6 +22,10 @@
 - pkg:maven/no.difi.meldingsutveksling/dpi-client@2.17.1?classifier=sources
 - pkg:maven/no.difi.meldingsutveksling/dpi-client@2.18.0
 - pkg:maven/no.difi.meldingsutveksling/dpi-client@2.18.0?classifier=sources
+- pkg:maven/no.difi.meldingsutveksling/dpi-client@2.19.0
+- pkg:maven/no.difi.meldingsutveksling/dpi-client@2.19.0?classifier=sources
+- pkg:maven/no.difi.meldingsutveksling/dpi-client@2.20.0
+- pkg:maven/no.difi.meldingsutveksling/dpi-client@2.20.0?classifier=sources
 - pkg:maven/no.difi.meldingsutveksling/dpi-client@2.4.0
 - pkg:maven/no.difi.meldingsutveksling/dpi-client@2.4.0?classifier=sources
 - pkg:maven/no.difi.meldingsutveksling/dpi-client@2.4.1

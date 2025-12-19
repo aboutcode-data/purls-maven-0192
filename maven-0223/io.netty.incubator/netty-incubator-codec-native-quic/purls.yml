@@ -22,3 +22,6 @@
 - pkg:maven/io.netty.incubator/netty-incubator-codec-native-quic@0.0.42.Final?classifier=sources
 - pkg:maven/io.netty.incubator/netty-incubator-codec-native-quic@0.0.43.Final?classifier=sources
 - pkg:maven/io.netty.incubator/netty-incubator-codec-native-quic@0.0.45.Final?classifier=sources
+- pkg:maven/io.netty.incubator/netty-incubator-codec-native-quic@0.0.46.Final?classifier=sources
+- pkg:maven/io.netty.incubator/netty-incubator-codec-native-quic@0.0.47.Final?classifier=sources
+- pkg:maven/io.netty.incubator/netty-incubator-codec-native-quic@0.0.48.Final?classifier=sources

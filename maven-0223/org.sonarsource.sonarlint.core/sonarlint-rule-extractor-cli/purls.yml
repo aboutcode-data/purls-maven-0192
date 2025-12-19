@@ -5,3 +5,4 @@
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor-cli@8.16.0.67686?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor-cli@8.17.0.70351?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor-cli@8.18.0.70939?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor-cli@8.19.0.72745?classifier=sources

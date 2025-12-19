@@ -330,3 +330,11 @@
 - pkg:maven/io.airlift/bootstrap@229?classifier=sources
 - pkg:maven/io.airlift/bootstrap@230
 - pkg:maven/io.airlift/bootstrap@230?classifier=sources
+- pkg:maven/io.airlift/bootstrap@231
+- pkg:maven/io.airlift/bootstrap@231?classifier=sources
+- pkg:maven/io.airlift/bootstrap@232
+- pkg:maven/io.airlift/bootstrap@232?classifier=sources
+- pkg:maven/io.airlift/bootstrap@233
+- pkg:maven/io.airlift/bootstrap@233?classifier=sources
+- pkg:maven/io.airlift/bootstrap@234
+- pkg:maven/io.airlift/bootstrap@234?classifier=sources

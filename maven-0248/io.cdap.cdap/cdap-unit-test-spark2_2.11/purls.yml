@@ -31,3 +31,4 @@
 - pkg:maven/io.cdap.cdap/cdap-unit-test-spark2_2.11@6.7.3
 - pkg:maven/io.cdap.cdap/cdap-unit-test-spark2_2.11@6.8.0
 - pkg:maven/io.cdap.cdap/cdap-unit-test-spark2_2.11@6.8.1
+- pkg:maven/io.cdap.cdap/cdap-unit-test-spark2_2.11@6.8.3

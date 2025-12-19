@@ -34,3 +34,5 @@
 - pkg:maven/org.fryske-akademy/exist-db-addons@3.0?classifier=sources
 - pkg:maven/org.fryske-akademy/exist-db-addons@3.1
 - pkg:maven/org.fryske-akademy/exist-db-addons@3.1?classifier=sources
+- pkg:maven/org.fryske-akademy/exist-db-addons@3.3
+- pkg:maven/org.fryske-akademy/exist-db-addons@3.3?classifier=sources

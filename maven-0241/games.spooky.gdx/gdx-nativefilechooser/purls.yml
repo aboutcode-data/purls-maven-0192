@@ -2,3 +2,4 @@
 - pkg:maven/games.spooky.gdx/gdx-nativefilechooser@1.0.0?classifier=sources
 - pkg:maven/games.spooky.gdx/gdx-nativefilechooser@2.0.0?classifier=sources
 - pkg:maven/games.spooky.gdx/gdx-nativefilechooser@2.1.0?classifier=sources
+- pkg:maven/games.spooky.gdx/gdx-nativefilechooser@2.2.0?classifier=sources

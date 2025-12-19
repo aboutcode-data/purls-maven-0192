@@ -1,0 +1,8 @@
+- pkg:maven/cn.iosd/simple-starter-encrypt@2022.3.3.0
+- pkg:maven/cn.iosd/simple-starter-encrypt@2022.3.3.0?classifier=sources
+- pkg:maven/cn.iosd/simple-starter-encrypt@2022.3.4.0
+- pkg:maven/cn.iosd/simple-starter-encrypt@2022.3.4.0?classifier=sources
+- pkg:maven/cn.iosd/simple-starter-encrypt@2023.3.3.0
+- pkg:maven/cn.iosd/simple-starter-encrypt@2023.3.3.0?classifier=sources
+- pkg:maven/cn.iosd/simple-starter-encrypt@2023.3.4.0
+- pkg:maven/cn.iosd/simple-starter-encrypt@2023.3.4.0?classifier=sources

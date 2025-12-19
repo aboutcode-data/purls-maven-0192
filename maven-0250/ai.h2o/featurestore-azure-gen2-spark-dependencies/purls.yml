@@ -1,0 +1,2 @@
+- pkg:maven/ai.h2o/featurestore-azure-gen2-spark-dependencies@0.17.0?classifier=sources
+- pkg:maven/ai.h2o/featurestore-azure-gen2-spark-dependencies@0.18.0?classifier=sources

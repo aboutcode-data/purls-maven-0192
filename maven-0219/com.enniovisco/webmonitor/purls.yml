@@ -1,0 +1,3 @@
+- pkg:maven/com.enniovisco/webmonitor@0.1.0?classifier=sources
+- pkg:maven/com.enniovisco/webmonitor@0.2.0?classifier=sources
+- pkg:maven/com.enniovisco/webmonitor@1.0.0?classifier=sources

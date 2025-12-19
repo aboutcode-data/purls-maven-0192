@@ -104,6 +104,8 @@
 - pkg:maven/com.lightstep.tracer/java-common@0.30.3?classifier=sources
 - pkg:maven/com.lightstep.tracer/java-common@0.31.0
 - pkg:maven/com.lightstep.tracer/java-common@0.31.0?classifier=sources
+- pkg:maven/com.lightstep.tracer/java-common@0.32.0
+- pkg:maven/com.lightstep.tracer/java-common@0.32.0?classifier=sources
 - pkg:maven/com.lightstep.tracer/java-common@0.9.22
 - pkg:maven/com.lightstep.tracer/java-common@0.9.22?classifier=sources
 - pkg:maven/com.lightstep.tracer/java-common@0.9.23

@@ -5,3 +5,7 @@
 - pkg:maven/ie.equalit.ouinet/feature-toolbar-ceno@111.1.0?classifier=sources
 - pkg:maven/ie.equalit.ouinet/feature-toolbar-ceno@111.1.1?classifier=sources
 - pkg:maven/ie.equalit.ouinet/feature-toolbar-ceno@112.2.0?classifier=sources
+- pkg:maven/ie.equalit.ouinet/feature-toolbar-ceno@113.0?classifier=sources
+- pkg:maven/ie.equalit.ouinet/feature-toolbar-ceno@113.2.0?classifier=sources
+- pkg:maven/ie.equalit.ouinet/feature-toolbar-ceno@114.0?classifier=sources
+- pkg:maven/ie.equalit.ouinet/feature-toolbar-ceno@114.1.0?classifier=sources

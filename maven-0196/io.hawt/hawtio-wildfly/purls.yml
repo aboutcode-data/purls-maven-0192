@@ -73,6 +73,7 @@
 - pkg:maven/io.hawt/hawtio-wildfly@2.17.1?type=war
 - pkg:maven/io.hawt/hawtio-wildfly@2.17.2?type=war
 - pkg:maven/io.hawt/hawtio-wildfly@2.17.3?type=war
+- pkg:maven/io.hawt/hawtio-wildfly@2.17.4?type=war
 - pkg:maven/io.hawt/hawtio-wildfly@2.2.0?type=war
 - pkg:maven/io.hawt/hawtio-wildfly@2.3.0?type=war
 - pkg:maven/io.hawt/hawtio-wildfly@2.4.0?type=war

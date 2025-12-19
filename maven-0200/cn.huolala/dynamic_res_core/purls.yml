@@ -1,0 +1,3 @@
+- pkg:maven/cn.huolala/dynamic_res_core@0.0.3?classifier=sources
+- pkg:maven/cn.huolala/dynamic_res_core@1.1.1?classifier=sources
+- pkg:maven/cn.huolala/dynamic_res_core@1.1.2?classifier=sources

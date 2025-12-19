@@ -8,3 +8,5 @@
 - pkg:maven/org.echocat.repo4j/repo4j@1.2?classifier=sources
 - pkg:maven/org.echocat.repo4j/repo4j@2.0.0
 - pkg:maven/org.echocat.repo4j/repo4j@2.0.0?classifier=sources
+- pkg:maven/org.echocat.repo4j/repo4j@2.0.1
+- pkg:maven/org.echocat.repo4j/repo4j@2.0.1?classifier=sources

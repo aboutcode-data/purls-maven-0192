@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/rc-component__tour@1.6.0
 - pkg:maven/org.webjars.npm/rc-component__tour@1.6.0?classifier=sources
+- pkg:maven/org.webjars.npm/rc-component__tour@1.8.0
+- pkg:maven/org.webjars.npm/rc-component__tour@1.8.0?classifier=sources

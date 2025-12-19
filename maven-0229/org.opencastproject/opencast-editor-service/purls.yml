@@ -78,6 +78,10 @@
 - pkg:maven/org.opencastproject/opencast-editor-service@13.4?classifier=sources
 - pkg:maven/org.opencastproject/opencast-editor-service@13.6
 - pkg:maven/org.opencastproject/opencast-editor-service@13.6?classifier=sources
+- pkg:maven/org.opencastproject/opencast-editor-service@13.7
+- pkg:maven/org.opencastproject/opencast-editor-service@13.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-editor-service@14.0
+- pkg:maven/org.opencastproject/opencast-editor-service@14.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-editor-service@9.10
 - pkg:maven/org.opencastproject/opencast-editor-service@9.10?classifier=sources
 - pkg:maven/org.opencastproject/opencast-editor-service@9.11

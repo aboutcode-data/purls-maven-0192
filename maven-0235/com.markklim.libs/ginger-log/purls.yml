@@ -1,0 +1,2 @@
+- pkg:maven/com.markklim.libs/ginger-log@1.1.0?classifier=sources
+- pkg:maven/com.markklim.libs/ginger-log@1.2.1?classifier=sources
