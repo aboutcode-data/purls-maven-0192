@@ -148,3 +148,4 @@
 - pkg:maven/com.github.cryptomorin/kingdoms@1.13.3?classifier=sources
 - pkg:maven/com.github.cryptomorin/kingdoms@1.13.9
 - pkg:maven/com.github.cryptomorin/kingdoms@1.13.9?classifier=sources
+- pkg:maven/com.github.cryptomorin/kingdoms@1.16.8.1.1?classifier=sources

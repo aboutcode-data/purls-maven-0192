@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.jnosql.mapping/jnosql-mapping-api-core@1.0.1
+- pkg:maven/org.eclipse.jnosql.mapping/jnosql-mapping-api-core@1.0.1?classifier=sources

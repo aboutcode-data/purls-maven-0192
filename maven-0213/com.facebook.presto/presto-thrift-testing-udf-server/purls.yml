@@ -68,3 +68,4 @@
 - pkg:maven/com.facebook.presto/presto-thrift-testing-udf-server@0.279?classifier=sources
 - pkg:maven/com.facebook.presto/presto-thrift-testing-udf-server@0.280?classifier=sources
 - pkg:maven/com.facebook.presto/presto-thrift-testing-udf-server@0.281?classifier=sources
+- pkg:maven/com.facebook.presto/presto-thrift-testing-udf-server@0.282?classifier=sources

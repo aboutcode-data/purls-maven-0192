@@ -34,6 +34,8 @@
 - pkg:maven/pl.tkowalcz.tjahzi/logback-appender@0.9.29?classifier=sources
 - pkg:maven/pl.tkowalcz.tjahzi/logback-appender@0.9.30
 - pkg:maven/pl.tkowalcz.tjahzi/logback-appender@0.9.30?classifier=sources
+- pkg:maven/pl.tkowalcz.tjahzi/logback-appender@0.9.31
+- pkg:maven/pl.tkowalcz.tjahzi/logback-appender@0.9.31?classifier=sources
 - pkg:maven/pl.tkowalcz.tjahzi/logback-appender@0.9.6
 - pkg:maven/pl.tkowalcz.tjahzi/logback-appender@0.9.6?classifier=sources
 - pkg:maven/pl.tkowalcz.tjahzi/logback-appender@0.9.7

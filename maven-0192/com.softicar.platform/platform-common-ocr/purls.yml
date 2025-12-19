@@ -92,3 +92,4 @@
 - pkg:maven/com.softicar.platform/platform-common-ocr@46.0.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-common-ocr@47.0.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-common-ocr@48.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-ocr@49.0.0?classifier=sources

@@ -4,6 +4,9 @@
 - pkg:maven/net.taler/qtart@0.4?classifier=sources
 - pkg:maven/net.taler/qtart@0.9.3-dev.10?classifier=sources
 - pkg:maven/net.taler/qtart@0.9.3-dev.11?classifier=sources
+- pkg:maven/net.taler/qtart@0.9.3-dev.12?classifier=sources
+- pkg:maven/net.taler/qtart@0.9.3-dev.13?classifier=sources
+- pkg:maven/net.taler/qtart@0.9.3-dev.14?classifier=sources
 - pkg:maven/net.taler/qtart@0.9.3-dev.3?classifier=sources
 - pkg:maven/net.taler/qtart@0.9.3-dev.4?classifier=sources
 - pkg:maven/net.taler/qtart@0.9.3-dev.5?classifier=sources

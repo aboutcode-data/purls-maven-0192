@@ -35,6 +35,8 @@
 - pkg:maven/com.github.turasa/signal-service-android@2.15.3_unofficial_4?type=aar
 - pkg:maven/com.github.turasa/signal-service-android@2.15.3_unofficial_5?type=aar
 - pkg:maven/com.github.turasa/signal-service-android@2.15.3_unofficial_6?type=aar
+- pkg:maven/com.github.turasa/signal-service-android@2.15.3_unofficial_75?classifier=sources
+- pkg:maven/com.github.turasa/signal-service-android@2.15.3_unofficial_76?classifier=sources
 - pkg:maven/com.github.turasa/signal-service-android@2.15.3_unofficial_7?type=aar
 - pkg:maven/com.github.turasa/signal-service-android@2.15.3_unofficial_8?type=aar
 - pkg:maven/com.github.turasa/signal-service-android@2.15.3_unofficial_9?type=aar

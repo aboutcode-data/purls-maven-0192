@@ -1,0 +1,2 @@
+- pkg:maven/io.github.flynn-zhangyg/polaris-spring-config-apollo@0.0.5
+- pkg:maven/io.github.flynn-zhangyg/polaris-spring-config-apollo@0.0.5?classifier=sources

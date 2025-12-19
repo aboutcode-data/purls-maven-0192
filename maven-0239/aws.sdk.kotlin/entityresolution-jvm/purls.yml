@@ -1,0 +1,1 @@
+- pkg:maven/aws.sdk.kotlin/entityresolution-jvm@0.29.1-beta?classifier=sources

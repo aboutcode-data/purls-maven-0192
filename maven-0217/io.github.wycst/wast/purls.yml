@@ -2,6 +2,8 @@
 - pkg:maven/io.github.wycst/wast@0.0.10
 - pkg:maven/io.github.wycst/wast@0.0.10.1
 - pkg:maven/io.github.wycst/wast@0.0.10.1?classifier=sources
+- pkg:maven/io.github.wycst/wast@0.0.10.2
+- pkg:maven/io.github.wycst/wast@0.0.10.2?classifier=sources
 - pkg:maven/io.github.wycst/wast@0.0.10?classifier=sources
 - pkg:maven/io.github.wycst/wast@0.0.1?classifier=sources
 - pkg:maven/io.github.wycst/wast@0.0.2

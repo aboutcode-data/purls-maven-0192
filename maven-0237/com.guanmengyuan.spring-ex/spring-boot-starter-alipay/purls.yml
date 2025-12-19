@@ -1,0 +1,8 @@
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-alipay@1.0.6-jdk17on
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-alipay@1.0.6-jdk17on?classifier=sources
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-alipay@1.0.7-jdk17on
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-alipay@1.0.7-jdk17on?classifier=sources
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-alipay@1.0.8-jdk17on
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-alipay@1.0.8-jdk17on?classifier=sources
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-alipay@1.0.9-jdk17on
+- pkg:maven/com.guanmengyuan.spring-ex/spring-boot-starter-alipay@1.0.9-jdk17on?classifier=sources

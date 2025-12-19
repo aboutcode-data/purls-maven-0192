@@ -80,3 +80,7 @@
 - pkg:maven/org.alluxio/alluxio-integration-tools-hms@295?classifier=sources
 - pkg:maven/org.alluxio/alluxio-integration-tools-hms@300
 - pkg:maven/org.alluxio/alluxio-integration-tools-hms@300?classifier=sources
+- pkg:maven/org.alluxio/alluxio-integration-tools-hms@301
+- pkg:maven/org.alluxio/alluxio-integration-tools-hms@301?classifier=sources
+- pkg:maven/org.alluxio/alluxio-integration-tools-hms@302
+- pkg:maven/org.alluxio/alluxio-integration-tools-hms@302?classifier=sources

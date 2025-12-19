@@ -1000,6 +1000,8 @@
 - pkg:maven/io.github.cdklabs/cdk-watchful@0.6.455?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-watchful@0.6.456
 - pkg:maven/io.github.cdklabs/cdk-watchful@0.6.456?classifier=sources
+- pkg:maven/io.github.cdklabs/cdk-watchful@0.6.457
+- pkg:maven/io.github.cdklabs/cdk-watchful@0.6.457?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-watchful@0.6.45?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-watchful@0.6.46
 - pkg:maven/io.github.cdklabs/cdk-watchful@0.6.46?classifier=sources

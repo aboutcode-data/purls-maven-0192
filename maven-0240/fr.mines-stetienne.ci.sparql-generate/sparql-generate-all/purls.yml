@@ -11,3 +11,4 @@
 - pkg:maven/fr.mines-stetienne.ci.sparql-generate/sparql-generate-all@2.0.7
 - pkg:maven/fr.mines-stetienne.ci.sparql-generate/sparql-generate-all@2.0.8
 - pkg:maven/fr.mines-stetienne.ci.sparql-generate/sparql-generate-all@2.0.9
+- pkg:maven/fr.mines-stetienne.ci.sparql-generate/sparql-generate-all@2.1.0

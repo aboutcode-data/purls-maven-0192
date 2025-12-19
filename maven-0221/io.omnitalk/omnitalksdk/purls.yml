@@ -1,0 +1,9 @@
+- pkg:maven/io.omnitalk/omnitalksdk@2.0.019?classifier=sources
+- pkg:maven/io.omnitalk/omnitalksdk@2.0.01?classifier=sources
+- pkg:maven/io.omnitalk/omnitalksdk@2.0.05?classifier=sources
+- pkg:maven/io.omnitalk/omnitalksdk@2.0.06?classifier=sources
+- pkg:maven/io.omnitalk/omnitalksdk@2.0.07?classifier=sources
+- pkg:maven/io.omnitalk/omnitalksdk@2.0.08?classifier=sources
+- pkg:maven/io.omnitalk/omnitalksdk@2.0.0?classifier=sources
+- pkg:maven/io.omnitalk/omnitalksdk@2.0.1?classifier=sources
+- pkg:maven/io.omnitalk/omnitalksdk@2.0.2?classifier=sources

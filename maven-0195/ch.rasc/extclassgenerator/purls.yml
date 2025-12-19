@@ -22,3 +22,5 @@
 - pkg:maven/ch.rasc/extclassgenerator@1.0.9?classifier=sources
 - pkg:maven/ch.rasc/extclassgenerator@2.0.0
 - pkg:maven/ch.rasc/extclassgenerator@2.0.0?classifier=sources
+- pkg:maven/ch.rasc/extclassgenerator@3.0.0
+- pkg:maven/ch.rasc/extclassgenerator@3.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.CodeTrainerMan/web3utils@1.0.1
+- pkg:maven/io.github.CodeTrainerMan/web3utils@1.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-shoelace-style-shoelace@2.5.2
+- pkg:maven/org.webjars.npm/github-com-shoelace-style-shoelace@2.5.2?classifier=sources

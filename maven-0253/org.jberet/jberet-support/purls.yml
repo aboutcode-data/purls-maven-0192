@@ -58,3 +58,5 @@
 - pkg:maven/org.jberet/jberet-support@1.4.1.Final?classifier=sources
 - pkg:maven/org.jberet/jberet-support@1.4.2.Final
 - pkg:maven/org.jberet/jberet-support@1.4.2.Final?classifier=sources
+- pkg:maven/org.jberet/jberet-support@2.1.2.Final
+- pkg:maven/org.jberet/jberet-support@2.1.2.Final?classifier=sources

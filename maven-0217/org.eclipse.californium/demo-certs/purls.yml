@@ -76,3 +76,4 @@
 - pkg:maven/org.eclipse.californium/demo-certs@3.6.0
 - pkg:maven/org.eclipse.californium/demo-certs@3.7.0
 - pkg:maven/org.eclipse.californium/demo-certs@3.8.0
+- pkg:maven/org.eclipse.californium/demo-certs@3.9.0

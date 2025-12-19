@@ -1,5 +1,7 @@
 - pkg:maven/me.hekr.iotos/iotos-api-sdk@1.0.0
 - pkg:maven/me.hekr.iotos/iotos-api-sdk@1.0.0?classifier=sources
+- pkg:maven/me.hekr.iotos/iotos-api-sdk@1.0.11
+- pkg:maven/me.hekr.iotos/iotos-api-sdk@1.0.11?classifier=sources
 - pkg:maven/me.hekr.iotos/iotos-api-sdk@1.0.2
 - pkg:maven/me.hekr.iotos/iotos-api-sdk@1.0.2?classifier=sources
 - pkg:maven/me.hekr.iotos/iotos-api-sdk@1.0.3

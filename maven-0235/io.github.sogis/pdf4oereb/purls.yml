@@ -17,6 +17,9 @@
 - pkg:maven/io.github.sogis/pdf4oereb@2.0.111?classifier=sources
 - pkg:maven/io.github.sogis/pdf4oereb@2.0.114?classifier=sources
 - pkg:maven/io.github.sogis/pdf4oereb@2.0.116?classifier=sources
+- pkg:maven/io.github.sogis/pdf4oereb@2.0.118?classifier=sources
+- pkg:maven/io.github.sogis/pdf4oereb@2.0.119?classifier=sources
+- pkg:maven/io.github.sogis/pdf4oereb@2.0.120?classifier=sources
 - pkg:maven/io.github.sogis/pdf4oereb@2.0.43?classifier=sources
 - pkg:maven/io.github.sogis/pdf4oereb@2.0.44?classifier=sources
 - pkg:maven/io.github.sogis/pdf4oereb@2.0.45?classifier=sources

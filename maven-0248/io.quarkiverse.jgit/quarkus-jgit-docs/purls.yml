@@ -9,3 +9,4 @@
 - pkg:maven/io.quarkiverse.jgit/quarkus-jgit-docs@2.3.2
 - pkg:maven/io.quarkiverse.jgit/quarkus-jgit-docs@3.0.0
 - pkg:maven/io.quarkiverse.jgit/quarkus-jgit-docs@3.0.1
+- pkg:maven/io.quarkiverse.jgit/quarkus-jgit-docs@3.0.2

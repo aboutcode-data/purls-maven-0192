@@ -55,6 +55,8 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@2.0.7
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@2.0.7?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@2.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@2.0.8
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@2.0.8?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@3.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@3.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@3.0.0?classifier=sources-commercial
@@ -64,6 +66,8 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@3.0.2
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@3.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@3.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@3.0.3
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@3.0.3?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@4.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@4.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@4.0.0?classifier=sources-commercial
@@ -91,6 +95,8 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@4.0.8
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@4.0.8?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@4.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@4.0.9
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@4.0.9?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@5.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@5.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@5.0.0?classifier=sources-commercial
@@ -115,3 +121,5 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@5.0.7
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@5.0.7?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@5.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@5.0.8
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@5.0.8?classifier=sources

@@ -194,6 +194,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-taglibs@5.8.1_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-taglibs@5.8.1_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-taglibs@5.8.1_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-taglibs@5.8.4_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-taglibs@5.8.4_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-taglibs@5.8.4_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-taglibs@5.8.4_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-taglibs@6.0.0_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-taglibs@6.0.0_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-taglibs@6.0.0_1?classifier=src&type=tar.gz
@@ -210,3 +214,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-taglibs@6.0.3_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-taglibs@6.0.3_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-taglibs@6.0.3_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-taglibs@6.1.1_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-taglibs@6.1.1_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-taglibs@6.1.1_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-security-taglibs@6.1.1_1?classifier=src&type=zip

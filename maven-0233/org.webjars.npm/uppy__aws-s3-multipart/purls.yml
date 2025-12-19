@@ -18,3 +18,5 @@
 - pkg:maven/org.webjars.npm/uppy__aws-s3-multipart@2.0.0-alpha.0?classifier=sources
 - pkg:maven/org.webjars.npm/uppy__aws-s3-multipart@3.1.2
 - pkg:maven/org.webjars.npm/uppy__aws-s3-multipart@3.1.2?classifier=sources
+- pkg:maven/org.webjars.npm/uppy__aws-s3-multipart@3.5.2
+- pkg:maven/org.webjars.npm/uppy__aws-s3-multipart@3.5.2?classifier=sources

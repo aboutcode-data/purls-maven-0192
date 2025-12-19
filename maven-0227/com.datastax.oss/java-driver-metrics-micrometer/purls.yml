@@ -20,6 +20,10 @@
 - pkg:maven/com.datastax.oss/java-driver-metrics-micrometer@4.14.1?classifier=sources
 - pkg:maven/com.datastax.oss/java-driver-metrics-micrometer@4.15.0
 - pkg:maven/com.datastax.oss/java-driver-metrics-micrometer@4.15.0?classifier=sources
+- pkg:maven/com.datastax.oss/java-driver-metrics-micrometer@4.16.0
+- pkg:maven/com.datastax.oss/java-driver-metrics-micrometer@4.16.0?classifier=sources
+- pkg:maven/com.datastax.oss/java-driver-metrics-micrometer@4.17.0
+- pkg:maven/com.datastax.oss/java-driver-metrics-micrometer@4.17.0?classifier=sources
 - pkg:maven/com.datastax.oss/java-driver-metrics-micrometer@4.8.0
 - pkg:maven/com.datastax.oss/java-driver-metrics-micrometer@4.8.0?classifier=sources
 - pkg:maven/com.datastax.oss/java-driver-metrics-micrometer@4.9.0

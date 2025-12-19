@@ -92,3 +92,4 @@
 - pkg:maven/com.softicar.platform/platform-common-pdf@46.0.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-common-pdf@47.0.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-common-pdf@48.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-pdf@49.0.0?classifier=sources

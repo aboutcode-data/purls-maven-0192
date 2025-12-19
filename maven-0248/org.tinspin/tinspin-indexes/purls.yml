@@ -14,3 +14,9 @@
 - pkg:maven/org.tinspin/tinspin-indexes@1.7.0?classifier=sources
 - pkg:maven/org.tinspin/tinspin-indexes@1.7.1
 - pkg:maven/org.tinspin/tinspin-indexes@1.7.1?classifier=sources
+- pkg:maven/org.tinspin/tinspin-indexes@1.8.0
+- pkg:maven/org.tinspin/tinspin-indexes@1.8.0?classifier=sources
+- pkg:maven/org.tinspin/tinspin-indexes@2.0.0
+- pkg:maven/org.tinspin/tinspin-indexes@2.0.0?classifier=sources
+- pkg:maven/org.tinspin/tinspin-indexes@2.0.1
+- pkg:maven/org.tinspin/tinspin-indexes@2.0.1?classifier=sources

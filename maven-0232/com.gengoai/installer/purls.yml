@@ -1,2 +1,4 @@
 - pkg:maven/com.gengoai/installer@1.1
 - pkg:maven/com.gengoai/installer@1.1?classifier=sources
+- pkg:maven/com.gengoai/installer@2.0
+- pkg:maven/com.gengoai/installer@2.0?classifier=sources

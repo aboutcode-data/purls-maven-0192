@@ -1,2 +1,4 @@
 - pkg:maven/org.beangle.parent/sbt-beangle-parent_2.12_1.0@0.9.3
 - pkg:maven/org.beangle.parent/sbt-beangle-parent_2.12_1.0@0.9.3?classifier=sources
+- pkg:maven/org.beangle.parent/sbt-beangle-parent_2.12_1.0@0.9.4
+- pkg:maven/org.beangle.parent/sbt-beangle-parent_2.12_1.0@0.9.4?classifier=sources

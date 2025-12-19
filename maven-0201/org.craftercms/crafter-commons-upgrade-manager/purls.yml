@@ -130,3 +130,4 @@
 - pkg:maven/org.craftercms/crafter-commons-upgrade-manager@4.0.2
 - pkg:maven/org.craftercms/crafter-commons-upgrade-manager@4.0.4
 - pkg:maven/org.craftercms/crafter-commons-upgrade-manager@4.0.5
+- pkg:maven/org.craftercms/crafter-commons-upgrade-manager@4.0.6
