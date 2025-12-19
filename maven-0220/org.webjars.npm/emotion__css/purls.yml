@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/emotion__css@10.0.14?classifier=sources
 - pkg:maven/org.webjars.npm/emotion__css@11.0.0-next.6
 - pkg:maven/org.webjars.npm/emotion__css@11.0.0-next.6?classifier=sources
+- pkg:maven/org.webjars.npm/emotion__css@11.11.2
+- pkg:maven/org.webjars.npm/emotion__css@11.11.2?classifier=sources

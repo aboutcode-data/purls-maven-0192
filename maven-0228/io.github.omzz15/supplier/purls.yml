@@ -22,3 +22,7 @@
 - pkg:maven/io.github.omzz15/supplier@1.2.1-RELEASE?classifier=sources
 - pkg:maven/io.github.omzz15/supplier@1.2.3-RELEASE
 - pkg:maven/io.github.omzz15/supplier@1.2.3-RELEASE?classifier=sources
+- pkg:maven/io.github.omzz15/supplier@2.0.0-FTCRELEASE
+- pkg:maven/io.github.omzz15/supplier@2.0.0-FTCRELEASE?classifier=sources
+- pkg:maven/io.github.omzz15/supplier@2.0.0-RELEASE
+- pkg:maven/io.github.omzz15/supplier@2.0.0-RELEASE?classifier=sources

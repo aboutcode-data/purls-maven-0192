@@ -130,3 +130,4 @@
 - pkg:maven/io.hawt/project@3.0-M6?classifier=source-release&type=zip
 - pkg:maven/io.hawt/project@3.0-M7?classifier=source-release&type=zip
 - pkg:maven/io.hawt/project@3.0-M8?classifier=source-release&type=zip
+- pkg:maven/io.hawt/project@3.0-beta-1?classifier=source-release&type=zip

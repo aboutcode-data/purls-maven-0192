@@ -1,0 +1,1 @@
+- pkg:maven/io.opentelemetry/opentelemetry-exporter-sender-grpc-managed-channel@1.29.0?classifier=sources

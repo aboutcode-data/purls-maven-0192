@@ -509,6 +509,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.impl@3.0.64?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.impl@3.0.65
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.impl@3.0.65?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.impl@3.0.66?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.impl@3.0.6?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.impl@3.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.impl@3.0.7
@@ -780,8 +781,10 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.impl@4.0.87?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.impl@4.0.88
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.impl@4.0.88?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.impl@4.0.89?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.impl@4.0.8?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.impl@4.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.impl@4.0.9
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.impl@4.0.90?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.impl@4.0.9?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.catalog.impl@4.0.9?classifier=sources-commercial

@@ -36,4 +36,6 @@
 - pkg:maven/io.github.lsd-consulting/lsd-distributed-generator@6.0.2?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-distributed-generator@7.0.0?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-distributed-generator@7.0.1?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-distributed-generator@7.1.0?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-distributed-generator@7.1.1?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-distributed-generator@745ca0c?classifier=sources

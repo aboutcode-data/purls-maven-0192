@@ -23,7 +23,12 @@
 - pkg:maven/com.pulumi/openstack@3.13.0-alpha.1686636327%2B5252d430?classifier=sources
 - pkg:maven/com.pulumi/openstack@3.13.0-alpha.1690563543%2Be2adfd91?classifier=sources
 - pkg:maven/com.pulumi/openstack@3.13.0?classifier=sources
+- pkg:maven/com.pulumi/openstack@3.13.1?classifier=sources
+- pkg:maven/com.pulumi/openstack@3.13.2?classifier=sources
+- pkg:maven/com.pulumi/openstack@3.13.3?classifier=sources
 - pkg:maven/com.pulumi/openstack@3.14.0-alpha.1690565412%2Bcef1edcd?classifier=sources
 - pkg:maven/com.pulumi/openstack@3.14.0-alpha.1690907559%2Bc455539c?classifier=sources
+- pkg:maven/com.pulumi/openstack@3.14.0-alpha.1691695194%2B372d4c23?classifier=sources
+- pkg:maven/com.pulumi/openstack@3.14.0-alpha.1691788733%2B2a10b952?classifier=sources
 - pkg:maven/com.pulumi/openstack@3.9.0-alpha.1659603007%2Be0710191?classifier=sources
 - pkg:maven/com.pulumi/openstack@3.9.0?classifier=sources

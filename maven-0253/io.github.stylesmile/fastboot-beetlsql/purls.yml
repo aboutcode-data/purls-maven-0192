@@ -16,3 +16,5 @@
 - pkg:maven/io.github.stylesmile/fastboot-beetlsql@1.0.0?classifier=sources
 - pkg:maven/io.github.stylesmile/fastboot-beetlsql@1.1.0
 - pkg:maven/io.github.stylesmile/fastboot-beetlsql@1.1.0?classifier=sources
+- pkg:maven/io.github.stylesmile/fastboot-beetlsql@2.0.0
+- pkg:maven/io.github.stylesmile/fastboot-beetlsql@2.0.0?classifier=sources

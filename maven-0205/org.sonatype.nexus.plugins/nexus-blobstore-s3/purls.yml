@@ -205,10 +205,14 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-blobstore-s3@3.58.1-01?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-blobstore-s3@3.58.1-02
 - pkg:maven/org.sonatype.nexus.plugins/nexus-blobstore-s3@3.58.1-02?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-blobstore-s3@3.59.0-01
+- pkg:maven/org.sonatype.nexus.plugins/nexus-blobstore-s3@3.59.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-blobstore-s3@3.6.1-02
 - pkg:maven/org.sonatype.nexus.plugins/nexus-blobstore-s3@3.6.1-02?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-blobstore-s3@3.6.2-01
 - pkg:maven/org.sonatype.nexus.plugins/nexus-blobstore-s3@3.6.2-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-blobstore-s3@3.60.0-02
+- pkg:maven/org.sonatype.nexus.plugins/nexus-blobstore-s3@3.60.0-02?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-blobstore-s3@3.8.0-02
 - pkg:maven/org.sonatype.nexus.plugins/nexus-blobstore-s3@3.8.0-02?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-blobstore-s3@3.9.0-01

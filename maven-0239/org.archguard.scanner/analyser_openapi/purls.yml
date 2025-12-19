@@ -1,0 +1,2 @@
+- pkg:maven/org.archguard.scanner/analyser_openapi@2.0.3?classifier=sources
+- pkg:maven/org.archguard.scanner/analyser_openapi@2.0.5?classifier=sources

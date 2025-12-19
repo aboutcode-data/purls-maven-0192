@@ -1,5 +1,8 @@
 - pkg:maven/hu.blackbelt.bundles.poi/org.apache.poi@3.13.1
 - pkg:maven/hu.blackbelt.bundles.poi/org.apache.poi@3.17_1
+- pkg:maven/hu.blackbelt.bundles.poi/org.apache.poi@3.17_2
 - pkg:maven/hu.blackbelt.bundles.poi/org.apache.poi@4.0.1_1
 - pkg:maven/hu.blackbelt.bundles.poi/org.apache.poi@4.1.2_1
 - pkg:maven/hu.blackbelt.bundles.poi/org.apache.poi@4.1.2_2
+- pkg:maven/hu.blackbelt.bundles.poi/org.apache.poi@4.1.2_3
+- pkg:maven/hu.blackbelt.bundles.poi/org.apache.poi@5.2.3_1

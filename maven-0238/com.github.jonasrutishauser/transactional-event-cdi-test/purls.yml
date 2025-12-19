@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jonasrutishauser/transactional-event-cdi-test@2.0.2
+- pkg:maven/com.github.jonasrutishauser/transactional-event-cdi-test@2.0.2?classifier=sources

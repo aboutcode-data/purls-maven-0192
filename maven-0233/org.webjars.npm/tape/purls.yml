@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.npm/tape@1.0.4
 - pkg:maven/org.webjars.npm/tape@1.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/tape@2.3.3
+- pkg:maven/org.webjars.npm/tape@2.3.3?classifier=sources
 - pkg:maven/org.webjars.npm/tape@4.10.1
 - pkg:maven/org.webjars.npm/tape@4.10.1?classifier=sources
 - pkg:maven/org.webjars.npm/tape@4.10.2

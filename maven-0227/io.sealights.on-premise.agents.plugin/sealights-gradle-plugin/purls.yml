@@ -282,3 +282,4 @@
 - pkg:maven/io.sealights.on-premise.agents.plugin/sealights-gradle-plugin@4.0.841?classifier=sources
 - pkg:maven/io.sealights.on-premise.agents.plugin/sealights-gradle-plugin@4.0.852?classifier=sources
 - pkg:maven/io.sealights.on-premise.agents.plugin/sealights-gradle-plugin@4.0.853?classifier=sources
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-gradle-plugin@4.0.875?classifier=sources

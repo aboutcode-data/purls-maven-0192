@@ -80,6 +80,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.cache.test.util@2.0.16?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.cache.test.util@2.0.17
 - pkg:maven/com.liferay/com.liferay.portal.cache.test.util@2.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.cache.test.util@2.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.cache.test.util@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.cache.test.util@2.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.cache.test.util@2.0.2
@@ -153,6 +154,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.cache.test.util@4.0.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.cache.test.util@4.0.13
 - pkg:maven/com.liferay/com.liferay.portal.cache.test.util@4.0.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.cache.test.util@4.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.cache.test.util@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.cache.test.util@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.cache.test.util@4.0.2
@@ -211,3 +213,4 @@
 - pkg:maven/com.liferay/com.liferay.portal.cache.test.util@9.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.cache.test.util@9.0.1
 - pkg:maven/com.liferay/com.liferay.portal.cache.test.util@9.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.cache.test.util@9.0.2?classifier=sources

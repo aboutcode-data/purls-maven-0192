@@ -6,3 +6,7 @@
 - pkg:maven/io.github.liuye744/simpleAuth-spring-boot-starter@0.2.1.RELEASE?classifier=sources
 - pkg:maven/io.github.liuye744/simpleAuth-spring-boot-starter@0.3.7.RELEASE
 - pkg:maven/io.github.liuye744/simpleAuth-spring-boot-starter@0.3.7.RELEASE?classifier=sources
+- pkg:maven/io.github.liuye744/simpleAuth-spring-boot-starter@0.3.8.RELEASE
+- pkg:maven/io.github.liuye744/simpleAuth-spring-boot-starter@0.3.8.RELEASE?classifier=sources
+- pkg:maven/io.github.liuye744/simpleAuth-spring-boot-starter@0.4.0.RELEASE
+- pkg:maven/io.github.liuye744/simpleAuth-spring-boot-starter@0.4.0.RELEASE?classifier=sources

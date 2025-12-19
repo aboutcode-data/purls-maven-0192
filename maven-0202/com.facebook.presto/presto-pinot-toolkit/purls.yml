@@ -190,3 +190,5 @@
 - pkg:maven/com.facebook.presto/presto-pinot-toolkit@0.281?classifier=sources
 - pkg:maven/com.facebook.presto/presto-pinot-toolkit@0.282
 - pkg:maven/com.facebook.presto/presto-pinot-toolkit@0.282?classifier=sources
+- pkg:maven/com.facebook.presto/presto-pinot-toolkit@0.283
+- pkg:maven/com.facebook.presto/presto-pinot-toolkit@0.283?classifier=sources

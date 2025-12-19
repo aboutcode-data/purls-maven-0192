@@ -181,6 +181,8 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-rds@2.7.46?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-rds@2.7.47
 - pkg:maven/com.aliyun/aliyun-java-sdk-rds@2.7.47?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-rds@2.7.48
+- pkg:maven/com.aliyun/aliyun-java-sdk-rds@2.7.48?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-rds@2.7.4?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-rds@2.7.5
 - pkg:maven/com.aliyun/aliyun-java-sdk-rds@2.7.5?classifier=sources

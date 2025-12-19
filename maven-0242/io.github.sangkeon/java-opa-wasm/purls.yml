@@ -6,3 +6,5 @@
 - pkg:maven/io.github.sangkeon/java-opa-wasm@0.2.3?classifier=sources
 - pkg:maven/io.github.sangkeon/java-opa-wasm@0.2.3_glibc2.31
 - pkg:maven/io.github.sangkeon/java-opa-wasm@0.2.3_glibc2.31?classifier=sources
+- pkg:maven/io.github.sangkeon/java-opa-wasm@0.2.4
+- pkg:maven/io.github.sangkeon/java-opa-wasm@0.2.4?classifier=sources

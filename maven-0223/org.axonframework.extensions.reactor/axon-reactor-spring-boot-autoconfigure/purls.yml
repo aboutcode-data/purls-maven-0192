@@ -12,3 +12,5 @@
 - pkg:maven/org.axonframework.extensions.reactor/axon-reactor-spring-boot-autoconfigure@4.7.0?classifier=sources
 - pkg:maven/org.axonframework.extensions.reactor/axon-reactor-spring-boot-autoconfigure@4.8.0
 - pkg:maven/org.axonframework.extensions.reactor/axon-reactor-spring-boot-autoconfigure@4.8.0?classifier=sources
+- pkg:maven/org.axonframework.extensions.reactor/axon-reactor-spring-boot-autoconfigure@4.8.1
+- pkg:maven/org.axonframework.extensions.reactor/axon-reactor-spring-boot-autoconfigure@4.8.1?classifier=sources

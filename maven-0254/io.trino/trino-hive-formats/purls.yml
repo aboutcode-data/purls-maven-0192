@@ -30,3 +30,9 @@
 - pkg:maven/io.trino/trino-hive-formats@421?classifier=sources
 - pkg:maven/io.trino/trino-hive-formats@422
 - pkg:maven/io.trino/trino-hive-formats@422?classifier=sources
+- pkg:maven/io.trino/trino-hive-formats@423
+- pkg:maven/io.trino/trino-hive-formats@423?classifier=sources
+- pkg:maven/io.trino/trino-hive-formats@424
+- pkg:maven/io.trino/trino-hive-formats@424?classifier=sources
+- pkg:maven/io.trino/trino-hive-formats@425
+- pkg:maven/io.trino/trino-hive-formats@425?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/cn.404z/id@2.6.0?classifier=sources
 - pkg:maven/cn.404z/id@2.7.0
 - pkg:maven/cn.404z/id@2.7.0?classifier=sources
+- pkg:maven/cn.404z/id@2.8.0
+- pkg:maven/cn.404z/id@2.8.0?classifier=sources

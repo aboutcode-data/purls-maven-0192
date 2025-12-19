@@ -1,2 +1,4 @@
 - pkg:maven/org.moskito/moskito-control-ui@3.0.0?classifier=sources
 - pkg:maven/org.moskito/moskito-control-ui@3.0.0?type=war
+- pkg:maven/org.moskito/moskito-control-ui@3.1.1?classifier=sources
+- pkg:maven/org.moskito/moskito-control-ui@3.1.1?type=war

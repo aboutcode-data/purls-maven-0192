@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/graphql-voyager@1.0.0-rc.26?classifier=sources
 - pkg:maven/org.webjars.npm/graphql-voyager@1.0.0-rc.31
 - pkg:maven/org.webjars.npm/graphql-voyager@1.0.0-rc.31?classifier=sources
+- pkg:maven/org.webjars.npm/graphql-voyager@2.0.0
+- pkg:maven/org.webjars.npm/graphql-voyager@2.0.0?classifier=sources

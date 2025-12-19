@@ -1,0 +1,2 @@
+- pkg:maven/com.bigossp/ironsource-mediation-v727@4.1.0.0?classifier=sources
+- pkg:maven/com.bigossp/ironsource-mediation-v727@4.1.0.0?type=aar

@@ -12,3 +12,5 @@
 - pkg:maven/org.jboss.resteasy/resteasy-servlet-spring-boot-sample-app@6.0.2.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-servlet-spring-boot-sample-app@6.0.3.Final
 - pkg:maven/org.jboss.resteasy/resteasy-servlet-spring-boot-sample-app@6.0.3.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-servlet-spring-boot-sample-app@6.0.4.Final
+- pkg:maven/org.jboss.resteasy/resteasy-servlet-spring-boot-sample-app@6.0.4.Final?classifier=sources

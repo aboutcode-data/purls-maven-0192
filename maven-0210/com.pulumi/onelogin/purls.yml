@@ -28,3 +28,9 @@
 - pkg:maven/com.pulumi/onelogin@0.6.1-alpha.1690263759%2B386a9c39?classifier=sources
 - pkg:maven/com.pulumi/onelogin@0.6.1-alpha.1690894783%2Bdf47a790?classifier=sources
 - pkg:maven/com.pulumi/onelogin@0.6.1-alpha.1690895642%2B4448137f?classifier=sources
+- pkg:maven/com.pulumi/onelogin@0.6.1-alpha.1691042835%2B6cd6e79b?classifier=sources
+- pkg:maven/com.pulumi/onelogin@0.6.1-alpha.1691647593%2B278d581f?classifier=sources
+- pkg:maven/com.pulumi/onelogin@0.6.1-alpha.1691733850%2Bd3272649?classifier=sources
+- pkg:maven/com.pulumi/onelogin@0.6.1-alpha.1692856751%2Bcfda3276?classifier=sources
+- pkg:maven/com.pulumi/onelogin@0.6.1-alpha.1693029272%2B7c23b009?classifier=sources
+- pkg:maven/com.pulumi/onelogin@0.6.1-alpha.1693464708%2B6e101403?classifier=sources

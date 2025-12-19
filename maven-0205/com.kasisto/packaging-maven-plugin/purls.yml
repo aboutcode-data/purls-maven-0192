@@ -14,6 +14,10 @@
 - pkg:maven/com.kasisto/packaging-maven-plugin@4.2.4?classifier=sources
 - pkg:maven/com.kasisto/packaging-maven-plugin@4.2.5
 - pkg:maven/com.kasisto/packaging-maven-plugin@4.2.5?classifier=sources
+- pkg:maven/com.kasisto/packaging-maven-plugin@4.2.6
+- pkg:maven/com.kasisto/packaging-maven-plugin@4.2.6?classifier=sources
+- pkg:maven/com.kasisto/packaging-maven-plugin@4.2.7
+- pkg:maven/com.kasisto/packaging-maven-plugin@4.2.7?classifier=sources
 - pkg:maven/com.kasisto/packaging-maven-plugin@SNAPSHOT-3.1.2.2
 - pkg:maven/com.kasisto/packaging-maven-plugin@SNAPSHOT-3.1.2.2?classifier=sources
 - pkg:maven/com.kasisto/packaging-maven-plugin@SNAPSHOT-3.1.2.3

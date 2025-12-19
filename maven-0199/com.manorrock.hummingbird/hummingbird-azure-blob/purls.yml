@@ -1,3 +1,5 @@
 - pkg:maven/com.manorrock.hummingbird/hummingbird-azure-blob@23.3.0
 - pkg:maven/com.manorrock.hummingbird/hummingbird-azure-blob@23.4.0
 - pkg:maven/com.manorrock.hummingbird/hummingbird-azure-blob@23.5.0
+- pkg:maven/com.manorrock.hummingbird/hummingbird-azure-blob@23.8.0
+- pkg:maven/com.manorrock.hummingbird/hummingbird-azure-blob@23.8.0?classifier=sources

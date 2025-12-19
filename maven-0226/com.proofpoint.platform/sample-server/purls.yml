@@ -234,3 +234,7 @@
 - pkg:maven/com.proofpoint.platform/sample-server@2.90?classifier=sources
 - pkg:maven/com.proofpoint.platform/sample-server@2.93?classifier=sources
 - pkg:maven/com.proofpoint.platform/sample-server@2.94?classifier=sources
+- pkg:maven/com.proofpoint.platform/sample-server@2.95?classifier=sources
+- pkg:maven/com.proofpoint.platform/sample-server@2.96?classifier=sources
+- pkg:maven/com.proofpoint.platform/sample-server@2.97?classifier=sources
+- pkg:maven/com.proofpoint.platform/sample-server@2.98?classifier=sources

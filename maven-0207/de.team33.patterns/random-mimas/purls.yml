@@ -10,6 +10,8 @@
 - pkg:maven/de.team33.patterns/random-mimas@1.12.0?classifier=sources
 - pkg:maven/de.team33.patterns/random-mimas@1.12.2
 - pkg:maven/de.team33.patterns/random-mimas@1.12.2?classifier=sources
+- pkg:maven/de.team33.patterns/random-mimas@1.13.0
+- pkg:maven/de.team33.patterns/random-mimas@1.13.0?classifier=sources
 - pkg:maven/de.team33.patterns/random-mimas@1.4.0
 - pkg:maven/de.team33.patterns/random-mimas@1.4.0?classifier=sources
 - pkg:maven/de.team33.patterns/random-mimas@1.5.0

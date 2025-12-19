@@ -30,3 +30,5 @@
 - pkg:maven/xyz.cssxsh.mirai/mirai-selenium-plugin@2.2.5?classifier=sources
 - pkg:maven/xyz.cssxsh.mirai/mirai-selenium-plugin@2.3.0?classifier=sources
 - pkg:maven/xyz.cssxsh.mirai/mirai-selenium-plugin@2.4.0?classifier=sources
+- pkg:maven/xyz.cssxsh.mirai/mirai-selenium-plugin@2.5.0?classifier=sources
+- pkg:maven/xyz.cssxsh.mirai/mirai-selenium-plugin@2.5.1?classifier=sources

@@ -1,6 +1,8 @@
 - pkg:maven/com.growingio.android/vds-gradle-plugin@2.9.16
 - pkg:maven/com.growingio.android/vds-gradle-plugin@2.9.16?classifier=sources
 - pkg:maven/com.growingio.android/vds-gradle-plugin@RN-autotrack-
+- pkg:maven/com.growingio.android/vds-gradle-plugin@RN-autotrack-2.10.0
+- pkg:maven/com.growingio.android/vds-gradle-plugin@RN-autotrack-2.10.0?classifier=sources
 - pkg:maven/com.growingio.android/vds-gradle-plugin@RN-autotrack-2.9.0
 - pkg:maven/com.growingio.android/vds-gradle-plugin@RN-autotrack-2.9.0?classifier=sources
 - pkg:maven/com.growingio.android/vds-gradle-plugin@RN-autotrack-2.9.1
@@ -41,6 +43,8 @@
 - pkg:maven/com.growingio.android/vds-gradle-plugin@RN-autotrack-2.9.9?classifier=sources
 - pkg:maven/com.growingio.android/vds-gradle-plugin@RN-autotrack-?classifier=sources
 - pkg:maven/com.growingio.android/vds-gradle-plugin@RN-track-
+- pkg:maven/com.growingio.android/vds-gradle-plugin@RN-track-2.10.0
+- pkg:maven/com.growingio.android/vds-gradle-plugin@RN-track-2.10.0?classifier=sources
 - pkg:maven/com.growingio.android/vds-gradle-plugin@RN-track-2.9.0
 - pkg:maven/com.growingio.android/vds-gradle-plugin@RN-track-2.9.0?classifier=sources
 - pkg:maven/com.growingio.android/vds-gradle-plugin@RN-track-2.9.1
@@ -81,6 +85,8 @@
 - pkg:maven/com.growingio.android/vds-gradle-plugin@RN-track-2.9.9?classifier=sources
 - pkg:maven/com.growingio.android/vds-gradle-plugin@RN-track-?classifier=sources
 - pkg:maven/com.growingio.android/vds-gradle-plugin@autotrack-
+- pkg:maven/com.growingio.android/vds-gradle-plugin@autotrack-2.10.0
+- pkg:maven/com.growingio.android/vds-gradle-plugin@autotrack-2.10.0?classifier=sources
 - pkg:maven/com.growingio.android/vds-gradle-plugin@autotrack-2.9.0
 - pkg:maven/com.growingio.android/vds-gradle-plugin@autotrack-2.9.0?classifier=sources
 - pkg:maven/com.growingio.android/vds-gradle-plugin@autotrack-2.9.1
@@ -127,6 +133,8 @@
 - pkg:maven/com.growingio.android/vds-gradle-plugin@cdp-1.2.9
 - pkg:maven/com.growingio.android/vds-gradle-plugin@cdp-1.2.9?classifier=sources
 - pkg:maven/com.growingio.android/vds-gradle-plugin@game-autotrack-
+- pkg:maven/com.growingio.android/vds-gradle-plugin@game-autotrack-2.10.0
+- pkg:maven/com.growingio.android/vds-gradle-plugin@game-autotrack-2.10.0?classifier=sources
 - pkg:maven/com.growingio.android/vds-gradle-plugin@game-autotrack-2.9.0
 - pkg:maven/com.growingio.android/vds-gradle-plugin@game-autotrack-2.9.0?classifier=sources
 - pkg:maven/com.growingio.android/vds-gradle-plugin@game-autotrack-2.9.1
@@ -167,6 +175,8 @@
 - pkg:maven/com.growingio.android/vds-gradle-plugin@game-autotrack-2.9.9?classifier=sources
 - pkg:maven/com.growingio.android/vds-gradle-plugin@game-autotrack-?classifier=sources
 - pkg:maven/com.growingio.android/vds-gradle-plugin@game-track-
+- pkg:maven/com.growingio.android/vds-gradle-plugin@game-track-2.10.0
+- pkg:maven/com.growingio.android/vds-gradle-plugin@game-track-2.10.0?classifier=sources
 - pkg:maven/com.growingio.android/vds-gradle-plugin@game-track-2.9.0
 - pkg:maven/com.growingio.android/vds-gradle-plugin@game-track-2.9.0?classifier=sources
 - pkg:maven/com.growingio.android/vds-gradle-plugin@game-track-2.9.1
@@ -207,6 +217,8 @@
 - pkg:maven/com.growingio.android/vds-gradle-plugin@game-track-2.9.9?classifier=sources
 - pkg:maven/com.growingio.android/vds-gradle-plugin@game-track-?classifier=sources
 - pkg:maven/com.growingio.android/vds-gradle-plugin@track-
+- pkg:maven/com.growingio.android/vds-gradle-plugin@track-2.10.0
+- pkg:maven/com.growingio.android/vds-gradle-plugin@track-2.10.0?classifier=sources
 - pkg:maven/com.growingio.android/vds-gradle-plugin@track-2.9.0
 - pkg:maven/com.growingio.android/vds-gradle-plugin@track-2.9.0?classifier=sources
 - pkg:maven/com.growingio.android/vds-gradle-plugin@track-2.9.1

@@ -1,6 +1,7 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-db-core@10.0.0.68432?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-db-core@10.1.0.73245?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-db-core@10.1.0.73491?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-db-core@10.2.0.77647?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-db-core@6.4
 - pkg:maven/org.sonarsource.sonarqube/sonar-db-core@6.4-RC1
 - pkg:maven/org.sonarsource.sonarqube/sonar-db-core@6.4-RC1?classifier=sources
@@ -140,3 +141,4 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-db-core@9.8.0.63668?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-db-core@9.9.0.65466?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-db-core@9.9.1.69595?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-db-core@9.9.2.77730?classifier=sources

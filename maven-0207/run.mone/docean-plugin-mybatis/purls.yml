@@ -1,0 +1,2 @@
+- pkg:maven/run.mone/docean-plugin-mybatis@1.4.7
+- pkg:maven/run.mone/docean-plugin-mybatis@1.4.7?classifier=sources

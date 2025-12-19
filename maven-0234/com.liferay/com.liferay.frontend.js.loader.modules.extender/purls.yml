@@ -334,6 +334,7 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.loader.modules.extender@3.0.53?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.js.loader.modules.extender@3.0.54
 - pkg:maven/com.liferay/com.liferay.frontend.js.loader.modules.extender@3.0.54?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.loader.modules.extender@3.0.55?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.loader.modules.extender@3.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.loader.modules.extender@3.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.js.loader.modules.extender@3.0.6
@@ -638,6 +639,7 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.loader.modules.extender@5.0.41?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.js.loader.modules.extender@5.0.42
 - pkg:maven/com.liferay/com.liferay.frontend.js.loader.modules.extender@5.0.42?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.loader.modules.extender@5.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.loader.modules.extender@5.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.loader.modules.extender@5.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.js.loader.modules.extender@5.0.5
@@ -775,6 +777,7 @@
 - pkg:maven/com.liferay/com.liferay.frontend.js.loader.modules.extender@6.0.44?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.js.loader.modules.extender@6.0.45
 - pkg:maven/com.liferay/com.liferay.frontend.js.loader.modules.extender@6.0.45?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.js.loader.modules.extender@6.0.46?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.loader.modules.extender@6.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.js.loader.modules.extender@6.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.js.loader.modules.extender@6.0.5

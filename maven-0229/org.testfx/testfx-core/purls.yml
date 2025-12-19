@@ -16,6 +16,7 @@
 - pkg:maven/org.testfx/testfx-core@4.0.15-alpha?classifier=sources
 - pkg:maven/org.testfx/testfx-core@4.0.16-alpha
 - pkg:maven/org.testfx/testfx-core@4.0.16-alpha?classifier=sources
+- pkg:maven/org.testfx/testfx-core@4.0.17?classifier=sources
 - pkg:maven/org.testfx/testfx-core@4.0.2-alpha
 - pkg:maven/org.testfx/testfx-core@4.0.2-alpha?classifier=sources
 - pkg:maven/org.testfx/testfx-core@4.0.3-alpha

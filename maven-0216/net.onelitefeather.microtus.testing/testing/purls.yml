@@ -5,6 +5,10 @@
 - pkg:maven/net.onelitefeather.microtus.testing/testing@1.1.0-SNAPSHOT%2Bee6b6fe?classifier=sources
 - pkg:maven/net.onelitefeather.microtus.testing/testing@1.1.0-SNAPSHOT%2Bf4d9e06?classifier=sources
 - pkg:maven/net.onelitefeather.microtus.testing/testing@1.1.0?classifier=sources
+- pkg:maven/net.onelitefeather.microtus.testing/testing@1.1.1-SNAPSHOT%2B1029942?classifier=sources
 - pkg:maven/net.onelitefeather.microtus.testing/testing@1.1.1-SNAPSHOT%2B45a6929?classifier=sources
 - pkg:maven/net.onelitefeather.microtus.testing/testing@1.1.1-SNAPSHOT%2B542b699?classifier=sources
+- pkg:maven/net.onelitefeather.microtus.testing/testing@1.1.1-SNAPSHOT%2B5fab633?classifier=sources
+- pkg:maven/net.onelitefeather.microtus.testing/testing@1.1.1-SNAPSHOT%2B97220ae?classifier=sources
 - pkg:maven/net.onelitefeather.microtus.testing/testing@1.1.1-SNAPSHOT%2Ba8e43bb?classifier=sources
+- pkg:maven/net.onelitefeather.microtus.testing/testing@1.1.1?classifier=sources

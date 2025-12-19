@@ -27,3 +27,7 @@
 - pkg:maven/io.apicurio/apicurio-registry-ui@2.4.1.Final
 - pkg:maven/io.apicurio/apicurio-registry-ui@2.4.2.Final
 - pkg:maven/io.apicurio/apicurio-registry-ui@2.4.3.Final
+- pkg:maven/io.apicurio/apicurio-registry-ui@2.4.4.Final
+- pkg:maven/io.apicurio/apicurio-registry-ui@2.4.5.Final
+- pkg:maven/io.apicurio/apicurio-registry-ui@3.0.0.M1
+- pkg:maven/io.apicurio/apicurio-registry-ui@3.0.0.M2

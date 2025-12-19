@@ -10,3 +10,5 @@
 - pkg:maven/io.github.fengxxc/excelflow-core@0.3.0?classifier=sources
 - pkg:maven/io.github.fengxxc/excelflow-core@0.4.0
 - pkg:maven/io.github.fengxxc/excelflow-core@0.4.0?classifier=sources
+- pkg:maven/io.github.fengxxc/excelflow-core@0.4.1
+- pkg:maven/io.github.fengxxc/excelflow-core@0.4.1?classifier=sources

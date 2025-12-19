@@ -4,3 +4,5 @@
 - pkg:maven/com.lightstreamer/ls-android-client-compact@4.2.4?classifier=sources
 - pkg:maven/com.lightstreamer/ls-android-client-compact@4.2.5?classifier=sources
 - pkg:maven/com.lightstreamer/ls-android-client-compact@4.2.6?classifier=sources
+- pkg:maven/com.lightstreamer/ls-android-client-compact@4.2.7?classifier=sources
+- pkg:maven/com.lightstreamer/ls-android-client-compact@4.2.8?classifier=sources

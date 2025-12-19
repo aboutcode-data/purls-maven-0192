@@ -28,3 +28,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.intro.universal@3.4.300?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.intro.universal@3.5.0
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.intro.universal@3.5.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.intro.universal@3.5.100
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.intro.universal@3.5.100?classifier=sources

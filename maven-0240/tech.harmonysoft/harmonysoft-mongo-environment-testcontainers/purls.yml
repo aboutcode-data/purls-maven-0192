@@ -13,3 +13,13 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-mongo-environment-testcontainers@1.74.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-mongo-environment-testcontainers@1.75.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-mongo-environment-testcontainers@1.76.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-mongo-environment-testcontainers@1.77.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-mongo-environment-testcontainers@1.78.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-mongo-environment-testcontainers@1.79.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-mongo-environment-testcontainers@1.80.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-mongo-environment-testcontainers@1.82.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-mongo-environment-testcontainers@1.83.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-mongo-environment-testcontainers@1.84.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-mongo-environment-testcontainers@1.85.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-mongo-environment-testcontainers@1.86.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-mongo-environment-testcontainers@1.87.0?classifier=sources

@@ -379,6 +379,7 @@
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@2.0.104?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@2.0.105
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@2.0.105?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@2.0.106?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@2.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@2.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@2.0.11
@@ -941,5 +942,7 @@
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@3.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@3.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@3.0.9
+- pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@3.0.90?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@3.0.91?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@3.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@3.0.9?classifier=sources-commercial

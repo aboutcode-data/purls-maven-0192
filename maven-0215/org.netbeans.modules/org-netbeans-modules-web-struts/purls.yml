@@ -17,3 +17,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-struts@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-struts@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-struts@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-struts@RELEASE190?classifier=sources
