@@ -144,5 +144,9 @@
 - pkg:maven/org.thymeleaf/thymeleaf@3.1.0.M1?classifier=sources
 - pkg:maven/org.thymeleaf/thymeleaf@3.1.0.M2
 - pkg:maven/org.thymeleaf/thymeleaf@3.1.0.M2?classifier=sources
+- pkg:maven/org.thymeleaf/thymeleaf@3.1.0.M3
+- pkg:maven/org.thymeleaf/thymeleaf@3.1.0.M3?classifier=sources
+- pkg:maven/org.thymeleaf/thymeleaf@3.1.0.RC1
+- pkg:maven/org.thymeleaf/thymeleaf@3.1.0.RC1?classifier=sources
 - pkg:maven/org.thymeleaf/thymeleaf@m1
 - pkg:maven/org.thymeleaf/thymeleaf@m1?classifier=sources

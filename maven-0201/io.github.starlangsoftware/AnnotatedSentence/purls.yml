@@ -90,5 +90,7 @@
 - pkg:maven/io.github.starlangsoftware/AnnotatedSentence@1.0.55?classifier=sources
 - pkg:maven/io.github.starlangsoftware/AnnotatedSentence@1.0.56
 - pkg:maven/io.github.starlangsoftware/AnnotatedSentence@1.0.56?classifier=sources
+- pkg:maven/io.github.starlangsoftware/AnnotatedSentence@1.0.57
+- pkg:maven/io.github.starlangsoftware/AnnotatedSentence@1.0.57?classifier=sources
 - pkg:maven/io.github.starlangsoftware/AnnotatedSentence@1.0.9
 - pkg:maven/io.github.starlangsoftware/AnnotatedSentence@1.0.9?classifier=sources

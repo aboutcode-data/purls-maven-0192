@@ -10,6 +10,8 @@
 - pkg:maven/uk.gov.service.notify/notifications-java-client@3.17.2-RELEASE?classifier=sources
 - pkg:maven/uk.gov.service.notify/notifications-java-client@3.17.3-RELEASE
 - pkg:maven/uk.gov.service.notify/notifications-java-client@3.17.3-RELEASE?classifier=sources
+- pkg:maven/uk.gov.service.notify/notifications-java-client@3.18.0-RELEASE
+- pkg:maven/uk.gov.service.notify/notifications-java-client@3.18.0-RELEASE?classifier=sources
 - pkg:maven/uk.gov.service.notify/notifications-java-client@3.8.0-RELEASE
 - pkg:maven/uk.gov.service.notify/notifications-java-client@3.8.0-RELEASE?classifier=sources
 - pkg:maven/uk.gov.service.notify/notifications-java-client@3.9.2-RELEASE

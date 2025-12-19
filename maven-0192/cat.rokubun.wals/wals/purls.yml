@@ -8,6 +8,11 @@
 - pkg:maven/cat.rokubun.wals/wals@6.10.9?classifier=sources
 - pkg:maven/cat.rokubun.wals/wals@6.11.41?classifier=sources
 - pkg:maven/cat.rokubun.wals/wals@6.11.48?classifier=sources
+- pkg:maven/cat.rokubun.wals/wals@6.11.49?classifier=sources
+- pkg:maven/cat.rokubun.wals/wals@6.11.54?classifier=sources
+- pkg:maven/cat.rokubun.wals/wals@6.11.55?classifier=sources
+- pkg:maven/cat.rokubun.wals/wals@6.11.62?classifier=sources
+- pkg:maven/cat.rokubun.wals/wals@6.11.63?classifier=sources
 - pkg:maven/cat.rokubun.wals/wals@6.6.10?classifier=sources
 - pkg:maven/cat.rokubun.wals/wals@6.6.11?classifier=sources
 - pkg:maven/cat.rokubun.wals/wals@6.6.12?classifier=sources

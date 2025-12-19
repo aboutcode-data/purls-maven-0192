@@ -12,6 +12,12 @@
 - pkg:maven/com.aliyun/alibabacloud-fc_open20210406@1.0.8?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-fc_open20210406@1.0.9
 - pkg:maven/com.aliyun/alibabacloud-fc_open20210406@1.0.9?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-fc_open20210406@1.1.10
+- pkg:maven/com.aliyun/alibabacloud-fc_open20210406@1.1.10?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-fc_open20210406@1.1.11
+- pkg:maven/com.aliyun/alibabacloud-fc_open20210406@1.1.11?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-fc_open20210406@1.1.12
+- pkg:maven/com.aliyun/alibabacloud-fc_open20210406@1.1.12?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-fc_open20210406@1.1.2
 - pkg:maven/com.aliyun/alibabacloud-fc_open20210406@1.1.2?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-fc_open20210406@1.1.4

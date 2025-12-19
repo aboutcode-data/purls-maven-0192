@@ -78,6 +78,14 @@
 - pkg:maven/org.craftercms/crafter-commons-upgrade-manager@3.1.25?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-upgrade-manager@3.1.25E
 - pkg:maven/org.craftercms/crafter-commons-upgrade-manager@3.1.25E?classifier=sources
+- pkg:maven/org.craftercms/crafter-commons-upgrade-manager@3.1.26
+- pkg:maven/org.craftercms/crafter-commons-upgrade-manager@3.1.26?classifier=sources
+- pkg:maven/org.craftercms/crafter-commons-upgrade-manager@3.1.26E
+- pkg:maven/org.craftercms/crafter-commons-upgrade-manager@3.1.26E?classifier=sources
+- pkg:maven/org.craftercms/crafter-commons-upgrade-manager@3.1.27
+- pkg:maven/org.craftercms/crafter-commons-upgrade-manager@3.1.27?classifier=sources
+- pkg:maven/org.craftercms/crafter-commons-upgrade-manager@3.1.27E
+- pkg:maven/org.craftercms/crafter-commons-upgrade-manager@3.1.27E?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-upgrade-manager@3.1.5
 - pkg:maven/org.craftercms/crafter-commons-upgrade-manager@3.1.5?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-upgrade-manager@3.1.5E
@@ -106,3 +114,4 @@
 - pkg:maven/org.craftercms/crafter-commons-upgrade-manager@4.0.0-rc2?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-upgrade-manager@4.0.0-rc2E
 - pkg:maven/org.craftercms/crafter-commons-upgrade-manager@4.0.0-rc2E?classifier=sources
+- pkg:maven/org.craftercms/crafter-commons-upgrade-manager@4.0.1

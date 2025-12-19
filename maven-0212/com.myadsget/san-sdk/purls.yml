@@ -70,6 +70,10 @@
 - pkg:maven/com.myadsget/san-sdk@3.12.2?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.12.4?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.12.5?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.12.6.1?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.12.6.2?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.12.6?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.13.0.1-ln?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.2.0.0?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.2.0.1?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.2.0.2?classifier=sources

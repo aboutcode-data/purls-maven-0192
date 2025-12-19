@@ -1,0 +1,2 @@
+- pkg:maven/org.liquibase/liquibase-s3-extension@1.0.0
+- pkg:maven/org.liquibase/liquibase-s3-extension@1.0.0?classifier=sources

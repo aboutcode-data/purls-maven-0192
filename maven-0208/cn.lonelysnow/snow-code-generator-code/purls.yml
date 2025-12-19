@@ -1,0 +1,4 @@
+- pkg:maven/cn.lonelysnow/snow-code-generator-code@1.0
+- pkg:maven/cn.lonelysnow/snow-code-generator-code@1.0?classifier=sources
+- pkg:maven/cn.lonelysnow/snow-code-generator-code@2.0
+- pkg:maven/cn.lonelysnow/snow-code-generator-code@2.0?classifier=sources

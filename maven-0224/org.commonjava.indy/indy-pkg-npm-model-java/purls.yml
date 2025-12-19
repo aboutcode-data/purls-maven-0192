@@ -130,3 +130,5 @@
 - pkg:maven/org.commonjava.indy/indy-pkg-npm-model-java@2.7.3?classifier=sources
 - pkg:maven/org.commonjava.indy/indy-pkg-npm-model-java@2.7.4
 - pkg:maven/org.commonjava.indy/indy-pkg-npm-model-java@2.7.4?classifier=sources
+- pkg:maven/org.commonjava.indy/indy-pkg-npm-model-java@2.7.5
+- pkg:maven/org.commonjava.indy/indy-pkg-npm-model-java@2.7.5?classifier=sources

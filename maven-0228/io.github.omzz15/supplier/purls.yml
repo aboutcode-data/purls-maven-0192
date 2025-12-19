@@ -1,2 +1,4 @@
 - pkg:maven/io.github.omzz15/supplier@0.7-PRERELEASE
 - pkg:maven/io.github.omzz15/supplier@0.7-PRERELEASE?classifier=sources
+- pkg:maven/io.github.omzz15/supplier@0.9-PRERELEASE
+- pkg:maven/io.github.omzz15/supplier@0.9-PRERELEASE?classifier=sources

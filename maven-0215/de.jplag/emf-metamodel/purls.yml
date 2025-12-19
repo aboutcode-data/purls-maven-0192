@@ -1,0 +1,2 @@
+- pkg:maven/de.jplag/emf-metamodel@4.0.0
+- pkg:maven/de.jplag/emf-metamodel@4.0.0?classifier=sources

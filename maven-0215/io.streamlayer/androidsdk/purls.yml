@@ -472,6 +472,10 @@
 - pkg:maven/io.streamlayer/androidsdk@2.14.1-beta.10?type=aar
 - pkg:maven/io.streamlayer/androidsdk@2.14.1?classifier=sources
 - pkg:maven/io.streamlayer/androidsdk@2.14.1?type=aar
+- pkg:maven/io.streamlayer/androidsdk@2.14.2-beta.7?classifier=sources
+- pkg:maven/io.streamlayer/androidsdk@2.14.2-beta.7?type=aar
+- pkg:maven/io.streamlayer/androidsdk@2.14.2-beta.8?classifier=sources
+- pkg:maven/io.streamlayer/androidsdk@2.14.2-beta.8?type=aar
 - pkg:maven/io.streamlayer/androidsdk@2.2.0-beta.100?classifier=sources
 - pkg:maven/io.streamlayer/androidsdk@2.2.0-beta.100?type=aar
 - pkg:maven/io.streamlayer/androidsdk@2.2.0-beta.101?classifier=sources

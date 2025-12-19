@@ -361,6 +361,8 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-spi@7.3.25?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-spi@7.3.26
 - pkg:maven/org.ops4j.pax.web/pax-web-spi@7.3.26?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-spi@7.3.27
+- pkg:maven/org.ops4j.pax.web/pax-web-spi@7.3.27?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-spi@7.3.2?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-spi@7.3.3
 - pkg:maven/org.ops4j.pax.web/pax-web-spi@7.3.3?classifier=sources
@@ -386,9 +388,15 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-spi@7.4.3?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-spi@7.4.4
 - pkg:maven/org.ops4j.pax.web/pax-web-spi@7.4.4?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-spi@7.4.5
+- pkg:maven/org.ops4j.pax.web/pax-web-spi@7.4.5?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-spi@8.0.0
 - pkg:maven/org.ops4j.pax.web/pax-web-spi@8.0.0?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-spi@8.0.1
+- pkg:maven/org.ops4j.pax.web/pax-web-spi@8.0.10
+- pkg:maven/org.ops4j.pax.web/pax-web-spi@8.0.10?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-spi@8.0.11
+- pkg:maven/org.ops4j.pax.web/pax-web-spi@8.0.11?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-spi@8.0.1?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-spi@8.0.2
 - pkg:maven/org.ops4j.pax.web/pax-web-spi@8.0.2?classifier=sources
@@ -402,3 +410,11 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-spi@8.0.6?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-spi@8.0.7
 - pkg:maven/org.ops4j.pax.web/pax-web-spi@8.0.7?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-spi@8.0.8
+- pkg:maven/org.ops4j.pax.web/pax-web-spi@8.0.8?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-spi@8.0.9
+- pkg:maven/org.ops4j.pax.web/pax-web-spi@8.0.9?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-spi@9.0.0
+- pkg:maven/org.ops4j.pax.web/pax-web-spi@9.0.0?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-spi@9.0.1
+- pkg:maven/org.ops4j.pax.web/pax-web-spi@9.0.1?classifier=sources

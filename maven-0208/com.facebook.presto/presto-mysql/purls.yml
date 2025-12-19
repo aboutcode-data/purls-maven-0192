@@ -226,6 +226,9 @@
 - pkg:maven/com.facebook.presto/presto-mysql@0.273?classifier=sources
 - pkg:maven/com.facebook.presto/presto-mysql@0.274?classifier=sources
 - pkg:maven/com.facebook.presto/presto-mysql@0.275?classifier=sources
+- pkg:maven/com.facebook.presto/presto-mysql@0.276.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-mysql@0.276?classifier=sources
+- pkg:maven/com.facebook.presto/presto-mysql@0.277?classifier=sources
 - pkg:maven/com.facebook.presto/presto-mysql@0.76?classifier=sources
 - pkg:maven/com.facebook.presto/presto-mysql@0.77?classifier=sources
 - pkg:maven/com.facebook.presto/presto-mysql@0.78?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-mycharity@1.0.0
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-mycharity@1.0.0?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-mycharity@1.0.11
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-mycharity@1.0.11?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-mycharity@1.0.13
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-mycharity@1.0.13?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-mycharity@1.0.14
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-mycharity@1.0.14?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-mycharity@1.0.3
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-mycharity@1.0.3?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-mycharity@1.0.7
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-mycharity@1.0.7?classifier=sources

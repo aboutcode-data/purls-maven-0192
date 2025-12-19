@@ -18,3 +18,5 @@
 - pkg:maven/org.xipki.example/dummy-ctlog-server@5.3.8?type=war
 - pkg:maven/org.xipki.example/dummy-ctlog-server@5.3.9?classifier=sources
 - pkg:maven/org.xipki.example/dummy-ctlog-server@5.3.9?type=war
+- pkg:maven/org.xipki.example/dummy-ctlog-server@6.0.0?classifier=sources
+- pkg:maven/org.xipki.example/dummy-ctlog-server@6.0.0?type=war

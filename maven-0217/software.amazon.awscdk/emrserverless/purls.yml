@@ -30,3 +30,15 @@
 - pkg:maven/software.amazon.awscdk/emrserverless@1.170.1?classifier=sources
 - pkg:maven/software.amazon.awscdk/emrserverless@1.171.0
 - pkg:maven/software.amazon.awscdk/emrserverless@1.171.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/emrserverless@1.172.0
+- pkg:maven/software.amazon.awscdk/emrserverless@1.172.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/emrserverless@1.173.0
+- pkg:maven/software.amazon.awscdk/emrserverless@1.173.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/emrserverless@1.174.0
+- pkg:maven/software.amazon.awscdk/emrserverless@1.174.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/emrserverless@1.175.0
+- pkg:maven/software.amazon.awscdk/emrserverless@1.175.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/emrserverless@1.176.0
+- pkg:maven/software.amazon.awscdk/emrserverless@1.176.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/emrserverless@1.177.0
+- pkg:maven/software.amazon.awscdk/emrserverless@1.177.0?classifier=sources

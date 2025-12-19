@@ -19,6 +19,9 @@
 - pkg:maven/com.commercetools.rmf/ctp-validators@0.1.29?classifier=sources
 - pkg:maven/com.commercetools.rmf/ctp-validators@0.1.30?classifier=sources
 - pkg:maven/com.commercetools.rmf/ctp-validators@0.1.31?classifier=sources
+- pkg:maven/com.commercetools.rmf/ctp-validators@0.1.32?classifier=sources
+- pkg:maven/com.commercetools.rmf/ctp-validators@0.1.33?classifier=sources
+- pkg:maven/com.commercetools.rmf/ctp-validators@0.1.34?classifier=sources
 - pkg:maven/com.commercetools.rmf/ctp-validators@1.0.0-20210826074545?classifier=sources
 - pkg:maven/com.commercetools.rmf/ctp-validators@1.0.0-20210827192940?classifier=sources
 - pkg:maven/com.commercetools.rmf/ctp-validators@1.0.0-20210831114040?classifier=sources
@@ -101,3 +104,9 @@
 - pkg:maven/com.commercetools.rmf/ctp-validators@1.0.0-20220712195535?classifier=sources
 - pkg:maven/com.commercetools.rmf/ctp-validators@1.0.0-20220727090248?classifier=sources
 - pkg:maven/com.commercetools.rmf/ctp-validators@1.0.0-20220728120233?classifier=sources
+- pkg:maven/com.commercetools.rmf/ctp-validators@1.0.0-20220830122148?classifier=sources
+- pkg:maven/com.commercetools.rmf/ctp-validators@1.0.0-20220902064621?classifier=sources
+- pkg:maven/com.commercetools.rmf/ctp-validators@1.0.0-20220907150004?classifier=sources
+- pkg:maven/com.commercetools.rmf/ctp-validators@1.0.0-20220919081052?classifier=sources
+- pkg:maven/com.commercetools.rmf/ctp-validators@1.0.0-20220929123541?classifier=sources
+- pkg:maven/com.commercetools.rmf/ctp-validators@1.0.0-20220930064100?classifier=sources

@@ -17,3 +17,5 @@
 - pkg:maven/me.kuku/utils@0.3.6?classifier=sources
 - pkg:maven/me.kuku/utils@0.3.7?classifier=sources
 - pkg:maven/me.kuku/utils@0.3.8?classifier=sources
+- pkg:maven/me.kuku/utils@1.0.0?classifier=sources
+- pkg:maven/me.kuku/utils@1.4?classifier=sources

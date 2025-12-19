@@ -92,3 +92,5 @@
 - pkg:maven/com.tradplusad/tradplus-helium@30.8.0.10.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-helium@30.8.0.20.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-helium@30.8.0.30.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-helium@30.8.4.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-helium@30.8.5.0.1?type=aar

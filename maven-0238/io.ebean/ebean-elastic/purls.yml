@@ -32,6 +32,8 @@
 - pkg:maven/io.ebean/ebean-elastic@12.5.0?classifier=sources
 - pkg:maven/io.ebean/ebean-elastic@13.0.0
 - pkg:maven/io.ebean/ebean-elastic@13.0.0?classifier=sources
+- pkg:maven/io.ebean/ebean-elastic@13.9.0
+- pkg:maven/io.ebean/ebean-elastic@13.9.0?classifier=sources
 - pkg:maven/io.ebean/ebean-elastic@2.1.1
 - pkg:maven/io.ebean/ebean-elastic@2.1.1?classifier=sources
 - pkg:maven/io.ebean/ebean-elastic@2.1.2

@@ -42,3 +42,5 @@
 - pkg:maven/com.xceptance/xlt@6.2.2?type=zip
 - pkg:maven/com.xceptance/xlt@6.2.3?classifier=sources
 - pkg:maven/com.xceptance/xlt@6.2.3?type=zip
+- pkg:maven/com.xceptance/xlt@6.2.4?classifier=sources
+- pkg:maven/com.xceptance/xlt@6.2.4?type=zip

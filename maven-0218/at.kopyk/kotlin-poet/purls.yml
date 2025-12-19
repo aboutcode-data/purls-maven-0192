@@ -1,0 +1,2 @@
+- pkg:maven/at.kopyk/kotlin-poet@1.0-rc5?classifier=sources
+- pkg:maven/at.kopyk/kotlin-poet@1.0-rc6?classifier=sources

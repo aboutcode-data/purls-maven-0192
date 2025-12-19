@@ -10,3 +10,5 @@
 - pkg:maven/se.swedenconnect.schemas.csig/dss-ext11-jaxb@1.0.4?classifier=sources
 - pkg:maven/se.swedenconnect.schemas.csig/dss-ext11-jaxb@2.0.0
 - pkg:maven/se.swedenconnect.schemas.csig/dss-ext11-jaxb@2.0.0?classifier=sources
+- pkg:maven/se.swedenconnect.schemas.csig/dss-ext11-jaxb@2.0.1
+- pkg:maven/se.swedenconnect.schemas.csig/dss-ext11-jaxb@2.0.1?classifier=sources

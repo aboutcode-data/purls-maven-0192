@@ -1,0 +1,4 @@
+- pkg:maven/io.github.mostafamohajeri/agentscript-parser@2.41
+- pkg:maven/io.github.mostafamohajeri/agentscript-parser@2.41?classifier=sources
+- pkg:maven/io.github.mostafamohajeri/agentscript-parser@2.50
+- pkg:maven/io.github.mostafamohajeri/agentscript-parser@2.50?classifier=sources

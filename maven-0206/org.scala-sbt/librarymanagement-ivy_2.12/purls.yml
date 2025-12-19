@@ -122,3 +122,5 @@
 - pkg:maven/org.scala-sbt/librarymanagement-ivy_2.12@1.7.0-M3
 - pkg:maven/org.scala-sbt/librarymanagement-ivy_2.12@1.7.0-M3?classifier=sources
 - pkg:maven/org.scala-sbt/librarymanagement-ivy_2.12@1.7.0?classifier=sources
+- pkg:maven/org.scala-sbt/librarymanagement-ivy_2.12@1.7.1
+- pkg:maven/org.scala-sbt/librarymanagement-ivy_2.12@1.7.1?classifier=sources

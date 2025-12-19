@@ -423,6 +423,12 @@
 - pkg:maven/com.mailslurp/mailslurp-client-java@15.13.29?classifier=sources
 - pkg:maven/com.mailslurp/mailslurp-client-java@15.13.2?classifier=sources
 - pkg:maven/com.mailslurp/mailslurp-client-java@15.13.3
+- pkg:maven/com.mailslurp/mailslurp-client-java@15.13.30
+- pkg:maven/com.mailslurp/mailslurp-client-java@15.13.30?classifier=sources
+- pkg:maven/com.mailslurp/mailslurp-client-java@15.13.31
+- pkg:maven/com.mailslurp/mailslurp-client-java@15.13.31?classifier=sources
+- pkg:maven/com.mailslurp/mailslurp-client-java@15.13.32
+- pkg:maven/com.mailslurp/mailslurp-client-java@15.13.32?classifier=sources
 - pkg:maven/com.mailslurp/mailslurp-client-java@15.13.3?classifier=sources
 - pkg:maven/com.mailslurp/mailslurp-client-java@15.13.4
 - pkg:maven/com.mailslurp/mailslurp-client-java@15.13.4?classifier=sources
@@ -436,6 +442,8 @@
 - pkg:maven/com.mailslurp/mailslurp-client-java@15.13.8?classifier=sources
 - pkg:maven/com.mailslurp/mailslurp-client-java@15.13.9
 - pkg:maven/com.mailslurp/mailslurp-client-java@15.13.9?classifier=sources
+- pkg:maven/com.mailslurp/mailslurp-client-java@15.14.0
+- pkg:maven/com.mailslurp/mailslurp-client-java@15.14.0?classifier=sources
 - pkg:maven/com.mailslurp/mailslurp-client-java@15.2.0
 - pkg:maven/com.mailslurp/mailslurp-client-java@15.2.0?classifier=sources
 - pkg:maven/com.mailslurp/mailslurp-client-java@15.2.1

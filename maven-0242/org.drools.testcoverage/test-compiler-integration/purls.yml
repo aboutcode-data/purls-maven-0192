@@ -111,3 +111,5 @@
 - pkg:maven/org.drools.testcoverage/test-compiler-integration@8.25.0.Beta
 - pkg:maven/org.drools.testcoverage/test-compiler-integration@8.26.0.Beta
 - pkg:maven/org.drools.testcoverage/test-compiler-integration@8.27.0.Beta
+- pkg:maven/org.drools.testcoverage/test-compiler-integration@8.28.0.Beta
+- pkg:maven/org.drools.testcoverage/test-compiler-integration@8.29.0.Final

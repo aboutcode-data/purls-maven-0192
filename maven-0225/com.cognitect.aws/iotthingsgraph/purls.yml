@@ -6,3 +6,5 @@
 - pkg:maven/com.cognitect.aws/iotthingsgraph@770.2.568.0?classifier=sources
 - pkg:maven/com.cognitect.aws/iotthingsgraph@821.2.1107.0
 - pkg:maven/com.cognitect.aws/iotthingsgraph@821.2.1107.0?classifier=sources
+- pkg:maven/com.cognitect.aws/iotthingsgraph@823.2.1216.0
+- pkg:maven/com.cognitect.aws/iotthingsgraph@823.2.1216.0?classifier=sources

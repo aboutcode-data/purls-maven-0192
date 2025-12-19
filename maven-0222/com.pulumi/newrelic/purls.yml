@@ -1,0 +1,7 @@
+- pkg:maven/com.pulumi/newrelic@4.20.0-alpha.1661884582%2B853a0ea8?classifier=sources
+- pkg:maven/com.pulumi/newrelic@4.20.0?classifier=sources
+- pkg:maven/com.pulumi/newrelic@5.0.0-alpha.1663005924%2B2598081d?classifier=sources
+- pkg:maven/com.pulumi/newrelic@5.0.0?classifier=sources
+- pkg:maven/com.pulumi/newrelic@5.1.0-alpha.1663018157%2Be9509ea7?classifier=sources
+- pkg:maven/com.pulumi/newrelic@5.1.0-alpha.1663281934%2B8ef820b4?classifier=sources
+- pkg:maven/com.pulumi/newrelic@5.1.0-alpha.1663342956%2Bb36c3cdc?classifier=sources

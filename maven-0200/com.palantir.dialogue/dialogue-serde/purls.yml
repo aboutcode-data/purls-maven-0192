@@ -408,6 +408,8 @@
 - pkg:maven/com.palantir.dialogue/dialogue-serde@3.63.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-serde@3.64.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-serde@3.65.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-serde@3.66.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-serde@3.67.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-serde@3.7.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-serde@3.8.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-serde@3.9.0?classifier=sources

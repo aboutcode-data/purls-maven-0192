@@ -28,3 +28,5 @@
 - pkg:maven/org.webjars.npm/vue__compiler-sfc@3.2.37?classifier=sources
 - pkg:maven/org.webjars.npm/vue__compiler-sfc@3.2.38
 - pkg:maven/org.webjars.npm/vue__compiler-sfc@3.2.38?classifier=sources
+- pkg:maven/org.webjars.npm/vue__compiler-sfc@3.2.41
+- pkg:maven/org.webjars.npm/vue__compiler-sfc@3.2.41?classifier=sources

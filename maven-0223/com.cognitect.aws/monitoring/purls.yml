@@ -50,3 +50,5 @@
 - pkg:maven/com.cognitect.aws/monitoring@822.2.1181.0?classifier=sources
 - pkg:maven/com.cognitect.aws/monitoring@822.2.1193.0
 - pkg:maven/com.cognitect.aws/monitoring@822.2.1193.0?classifier=sources
+- pkg:maven/com.cognitect.aws/monitoring@822.2.1205.0
+- pkg:maven/com.cognitect.aws/monitoring@822.2.1205.0?classifier=sources

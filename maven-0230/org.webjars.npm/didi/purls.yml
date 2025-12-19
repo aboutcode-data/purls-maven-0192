@@ -6,3 +6,7 @@
 - pkg:maven/org.webjars.npm/didi@5.3.0-0?classifier=sources
 - pkg:maven/org.webjars.npm/didi@8.0.0
 - pkg:maven/org.webjars.npm/didi@8.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/didi@8.0.1
+- pkg:maven/org.webjars.npm/didi@8.0.1?classifier=sources
+- pkg:maven/org.webjars.npm/didi@9.0.0
+- pkg:maven/org.webjars.npm/didi@9.0.0?classifier=sources
