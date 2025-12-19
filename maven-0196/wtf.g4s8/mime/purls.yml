@@ -8,3 +8,5 @@
 - pkg:maven/wtf.g4s8/mime@v2.2?classifier=sources
 - pkg:maven/wtf.g4s8/mime@v2.3.2%2Bjava8
 - pkg:maven/wtf.g4s8/mime@v2.3.2%2Bjava8?classifier=sources
+- pkg:maven/wtf.g4s8/mime@v2.3.3%2Bjava8
+- pkg:maven/wtf.g4s8/mime@v2.3.3%2Bjava8?classifier=sources

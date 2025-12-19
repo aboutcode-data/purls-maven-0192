@@ -18,3 +18,9 @@
 - pkg:maven/org.jetbrains.kotlinx/ki-shell@0.4.4?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/ki-shell@0.4.5
 - pkg:maven/org.jetbrains.kotlinx/ki-shell@0.4.5?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/ki-shell@0.5.0
+- pkg:maven/org.jetbrains.kotlinx/ki-shell@0.5.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/ki-shell@0.5.1
+- pkg:maven/org.jetbrains.kotlinx/ki-shell@0.5.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/ki-shell@0.5.2
+- pkg:maven/org.jetbrains.kotlinx/ki-shell@0.5.2?classifier=sources

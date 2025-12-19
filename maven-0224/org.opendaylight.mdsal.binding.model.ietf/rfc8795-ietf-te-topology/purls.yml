@@ -1,3 +1,4 @@
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8795-ietf-te-topology@10.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8795-ietf-te-topology@7.0.0
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8795-ietf-te-topology@7.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8795-ietf-te-topology@7.0.1

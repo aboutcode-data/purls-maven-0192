@@ -57,6 +57,7 @@
 - pkg:maven/org.eclipse.californium/demo-certs@2.7.0
 - pkg:maven/org.eclipse.californium/demo-certs@2.7.1
 - pkg:maven/org.eclipse.californium/demo-certs@2.7.2
+- pkg:maven/org.eclipse.californium/demo-certs@2.7.3
 - pkg:maven/org.eclipse.californium/demo-certs@3.0.0
 - pkg:maven/org.eclipse.californium/demo-certs@3.0.0-M1
 - pkg:maven/org.eclipse.californium/demo-certs@3.0.0-M2
@@ -70,3 +71,4 @@
 - pkg:maven/org.eclipse.californium/demo-certs@3.3.1
 - pkg:maven/org.eclipse.californium/demo-certs@3.4.0
 - pkg:maven/org.eclipse.californium/demo-certs@3.5.0
+- pkg:maven/org.eclipse.californium/demo-certs@3.6.0

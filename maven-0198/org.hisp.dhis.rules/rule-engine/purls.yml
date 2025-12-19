@@ -56,6 +56,8 @@
 - pkg:maven/org.hisp.dhis.rules/rule-engine@2.0.38?classifier=sources
 - pkg:maven/org.hisp.dhis.rules/rule-engine@2.0.39
 - pkg:maven/org.hisp.dhis.rules/rule-engine@2.0.39?classifier=sources
+- pkg:maven/org.hisp.dhis.rules/rule-engine@2.0.40
+- pkg:maven/org.hisp.dhis.rules/rule-engine@2.0.40?classifier=sources
 - pkg:maven/org.hisp.dhis.rules/rule-engine@2.0.8
 - pkg:maven/org.hisp.dhis.rules/rule-engine@2.0.8?classifier=sources
 - pkg:maven/org.hisp.dhis.rules/rule-engine@2.0.9

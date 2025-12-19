@@ -20,3 +20,5 @@
 - pkg:maven/io.jaegertracing/jaeger-core-ot-0.32.0-itest@1.7.0?classifier=sources
 - pkg:maven/io.jaegertracing/jaeger-core-ot-0.32.0-itest@1.8.0
 - pkg:maven/io.jaegertracing/jaeger-core-ot-0.32.0-itest@1.8.0?classifier=sources
+- pkg:maven/io.jaegertracing/jaeger-core-ot-0.32.0-itest@1.8.1
+- pkg:maven/io.jaegertracing/jaeger-core-ot-0.32.0-itest@1.8.1?classifier=sources

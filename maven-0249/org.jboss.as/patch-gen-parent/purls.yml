@@ -7,3 +7,4 @@
 - pkg:maven/org.jboss.as/patch-gen-parent@2.1.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.as/patch-gen-parent@2.1.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.as/patch-gen-parent@2.1.2.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.as/patch-gen-parent@2.1.3.Final?classifier=source-release&type=zip

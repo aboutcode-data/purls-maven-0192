@@ -132,6 +132,7 @@
 - pkg:maven/com.google.appengine/appengine-api-stubs@1.9.95
 - pkg:maven/com.google.appengine/appengine-api-stubs@1.9.96
 - pkg:maven/com.google.appengine/appengine-api-stubs@1.9.97
+- pkg:maven/com.google.appengine/appengine-api-stubs@1.9.98
 - pkg:maven/com.google.appengine/appengine-api-stubs@2.0.0
 - pkg:maven/com.google.appengine/appengine-api-stubs@2.0.0?classifier=sources
 - pkg:maven/com.google.appengine/appengine-api-stubs@2.0.1

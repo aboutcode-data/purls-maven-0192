@@ -33,7 +33,11 @@
 - pkg:maven/com.microsoft.signalr.messagepack/signalr-messagepack@6.0.3?classifier=sources
 - pkg:maven/com.microsoft.signalr.messagepack/signalr-messagepack@6.0.4?classifier=sources
 - pkg:maven/com.microsoft.signalr.messagepack/signalr-messagepack@6.0.5?classifier=sources
+- pkg:maven/com.microsoft.signalr.messagepack/signalr-messagepack@6.0.6?classifier=sources
+- pkg:maven/com.microsoft.signalr.messagepack/signalr-messagepack@6.0.7?classifier=sources
 - pkg:maven/com.microsoft.signalr.messagepack/signalr-messagepack@7.0.0-preview.1.22109.13?classifier=sources
 - pkg:maven/com.microsoft.signalr.messagepack/signalr-messagepack@7.0.0-preview.2.22153.2?classifier=sources
 - pkg:maven/com.microsoft.signalr.messagepack/signalr-messagepack@7.0.0-preview.3.22178.4?classifier=sources
 - pkg:maven/com.microsoft.signalr.messagepack/signalr-messagepack@7.0.0-preview.4.22251.1?classifier=sources
+- pkg:maven/com.microsoft.signalr.messagepack/signalr-messagepack@7.0.0-preview.5.22303.8?classifier=sources
+- pkg:maven/com.microsoft.signalr.messagepack/signalr-messagepack@7.0.0-preview.6.22330.3?classifier=sources

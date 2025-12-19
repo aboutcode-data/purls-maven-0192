@@ -36,3 +36,4 @@
 - pkg:maven/com.yandex.ads.mediation/mobileads-admob@20.3.0.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-admob@20.4.0.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-admob@20.5.0.0?classifier=sources
+- pkg:maven/com.yandex.ads.mediation/mobileads-admob@20.5.0.1?classifier=sources

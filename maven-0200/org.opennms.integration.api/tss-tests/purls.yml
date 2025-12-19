@@ -4,3 +4,5 @@
 - pkg:maven/org.opennms.integration.api/tss-tests@0.6.0?classifier=sources
 - pkg:maven/org.opennms.integration.api/tss-tests@1.0.0
 - pkg:maven/org.opennms.integration.api/tss-tests@1.0.0?classifier=sources
+- pkg:maven/org.opennms.integration.api/tss-tests@1.0.1
+- pkg:maven/org.opennms.integration.api/tss-tests@1.0.1?classifier=sources

@@ -40,3 +40,5 @@
 - pkg:maven/org.springblade/blade-core-transaction@3.3.0?classifier=sources
 - pkg:maven/org.springblade/blade-core-transaction@3.3.1
 - pkg:maven/org.springblade/blade-core-transaction@3.3.1?classifier=sources
+- pkg:maven/org.springblade/blade-core-transaction@3.4.0
+- pkg:maven/org.springblade/blade-core-transaction@3.4.0?classifier=sources

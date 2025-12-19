@@ -12,3 +12,7 @@
 - pkg:maven/cloud.piranha.core/piranha-core-api@22.4.0?classifier=sources
 - pkg:maven/cloud.piranha.core/piranha-core-api@22.5.0
 - pkg:maven/cloud.piranha.core/piranha-core-api@22.5.0?classifier=sources
+- pkg:maven/cloud.piranha.core/piranha-core-api@22.6.0
+- pkg:maven/cloud.piranha.core/piranha-core-api@22.6.0?classifier=sources
+- pkg:maven/cloud.piranha.core/piranha-core-api@22.7.0
+- pkg:maven/cloud.piranha.core/piranha-core-api@22.7.0?classifier=sources

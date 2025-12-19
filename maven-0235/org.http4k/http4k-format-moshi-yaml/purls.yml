@@ -43,3 +43,5 @@
 - pkg:maven/org.http4k/http4k-format-moshi-yaml@4.25.8.0?classifier=sources
 - pkg:maven/org.http4k/http4k-format-moshi-yaml@4.25.9.0?classifier=sources
 - pkg:maven/org.http4k/http4k-format-moshi-yaml@4.26.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-moshi-yaml@4.27.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-moshi-yaml@4.27.1.0?classifier=sources

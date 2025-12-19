@@ -1,0 +1,2 @@
+- pkg:maven/com.ibm.mq/com.ibm.mq.jakarta.client@9.3.0.0
+- pkg:maven/com.ibm.mq/com.ibm.mq.jakarta.client@9.3.0.0?classifier=sources

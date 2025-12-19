@@ -26,5 +26,7 @@
 - pkg:maven/net.wicp.tams/common-binlog@3.6.12?classifier=sources
 - pkg:maven/net.wicp.tams/common-binlog@3.6.13
 - pkg:maven/net.wicp.tams/common-binlog@3.6.13?classifier=sources
+- pkg:maven/net.wicp.tams/common-binlog@3.6.21
+- pkg:maven/net.wicp.tams/common-binlog@3.6.21?classifier=sources
 - pkg:maven/net.wicp.tams/common-binlog@3.6.8
 - pkg:maven/net.wicp.tams/common-binlog@3.6.8?classifier=sources

@@ -1,2 +1,8 @@
+- pkg:maven/com.aliyun/trademark20180724@3.2.10
+- pkg:maven/com.aliyun/trademark20180724@3.2.10?classifier=sources
+- pkg:maven/com.aliyun/trademark20180724@3.2.12
+- pkg:maven/com.aliyun/trademark20180724@3.2.12?classifier=sources
+- pkg:maven/com.aliyun/trademark20180724@3.2.15
+- pkg:maven/com.aliyun/trademark20180724@3.2.15?classifier=sources
 - pkg:maven/com.aliyun/trademark20180724@3.2.8
 - pkg:maven/com.aliyun/trademark20180724@3.2.8?classifier=sources

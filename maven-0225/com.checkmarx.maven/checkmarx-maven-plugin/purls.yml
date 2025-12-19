@@ -1,3 +1,5 @@
+- pkg:maven/com.checkmarx.maven/checkmarx-maven-plugin@2022.2.3
+- pkg:maven/com.checkmarx.maven/checkmarx-maven-plugin@2022.2.3?classifier=sources
 - pkg:maven/com.checkmarx.maven/checkmarx-maven-plugin@8.41.0
 - pkg:maven/com.checkmarx.maven/checkmarx-maven-plugin@8.41.0?classifier=sources
 - pkg:maven/com.checkmarx.maven/checkmarx-maven-plugin@8.42.0

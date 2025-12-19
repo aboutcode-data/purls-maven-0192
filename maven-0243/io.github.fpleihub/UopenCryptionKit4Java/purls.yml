@@ -1,0 +1,2 @@
+- pkg:maven/io.github.fpleihub/UopenCryptionKit4Java@1.0
+- pkg:maven/io.github.fpleihub/UopenCryptionKit4Java@1.0?classifier=sources

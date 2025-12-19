@@ -1,0 +1,2 @@
+- pkg:maven/com.urmich.android/placesearch-ktx@0.4.1?classifier=sources
+- pkg:maven/com.urmich.android/placesearch-ktx@1.0.0?classifier=sources

@@ -85,6 +85,7 @@
 - pkg:maven/org.opendaylight.aaa/aaa-authn-api@0.15.4
 - pkg:maven/org.opendaylight.aaa/aaa-authn-api@0.15.4?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-authn-api@0.15.5?classifier=sources
+- pkg:maven/org.opendaylight.aaa/aaa-authn-api@0.16.0?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-authn-api@0.2.0-Lithium
 - pkg:maven/org.opendaylight.aaa/aaa-authn-api@0.2.1-Lithium-SR1
 - pkg:maven/org.opendaylight.aaa/aaa-authn-api@0.2.1-Lithium-SR1?classifier=sources

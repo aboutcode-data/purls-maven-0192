@@ -21,3 +21,4 @@
 - pkg:maven/io.xspec.maven/xspec-maven-plugin@2.0.0-RC6
 - pkg:maven/io.xspec.maven/xspec-maven-plugin@2.0.0-RC7
 - pkg:maven/io.xspec.maven/xspec-maven-plugin@2.0.0-RC8
+- pkg:maven/io.xspec.maven/xspec-maven-plugin@2.1.4

@@ -11,3 +11,7 @@
 - pkg:maven/dev.zacsweers.moshix/moshi-gradle-plugin@0.17.2-1.7.0-RC2?classifier=sources
 - pkg:maven/dev.zacsweers.moshix/moshi-gradle-plugin@0.17.2-1.7.0-RC?classifier=sources
 - pkg:maven/dev.zacsweers.moshix/moshi-gradle-plugin@0.17.2?classifier=sources
+- pkg:maven/dev.zacsweers.moshix/moshi-gradle-plugin@0.18.0?classifier=sources
+- pkg:maven/dev.zacsweers.moshix/moshi-gradle-plugin@0.18.1?classifier=sources
+- pkg:maven/dev.zacsweers.moshix/moshi-gradle-plugin@0.18.2?classifier=sources
+- pkg:maven/dev.zacsweers.moshix/moshi-gradle-plugin@0.18.3?classifier=sources

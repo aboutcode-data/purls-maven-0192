@@ -68,3 +68,13 @@
 - pkg:maven/io.trino/trino-server-main@384?classifier=sources
 - pkg:maven/io.trino/trino-server-main@385
 - pkg:maven/io.trino/trino-server-main@385?classifier=sources
+- pkg:maven/io.trino/trino-server-main@386
+- pkg:maven/io.trino/trino-server-main@386?classifier=sources
+- pkg:maven/io.trino/trino-server-main@387
+- pkg:maven/io.trino/trino-server-main@387?classifier=sources
+- pkg:maven/io.trino/trino-server-main@388
+- pkg:maven/io.trino/trino-server-main@388?classifier=sources
+- pkg:maven/io.trino/trino-server-main@389
+- pkg:maven/io.trino/trino-server-main@389?classifier=sources
+- pkg:maven/io.trino/trino-server-main@390
+- pkg:maven/io.trino/trino-server-main@390?classifier=sources

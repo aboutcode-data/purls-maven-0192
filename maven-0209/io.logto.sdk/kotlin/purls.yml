@@ -1,1 +1,2 @@
 - pkg:maven/io.logto.sdk/kotlin@0.1.0?classifier=sources
+- pkg:maven/io.logto.sdk/kotlin@1.0.0-alpha.0?classifier=sources

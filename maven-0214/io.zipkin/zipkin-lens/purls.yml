@@ -34,6 +34,8 @@
 - pkg:maven/io.zipkin/zipkin-lens@2.23.14
 - pkg:maven/io.zipkin/zipkin-lens@2.23.15
 - pkg:maven/io.zipkin/zipkin-lens@2.23.16
+- pkg:maven/io.zipkin/zipkin-lens@2.23.17
+- pkg:maven/io.zipkin/zipkin-lens@2.23.18
 - pkg:maven/io.zipkin/zipkin-lens@2.23.2
 - pkg:maven/io.zipkin/zipkin-lens@2.23.3
 - pkg:maven/io.zipkin/zipkin-lens@2.23.4

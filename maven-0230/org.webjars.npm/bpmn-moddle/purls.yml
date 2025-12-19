@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/bpmn-moddle@6.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/bpmn-moddle@7.0.4
 - pkg:maven/org.webjars.npm/bpmn-moddle@7.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/bpmn-moddle@7.1.2
+- pkg:maven/org.webjars.npm/bpmn-moddle@7.1.2?classifier=sources

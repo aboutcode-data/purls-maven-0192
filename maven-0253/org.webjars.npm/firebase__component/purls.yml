@@ -2,3 +2,7 @@
 - pkg:maven/org.webjars.npm/firebase__component@0.1.21?classifier=sources
 - pkg:maven/org.webjars.npm/firebase__component@0.5.12
 - pkg:maven/org.webjars.npm/firebase__component@0.5.12?classifier=sources
+- pkg:maven/org.webjars.npm/firebase__component@0.5.13
+- pkg:maven/org.webjars.npm/firebase__component@0.5.13?classifier=sources
+- pkg:maven/org.webjars.npm/firebase__component@0.5.17
+- pkg:maven/org.webjars.npm/firebase__component@0.5.17?classifier=sources

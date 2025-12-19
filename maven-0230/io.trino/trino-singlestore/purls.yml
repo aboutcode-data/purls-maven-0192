@@ -10,3 +10,8 @@
 - pkg:maven/io.trino/trino-singlestore@383?classifier=sources
 - pkg:maven/io.trino/trino-singlestore@384?classifier=sources
 - pkg:maven/io.trino/trino-singlestore@385?classifier=sources
+- pkg:maven/io.trino/trino-singlestore@386?classifier=sources
+- pkg:maven/io.trino/trino-singlestore@387?classifier=sources
+- pkg:maven/io.trino/trino-singlestore@388?classifier=sources
+- pkg:maven/io.trino/trino-singlestore@389?classifier=sources
+- pkg:maven/io.trino/trino-singlestore@390?classifier=sources

@@ -13,4 +13,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-terminal-nb@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-terminal-nb@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-terminal-nb@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-terminal-nb@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-terminal-nb@RELEASE90?classifier=sources

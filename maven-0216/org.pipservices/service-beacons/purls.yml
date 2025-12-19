@@ -1,0 +1,2 @@
+- pkg:maven/org.pipservices/service-beacons@0.0.0.2
+- pkg:maven/org.pipservices/service-beacons@0.0.0.2?classifier=sources

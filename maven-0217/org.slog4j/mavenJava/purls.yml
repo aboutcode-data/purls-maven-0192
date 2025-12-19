@@ -1,0 +1,2 @@
+- pkg:maven/org.slog4j/mavenJava@0.12.0?classifier=sources
+- pkg:maven/org.slog4j/mavenJava@0.13.0?classifier=sources

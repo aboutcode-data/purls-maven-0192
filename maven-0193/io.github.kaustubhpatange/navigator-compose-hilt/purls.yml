@@ -4,3 +4,4 @@
 - pkg:maven/io.github.kaustubhpatange/navigator-compose-hilt@0.1-alpha30?classifier=sources
 - pkg:maven/io.github.kaustubhpatange/navigator-compose-hilt@0.1-alpha31?classifier=sources
 - pkg:maven/io.github.kaustubhpatange/navigator-compose-hilt@0.1-alpha32?classifier=sources
+- pkg:maven/io.github.kaustubhpatange/navigator-compose-hilt@0.1-alpha33?classifier=sources

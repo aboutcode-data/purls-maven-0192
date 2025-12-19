@@ -15,4 +15,6 @@
 - pkg:maven/com.bihe0832.android/lib-text@4.19.0?type=aar
 - pkg:maven/com.bihe0832.android/lib-text@4.19.4?type=aar
 - pkg:maven/com.bihe0832.android/lib-text@4.20.0?type=aar
+- pkg:maven/com.bihe0832.android/lib-text@4.20.22?type=aar
+- pkg:maven/com.bihe0832.android/lib-text@4.20.8?type=aar
 - pkg:maven/com.bihe0832.android/lib-text@4.5.6?type=aar

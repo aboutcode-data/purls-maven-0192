@@ -168,6 +168,10 @@
 - pkg:maven/com.googlecode.libphonenumber/carrier@1.174?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/carrier@1.175
 - pkg:maven/com.googlecode.libphonenumber/carrier@1.175?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/carrier@1.176
+- pkg:maven/com.googlecode.libphonenumber/carrier@1.176?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/carrier@1.177
+- pkg:maven/com.googlecode.libphonenumber/carrier@1.177?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/carrier@1.17?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/carrier@1.18
 - pkg:maven/com.googlecode.libphonenumber/carrier@1.18?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-databases@6.3.10
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-databases@6.3.10?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-databases@6.3.11
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-databases@6.3.11?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-databases@6.3.9
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-databases@6.3.9?classifier=sources

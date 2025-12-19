@@ -92,3 +92,7 @@
 - pkg:maven/org.nutz/nutz-spring-boot-starter@2.6.6?classifier=sources
 - pkg:maven/org.nutz/nutz-spring-boot-starter@2.6.7
 - pkg:maven/org.nutz/nutz-spring-boot-starter@2.6.7?classifier=sources
+- pkg:maven/org.nutz/nutz-spring-boot-starter@2.7.0
+- pkg:maven/org.nutz/nutz-spring-boot-starter@2.7.0?classifier=sources
+- pkg:maven/org.nutz/nutz-spring-boot-starter@2.7.1
+- pkg:maven/org.nutz/nutz-spring-boot-starter@2.7.1?classifier=sources

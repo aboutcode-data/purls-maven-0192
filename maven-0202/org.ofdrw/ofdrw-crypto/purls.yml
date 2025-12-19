@@ -45,6 +45,8 @@
 - pkg:maven/org.ofdrw/ofdrw-crypto@1.17.17?classifier=sources
 - pkg:maven/org.ofdrw/ofdrw-crypto@1.17.18
 - pkg:maven/org.ofdrw/ofdrw-crypto@1.17.18?classifier=sources
+- pkg:maven/org.ofdrw/ofdrw-crypto@1.17.19
+- pkg:maven/org.ofdrw/ofdrw-crypto@1.17.19?classifier=sources
 - pkg:maven/org.ofdrw/ofdrw-crypto@1.17.1?classifier=sources
 - pkg:maven/org.ofdrw/ofdrw-crypto@1.17.2
 - pkg:maven/org.ofdrw/ofdrw-crypto@1.17.2?classifier=sources
@@ -62,3 +64,7 @@
 - pkg:maven/org.ofdrw/ofdrw-crypto@1.17.8?classifier=sources
 - pkg:maven/org.ofdrw/ofdrw-crypto@1.17.9
 - pkg:maven/org.ofdrw/ofdrw-crypto@1.17.9?classifier=sources
+- pkg:maven/org.ofdrw/ofdrw-crypto@1.18.0
+- pkg:maven/org.ofdrw/ofdrw-crypto@1.18.0?classifier=sources
+- pkg:maven/org.ofdrw/ofdrw-crypto@1.18.1
+- pkg:maven/org.ofdrw/ofdrw-crypto@1.18.1?classifier=sources

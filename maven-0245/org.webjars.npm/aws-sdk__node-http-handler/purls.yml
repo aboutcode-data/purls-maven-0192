@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/aws-sdk__node-http-handler@3.118.1
+- pkg:maven/org.webjars.npm/aws-sdk__node-http-handler@3.118.1?classifier=sources
 - pkg:maven/org.webjars.npm/aws-sdk__node-http-handler@3.6.1
 - pkg:maven/org.webjars.npm/aws-sdk__node-http-handler@3.6.1?classifier=sources

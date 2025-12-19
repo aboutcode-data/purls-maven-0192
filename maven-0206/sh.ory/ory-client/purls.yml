@@ -162,6 +162,10 @@
 - pkg:maven/sh.ory/ory-client@0.0.1-alpha.186?classifier=sources
 - pkg:maven/sh.ory/ory-client@0.0.1-alpha.187
 - pkg:maven/sh.ory/ory-client@0.0.1-alpha.187?classifier=sources
+- pkg:maven/sh.ory/ory-client@0.0.1-alpha.188
+- pkg:maven/sh.ory/ory-client@0.0.1-alpha.188?classifier=sources
+- pkg:maven/sh.ory/ory-client@0.0.1-alpha.189
+- pkg:maven/sh.ory/ory-client@0.0.1-alpha.189?classifier=sources
 - pkg:maven/sh.ory/ory-client@0.0.1-alpha.21
 - pkg:maven/sh.ory/ory-client@0.0.1-alpha.21?classifier=sources
 - pkg:maven/sh.ory/ory-client@0.0.1-alpha.23
@@ -298,3 +302,5 @@
 - pkg:maven/sh.ory/ory-client@0.0.1-alpha.99
 - pkg:maven/sh.ory/ory-client@0.0.1-alpha.99?classifier=sources
 - pkg:maven/sh.ory/ory-client@0.0.1-alpha.9?classifier=sources
+- pkg:maven/sh.ory/ory-client@0.1.0-alpha.1
+- pkg:maven/sh.ory/ory-client@0.1.0-alpha.1?classifier=sources

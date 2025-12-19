@@ -1,3 +1,5 @@
+- pkg:maven/org.odpi.egeria/dynamic-archiver-connectors@3.10
+- pkg:maven/org.odpi.egeria/dynamic-archiver-connectors@3.10?classifier=sources
 - pkg:maven/org.odpi.egeria/dynamic-archiver-connectors@3.5
 - pkg:maven/org.odpi.egeria/dynamic-archiver-connectors@3.5?classifier=sources
 - pkg:maven/org.odpi.egeria/dynamic-archiver-connectors@3.6

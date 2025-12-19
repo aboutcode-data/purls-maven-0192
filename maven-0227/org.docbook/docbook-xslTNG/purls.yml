@@ -20,3 +20,4 @@
 - pkg:maven/org.docbook/docbook-xslTNG@1.6.2?classifier=sources
 - pkg:maven/org.docbook/docbook-xslTNG@1.7.0-10?classifier=sources
 - pkg:maven/org.docbook/docbook-xslTNG@1.7.0-11?classifier=sources
+- pkg:maven/org.docbook/docbook-xslTNG@1.7.1?classifier=sources

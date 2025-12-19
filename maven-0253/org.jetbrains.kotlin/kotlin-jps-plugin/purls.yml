@@ -1,0 +1,12 @@
+- pkg:maven/org.jetbrains.kotlin/kotlin-jps-plugin@1.6.0
+- pkg:maven/org.jetbrains.kotlin/kotlin-jps-plugin@1.6.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-jps-plugin@1.6.10
+- pkg:maven/org.jetbrains.kotlin/kotlin-jps-plugin@1.6.10?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-jps-plugin@1.6.20
+- pkg:maven/org.jetbrains.kotlin/kotlin-jps-plugin@1.6.20?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-jps-plugin@1.6.21
+- pkg:maven/org.jetbrains.kotlin/kotlin-jps-plugin@1.6.21?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-jps-plugin@1.7.0
+- pkg:maven/org.jetbrains.kotlin/kotlin-jps-plugin@1.7.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-jps-plugin@1.7.10
+- pkg:maven/org.jetbrains.kotlin/kotlin-jps-plugin@1.7.10?classifier=sources

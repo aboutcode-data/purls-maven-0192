@@ -68,3 +68,13 @@
 - pkg:maven/io.trino/trino-verifier@384?classifier=sources
 - pkg:maven/io.trino/trino-verifier@385
 - pkg:maven/io.trino/trino-verifier@385?classifier=sources
+- pkg:maven/io.trino/trino-verifier@386
+- pkg:maven/io.trino/trino-verifier@386?classifier=sources
+- pkg:maven/io.trino/trino-verifier@387
+- pkg:maven/io.trino/trino-verifier@387?classifier=sources
+- pkg:maven/io.trino/trino-verifier@388
+- pkg:maven/io.trino/trino-verifier@388?classifier=sources
+- pkg:maven/io.trino/trino-verifier@389
+- pkg:maven/io.trino/trino-verifier@389?classifier=sources
+- pkg:maven/io.trino/trino-verifier@390
+- pkg:maven/io.trino/trino-verifier@390?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.kie/efesto-common-api@8.24.0.Beta
+- pkg:maven/org.kie/efesto-common-api@8.24.0.Beta?classifier=sources

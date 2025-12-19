@@ -1,2 +1,4 @@
 - pkg:maven/io.servicetalk/servicetalk-grpc-health@0.42.10?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-grpc-health@0.42.11?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-grpc-health@0.42.12?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-grpc-health@0.42.9?classifier=sources

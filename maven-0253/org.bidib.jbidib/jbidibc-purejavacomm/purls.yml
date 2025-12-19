@@ -48,3 +48,5 @@
 - pkg:maven/org.bidib.jbidib/jbidibc-purejavacomm@1.13.8?classifier=sources
 - pkg:maven/org.bidib.jbidib/jbidibc-purejavacomm@1.13.9
 - pkg:maven/org.bidib.jbidib/jbidibc-purejavacomm@1.13.9?classifier=sources
+- pkg:maven/org.bidib.jbidib/jbidibc-purejavacomm@2.0.0.RC1
+- pkg:maven/org.bidib.jbidib/jbidibc-purejavacomm@2.0.0.RC1?classifier=sources

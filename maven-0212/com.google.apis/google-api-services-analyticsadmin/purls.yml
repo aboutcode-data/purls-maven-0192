@@ -94,3 +94,7 @@
 - pkg:maven/com.google.apis/google-api-services-analyticsadmin@v1alpha-rev20220319-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-analyticsadmin@v1alpha-rev20220604-1.32.1
 - pkg:maven/com.google.apis/google-api-services-analyticsadmin@v1alpha-rev20220604-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-analyticsadmin@v1alpha-rev20220625-1.32.1
+- pkg:maven/com.google.apis/google-api-services-analyticsadmin@v1alpha-rev20220625-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-analyticsadmin@v1alpha-rev20220706-1.32.1
+- pkg:maven/com.google.apis/google-api-services-analyticsadmin@v1alpha-rev20220706-1.32.1?classifier=sources

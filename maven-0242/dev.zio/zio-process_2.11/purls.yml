@@ -16,6 +16,7 @@
 - pkg:maven/dev.zio/zio-process_2.11@0.6.0?classifier=sources
 - pkg:maven/dev.zio/zio-process_2.11@0.6.1
 - pkg:maven/dev.zio/zio-process_2.11@0.6.1?classifier=sources
+- pkg:maven/dev.zio/zio-process_2.11@0.7.0
 - pkg:maven/dev.zio/zio-process_2.11@0.7.0-RC1
 - pkg:maven/dev.zio/zio-process_2.11@0.7.0-RC1?classifier=sources
 - pkg:maven/dev.zio/zio-process_2.11@0.7.0-RC2
@@ -30,3 +31,6 @@
 - pkg:maven/dev.zio/zio-process_2.11@0.7.0-RC5?classifier=sources
 - pkg:maven/dev.zio/zio-process_2.11@0.7.0-RC6
 - pkg:maven/dev.zio/zio-process_2.11@0.7.0-RC6?classifier=sources
+- pkg:maven/dev.zio/zio-process_2.11@0.7.0?classifier=sources
+- pkg:maven/dev.zio/zio-process_2.11@0.7.1
+- pkg:maven/dev.zio/zio-process_2.11@0.7.1?classifier=sources

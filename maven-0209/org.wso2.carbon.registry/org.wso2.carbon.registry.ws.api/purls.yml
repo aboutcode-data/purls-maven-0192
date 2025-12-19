@@ -190,3 +190,6 @@
 - pkg:maven/org.wso2.carbon.registry/org.wso2.carbon.registry.ws.api@4.8.2
 - pkg:maven/org.wso2.carbon.registry/org.wso2.carbon.registry.ws.api@4.8.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.registry/org.wso2.carbon.registry.ws.api@4.8.2?classifier=sources
+- pkg:maven/org.wso2.carbon.registry/org.wso2.carbon.registry.ws.api@4.8.7
+- pkg:maven/org.wso2.carbon.registry/org.wso2.carbon.registry.ws.api@4.8.7?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.registry/org.wso2.carbon.registry.ws.api@4.8.7?classifier=sources
