@@ -4,3 +4,7 @@
 - pkg:maven/de.idealo.whitelabels/logstash-logback-http@1.0.22?classifier=sources
 - pkg:maven/de.idealo.whitelabels/logstash-logback-http@1.0.23
 - pkg:maven/de.idealo.whitelabels/logstash-logback-http@1.0.23?classifier=sources
+- pkg:maven/de.idealo.whitelabels/logstash-logback-http@1.0.24
+- pkg:maven/de.idealo.whitelabels/logstash-logback-http@1.0.24?classifier=sources
+- pkg:maven/de.idealo.whitelabels/logstash-logback-http@1.0.25-test1
+- pkg:maven/de.idealo.whitelabels/logstash-logback-http@1.0.25-test1?classifier=sources

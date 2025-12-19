@@ -3,3 +3,4 @@
 - pkg:maven/com.intendia.gwt/rxjava2-gwt@2.2.10-gwt1?classifier=sources
 - pkg:maven/com.intendia.gwt/rxjava2-gwt@2.2.2-gwt1?classifier=sources
 - pkg:maven/com.intendia.gwt/rxjava2-gwt@2.2.2-gwt2?classifier=sources
+- pkg:maven/com.intendia.gwt/rxjava2-gwt@2.2.20-gwt1?classifier=sources

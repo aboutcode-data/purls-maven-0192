@@ -7,3 +7,4 @@
 - pkg:maven/dev.zacsweers.moshix/moshi-gradle-plugin@0.16.6?classifier=sources
 - pkg:maven/dev.zacsweers.moshix/moshi-gradle-plugin@0.16.7?classifier=sources
 - pkg:maven/dev.zacsweers.moshix/moshi-gradle-plugin@0.17.0?classifier=sources
+- pkg:maven/dev.zacsweers.moshix/moshi-gradle-plugin@0.17.1?classifier=sources

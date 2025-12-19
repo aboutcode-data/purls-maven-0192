@@ -1,2 +1,3 @@
 - pkg:maven/io.quarkiverse.jgit/quarkus-jgit-docs@1.0.0
 - pkg:maven/io.quarkiverse.jgit/quarkus-jgit-docs@1.1.0
+- pkg:maven/io.quarkiverse.jgit/quarkus-jgit-docs@1.2.0

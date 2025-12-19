@@ -16,3 +16,5 @@
 - pkg:maven/org.kie/kie-util-xml@8.18.0.Beta?classifier=sources
 - pkg:maven/org.kie/kie-util-xml@8.19.0.Beta
 - pkg:maven/org.kie/kie-util-xml@8.19.0.Beta?classifier=sources
+- pkg:maven/org.kie/kie-util-xml@8.20.0.Beta
+- pkg:maven/org.kie/kie-util-xml@8.20.0.Beta?classifier=sources

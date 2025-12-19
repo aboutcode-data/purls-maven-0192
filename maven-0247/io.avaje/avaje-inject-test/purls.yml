@@ -105,3 +105,9 @@
 - pkg:maven/io.avaje/avaje-inject-test@6.8?classifier=sources
 - pkg:maven/io.avaje/avaje-inject-test@6.9
 - pkg:maven/io.avaje/avaje-inject-test@6.9?classifier=sources
+- pkg:maven/io.avaje/avaje-inject-test@7.0
+- pkg:maven/io.avaje/avaje-inject-test@7.0?classifier=sources
+- pkg:maven/io.avaje/avaje-inject-test@8.0
+- pkg:maven/io.avaje/avaje-inject-test@8.0?classifier=sources
+- pkg:maven/io.avaje/avaje-inject-test@8.1.RC1
+- pkg:maven/io.avaje/avaje-inject-test@8.1.RC1?classifier=sources

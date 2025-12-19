@@ -2,3 +2,4 @@
 - pkg:maven/com.tfowl.ktor/ktor-jsoup@1.5.4?classifier=sources
 - pkg:maven/com.tfowl.ktor/ktor-jsoup@1.6.3?classifier=sources
 - pkg:maven/com.tfowl.ktor/ktor-jsoup@1.6.4?classifier=sources
+- pkg:maven/com.tfowl.ktor/ktor-jsoup@2.0.0?classifier=sources

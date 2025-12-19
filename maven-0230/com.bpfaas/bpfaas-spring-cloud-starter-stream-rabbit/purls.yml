@@ -1,1 +1,4 @@
 - pkg:maven/com.bpfaas/bpfaas-spring-cloud-starter-stream-rabbit@3.0.0.RELEASE
+- pkg:maven/com.bpfaas/bpfaas-spring-cloud-starter-stream-rabbit@3.0.1.RELEASE
+- pkg:maven/com.bpfaas/bpfaas-spring-cloud-starter-stream-rabbit@3.0.2.RELEASE
+- pkg:maven/com.bpfaas/bpfaas-spring-cloud-starter-stream-rabbit@3.0.3.RELEASE

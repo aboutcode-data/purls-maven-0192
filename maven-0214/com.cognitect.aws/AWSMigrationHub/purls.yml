@@ -12,3 +12,5 @@
 - pkg:maven/com.cognitect.aws/AWSMigrationHub@785.2.599.0?classifier=sources
 - pkg:maven/com.cognitect.aws/AWSMigrationHub@796.2.657.0
 - pkg:maven/com.cognitect.aws/AWSMigrationHub@796.2.657.0?classifier=sources
+- pkg:maven/com.cognitect.aws/AWSMigrationHub@821.2.1107.0
+- pkg:maven/com.cognitect.aws/AWSMigrationHub@821.2.1107.0?classifier=sources

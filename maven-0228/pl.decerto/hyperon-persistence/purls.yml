@@ -42,6 +42,7 @@
 - pkg:maven/pl.decerto/hyperon-persistence@1.20.4?classifier=sources
 - pkg:maven/pl.decerto/hyperon-persistence@1.20.7?classifier=sources
 - pkg:maven/pl.decerto/hyperon-persistence@1.21.0?classifier=sources
+- pkg:maven/pl.decerto/hyperon-persistence@1.21.10?classifier=sources
 - pkg:maven/pl.decerto/hyperon-persistence@1.21.1?classifier=sources
 - pkg:maven/pl.decerto/hyperon-persistence@1.21.2?classifier=sources
 - pkg:maven/pl.decerto/hyperon-persistence@1.21.3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.gitee.laoshirenggo/elasticsearch@1.0-RELEASEOT
+- pkg:maven/io.gitee.laoshirenggo/elasticsearch@1.0-RELEASEOT?classifier=sources
+- pkg:maven/io.gitee.laoshirenggo/elasticsearch@1.1
+- pkg:maven/io.gitee.laoshirenggo/elasticsearch@1.1?classifier=sources

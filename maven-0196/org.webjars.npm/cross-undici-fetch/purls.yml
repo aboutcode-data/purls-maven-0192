@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/cross-undici-fetch@0.1.16
 - pkg:maven/org.webjars.npm/cross-undici-fetch@0.1.16?classifier=sources
+- pkg:maven/org.webjars.npm/cross-undici-fetch@0.1.28
+- pkg:maven/org.webjars.npm/cross-undici-fetch@0.1.28?classifier=sources

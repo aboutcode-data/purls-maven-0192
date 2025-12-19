@@ -32,3 +32,5 @@
 - pkg:maven/org.openurp.prac/openurp-prac-api@0.23.4?classifier=sources
 - pkg:maven/org.openurp.prac/openurp-prac-api@0.24.0
 - pkg:maven/org.openurp.prac/openurp-prac-api@0.24.0?classifier=sources
+- pkg:maven/org.openurp.prac/openurp-prac-api@0.24.1
+- pkg:maven/org.openurp.prac/openurp-prac-api@0.24.1?classifier=sources

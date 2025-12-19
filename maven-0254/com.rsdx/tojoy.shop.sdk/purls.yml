@@ -1,0 +1,4 @@
+- pkg:maven/com.rsdx/tojoy.shop.sdk@1.0.10?classifier=sources
+- pkg:maven/com.rsdx/tojoy.shop.sdk@1.0.11?type=aar
+- pkg:maven/com.rsdx/tojoy.shop.sdk@1.0.12?type=aar
+- pkg:maven/com.rsdx/tojoy.shop.sdk@1.0.7?classifier=sources

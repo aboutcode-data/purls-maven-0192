@@ -1,0 +1,2 @@
+- pkg:maven/ch.rfin.java-util/predicates@0.1.0
+- pkg:maven/ch.rfin.java-util/predicates@0.1.0?classifier=sources

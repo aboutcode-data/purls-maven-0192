@@ -460,3 +460,7 @@
 - pkg:maven/com.nordstrom.ui-tools/selenium-foundation@22.4.3-s3?classifier=sources
 - pkg:maven/com.nordstrom.ui-tools/selenium-foundation@22.4.4-s2?classifier=sources
 - pkg:maven/com.nordstrom.ui-tools/selenium-foundation@22.4.4-s3?classifier=sources
+- pkg:maven/com.nordstrom.ui-tools/selenium-foundation@23.0.0-s2?classifier=sources
+- pkg:maven/com.nordstrom.ui-tools/selenium-foundation@23.0.0-s3?classifier=sources
+- pkg:maven/com.nordstrom.ui-tools/selenium-foundation@23.0.1-s2?classifier=sources
+- pkg:maven/com.nordstrom.ui-tools/selenium-foundation@23.0.1-s3?classifier=sources

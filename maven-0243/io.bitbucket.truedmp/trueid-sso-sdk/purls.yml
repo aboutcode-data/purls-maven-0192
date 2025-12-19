@@ -5,3 +5,5 @@
 - pkg:maven/io.bitbucket.truedmp/trueid-sso-sdk@4.9.0?classifier=sources
 - pkg:maven/io.bitbucket.truedmp/trueid-sso-sdk@4.9.0?type=aar
 - pkg:maven/io.bitbucket.truedmp/trueid-sso-sdk@5.0.0-alpha01?classifier=sources
+- pkg:maven/io.bitbucket.truedmp/trueid-sso-sdk@5.0.0-alpha02?classifier=sources
+- pkg:maven/io.bitbucket.truedmp/trueid-sso-sdk@5.0.0-alpha03?classifier=sources

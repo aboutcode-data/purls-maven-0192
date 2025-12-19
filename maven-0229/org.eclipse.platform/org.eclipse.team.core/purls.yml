@@ -28,3 +28,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.team.core@3.9.100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.team.core@3.9.200
 - pkg:maven/org.eclipse.platform/org.eclipse.team.core@3.9.200?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.team.core@3.9.300
+- pkg:maven/org.eclipse.platform/org.eclipse.team.core@3.9.300?classifier=sources

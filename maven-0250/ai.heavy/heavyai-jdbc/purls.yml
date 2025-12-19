@@ -1,0 +1,2 @@
+- pkg:maven/ai.heavy/heavyai-jdbc@6.0.0
+- pkg:maven/ai.heavy/heavyai-jdbc@6.0.0?classifier=sources

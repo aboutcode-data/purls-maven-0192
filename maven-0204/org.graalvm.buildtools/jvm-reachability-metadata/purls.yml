@@ -1,0 +1,1 @@
+- pkg:maven/org.graalvm.buildtools/jvm-reachability-metadata@0.9.11?classifier=sources

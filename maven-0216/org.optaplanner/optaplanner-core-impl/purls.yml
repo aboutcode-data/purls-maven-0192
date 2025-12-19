@@ -2,3 +2,5 @@
 - pkg:maven/org.optaplanner/optaplanner-core-impl@8.18.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-core-impl@8.19.0.Final
 - pkg:maven/org.optaplanner/optaplanner-core-impl@8.19.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-core-impl@8.20.0.Final
+- pkg:maven/org.optaplanner/optaplanner-core-impl@8.20.0.Final?classifier=sources

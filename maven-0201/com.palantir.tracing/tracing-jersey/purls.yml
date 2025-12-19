@@ -47,6 +47,8 @@
 - pkg:maven/com.palantir.tracing/tracing-jersey@5.1.0?classifier=sources
 - pkg:maven/com.palantir.tracing/tracing-jersey@6.0.0?classifier=sources
 - pkg:maven/com.palantir.tracing/tracing-jersey@6.1.0?classifier=sources
+- pkg:maven/com.palantir.tracing/tracing-jersey@6.10.0?classifier=sources
+- pkg:maven/com.palantir.tracing/tracing-jersey@6.11.0?classifier=sources
 - pkg:maven/com.palantir.tracing/tracing-jersey@6.2.0?classifier=sources
 - pkg:maven/com.palantir.tracing/tracing-jersey@6.3.0?classifier=sources
 - pkg:maven/com.palantir.tracing/tracing-jersey@6.4.0?classifier=sources

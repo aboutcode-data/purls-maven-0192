@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/firebase__installations@0.4.19
 - pkg:maven/org.webjars.npm/firebase__installations@0.4.19?classifier=sources
+- pkg:maven/org.webjars.npm/firebase__installations@0.5.7
+- pkg:maven/org.webjars.npm/firebase__installations@0.5.7?classifier=sources

@@ -12,6 +12,7 @@
 - pkg:maven/net.leodb.dynamodb/starter@1.0.19
 - pkg:maven/net.leodb.dynamodb/starter@1.0.2
 - pkg:maven/net.leodb.dynamodb/starter@1.0.20
+- pkg:maven/net.leodb.dynamodb/starter@1.0.21
 - pkg:maven/net.leodb.dynamodb/starter@1.0.3
 - pkg:maven/net.leodb.dynamodb/starter@1.0.4
 - pkg:maven/net.leodb.dynamodb/starter@1.0.5

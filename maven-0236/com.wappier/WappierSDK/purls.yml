@@ -28,3 +28,7 @@
 - pkg:maven/com.wappier/WappierSDK@4.1.1-nobillingRelease?classifier=sources
 - pkg:maven/com.wappier/WappierSDK@4.1.2-billingRelease?classifier=sources
 - pkg:maven/com.wappier/WappierSDK@4.1.2-nobillingRelease?classifier=sources
+- pkg:maven/com.wappier/WappierSDK@4.1.3-billingRelease?classifier=sources
+- pkg:maven/com.wappier/WappierSDK@4.1.3-nobillingRelease?classifier=sources
+- pkg:maven/com.wappier/WappierSDK@4.1.4-billingRelease?classifier=sources
+- pkg:maven/com.wappier/WappierSDK@4.1.4-nobillingRelease?classifier=sources

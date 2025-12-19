@@ -19,3 +19,6 @@
 - pkg:maven/eu.nets.pia/pia-sdk@2.5.1?type=aar
 - pkg:maven/eu.nets.pia/pia-sdk@2.6.0?type=aar
 - pkg:maven/eu.nets.pia/pia-sdk@2.6.1?type=aar
+- pkg:maven/eu.nets.pia/pia-sdk@2.6.2?type=aar
+- pkg:maven/eu.nets.pia/pia-sdk@2.6.3?type=aar
+- pkg:maven/eu.nets.pia/pia-sdk@2.6.4?type=aar

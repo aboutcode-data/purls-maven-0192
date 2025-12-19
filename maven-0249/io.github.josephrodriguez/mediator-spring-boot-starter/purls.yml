@@ -1,0 +1,8 @@
+- pkg:maven/io.github.josephrodriguez/mediator-spring-boot-starter@0.1.0-prerelease
+- pkg:maven/io.github.josephrodriguez/mediator-spring-boot-starter@0.1.0-prerelease?classifier=sources
+- pkg:maven/io.github.josephrodriguez/mediator-spring-boot-starter@1.0.0
+- pkg:maven/io.github.josephrodriguez/mediator-spring-boot-starter@1.0.0?classifier=sources
+- pkg:maven/io.github.josephrodriguez/mediator-spring-boot-starter@1.0.1
+- pkg:maven/io.github.josephrodriguez/mediator-spring-boot-starter@1.0.1?classifier=sources
+- pkg:maven/io.github.josephrodriguez/mediator-spring-boot-starter@1.1.0
+- pkg:maven/io.github.josephrodriguez/mediator-spring-boot-starter@1.1.0?classifier=sources

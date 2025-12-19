@@ -13,3 +13,6 @@
 - pkg:maven/org.apache.sling/jspc-maven-plugin@2.3.2
 - pkg:maven/org.apache.sling/jspc-maven-plugin@2.3.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/jspc-maven-plugin@2.3.2?classifier=sources
+- pkg:maven/org.apache.sling/jspc-maven-plugin@2.3.4
+- pkg:maven/org.apache.sling/jspc-maven-plugin@2.3.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/jspc-maven-plugin@2.3.4?classifier=sources

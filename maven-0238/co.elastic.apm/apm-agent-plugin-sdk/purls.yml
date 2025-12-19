@@ -40,3 +40,5 @@
 - pkg:maven/co.elastic.apm/apm-agent-plugin-sdk@1.28.4?classifier=sources
 - pkg:maven/co.elastic.apm/apm-agent-plugin-sdk@1.29.0
 - pkg:maven/co.elastic.apm/apm-agent-plugin-sdk@1.29.0?classifier=sources
+- pkg:maven/co.elastic.apm/apm-agent-plugin-sdk@1.30.0
+- pkg:maven/co.elastic.apm/apm-agent-plugin-sdk@1.30.0?classifier=sources

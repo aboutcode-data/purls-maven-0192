@@ -6,3 +6,5 @@
 - pkg:maven/com.farao-community.farao/gridcapa-cse-data@0.3.0?classifier=sources
 - pkg:maven/com.farao-community.farao/gridcapa-cse-data@0.4.0
 - pkg:maven/com.farao-community.farao/gridcapa-cse-data@0.4.0?classifier=sources
+- pkg:maven/com.farao-community.farao/gridcapa-cse-data@1.0.0
+- pkg:maven/com.farao-community.farao/gridcapa-cse-data@1.0.0?classifier=sources

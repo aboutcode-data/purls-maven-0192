@@ -2,3 +2,5 @@
 - pkg:maven/com.codeages/escloud-java-sdk@1.0.0-RELEASES?classifier=sources
 - pkg:maven/com.codeages/escloud-java-sdk@1.0.1-RELEASES
 - pkg:maven/com.codeages/escloud-java-sdk@1.0.1-RELEASES?classifier=sources
+- pkg:maven/com.codeages/escloud-java-sdk@1.0.2-RELEASES
+- pkg:maven/com.codeages/escloud-java-sdk@1.0.2-RELEASES?classifier=sources

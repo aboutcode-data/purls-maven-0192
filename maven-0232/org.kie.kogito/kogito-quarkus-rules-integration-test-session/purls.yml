@@ -24,6 +24,8 @@
 - pkg:maven/org.kie.kogito/kogito-quarkus-rules-integration-test-session@1.18.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-quarkus-rules-integration-test-session@1.19.0.Final
 - pkg:maven/org.kie.kogito/kogito-quarkus-rules-integration-test-session@1.19.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-quarkus-rules-integration-test-session@1.20.0.Final
+- pkg:maven/org.kie.kogito/kogito-quarkus-rules-integration-test-session@1.20.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-quarkus-rules-integration-test-session@1.4.0.Final
 - pkg:maven/org.kie.kogito/kogito-quarkus-rules-integration-test-session@1.4.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-quarkus-rules-integration-test-session@1.4.1.Final

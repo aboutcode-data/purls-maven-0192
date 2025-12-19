@@ -182,6 +182,10 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-manual@7.3.22?type=war
 - pkg:maven/org.ops4j.pax.web/pax-web-manual@7.3.23?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-manual@7.3.23?type=war
+- pkg:maven/org.ops4j.pax.web/pax-web-manual@7.3.24?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-manual@7.3.24?type=war
+- pkg:maven/org.ops4j.pax.web/pax-web-manual@7.3.25?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-manual@7.3.25?type=war
 - pkg:maven/org.ops4j.pax.web/pax-web-manual@7.3.2?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-manual@7.3.2?type=war
 - pkg:maven/org.ops4j.pax.web/pax-web-manual@7.3.3?classifier=sources
@@ -210,3 +214,4 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-manual@7.4.4?type=war
 - pkg:maven/org.ops4j.pax.web/pax-web-manual@8.0.0?type=war
 - pkg:maven/org.ops4j.pax.web/pax-web-manual@8.0.1?type=war
+- pkg:maven/org.ops4j.pax.web/pax-web-manual@8.0.2?type=war

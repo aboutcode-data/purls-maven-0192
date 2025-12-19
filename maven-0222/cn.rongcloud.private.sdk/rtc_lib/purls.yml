@@ -4,3 +4,7 @@
 - pkg:maven/cn.rongcloud.private.sdk/rtc_lib@5.1.15.50?type=aar
 - pkg:maven/cn.rongcloud.private.sdk/rtc_lib@5.1.15?classifier=sources
 - pkg:maven/cn.rongcloud.private.sdk/rtc_lib@5.1.15?type=aar
+- pkg:maven/cn.rongcloud.private.sdk/rtc_lib@5.1.17.50-beta?classifier=sources
+- pkg:maven/cn.rongcloud.private.sdk/rtc_lib@5.1.17.50-beta?type=aar
+- pkg:maven/cn.rongcloud.private.sdk/rtc_lib@5.1.17.50?classifier=sources
+- pkg:maven/cn.rongcloud.private.sdk/rtc_lib@5.1.17.50?type=aar

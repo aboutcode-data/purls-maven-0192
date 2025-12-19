@@ -2,3 +2,5 @@
 - pkg:maven/io.jmad/jmad-modelpack-swing@0.3.3?classifier=sources
 - pkg:maven/io.jmad/jmad-modelpack-swing@0.3.4
 - pkg:maven/io.jmad/jmad-modelpack-swing@0.3.4?classifier=sources
+- pkg:maven/io.jmad/jmad-modelpack-swing@0.4.0
+- pkg:maven/io.jmad/jmad-modelpack-swing@0.4.0?classifier=sources

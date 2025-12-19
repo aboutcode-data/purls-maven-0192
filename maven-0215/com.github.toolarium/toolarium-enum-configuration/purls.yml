@@ -16,3 +16,4 @@
 - pkg:maven/com.github.toolarium/toolarium-enum-configuration@0.9.7?classifier=sources
 - pkg:maven/com.github.toolarium/toolarium-enum-configuration@0.9.8?classifier=sources
 - pkg:maven/com.github.toolarium/toolarium-enum-configuration@0.9.9?classifier=sources
+- pkg:maven/com.github.toolarium/toolarium-enum-configuration@1.1.0?classifier=sources

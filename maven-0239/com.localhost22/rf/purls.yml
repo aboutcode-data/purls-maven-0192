@@ -1,0 +1,2 @@
+- pkg:maven/com.localhost22/rf@1.0
+- pkg:maven/com.localhost22/rf@1.0?classifier=sources

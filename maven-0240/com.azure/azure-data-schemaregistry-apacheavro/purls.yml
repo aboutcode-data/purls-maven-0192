@@ -1,3 +1,7 @@
+- pkg:maven/com.azure/azure-data-schemaregistry-apacheavro@1.0.0-beta.10
+- pkg:maven/com.azure/azure-data-schemaregistry-apacheavro@1.0.0-beta.10?classifier=sources
+- pkg:maven/com.azure/azure-data-schemaregistry-apacheavro@1.0.0-beta.11
+- pkg:maven/com.azure/azure-data-schemaregistry-apacheavro@1.0.0-beta.11?classifier=sources
 - pkg:maven/com.azure/azure-data-schemaregistry-apacheavro@1.0.0-beta.6
 - pkg:maven/com.azure/azure-data-schemaregistry-apacheavro@1.0.0-beta.6?classifier=sources
 - pkg:maven/com.azure/azure-data-schemaregistry-apacheavro@1.0.0-beta.7

@@ -28,3 +28,4 @@
 - pkg:maven/org.odpi.egeria/software-developer-client@3.4
 - pkg:maven/org.odpi.egeria/software-developer-client@3.5
 - pkg:maven/org.odpi.egeria/software-developer-client@3.6
+- pkg:maven/org.odpi.egeria/software-developer-client@3.7

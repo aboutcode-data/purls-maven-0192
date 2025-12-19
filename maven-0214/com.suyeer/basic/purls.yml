@@ -120,3 +120,5 @@
 - pkg:maven/com.suyeer/basic@3.4.4?classifier=sources
 - pkg:maven/com.suyeer/basic@4.0.0
 - pkg:maven/com.suyeer/basic@4.0.0?classifier=sources
+- pkg:maven/com.suyeer/basic@4.0.1
+- pkg:maven/com.suyeer/basic@4.0.1?classifier=sources

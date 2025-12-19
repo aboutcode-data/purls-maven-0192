@@ -1,0 +1,2 @@
+- pkg:maven/com.okta.kotlin/web-authentication-ui@0.2.0-BETA?classifier=sources
+- pkg:maven/com.okta.kotlin/web-authentication-ui@0.3.0-BETA?classifier=sources

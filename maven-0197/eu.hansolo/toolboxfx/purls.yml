@@ -12,6 +12,11 @@
 - pkg:maven/eu.hansolo/toolboxfx@17.0.21?classifier=sources
 - pkg:maven/eu.hansolo/toolboxfx@17.0.22?classifier=sources
 - pkg:maven/eu.hansolo/toolboxfx@17.0.23?classifier=sources
+- pkg:maven/eu.hansolo/toolboxfx@17.0.24?classifier=sources
+- pkg:maven/eu.hansolo/toolboxfx@17.0.25?classifier=sources
+- pkg:maven/eu.hansolo/toolboxfx@17.0.26?classifier=sources
+- pkg:maven/eu.hansolo/toolboxfx@17.0.27?classifier=sources
+- pkg:maven/eu.hansolo/toolboxfx@17.0.28?classifier=sources
 - pkg:maven/eu.hansolo/toolboxfx@17.0.2?classifier=sources
 - pkg:maven/eu.hansolo/toolboxfx@17.0.3?classifier=sources
 - pkg:maven/eu.hansolo/toolboxfx@17.0.4?classifier=sources

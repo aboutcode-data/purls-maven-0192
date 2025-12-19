@@ -20,3 +20,5 @@
 - pkg:maven/com.cognitect.aws/greengrass@809.2.784.0?classifier=sources
 - pkg:maven/com.cognitect.aws/greengrass@811.2.889.0
 - pkg:maven/com.cognitect.aws/greengrass@811.2.889.0?classifier=sources
+- pkg:maven/com.cognitect.aws/greengrass@821.2.1107.0
+- pkg:maven/com.cognitect.aws/greengrass@821.2.1107.0?classifier=sources
