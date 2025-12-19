@@ -1,0 +1,2 @@
+- pkg:maven/com.pulumi/gitlab@4.9.0-alpha.1666628674%2Ba29b05ea?classifier=sources
+- pkg:maven/com.pulumi/gitlab@4.9.0?classifier=sources

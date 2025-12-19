@@ -64,3 +64,5 @@
 - pkg:maven/com.cognitect.aws/redshift@822.2.1181.0?classifier=sources
 - pkg:maven/com.cognitect.aws/redshift@823.2.1216.0
 - pkg:maven/com.cognitect.aws/redshift@823.2.1216.0?classifier=sources
+- pkg:maven/com.cognitect.aws/redshift@825.2.1250.0
+- pkg:maven/com.cognitect.aws/redshift@825.2.1250.0?classifier=sources

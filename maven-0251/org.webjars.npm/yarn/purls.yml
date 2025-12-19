@@ -15,6 +15,8 @@
 - pkg:maven/org.webjars.npm/yarn@1.12.1
 - pkg:maven/org.webjars.npm/yarn@1.12.1?classifier=sources
 - pkg:maven/org.webjars.npm/yarn@1.12.3
+- pkg:maven/org.webjars.npm/yarn@1.22.19
+- pkg:maven/org.webjars.npm/yarn@1.22.19?classifier=sources
 - pkg:maven/org.webjars.npm/yarn@1.6.0
 - pkg:maven/org.webjars.npm/yarn@1.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/yarn@1.9.4

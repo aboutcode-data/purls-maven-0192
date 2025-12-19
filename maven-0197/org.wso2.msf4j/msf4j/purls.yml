@@ -18,3 +18,4 @@
 - pkg:maven/org.wso2.msf4j/msf4j@2.8.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.msf4j/msf4j@2.8.4?classifier=source-release&type=zip
 - pkg:maven/org.wso2.msf4j/msf4j@2.8.6?classifier=source-release&type=zip
+- pkg:maven/org.wso2.msf4j/msf4j@2.8.7?classifier=source-release&type=zip

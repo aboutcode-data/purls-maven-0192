@@ -71,6 +71,8 @@
 - pkg:maven/org.nanopub/nanopub@1.41?classifier=sources
 - pkg:maven/org.nanopub/nanopub@1.42
 - pkg:maven/org.nanopub/nanopub@1.42?classifier=sources
+- pkg:maven/org.nanopub/nanopub@1.43
+- pkg:maven/org.nanopub/nanopub@1.43?classifier=sources
 - pkg:maven/org.nanopub/nanopub@1.4?classifier=sources
 - pkg:maven/org.nanopub/nanopub@1.5
 - pkg:maven/org.nanopub/nanopub@1.5?classifier=sources

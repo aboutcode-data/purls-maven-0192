@@ -22,6 +22,8 @@
 - pkg:maven/com.google.apis/google-api-services-ideahub@v1alpha-rev20211029-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-ideahub@v1alpha-rev20211029-2.0.0
 - pkg:maven/com.google.apis/google-api-services-ideahub@v1alpha-rev20211029-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-ideahub@v1alpha-rev20221027-2.0.0
+- pkg:maven/com.google.apis/google-api-services-ideahub@v1alpha-rev20221027-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-ideahub@v1beta-rev20210831-1.32.1
 - pkg:maven/com.google.apis/google-api-services-ideahub@v1beta-rev20210831-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-ideahub@v1beta-rev20210910-1.32.1

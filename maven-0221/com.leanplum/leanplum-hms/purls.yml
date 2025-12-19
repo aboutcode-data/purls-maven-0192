@@ -6,3 +6,4 @@
 - pkg:maven/com.leanplum/leanplum-hms@5.10.4?classifier=sources
 - pkg:maven/com.leanplum/leanplum-hms@5.9.0?classifier=sources
 - pkg:maven/com.leanplum/leanplum-hms@6.0.0?classifier=sources
+- pkg:maven/com.leanplum/leanplum-hms@7.0.0?classifier=sources

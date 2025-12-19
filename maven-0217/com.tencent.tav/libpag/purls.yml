@@ -152,6 +152,14 @@
 - pkg:maven/com.tencent.tav/libpag@4.1.12-noffavc?type=aar
 - pkg:maven/com.tencent.tav/libpag@4.1.12?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@4.1.12?type=aar
+- pkg:maven/com.tencent.tav/libpag@4.1.13-noffavc?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@4.1.13-noffavc?type=aar
+- pkg:maven/com.tencent.tav/libpag@4.1.13?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@4.1.13?type=aar
+- pkg:maven/com.tencent.tav/libpag@4.1.16-noffavc?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@4.1.16-noffavc?type=aar
+- pkg:maven/com.tencent.tav/libpag@4.1.16?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@4.1.16?type=aar
 - pkg:maven/com.tencent.tav/libpag@4.1.7-noffavc?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@4.1.7-noffavc?type=aar
 - pkg:maven/com.tencent.tav/libpag@4.1.7?classifier=sources

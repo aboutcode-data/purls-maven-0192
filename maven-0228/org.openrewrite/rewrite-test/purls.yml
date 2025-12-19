@@ -168,6 +168,9 @@
 - pkg:maven/org.openrewrite/rewrite-test@7.30.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-test@7.30.1?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-test@7.31.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-test@7.32.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-test@7.32.1?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-test@7.33.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-test@7.4.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-test@7.5.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-test@7.6.0?classifier=sources

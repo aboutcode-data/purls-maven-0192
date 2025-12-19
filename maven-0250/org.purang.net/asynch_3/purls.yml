@@ -1,0 +1,4 @@
+- pkg:maven/org.purang.net/asynch_3@3.2.1
+- pkg:maven/org.purang.net/asynch_3@3.2.1-without-netty-cve
+- pkg:maven/org.purang.net/asynch_3@3.2.1-without-netty-cve?classifier=sources
+- pkg:maven/org.purang.net/asynch_3@3.2.1?classifier=sources

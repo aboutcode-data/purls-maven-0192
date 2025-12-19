@@ -30,3 +30,5 @@
 - pkg:maven/kr.motd.maven/os-maven-plugin@1.6.2?classifier=sources
 - pkg:maven/kr.motd.maven/os-maven-plugin@1.7.0
 - pkg:maven/kr.motd.maven/os-maven-plugin@1.7.0?classifier=sources
+- pkg:maven/kr.motd.maven/os-maven-plugin@1.7.1
+- pkg:maven/kr.motd.maven/os-maven-plugin@1.7.1?classifier=sources

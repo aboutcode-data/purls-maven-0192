@@ -1,0 +1,2 @@
+- pkg:maven/com.github.pierrenodet/spark-ensemble_2.13@0.9.0
+- pkg:maven/com.github.pierrenodet/spark-ensemble_2.13@0.9.0?classifier=sources

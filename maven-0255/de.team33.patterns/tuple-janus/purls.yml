@@ -1,0 +1,4 @@
+- pkg:maven/de.team33.patterns/tuple-janus@1.6.0
+- pkg:maven/de.team33.patterns/tuple-janus@1.6.0?classifier=sources
+- pkg:maven/de.team33.patterns/tuple-janus@1.7.0
+- pkg:maven/de.team33.patterns/tuple-janus@1.7.0?classifier=sources

@@ -5,3 +5,4 @@
 - pkg:maven/org.projectnessie/nessie-spark-antlr-runtime@0.41.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-spark-antlr-runtime@0.42.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-spark-antlr-runtime@0.43.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-spark-antlr-runtime@0.44.0?classifier=sources

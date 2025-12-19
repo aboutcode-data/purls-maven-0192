@@ -1,0 +1,6 @@
+- pkg:maven/dev.vality/exrates-proto@1.2-4303e74
+- pkg:maven/dev.vality/exrates-proto@1.2-4303e74?classifier=sources
+- pkg:maven/dev.vality/exrates-proto@1.3-875328b
+- pkg:maven/dev.vality/exrates-proto@1.3-875328b?classifier=sources
+- pkg:maven/dev.vality/exrates-proto@1.4-47ea381
+- pkg:maven/dev.vality/exrates-proto@1.4-47ea381?classifier=sources

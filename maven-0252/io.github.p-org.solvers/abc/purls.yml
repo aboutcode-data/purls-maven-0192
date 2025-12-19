@@ -1,0 +1,8 @@
+- pkg:maven/io.github.p-org.solvers/abc@1.0.0
+- pkg:maven/io.github.p-org.solvers/abc@1.0.0-v1
+- pkg:maven/io.github.p-org.solvers/abc@1.0.1
+- pkg:maven/io.github.p-org.solvers/abc@1.0.1-v1
+- pkg:maven/io.github.p-org.solvers/abc@1.0.1-v3
+- pkg:maven/io.github.p-org.solvers/abc@1.0.1-v3?classifier=sources
+- pkg:maven/io.github.p-org.solvers/abc@1.0.1-v5
+- pkg:maven/io.github.p-org.solvers/abc@1.0.1-v5?classifier=sources

@@ -66,3 +66,5 @@
 - pkg:maven/io.github.willena/sqlite-jdbc@3.39.2?classifier=sources
 - pkg:maven/io.github.willena/sqlite-jdbc@3.39.3.0
 - pkg:maven/io.github.willena/sqlite-jdbc@3.39.3.0?classifier=sources
+- pkg:maven/io.github.willena/sqlite-jdbc@3.39.4.0
+- pkg:maven/io.github.willena/sqlite-jdbc@3.39.4.0?classifier=sources

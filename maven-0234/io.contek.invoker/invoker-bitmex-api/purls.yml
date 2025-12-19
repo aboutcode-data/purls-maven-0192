@@ -27,3 +27,9 @@
 - pkg:maven/io.contek.invoker/invoker-bitmex-api@3.0.3?classifier=sources
 - pkg:maven/io.contek.invoker/invoker-bitmex-api@3.1.0?classifier=sources
 - pkg:maven/io.contek.invoker/invoker-bitmex-api@3.1.1?classifier=sources
+- pkg:maven/io.contek.invoker/invoker-bitmex-api@3.3.1?classifier=sources
+- pkg:maven/io.contek.invoker/invoker-bitmex-api@3.3.2?classifier=sources
+- pkg:maven/io.contek.invoker/invoker-bitmex-api@3.4.1?classifier=sources
+- pkg:maven/io.contek.invoker/invoker-bitmex-api@3.5.0?classifier=sources
+- pkg:maven/io.contek.invoker/invoker-bitmex-api@3.5.1?classifier=sources
+- pkg:maven/io.contek.invoker/invoker-bitmex-api@3.5.2?classifier=sources

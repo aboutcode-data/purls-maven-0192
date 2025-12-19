@@ -1,0 +1,4 @@
+- pkg:maven/com.mcsherrylabs/sss-db_2.13@0.9.56
+- pkg:maven/com.mcsherrylabs/sss-db_2.13@0.9.56?classifier=sources
+- pkg:maven/com.mcsherrylabs/sss-db_2.13@0.9.57
+- pkg:maven/com.mcsherrylabs/sss-db_2.13@0.9.57?classifier=sources

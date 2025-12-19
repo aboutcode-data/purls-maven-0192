@@ -90,3 +90,5 @@
 - pkg:maven/org.ocpsoft.rewrite/rewrite-integration-gwt@4.0.0.Alpha1?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite/rewrite-integration-gwt@5.0.0.Alpha1
 - pkg:maven/org.ocpsoft.rewrite/rewrite-integration-gwt@5.0.0.Alpha1?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite/rewrite-integration-gwt@6.0.0.Alpha1
+- pkg:maven/org.ocpsoft.rewrite/rewrite-integration-gwt@6.0.0.Alpha1?classifier=sources

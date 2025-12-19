@@ -165,6 +165,10 @@
 - pkg:maven/com.vaadin/flow-dnd@2.7.20?classifier=sources
 - pkg:maven/com.vaadin/flow-dnd@2.7.21
 - pkg:maven/com.vaadin/flow-dnd@2.7.21?classifier=sources
+- pkg:maven/com.vaadin/flow-dnd@2.7.22
+- pkg:maven/com.vaadin/flow-dnd@2.7.22?classifier=sources
+- pkg:maven/com.vaadin/flow-dnd@2.7.23
+- pkg:maven/com.vaadin/flow-dnd@2.7.23?classifier=sources
 - pkg:maven/com.vaadin/flow-dnd@2.7.2?classifier=sources
 - pkg:maven/com.vaadin/flow-dnd@2.7.3
 - pkg:maven/com.vaadin/flow-dnd@2.7.3?classifier=sources
@@ -179,6 +183,8 @@
 - pkg:maven/com.vaadin/flow-dnd@2.7.8?classifier=sources
 - pkg:maven/com.vaadin/flow-dnd@2.7.9
 - pkg:maven/com.vaadin/flow-dnd@2.7.9?classifier=sources
+- pkg:maven/com.vaadin/flow-dnd@2.8.0
+- pkg:maven/com.vaadin/flow-dnd@2.8.0?classifier=sources
 - pkg:maven/com.vaadin/flow-dnd@23.0.0
 - pkg:maven/com.vaadin/flow-dnd@23.0.0?classifier=sources
 - pkg:maven/com.vaadin/flow-dnd@23.0.1
@@ -212,6 +218,10 @@
 - pkg:maven/com.vaadin/flow-dnd@23.1.0
 - pkg:maven/com.vaadin/flow-dnd@23.1.0?classifier=sources
 - pkg:maven/com.vaadin/flow-dnd@23.1.1
+- pkg:maven/com.vaadin/flow-dnd@23.1.10
+- pkg:maven/com.vaadin/flow-dnd@23.1.10?classifier=sources
+- pkg:maven/com.vaadin/flow-dnd@23.1.11
+- pkg:maven/com.vaadin/flow-dnd@23.1.11?classifier=sources
 - pkg:maven/com.vaadin/flow-dnd@23.1.1?classifier=sources
 - pkg:maven/com.vaadin/flow-dnd@23.1.2
 - pkg:maven/com.vaadin/flow-dnd@23.1.2?classifier=sources
@@ -227,6 +237,8 @@
 - pkg:maven/com.vaadin/flow-dnd@23.1.7?classifier=sources
 - pkg:maven/com.vaadin/flow-dnd@23.1.8
 - pkg:maven/com.vaadin/flow-dnd@23.1.8?classifier=sources
+- pkg:maven/com.vaadin/flow-dnd@23.1.9
+- pkg:maven/com.vaadin/flow-dnd@23.1.9?classifier=sources
 - pkg:maven/com.vaadin/flow-dnd@23.2.0
 - pkg:maven/com.vaadin/flow-dnd@23.2.0?classifier=sources
 - pkg:maven/com.vaadin/flow-dnd@23.2.1
@@ -235,6 +247,12 @@
 - pkg:maven/com.vaadin/flow-dnd@23.2.2?classifier=sources
 - pkg:maven/com.vaadin/flow-dnd@23.2.3
 - pkg:maven/com.vaadin/flow-dnd@23.2.3?classifier=sources
+- pkg:maven/com.vaadin/flow-dnd@23.2.4
+- pkg:maven/com.vaadin/flow-dnd@23.2.4?classifier=sources
+- pkg:maven/com.vaadin/flow-dnd@23.2.5
+- pkg:maven/com.vaadin/flow-dnd@23.2.5?classifier=sources
+- pkg:maven/com.vaadin/flow-dnd@23.2.6
+- pkg:maven/com.vaadin/flow-dnd@23.2.6?classifier=sources
 - pkg:maven/com.vaadin/flow-dnd@3.0.0
 - pkg:maven/com.vaadin/flow-dnd@3.0.0?classifier=sources
 - pkg:maven/com.vaadin/flow-dnd@3.0.1
@@ -374,6 +392,8 @@
 - pkg:maven/com.vaadin/flow-dnd@9.0.2
 - pkg:maven/com.vaadin/flow-dnd@9.0.20
 - pkg:maven/com.vaadin/flow-dnd@9.0.20?classifier=sources
+- pkg:maven/com.vaadin/flow-dnd@9.0.21
+- pkg:maven/com.vaadin/flow-dnd@9.0.21?classifier=sources
 - pkg:maven/com.vaadin/flow-dnd@9.0.2?classifier=sources
 - pkg:maven/com.vaadin/flow-dnd@9.0.3?classifier=sources
 - pkg:maven/com.vaadin/flow-dnd@9.0.4

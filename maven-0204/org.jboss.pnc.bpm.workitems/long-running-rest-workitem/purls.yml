@@ -6,3 +6,5 @@
 - pkg:maven/org.jboss.pnc.bpm.workitems/long-running-rest-workitem@7.52.2?classifier=sources
 - pkg:maven/org.jboss.pnc.bpm.workitems/long-running-rest-workitem@7.59.1?classifier=source-release&type=zip
 - pkg:maven/org.jboss.pnc.bpm.workitems/long-running-rest-workitem@7.59.1?classifier=sources
+- pkg:maven/org.jboss.pnc.bpm.workitems/long-running-rest-workitem@7.59.3?classifier=source-release&type=zip
+- pkg:maven/org.jboss.pnc.bpm.workitems/long-running-rest-workitem@7.59.3?classifier=sources

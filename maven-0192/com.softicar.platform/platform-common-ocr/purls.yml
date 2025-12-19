@@ -47,3 +47,9 @@
 - pkg:maven/com.softicar.platform/platform-common-ocr@24.0.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-common-ocr@24.0.1?classifier=sources
 - pkg:maven/com.softicar.platform/platform-common-ocr@24.0.2?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-ocr@25.0.0-rc1?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-ocr@25.0.0-rc2?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-ocr@25.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-ocr@25.0.1?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-ocr@26.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-ocr@26.0.1?classifier=sources

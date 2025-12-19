@@ -12,3 +12,5 @@
 - pkg:maven/io.guise/guise-framework-demo@0.5.1?type=war
 - pkg:maven/io.guise/guise-framework-demo@0.5.2?classifier=sources
 - pkg:maven/io.guise/guise-framework-demo@0.5.2?type=war
+- pkg:maven/io.guise/guise-framework-demo@0.5.3?classifier=sources
+- pkg:maven/io.guise/guise-framework-demo@0.5.3?type=war

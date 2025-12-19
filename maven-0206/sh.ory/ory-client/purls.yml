@@ -398,3 +398,5 @@
 - pkg:maven/sh.ory/ory-client@0.2.0-alpha.48
 - pkg:maven/sh.ory/ory-client@0.2.0-alpha.48?classifier=sources
 - pkg:maven/sh.ory/ory-client@0.2.0-alpha.4?classifier=sources
+- pkg:maven/sh.ory/ory-client@0.2.0-alpha.60
+- pkg:maven/sh.ory/ory-client@0.2.0-alpha.60?classifier=sources

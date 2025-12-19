@@ -1,2 +1,4 @@
 - pkg:maven/org.sila-standard.sila_java.examples/binary_transfer@0.8.0
 - pkg:maven/org.sila-standard.sila_java.examples/binary_transfer@0.8.0?classifier=sources
+- pkg:maven/org.sila-standard.sila_java.examples/binary_transfer@0.9.0
+- pkg:maven/org.sila-standard.sila_java.examples/binary_transfer@0.9.0?classifier=sources

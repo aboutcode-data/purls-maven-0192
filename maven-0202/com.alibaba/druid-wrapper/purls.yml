@@ -1,2 +1,8 @@
+- pkg:maven/com.alibaba/druid-wrapper@1.2.13
 - pkg:maven/com.alibaba/druid-wrapper@1.2.13-SNSAPSHOT
 - pkg:maven/com.alibaba/druid-wrapper@1.2.13-SNSAPSHOT?classifier=sources
+- pkg:maven/com.alibaba/druid-wrapper@1.2.13?classifier=sources
+- pkg:maven/com.alibaba/druid-wrapper@1.2.14
+- pkg:maven/com.alibaba/druid-wrapper@1.2.14?classifier=sources
+- pkg:maven/com.alibaba/druid-wrapper@1.2.15
+- pkg:maven/com.alibaba/druid-wrapper@1.2.15?classifier=sources

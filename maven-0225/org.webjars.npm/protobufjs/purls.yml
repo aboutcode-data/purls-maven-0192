@@ -28,3 +28,5 @@
 - pkg:maven/org.webjars.npm/protobufjs@6.8.8?classifier=sources
 - pkg:maven/org.webjars.npm/protobufjs@7.0.0
 - pkg:maven/org.webjars.npm/protobufjs@7.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/protobufjs@7.1.2
+- pkg:maven/org.webjars.npm/protobufjs@7.1.2?classifier=sources

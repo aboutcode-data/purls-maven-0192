@@ -24,3 +24,5 @@
 - pkg:maven/com.google.apis/google-api-services-contactcenterinsights@v1-rev20220513-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-contactcenterinsights@v1-rev20220513-2.0.0
 - pkg:maven/com.google.apis/google-api-services-contactcenterinsights@v1-rev20220513-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-contactcenterinsights@v1-rev20221108-2.0.0
+- pkg:maven/com.google.apis/google-api-services-contactcenterinsights@v1-rev20221108-2.0.0?classifier=sources

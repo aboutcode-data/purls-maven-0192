@@ -18,3 +18,5 @@
 - pkg:maven/io.javaoperatorsdk/operator-framework-spring-boot-starter-samples-auto-configuration@3.0.3?classifier=sources
 - pkg:maven/io.javaoperatorsdk/operator-framework-spring-boot-starter-samples-auto-configuration@3.2.0
 - pkg:maven/io.javaoperatorsdk/operator-framework-spring-boot-starter-samples-auto-configuration@3.2.0?classifier=sources
+- pkg:maven/io.javaoperatorsdk/operator-framework-spring-boot-starter-samples-auto-configuration@4.1.1
+- pkg:maven/io.javaoperatorsdk/operator-framework-spring-boot-starter-samples-auto-configuration@4.1.1?classifier=sources

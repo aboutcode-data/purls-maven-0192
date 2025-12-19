@@ -15,6 +15,7 @@
 - pkg:maven/org.webjars/datatables-plugins@1.10.9
 - pkg:maven/org.webjars/datatables-plugins@1.10.9-1
 - pkg:maven/org.webjars/datatables-plugins@1.11.4
+- pkg:maven/org.webjars/datatables-plugins@1.12.0
 - pkg:maven/org.webjars/datatables-plugins@15ba23c72a
 - pkg:maven/org.webjars/datatables-plugins@9dcbecd42ad
 - pkg:maven/org.webjars/datatables-plugins@b644af9c80

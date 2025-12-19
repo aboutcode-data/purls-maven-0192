@@ -101,3 +101,6 @@
 - pkg:maven/com.azure/azure-security-keyvault-keys@4.4.5?classifier=sources
 - pkg:maven/com.azure/azure-security-keyvault-keys@4.4.6?classifier=sources
 - pkg:maven/com.azure/azure-security-keyvault-keys@4.5.0?classifier=sources
+- pkg:maven/com.azure/azure-security-keyvault-keys@4.5.1?classifier=sources
+- pkg:maven/com.azure/azure-security-keyvault-keys@4.5.2?classifier=sources
+- pkg:maven/com.azure/azure-security-keyvault-keys@4.6.0-beta.1?classifier=sources

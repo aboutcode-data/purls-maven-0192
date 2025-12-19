@@ -66,3 +66,5 @@
 - pkg:maven/com.thecoderscorner.tcmenu/tcMenuJavaAPI@2.3.1?classifier=sources
 - pkg:maven/com.thecoderscorner.tcmenu/tcMenuJavaAPI@2.4.0
 - pkg:maven/com.thecoderscorner.tcmenu/tcMenuJavaAPI@2.4.0?classifier=sources
+- pkg:maven/com.thecoderscorner.tcmenu/tcMenuJavaAPI@2.5.0
+- pkg:maven/com.thecoderscorner.tcmenu/tcMenuJavaAPI@2.5.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.github.p-org.solvers/pjbdd@1.0.10-10
+- pkg:maven/io.github.p-org.solvers/pjbdd@1.0.10-10-v1
+- pkg:maven/io.github.p-org.solvers/pjbdd@1.0.10-10-v5
+- pkg:maven/io.github.p-org.solvers/pjbdd@1.0.10-10-v5?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/org.apache.iotdb/iotdb-cluster@0.13.0?classifier=sources
 - pkg:maven/org.apache.iotdb/iotdb-cluster@0.13.1?classifier=sources
 - pkg:maven/org.apache.iotdb/iotdb-cluster@0.13.2?classifier=sources
+- pkg:maven/org.apache.iotdb/iotdb-cluster@0.13.3?classifier=sources

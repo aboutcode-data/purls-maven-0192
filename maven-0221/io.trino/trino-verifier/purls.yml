@@ -98,3 +98,9 @@
 - pkg:maven/io.trino/trino-verifier@399?classifier=sources
 - pkg:maven/io.trino/trino-verifier@400
 - pkg:maven/io.trino/trino-verifier@400?classifier=sources
+- pkg:maven/io.trino/trino-verifier@401
+- pkg:maven/io.trino/trino-verifier@401?classifier=sources
+- pkg:maven/io.trino/trino-verifier@402
+- pkg:maven/io.trino/trino-verifier@402?classifier=sources
+- pkg:maven/io.trino/trino-verifier@403
+- pkg:maven/io.trino/trino-verifier@403?classifier=sources

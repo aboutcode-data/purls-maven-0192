@@ -1,0 +1,10 @@
+- pkg:maven/io.github.weiyijian/common-utils@1.0-RELEASE
+- pkg:maven/io.github.weiyijian/common-utils@1.0-RELEASE?classifier=sources
+- pkg:maven/io.github.weiyijian/common-utils@1.0-SNAPSHOP
+- pkg:maven/io.github.weiyijian/common-utils@1.0-SNAPSHOP?classifier=sources
+- pkg:maven/io.github.weiyijian/common-utils@2.0-RELEASE
+- pkg:maven/io.github.weiyijian/common-utils@2.0-RELEASE?classifier=sources
+- pkg:maven/io.github.weiyijian/common-utils@2.1-RELEASE
+- pkg:maven/io.github.weiyijian/common-utils@2.1-RELEASE?classifier=sources
+- pkg:maven/io.github.weiyijian/common-utils@2.1.1-RELEASE
+- pkg:maven/io.github.weiyijian/common-utils@2.1.1-RELEASE?classifier=sources

@@ -12,3 +12,4 @@
 - pkg:maven/org.apache.uima/uimaj-v3migration-jcas@3.1.1?classifier=sources
 - pkg:maven/org.apache.uima/uimaj-v3migration-jcas@3.2.0?classifier=sources
 - pkg:maven/org.apache.uima/uimaj-v3migration-jcas@3.3.0?classifier=sources
+- pkg:maven/org.apache.uima/uimaj-v3migration-jcas@3.3.1?classifier=sources

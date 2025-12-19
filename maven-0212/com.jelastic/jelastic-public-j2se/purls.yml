@@ -106,3 +106,7 @@
 - pkg:maven/com.jelastic/jelastic-public-j2se@7.3-2
 - pkg:maven/com.jelastic/jelastic-public-j2se@7.3-2?classifier=sources
 - pkg:maven/com.jelastic/jelastic-public-j2se@7.3?classifier=sources
+- pkg:maven/com.jelastic/jelastic-public-j2se@8.0-1
+- pkg:maven/com.jelastic/jelastic-public-j2se@8.0-1?classifier=sources
+- pkg:maven/com.jelastic/jelastic-public-j2se@8.0-2
+- pkg:maven/com.jelastic/jelastic-public-j2se@8.0-2?classifier=sources

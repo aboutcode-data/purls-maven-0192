@@ -47,5 +47,8 @@
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.saml2/identity-application-auth-samlsso@5.4.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.saml2/identity-application-auth-samlsso@5.4.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.saml2/identity-application-auth-samlsso@5.5.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.saml2/identity-application-auth-samlsso@5.6.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.saml2/identity-application-auth-samlsso@5.6.1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.saml2/identity-application-auth-samlsso@5.6.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.saml2/identity-application-auth-samlsso@5.7.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.saml2/identity-application-auth-samlsso@5.8.0?classifier=source-release&type=zip

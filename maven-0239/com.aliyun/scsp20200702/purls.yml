@@ -25,6 +25,8 @@
 - pkg:maven/com.aliyun/scsp20200702@1.9.20?classifier=sources
 - pkg:maven/com.aliyun/scsp20200702@1.9.21
 - pkg:maven/com.aliyun/scsp20200702@1.9.21?classifier=sources
+- pkg:maven/com.aliyun/scsp20200702@1.9.27
+- pkg:maven/com.aliyun/scsp20200702@1.9.27?classifier=sources
 - pkg:maven/com.aliyun/scsp20200702@1.9.2?classifier=sources
 - pkg:maven/com.aliyun/scsp20200702@1.9.3
 - pkg:maven/com.aliyun/scsp20200702@1.9.3?classifier=sources
