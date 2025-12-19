@@ -1,2 +1,5 @@
 - pkg:maven/org.jlab/jmyapi@6.1.0?classifier=sources
 - pkg:maven/org.jlab/jmyapi@6.2.0?classifier=sources
+- pkg:maven/org.jlab/jmyapi@6.3.0?classifier=sources
+- pkg:maven/org.jlab/jmyapi@6.4.0?classifier=sources
+- pkg:maven/org.jlab/jmyapi@7.0.0?classifier=sources

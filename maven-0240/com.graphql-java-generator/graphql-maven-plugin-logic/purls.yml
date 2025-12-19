@@ -88,5 +88,7 @@
 - pkg:maven/com.graphql-java-generator/graphql-maven-plugin-logic@1.8?classifier=sources
 - pkg:maven/com.graphql-java-generator/graphql-maven-plugin-logic@1.9
 - pkg:maven/com.graphql-java-generator/graphql-maven-plugin-logic@1.9?classifier=sources
+- pkg:maven/com.graphql-java-generator/graphql-maven-plugin-logic@2.0
+- pkg:maven/com.graphql-java-generator/graphql-maven-plugin-logic@2.0?classifier=sources
 - pkg:maven/com.graphql-java-generator/graphql-maven-plugin-logic@2.0RC1
 - pkg:maven/com.graphql-java-generator/graphql-maven-plugin-logic@2.0RC1?classifier=sources

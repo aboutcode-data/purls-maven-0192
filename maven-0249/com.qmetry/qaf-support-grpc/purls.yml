@@ -1,2 +1,4 @@
+- pkg:maven/com.qmetry/qaf-support-grpc@3.2.0
+- pkg:maven/com.qmetry/qaf-support-grpc@3.2.0?classifier=sources
 - pkg:maven/com.qmetry/qaf-support-grpc@3.2.0b
 - pkg:maven/com.qmetry/qaf-support-grpc@3.2.0b?classifier=sources

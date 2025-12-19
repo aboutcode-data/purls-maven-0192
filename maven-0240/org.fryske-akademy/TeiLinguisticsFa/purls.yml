@@ -18,3 +18,5 @@
 - pkg:maven/org.fryske-akademy/TeiLinguisticsFa@6.3?classifier=sources
 - pkg:maven/org.fryske-akademy/TeiLinguisticsFa@7.0
 - pkg:maven/org.fryske-akademy/TeiLinguisticsFa@7.0?classifier=sources
+- pkg:maven/org.fryske-akademy/TeiLinguisticsFa@7.2
+- pkg:maven/org.fryske-akademy/TeiLinguisticsFa@7.2?classifier=sources

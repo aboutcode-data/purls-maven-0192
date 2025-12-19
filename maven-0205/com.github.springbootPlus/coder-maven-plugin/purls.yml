@@ -5,3 +5,5 @@
 - pkg:maven/com.github.springbootPlus/coder-maven-plugin@1.0.3
 - pkg:maven/com.github.springbootPlus/coder-maven-plugin@1.0.3?classifier=sources
 - pkg:maven/com.github.springbootPlus/coder-maven-plugin@1.0.6
+- pkg:maven/com.github.springbootPlus/coder-maven-plugin@1.0.7
+- pkg:maven/com.github.springbootPlus/coder-maven-plugin@1.0.8

@@ -60,3 +60,8 @@
 - pkg:maven/io.trino/trino-bigquery@411?classifier=sources
 - pkg:maven/io.trino/trino-bigquery@412?classifier=sources
 - pkg:maven/io.trino/trino-bigquery@413?classifier=sources
+- pkg:maven/io.trino/trino-bigquery@414?classifier=sources
+- pkg:maven/io.trino/trino-bigquery@415?classifier=sources
+- pkg:maven/io.trino/trino-bigquery@416?classifier=sources
+- pkg:maven/io.trino/trino-bigquery@417?classifier=sources
+- pkg:maven/io.trino/trino-bigquery@418?classifier=sources

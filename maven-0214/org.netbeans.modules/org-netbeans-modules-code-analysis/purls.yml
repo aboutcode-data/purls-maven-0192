@@ -17,4 +17,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-code-analysis@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-code-analysis@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-code-analysis@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-code-analysis@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-code-analysis@RELEASE90?classifier=sources

@@ -56,3 +56,5 @@
 - pkg:maven/org.webjars.npm/tabulator-tables@5.4.3?classifier=sources
 - pkg:maven/org.webjars.npm/tabulator-tables@5.4.4
 - pkg:maven/org.webjars.npm/tabulator-tables@5.4.4?classifier=sources
+- pkg:maven/org.webjars.npm/tabulator-tables@5.5.0
+- pkg:maven/org.webjars.npm/tabulator-tables@5.5.0?classifier=sources

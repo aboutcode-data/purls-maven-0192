@@ -9,3 +9,5 @@
 - pkg:maven/org.kie/kie-drl-tests-without-index-file@8.35.0.Final
 - pkg:maven/org.kie/kie-drl-tests-without-index-file@8.36.0.Final
 - pkg:maven/org.kie/kie-drl-tests-without-index-file@8.37.0.Final
+- pkg:maven/org.kie/kie-drl-tests-without-index-file@8.38.0.Final
+- pkg:maven/org.kie/kie-drl-tests-without-index-file@8.39.0.Final

@@ -31,6 +31,9 @@
 - pkg:maven/io.micronaut.aws/micronaut-aws-cdk@3.16.0?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-cdk@3.16.1?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-cdk@3.17.0?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-cdk@3.17.1?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-cdk@3.17.2?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-cdk@3.17.3?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-cdk@3.4.0?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-cdk@3.5.0?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-cdk@3.5.1?classifier=sources
@@ -50,3 +53,5 @@
 - pkg:maven/io.micronaut.aws/micronaut-aws-cdk@3.9.2?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-cdk@3.9.3?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-cdk@4.0.0-M1?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-cdk@4.0.0-M2?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-cdk@4.0.0-M3?classifier=sources

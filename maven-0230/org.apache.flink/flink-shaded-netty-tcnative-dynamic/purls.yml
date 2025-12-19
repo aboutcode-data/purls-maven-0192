@@ -9,3 +9,4 @@
 - pkg:maven/org.apache.flink/flink-shaded-netty-tcnative-dynamic@2.0.44.Final-15.0
 - pkg:maven/org.apache.flink/flink-shaded-netty-tcnative-dynamic@2.0.54.Final-16.0
 - pkg:maven/org.apache.flink/flink-shaded-netty-tcnative-dynamic@2.0.54.Final-16.1
+- pkg:maven/org.apache.flink/flink-shaded-netty-tcnative-dynamic@2.0.59.Final-17.0

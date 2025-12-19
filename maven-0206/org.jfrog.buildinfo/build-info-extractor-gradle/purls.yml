@@ -110,3 +110,5 @@
 - pkg:maven/org.jfrog.buildinfo/build-info-extractor-gradle@4.31.8?classifier=sources
 - pkg:maven/org.jfrog.buildinfo/build-info-extractor-gradle@4.31.9
 - pkg:maven/org.jfrog.buildinfo/build-info-extractor-gradle@4.31.9?classifier=sources
+- pkg:maven/org.jfrog.buildinfo/build-info-extractor-gradle@4.32.0
+- pkg:maven/org.jfrog.buildinfo/build-info-extractor-gradle@4.32.0?classifier=sources

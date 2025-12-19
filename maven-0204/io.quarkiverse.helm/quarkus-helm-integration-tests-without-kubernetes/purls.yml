@@ -1,3 +1,5 @@
+- pkg:maven/io.quarkiverse.helm/quarkus-helm-integration-tests-without-kubernetes@0.2.10
+- pkg:maven/io.quarkiverse.helm/quarkus-helm-integration-tests-without-kubernetes@0.2.10?classifier=sources
 - pkg:maven/io.quarkiverse.helm/quarkus-helm-integration-tests-without-kubernetes@0.2.4
 - pkg:maven/io.quarkiverse.helm/quarkus-helm-integration-tests-without-kubernetes@0.2.4?classifier=sources
 - pkg:maven/io.quarkiverse.helm/quarkus-helm-integration-tests-without-kubernetes@0.2.5

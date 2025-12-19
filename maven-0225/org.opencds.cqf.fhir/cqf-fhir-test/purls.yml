@@ -1,2 +1,3 @@
+- pkg:maven/org.opencds.cqf.fhir/cqf-fhir-test@3.0.0-PRE2
 - pkg:maven/org.opencds.cqf.fhir/cqf-fhir-test@3.0.0.PRE-1
 - pkg:maven/org.opencds.cqf.fhir/cqf-fhir-test@3.0.0.PRE-1?classifier=sources

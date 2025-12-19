@@ -14,3 +14,5 @@
 - pkg:maven/net.xdob.luava/luava@0.15.2?classifier=sources
 - pkg:maven/net.xdob.luava/luava@0.16.0
 - pkg:maven/net.xdob.luava/luava@0.16.0?classifier=sources
+- pkg:maven/net.xdob.luava/luava@0.17.0
+- pkg:maven/net.xdob.luava/luava@0.17.0?classifier=sources

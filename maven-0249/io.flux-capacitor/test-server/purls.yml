@@ -658,3 +658,9 @@
 - pkg:maven/io.flux-capacitor/test-server@0.673.0?classifier=sources
 - pkg:maven/io.flux-capacitor/test-server@0.674.0
 - pkg:maven/io.flux-capacitor/test-server@0.674.0?classifier=sources
+- pkg:maven/io.flux-capacitor/test-server@0.675.0
+- pkg:maven/io.flux-capacitor/test-server@0.675.0?classifier=sources
+- pkg:maven/io.flux-capacitor/test-server@0.676.0
+- pkg:maven/io.flux-capacitor/test-server@0.676.0?classifier=sources
+- pkg:maven/io.flux-capacitor/test-server@0.677.0
+- pkg:maven/io.flux-capacitor/test-server@0.677.0?classifier=sources

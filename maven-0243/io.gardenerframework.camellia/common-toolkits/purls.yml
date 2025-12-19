@@ -1,1 +1,2 @@
 - pkg:maven/io.gardenerframework.camellia/common-toolkits@1.0.2?classifier=sources
+- pkg:maven/io.gardenerframework.camellia/common-toolkits@1.1.0?classifier=sources

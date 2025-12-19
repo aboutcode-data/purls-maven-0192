@@ -40,3 +40,5 @@
 - pkg:maven/com.cognitect.aws/imagebuilder@835.2.1307.0?classifier=sources
 - pkg:maven/com.cognitect.aws/imagebuilder@845.2.1359.0
 - pkg:maven/com.cognitect.aws/imagebuilder@845.2.1359.0?classifier=sources
+- pkg:maven/com.cognitect.aws/imagebuilder@847.2.1365.0
+- pkg:maven/com.cognitect.aws/imagebuilder@847.2.1365.0?classifier=sources

@@ -17,3 +17,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-grunt@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-grunt@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-grunt@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-grunt@RELEASE180?classifier=sources

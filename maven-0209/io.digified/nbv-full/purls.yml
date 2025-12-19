@@ -1,1 +1,2 @@
 - pkg:maven/io.digified/nbv-full@1.3.4?classifier=sources
+- pkg:maven/io.digified/nbv-full@1.3.5?classifier=sources

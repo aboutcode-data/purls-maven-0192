@@ -1,2 +1,4 @@
 - pkg:maven/is.cir/ciris-enumeratum_3@3.1.0
 - pkg:maven/is.cir/ciris-enumeratum_3@3.1.0?classifier=sources
+- pkg:maven/is.cir/ciris-enumeratum_3@3.2.0
+- pkg:maven/is.cir/ciris-enumeratum_3@3.2.0?classifier=sources

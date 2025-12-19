@@ -66,3 +66,5 @@
 - pkg:maven/com.softicar.platform/platform-integration@40.0.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-integration@40.0.1?classifier=sources
 - pkg:maven/com.softicar.platform/platform-integration@41.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-integration@41.1.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-integration@42.0.0?classifier=sources

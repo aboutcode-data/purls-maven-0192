@@ -1,1 +1,2 @@
 - pkg:maven/com.github.twitch4j/twitch4j-eventsub-websocket@1.14.0?classifier=sources
+- pkg:maven/com.github.twitch4j/twitch4j-eventsub-websocket@1.15.0?classifier=sources

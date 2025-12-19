@@ -124,3 +124,5 @@
 - pkg:maven/com.messagebird/messagebird-api@5.3.3?classifier=sources
 - pkg:maven/com.messagebird/messagebird-api@5.3.4
 - pkg:maven/com.messagebird/messagebird-api@5.3.4?classifier=sources
+- pkg:maven/com.messagebird/messagebird-api@6.0.0
+- pkg:maven/com.messagebird/messagebird-api@6.0.0?classifier=sources

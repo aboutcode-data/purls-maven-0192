@@ -28,3 +28,5 @@
 - pkg:maven/com.sap.cloud.security.xsuaa/spring-security-compatibility@2.13.8?classifier=sources
 - pkg:maven/com.sap.cloud.security.xsuaa/spring-security-compatibility@2.13.9
 - pkg:maven/com.sap.cloud.security.xsuaa/spring-security-compatibility@2.13.9?classifier=sources
+- pkg:maven/com.sap.cloud.security.xsuaa/spring-security-compatibility@3.0.0
+- pkg:maven/com.sap.cloud.security.xsuaa/spring-security-compatibility@3.0.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.redmadrobot.mapmemory/mapmemory-kapt-bug-workaround@2.0?classifier=sources
+- pkg:maven/com.redmadrobot.mapmemory/mapmemory-kapt-bug-workaround@2.1?classifier=sources

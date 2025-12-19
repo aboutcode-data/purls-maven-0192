@@ -12,6 +12,8 @@
 - pkg:maven/org.webjars.npm/babel__plugin-transform-new-target@7.17.12?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-transform-new-target@7.18.6
 - pkg:maven/org.webjars.npm/babel__plugin-transform-new-target@7.18.6?classifier=sources
+- pkg:maven/org.webjars.npm/babel__plugin-transform-new-target@7.21.4-esm.4
+- pkg:maven/org.webjars.npm/babel__plugin-transform-new-target@7.21.4-esm.4?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-transform-new-target@7.4.4
 - pkg:maven/org.webjars.npm/babel__plugin-transform-new-target@7.4.4?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-transform-new-target@7.8.3

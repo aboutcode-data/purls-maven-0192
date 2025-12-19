@@ -66,3 +66,7 @@
 - pkg:maven/dev.feast/feast-datatypes@0.30.0?classifier=sources
 - pkg:maven/dev.feast/feast-datatypes@0.30.2
 - pkg:maven/dev.feast/feast-datatypes@0.30.2?classifier=sources
+- pkg:maven/dev.feast/feast-datatypes@0.31.0
+- pkg:maven/dev.feast/feast-datatypes@0.31.0?classifier=sources
+- pkg:maven/dev.feast/feast-datatypes@0.31.1
+- pkg:maven/dev.feast/feast-datatypes@0.31.1?classifier=sources

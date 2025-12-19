@@ -7,3 +7,4 @@
 - pkg:maven/org.corpus-tools/pepperModules-SpreadsheetModules@0.1.0?classifier=sources
 - pkg:maven/org.corpus-tools/pepperModules-SpreadsheetModules@0.2.0?classifier=sources
 - pkg:maven/org.corpus-tools/pepperModules-SpreadsheetModules@0.2.1?classifier=sources
+- pkg:maven/org.corpus-tools/pepperModules-SpreadsheetModules@0.3.0?classifier=sources

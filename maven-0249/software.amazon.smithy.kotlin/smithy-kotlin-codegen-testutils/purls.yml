@@ -15,3 +15,9 @@
 - pkg:maven/software.amazon.smithy.kotlin/smithy-kotlin-codegen-testutils@0.17.1?classifier=sources
 - pkg:maven/software.amazon.smithy.kotlin/smithy-kotlin-codegen-testutils@0.17.2?classifier=sources
 - pkg:maven/software.amazon.smithy.kotlin/smithy-kotlin-codegen-testutils@0.17.3?classifier=sources
+- pkg:maven/software.amazon.smithy.kotlin/smithy-kotlin-codegen-testutils@0.17.4?classifier=sources
+- pkg:maven/software.amazon.smithy.kotlin/smithy-kotlin-codegen-testutils@0.18.0?classifier=sources
+- pkg:maven/software.amazon.smithy.kotlin/smithy-kotlin-codegen-testutils@0.19.0?classifier=sources
+- pkg:maven/software.amazon.smithy.kotlin/smithy-kotlin-codegen-testutils@0.20.0?classifier=sources
+- pkg:maven/software.amazon.smithy.kotlin/smithy-kotlin-codegen-testutils@0.21.0?classifier=sources
+- pkg:maven/software.amazon.smithy.kotlin/smithy-kotlin-codegen-testutils@0.21.1?classifier=sources

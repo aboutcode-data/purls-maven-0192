@@ -48,6 +48,8 @@
 - pkg:maven/com.microsoft.azure/msal4j@1.13.6?classifier=sources
 - pkg:maven/com.microsoft.azure/msal4j@1.13.7
 - pkg:maven/com.microsoft.azure/msal4j@1.13.7?classifier=sources
+- pkg:maven/com.microsoft.azure/msal4j@1.13.8
+- pkg:maven/com.microsoft.azure/msal4j@1.13.8?classifier=sources
 - pkg:maven/com.microsoft.azure/msal4j@1.14.0-beta
 - pkg:maven/com.microsoft.azure/msal4j@1.14.0-beta?classifier=sources
 - pkg:maven/com.microsoft.azure/msal4j@1.2.0

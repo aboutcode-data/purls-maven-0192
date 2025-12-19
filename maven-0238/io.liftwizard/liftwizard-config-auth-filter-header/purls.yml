@@ -1,2 +1,10 @@
 - pkg:maven/io.liftwizard/liftwizard-config-auth-filter-header@0.36.0
 - pkg:maven/io.liftwizard/liftwizard-config-auth-filter-header@0.36.0?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-config-auth-filter-header@0.37.0
+- pkg:maven/io.liftwizard/liftwizard-config-auth-filter-header@0.37.0?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-config-auth-filter-header@1.0.0
+- pkg:maven/io.liftwizard/liftwizard-config-auth-filter-header@1.0.0?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-config-auth-filter-header@1.0.1
+- pkg:maven/io.liftwizard/liftwizard-config-auth-filter-header@1.0.1?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-config-auth-filter-header@2.0.0
+- pkg:maven/io.liftwizard/liftwizard-config-auth-filter-header@2.0.0?classifier=sources

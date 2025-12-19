@@ -16,3 +16,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-linux@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-linux@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-linux@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-javafx-linux@RELEASE180?classifier=sources

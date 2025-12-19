@@ -17,3 +17,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-nodejs@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-nodejs@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-nodejs@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-nodejs@RELEASE180?classifier=sources

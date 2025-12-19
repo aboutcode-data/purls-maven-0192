@@ -4,3 +4,5 @@
 - pkg:maven/org.genesys-pgr/amphibian-client-resttemplate@3.2?classifier=sources
 - pkg:maven/org.genesys-pgr/amphibian-client-resttemplate@3.3
 - pkg:maven/org.genesys-pgr/amphibian-client-resttemplate@3.3?classifier=sources
+- pkg:maven/org.genesys-pgr/amphibian-client-resttemplate@3.4
+- pkg:maven/org.genesys-pgr/amphibian-client-resttemplate@3.4?classifier=sources

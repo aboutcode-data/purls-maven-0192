@@ -1,0 +1,2 @@
+- pkg:maven/net.renfei/masmgc-sdk-sms@1.0.3.0
+- pkg:maven/net.renfei/masmgc-sdk-sms@1.0.3.0?classifier=sources

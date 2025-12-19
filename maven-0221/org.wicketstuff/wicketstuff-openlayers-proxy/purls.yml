@@ -170,6 +170,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers-proxy@8.13.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers-proxy@8.14.0
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers-proxy@8.14.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-openlayers-proxy@8.15.0
+- pkg:maven/org.wicketstuff/wicketstuff-openlayers-proxy@8.15.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers-proxy@8.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers-proxy@8.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers-proxy@8.3.0
@@ -212,6 +214,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers-proxy@9.12.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers-proxy@9.13.0
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers-proxy@9.13.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-openlayers-proxy@9.14.0
+- pkg:maven/org.wicketstuff/wicketstuff-openlayers-proxy@9.14.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers-proxy@9.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers-proxy@9.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers-proxy@9.3.0

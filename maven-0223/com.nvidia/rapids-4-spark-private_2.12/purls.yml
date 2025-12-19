@@ -1,0 +1,2 @@
+- pkg:maven/com.nvidia/rapids-4-spark-private_2.12@23.04.0
+- pkg:maven/com.nvidia/rapids-4-spark-private_2.12@23.04.0?classifier=sources

@@ -64,3 +64,5 @@
 - pkg:maven/com.erudika/para-dao-mongodb@1.40.2?classifier=sources
 - pkg:maven/com.erudika/para-dao-mongodb@1.40.3
 - pkg:maven/com.erudika/para-dao-mongodb@1.40.3?classifier=sources
+- pkg:maven/com.erudika/para-dao-mongodb@1.40.4
+- pkg:maven/com.erudika/para-dao-mongodb@1.40.4?classifier=sources

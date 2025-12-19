@@ -4,3 +4,7 @@
 - pkg:maven/org.webjars.npm/dashjs@3.2.1?classifier=sources
 - pkg:maven/org.webjars.npm/dashjs@4.5.2
 - pkg:maven/org.webjars.npm/dashjs@4.5.2?classifier=sources
+- pkg:maven/org.webjars.npm/dashjs@4.6.0
+- pkg:maven/org.webjars.npm/dashjs@4.6.0?classifier=sources
+- pkg:maven/org.webjars.npm/dashjs@4.7.0
+- pkg:maven/org.webjars.npm/dashjs@4.7.0?classifier=sources

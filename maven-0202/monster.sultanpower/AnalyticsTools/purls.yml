@@ -1,0 +1,13 @@
+- pkg:maven/monster.sultanpower/AnalyticsTools@0.0.10beta?classifier=sources
+- pkg:maven/monster.sultanpower/AnalyticsTools@0.0.11beta?classifier=sources
+- pkg:maven/monster.sultanpower/AnalyticsTools@0.0.12beta?classifier=sources
+- pkg:maven/monster.sultanpower/AnalyticsTools@0.0.1beta?classifier=sources
+- pkg:maven/monster.sultanpower/AnalyticsTools@0.0.2beta?classifier=sources
+- pkg:maven/monster.sultanpower/AnalyticsTools@0.0.3beta?classifier=sources
+- pkg:maven/monster.sultanpower/AnalyticsTools@0.0.4beta?classifier=sources
+- pkg:maven/monster.sultanpower/AnalyticsTools@0.0.5beta?classifier=sources
+- pkg:maven/monster.sultanpower/AnalyticsTools@0.0.7beta?classifier=sources
+- pkg:maven/monster.sultanpower/AnalyticsTools@0.0.8beta?classifier=sources
+- pkg:maven/monster.sultanpower/AnalyticsTools@0.0.9beta?classifier=sources
+- pkg:maven/monster.sultanpower/AnalyticsTools@17.99.0?classifier=sources
+- pkg:maven/monster.sultanpower/AnalyticsTools@17.99.1?classifier=sources

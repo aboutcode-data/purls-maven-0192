@@ -1,2 +1,4 @@
 - pkg:maven/io.github.solven-eu.pepper/map-path@4.4
 - pkg:maven/io.github.solven-eu.pepper/map-path@4.4?classifier=sources
+- pkg:maven/io.github.solven-eu.pepper/map-path@4.5
+- pkg:maven/io.github.solven-eu.pepper/map-path@4.5?classifier=sources

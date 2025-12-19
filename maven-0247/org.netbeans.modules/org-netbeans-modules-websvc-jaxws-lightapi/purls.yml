@@ -16,3 +16,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-jaxws-lightapi@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-jaxws-lightapi@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-jaxws-lightapi@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-jaxws-lightapi@RELEASE180?classifier=sources

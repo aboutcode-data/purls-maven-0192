@@ -17,4 +17,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-module-graph@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-module-graph@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-module-graph@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-module-graph@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-module-graph@RELEASE90?classifier=sources
