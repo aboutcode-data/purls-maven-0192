@@ -1,0 +1,2 @@
+- pkg:maven/tech.kronicle/gradle-version-logic@0.1.0?classifier=sources
+- pkg:maven/tech.kronicle/gradle-version-logic@0.1.5?classifier=sources

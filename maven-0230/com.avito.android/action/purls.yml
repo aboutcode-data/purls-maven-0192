@@ -1,0 +1,2 @@
+- pkg:maven/com.avito.android/action@2021.42?classifier=sources
+- pkg:maven/com.avito.android/action@2022.1?classifier=sources

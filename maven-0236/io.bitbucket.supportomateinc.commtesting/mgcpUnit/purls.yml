@@ -1,0 +1,4 @@
+- pkg:maven/io.bitbucket.supportomateinc.commtesting/mgcpUnit@1.0.0-ALPHA21
+- pkg:maven/io.bitbucket.supportomateinc.commtesting/mgcpUnit@1.0.0-ALPHA21?classifier=sources
+- pkg:maven/io.bitbucket.supportomateinc.commtesting/mgcpUnit@1.0.0-ALPHA22
+- pkg:maven/io.bitbucket.supportomateinc.commtesting/mgcpUnit@1.0.0-ALPHA22?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/io.github.astrapi69/builder@4.15?classifier=sources
 - pkg:maven/io.github.astrapi69/builder@4.16?classifier=sources
+- pkg:maven/io.github.astrapi69/builder@5.1?classifier=sources
 - pkg:maven/io.github.astrapi69/builder@5?classifier=sources

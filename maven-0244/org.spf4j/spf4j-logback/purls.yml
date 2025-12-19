@@ -35,6 +35,8 @@
 - pkg:maven/org.spf4j/spf4j-logback@1.2.24?classifier=sources
 - pkg:maven/org.spf4j/spf4j-logback@1.2.25
 - pkg:maven/org.spf4j/spf4j-logback@1.2.25?classifier=sources
+- pkg:maven/org.spf4j/spf4j-logback@1.2.26
+- pkg:maven/org.spf4j/spf4j-logback@1.2.26?classifier=sources
 - pkg:maven/org.spf4j/spf4j-logback@1.2.2?classifier=sources
 - pkg:maven/org.spf4j/spf4j-logback@1.2.3
 - pkg:maven/org.spf4j/spf4j-logback@1.2.3?classifier=sources

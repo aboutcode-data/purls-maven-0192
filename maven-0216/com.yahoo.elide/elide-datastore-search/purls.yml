@@ -122,3 +122,7 @@
 - pkg:maven/com.yahoo.elide/elide-datastore-search@6.0.6?classifier=sources
 - pkg:maven/com.yahoo.elide/elide-datastore-search@6.1.0
 - pkg:maven/com.yahoo.elide/elide-datastore-search@6.1.0?classifier=sources
+- pkg:maven/com.yahoo.elide/elide-datastore-search@6.1.1
+- pkg:maven/com.yahoo.elide/elide-datastore-search@6.1.1?classifier=sources
+- pkg:maven/com.yahoo.elide/elide-datastore-search@6.1.2
+- pkg:maven/com.yahoo.elide/elide-datastore-search@6.1.2?classifier=sources

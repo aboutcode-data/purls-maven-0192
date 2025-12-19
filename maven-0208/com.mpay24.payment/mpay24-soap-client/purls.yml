@@ -14,3 +14,7 @@
 - pkg:maven/com.mpay24.payment/mpay24-soap-client@1.5.4.0?classifier=sources
 - pkg:maven/com.mpay24.payment/mpay24-soap-client@1.5.6.0
 - pkg:maven/com.mpay24.payment/mpay24-soap-client@1.5.6.0?classifier=sources
+- pkg:maven/com.mpay24.payment/mpay24-soap-client@1.5.7.0
+- pkg:maven/com.mpay24.payment/mpay24-soap-client@1.5.7.0?classifier=sources
+- pkg:maven/com.mpay24.payment/mpay24-soap-client@1.5.8.0
+- pkg:maven/com.mpay24.payment/mpay24-soap-client@1.5.8.0?classifier=sources

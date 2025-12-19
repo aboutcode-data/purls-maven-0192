@@ -64,3 +64,5 @@
 - pkg:maven/io.github.starlangsoftware/MorphologicalAnalysis@1.0.46?classifier=sources
 - pkg:maven/io.github.starlangsoftware/MorphologicalAnalysis@1.0.47
 - pkg:maven/io.github.starlangsoftware/MorphologicalAnalysis@1.0.47?classifier=sources
+- pkg:maven/io.github.starlangsoftware/MorphologicalAnalysis@1.0.48
+- pkg:maven/io.github.starlangsoftware/MorphologicalAnalysis@1.0.48?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/net.morimekta.utils/collect@4.2.0?classifier=sources
 - pkg:maven/net.morimekta.utils/collect@4.3.1
 - pkg:maven/net.morimekta.utils/collect@4.3.1?classifier=sources
+- pkg:maven/net.morimekta.utils/collect@4.4.0
+- pkg:maven/net.morimekta.utils/collect@4.4.0?classifier=sources

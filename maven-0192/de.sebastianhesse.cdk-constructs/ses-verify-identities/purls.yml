@@ -20,3 +20,5 @@
 - pkg:maven/de.sebastianhesse.cdk-constructs/ses-verify-identities@3.2.1?classifier=sources
 - pkg:maven/de.sebastianhesse.cdk-constructs/ses-verify-identities@3.2.2
 - pkg:maven/de.sebastianhesse.cdk-constructs/ses-verify-identities@3.2.2?classifier=sources
+- pkg:maven/de.sebastianhesse.cdk-constructs/ses-verify-identities@4.0.0
+- pkg:maven/de.sebastianhesse.cdk-constructs/ses-verify-identities@4.0.0?classifier=sources

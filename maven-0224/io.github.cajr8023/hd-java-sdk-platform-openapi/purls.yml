@@ -14,3 +14,5 @@
 - pkg:maven/io.github.cajr8023/hd-java-sdk-platform-openapi@1.0.6?classifier=sources
 - pkg:maven/io.github.cajr8023/hd-java-sdk-platform-openapi@1.0.7
 - pkg:maven/io.github.cajr8023/hd-java-sdk-platform-openapi@1.0.7?classifier=sources
+- pkg:maven/io.github.cajr8023/hd-java-sdk-platform-openapi@1.0.8
+- pkg:maven/io.github.cajr8023/hd-java-sdk-platform-openapi@1.0.8?classifier=sources

@@ -188,6 +188,9 @@
 - pkg:maven/com.stripe/stripe-android@18.2.0?classifier=sources
 - pkg:maven/com.stripe/stripe-android@19.0.0?classifier=sources
 - pkg:maven/com.stripe/stripe-android@19.1.0?classifier=sources
+- pkg:maven/com.stripe/stripe-android@19.1.1?classifier=sources
+- pkg:maven/com.stripe/stripe-android@19.2.0?classifier=sources
+- pkg:maven/com.stripe/stripe-android@19.2.2?classifier=sources
 - pkg:maven/com.stripe/stripe-android@2.0.0?classifier=sources
 - pkg:maven/com.stripe/stripe-android@2.0.0?type=aar
 - pkg:maven/com.stripe/stripe-android@2.0.2?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/net.openhft/chronicle-ticker@2.17.2?classifier=sources
 - pkg:maven/net.openhft/chronicle-ticker@2.20.0
 - pkg:maven/net.openhft/chronicle-ticker@2.20.0?classifier=sources
+- pkg:maven/net.openhft/chronicle-ticker@2.20.1
+- pkg:maven/net.openhft/chronicle-ticker@2.20.1?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.github.fracpete/mini-weka@3.9.15580?classifier=sources
 - pkg:maven/com.github.fracpete/mini-weka@3.9.15750
 - pkg:maven/com.github.fracpete/mini-weka@3.9.15750?classifier=sources
+- pkg:maven/com.github.fracpete/mini-weka@3.9.15955
+- pkg:maven/com.github.fracpete/mini-weka@3.9.15955?classifier=sources

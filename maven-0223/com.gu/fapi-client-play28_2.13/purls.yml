@@ -20,3 +20,5 @@
 - pkg:maven/com.gu/fapi-client-play28_2.13@3.3.7?classifier=sources
 - pkg:maven/com.gu/fapi-client-play28_2.13@3.3.8
 - pkg:maven/com.gu/fapi-client-play28_2.13@3.3.8?classifier=sources
+- pkg:maven/com.gu/fapi-client-play28_2.13@3.3.9
+- pkg:maven/com.gu/fapi-client-play28_2.13@3.3.9?classifier=sources

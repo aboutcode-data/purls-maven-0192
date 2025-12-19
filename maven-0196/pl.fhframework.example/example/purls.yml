@@ -4,3 +4,7 @@
 - pkg:maven/pl.fhframework.example/example@4.9.21?classifier=sources
 - pkg:maven/pl.fhframework.example/example@4.9.22
 - pkg:maven/pl.fhframework.example/example@4.9.22?classifier=sources
+- pkg:maven/pl.fhframework.example/example@4.9.23
+- pkg:maven/pl.fhframework.example/example@4.9.23?classifier=sources
+- pkg:maven/pl.fhframework.example/example@4.9.24
+- pkg:maven/pl.fhframework.example/example@4.9.24?classifier=sources

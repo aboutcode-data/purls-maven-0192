@@ -20,6 +20,7 @@
 - pkg:maven/org.opendaylight.odlparent/opendaylight-karaf-resources@1.8.4-Carbon?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/opendaylight-karaf-resources@1.9.0
 - pkg:maven/org.opendaylight.odlparent/opendaylight-karaf-resources@1.9.0?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/opendaylight-karaf-resources@10.0.0?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/opendaylight-karaf-resources@2.0.0
 - pkg:maven/org.opendaylight.odlparent/opendaylight-karaf-resources@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/opendaylight-karaf-resources@2.0.1

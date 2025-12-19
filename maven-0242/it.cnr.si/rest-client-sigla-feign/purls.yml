@@ -1,0 +1,2 @@
+- pkg:maven/it.cnr.si/rest-client-sigla-feign@0.0.4
+- pkg:maven/it.cnr.si/rest-client-sigla-feign@0.0.4?classifier=sources

@@ -40,3 +40,11 @@
 - pkg:maven/com.deliveredtechnologies/tf-test-groovy@0.13-31?classifier=sources
 - pkg:maven/com.deliveredtechnologies/tf-test-groovy@0.13-32
 - pkg:maven/com.deliveredtechnologies/tf-test-groovy@0.13-32?classifier=sources
+- pkg:maven/com.deliveredtechnologies/tf-test-groovy@0.13-536
+- pkg:maven/com.deliveredtechnologies/tf-test-groovy@0.13-536?classifier=sources
+- pkg:maven/com.deliveredtechnologies/tf-test-groovy@0.13-538
+- pkg:maven/com.deliveredtechnologies/tf-test-groovy@0.13-538?classifier=sources
+- pkg:maven/com.deliveredtechnologies/tf-test-groovy@0.13-539
+- pkg:maven/com.deliveredtechnologies/tf-test-groovy@0.13-539?classifier=sources
+- pkg:maven/com.deliveredtechnologies/tf-test-groovy@0.13-542
+- pkg:maven/com.deliveredtechnologies/tf-test-groovy@0.13-542?classifier=sources

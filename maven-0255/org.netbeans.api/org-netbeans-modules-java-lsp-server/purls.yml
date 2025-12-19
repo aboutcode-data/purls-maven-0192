@@ -3,3 +3,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-lsp-server@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-lsp-server@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-lsp-server@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-java-lsp-server@RELEASE130?classifier=sources

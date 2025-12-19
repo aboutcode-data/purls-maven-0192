@@ -12,3 +12,5 @@
 - pkg:maven/com.github.thierrysquirrel/hummingbird@1.0.2.0-RELEASE?classifier=sources
 - pkg:maven/com.github.thierrysquirrel/hummingbird@1.0.2.1-RELEASE
 - pkg:maven/com.github.thierrysquirrel/hummingbird@1.0.2.1-RELEASE?classifier=sources
+- pkg:maven/com.github.thierrysquirrel/hummingbird@1.0.2.2-RELEASE
+- pkg:maven/com.github.thierrysquirrel/hummingbird@1.0.2.2-RELEASE?classifier=sources

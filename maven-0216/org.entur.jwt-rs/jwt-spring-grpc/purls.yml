@@ -32,3 +32,5 @@
 - pkg:maven/org.entur.jwt-rs/jwt-spring-grpc@1.1.8?classifier=sources
 - pkg:maven/org.entur.jwt-rs/jwt-spring-grpc@1.1.9
 - pkg:maven/org.entur.jwt-rs/jwt-spring-grpc@1.1.9?classifier=sources
+- pkg:maven/org.entur.jwt-rs/jwt-spring-grpc@2.0.0
+- pkg:maven/org.entur.jwt-rs/jwt-spring-grpc@2.0.0?classifier=sources

@@ -12,3 +12,4 @@
 - pkg:maven/de.mnl.osgi/de.mnl.osgi.log4j2osgi@1.1.2?classifier=sources
 - pkg:maven/de.mnl.osgi/de.mnl.osgi.log4j2osgi@1.1.3?classifier=sources
 - pkg:maven/de.mnl.osgi/de.mnl.osgi.log4j2osgi@1.1.4?classifier=sources
+- pkg:maven/de.mnl.osgi/de.mnl.osgi.log4j2osgi@1.2.0?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-apigateway@1.1.309
 - pkg:maven/com.antgroup.antchain.openapi/openapi-apigateway@1.1.309?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-apigateway@1.1.312
+- pkg:maven/com.antgroup.antchain.openapi/openapi-apigateway@1.1.312?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-apigateway@1.1.325
+- pkg:maven/com.antgroup.antchain.openapi/openapi-apigateway@1.1.325?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.github.albfernandez/log4j@1.2.18.ayg02?classifier=sources
 - pkg:maven/com.github.albfernandez/log4j@1.2.18.ayg03
 - pkg:maven/com.github.albfernandez/log4j@1.2.18.ayg03?classifier=sources
+- pkg:maven/com.github.albfernandez/log4j@1.2.18.ayg04
+- pkg:maven/com.github.albfernandez/log4j@1.2.18.ayg04?classifier=sources

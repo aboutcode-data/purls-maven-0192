@@ -58,5 +58,17 @@
 - pkg:maven/io.sentry/sentry-android-fragment@5.5.3?type=aar
 - pkg:maven/io.sentry/sentry-android-fragment@5.6.0?classifier=sources
 - pkg:maven/io.sentry/sentry-android-fragment@5.6.0?type=aar
+- pkg:maven/io.sentry/sentry-android-fragment@5.6.1?classifier=sources
+- pkg:maven/io.sentry/sentry-android-fragment@5.6.1?type=aar
+- pkg:maven/io.sentry/sentry-android-fragment@5.6.2-beta.1?classifier=sources
+- pkg:maven/io.sentry/sentry-android-fragment@5.6.2-beta.1?type=aar
+- pkg:maven/io.sentry/sentry-android-fragment@5.6.2-beta.2?classifier=sources
+- pkg:maven/io.sentry/sentry-android-fragment@5.6.2-beta.2?type=aar
+- pkg:maven/io.sentry/sentry-android-fragment@5.6.2-beta.3?classifier=sources
+- pkg:maven/io.sentry/sentry-android-fragment@5.6.2-beta.3?type=aar
+- pkg:maven/io.sentry/sentry-android-fragment@5.6.2?classifier=sources
+- pkg:maven/io.sentry/sentry-android-fragment@5.6.2?type=aar
 - pkg:maven/io.sentry/sentry-android-fragment@6.0.0-alpha.1?classifier=sources
 - pkg:maven/io.sentry/sentry-android-fragment@6.0.0-alpha.1?type=aar
+- pkg:maven/io.sentry/sentry-android-fragment@6.0.0-alpha.2?classifier=sources
+- pkg:maven/io.sentry/sentry-android-fragment@6.0.0-alpha.2?type=aar

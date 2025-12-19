@@ -1,0 +1,3 @@
+- pkg:maven/com.inkapplications.ack/structures@0.1.0?classifier=sources
+- pkg:maven/com.inkapplications.ack/structures@0.2.0?classifier=sources
+- pkg:maven/com.inkapplications.ack/structures@0.3.0?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/dev.vality/webhook-dispatcher-proto@1.12-49f714e
 - pkg:maven/dev.vality/webhook-dispatcher-proto@1.12-49f714e?classifier=sources
+- pkg:maven/dev.vality/webhook-dispatcher-proto@1.13-4b3266d
+- pkg:maven/dev.vality/webhook-dispatcher-proto@1.13-4b3266d?classifier=sources
+- pkg:maven/dev.vality/webhook-dispatcher-proto@1.14-8a265a5
+- pkg:maven/dev.vality/webhook-dispatcher-proto@1.14-8a265a5?classifier=sources

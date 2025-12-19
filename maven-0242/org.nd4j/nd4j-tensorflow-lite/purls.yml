@@ -1,0 +1,2 @@
+- pkg:maven/org.nd4j/nd4j-tensorflow-lite@1.0.0-M2
+- pkg:maven/org.nd4j/nd4j-tensorflow-lite@1.0.0-M2?classifier=sources

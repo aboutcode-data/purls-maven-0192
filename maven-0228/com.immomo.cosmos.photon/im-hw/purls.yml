@@ -6,3 +6,9 @@
 - pkg:maven/com.immomo.cosmos.photon/im-hw@2.2.21_2219?type=aar
 - pkg:maven/com.immomo.cosmos.photon/im-hw@2.2.22_1747?classifier=sources
 - pkg:maven/com.immomo.cosmos.photon/im-hw@2.2.22_1747?type=aar
+- pkg:maven/com.immomo.cosmos.photon/im-hw@2.2.23_2044?classifier=sources
+- pkg:maven/com.immomo.cosmos.photon/im-hw@2.2.23_2044?type=aar
+- pkg:maven/com.immomo.cosmos.photon/im-hw@2.2.23_2045?classifier=sources
+- pkg:maven/com.immomo.cosmos.photon/im-hw@2.2.23_2045?type=aar
+- pkg:maven/com.immomo.cosmos.photon/im-hw@2.2.23_2046?classifier=sources
+- pkg:maven/com.immomo.cosmos.photon/im-hw@2.2.23_2046?type=aar

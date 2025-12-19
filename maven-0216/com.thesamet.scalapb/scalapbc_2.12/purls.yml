@@ -100,6 +100,8 @@
 - pkg:maven/com.thesamet.scalapb/scalapbc_2.12@0.11.7?classifier=sources
 - pkg:maven/com.thesamet.scalapb/scalapbc_2.12@0.11.8
 - pkg:maven/com.thesamet.scalapb/scalapbc_2.12@0.11.8?classifier=sources
+- pkg:maven/com.thesamet.scalapb/scalapbc_2.12@0.11.9
+- pkg:maven/com.thesamet.scalapb/scalapbc_2.12@0.11.9?classifier=sources
 - pkg:maven/com.thesamet.scalapb/scalapbc_2.12@0.7.0
 - pkg:maven/com.thesamet.scalapb/scalapbc_2.12@0.7.0-rc1
 - pkg:maven/com.thesamet.scalapb/scalapbc_2.12@0.7.0-rc1?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/io.deephaven/deephaven-slf4j-to-log@0.10.0?classifier=sources

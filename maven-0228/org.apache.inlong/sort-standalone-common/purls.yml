@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.inlong/sort-standalone-common@0.12.0-incubating
 - pkg:maven/org.apache.inlong/sort-standalone-common@0.12.0-incubating?classifier=sources
+- pkg:maven/org.apache.inlong/sort-standalone-common@1.0.0-incubating
+- pkg:maven/org.apache.inlong/sort-standalone-common@1.0.0-incubating?classifier=sources

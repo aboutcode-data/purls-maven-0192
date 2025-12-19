@@ -1,2 +1,4 @@
 - pkg:maven/lol.hyper/github-release-api@1.0.0
 - pkg:maven/lol.hyper/github-release-api@1.0.0?classifier=sources
+- pkg:maven/lol.hyper/github-release-api@1.0.1
+- pkg:maven/lol.hyper/github-release-api@1.0.1?classifier=sources

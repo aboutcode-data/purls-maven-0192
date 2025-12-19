@@ -1,0 +1,2 @@
+- pkg:maven/cn.dev33/sa-token-jboot-plugin@1.29.1.trial
+- pkg:maven/cn.dev33/sa-token-jboot-plugin@1.29.1.trial?classifier=sources

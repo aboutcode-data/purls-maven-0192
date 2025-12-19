@@ -6,3 +6,5 @@
 - pkg:maven/com.aliyun/cms20190101@1.0.2?classifier=sources
 - pkg:maven/com.aliyun/cms20190101@1.0.3
 - pkg:maven/com.aliyun/cms20190101@1.0.3?classifier=sources
+- pkg:maven/com.aliyun/cms20190101@7.0.36
+- pkg:maven/com.aliyun/cms20190101@7.0.36?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/org.clojure/core.memoize@1.0.250?classifier=sources
 - pkg:maven/org.clojure/core.memoize@1.0.253
 - pkg:maven/org.clojure/core.memoize@1.0.253?classifier=sources
+- pkg:maven/org.clojure/core.memoize@1.0.257
+- pkg:maven/org.clojure/core.memoize@1.0.257?classifier=sources

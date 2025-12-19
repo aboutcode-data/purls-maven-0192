@@ -12,4 +12,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-options-keymap@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-options-keymap@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-options-keymap@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-options-keymap@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-options-keymap@RELEASE90?classifier=sources

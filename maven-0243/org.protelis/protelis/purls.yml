@@ -81,6 +81,11 @@
 - pkg:maven/org.protelis/protelis@14.1.9?classifier=sources
 - pkg:maven/org.protelis/protelis@15.0.0?classifier=sources
 - pkg:maven/org.protelis/protelis@15.1.0?classifier=sources
+- pkg:maven/org.protelis/protelis@15.1.1?classifier=sources
+- pkg:maven/org.protelis/protelis@15.1.2?classifier=sources
+- pkg:maven/org.protelis/protelis@15.2.0?classifier=sources
+- pkg:maven/org.protelis/protelis@15.2.1?classifier=sources
+- pkg:maven/org.protelis/protelis@15.2.2?classifier=sources
 - pkg:maven/org.protelis/protelis@4.0.0
 - pkg:maven/org.protelis/protelis@4.0.0?classifier=sources
 - pkg:maven/org.protelis/protelis@4.0.1

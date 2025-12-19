@@ -4,3 +4,5 @@
 - pkg:maven/io.dwpbank.movewp3/kafka-compoundkey-serde@0.9.0?classifier=sources
 - pkg:maven/io.dwpbank.movewp3/kafka-compoundkey-serde@1.0.0
 - pkg:maven/io.dwpbank.movewp3/kafka-compoundkey-serde@1.0.0?classifier=sources
+- pkg:maven/io.dwpbank.movewp3/kafka-compoundkey-serde@1.0.1
+- pkg:maven/io.dwpbank.movewp3/kafka-compoundkey-serde@1.0.1?classifier=sources

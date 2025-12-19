@@ -1,0 +1,2 @@
+- pkg:maven/fish.focus.uvms.plugins.sweagency/sweagency-plugin@0.4?classifier=sources
+- pkg:maven/fish.focus.uvms.plugins.sweagency/sweagency-plugin@0.4?type=war

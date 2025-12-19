@@ -12,3 +12,7 @@
 - pkg:maven/de.gesellix/docker-client@2021-08-27T19-47-00?classifier=sources
 - pkg:maven/de.gesellix/docker-client@2021-12-18T22-37-00?classifier=sources
 - pkg:maven/de.gesellix/docker-client@2021-12-18T23-17-00?classifier=sources
+- pkg:maven/de.gesellix/docker-client@2022-01-27T20-25-00?classifier=sources
+- pkg:maven/de.gesellix/docker-client@2022-01-27T23-52-00?classifier=sources
+- pkg:maven/de.gesellix/docker-client@2022-01-31T21-25-00?classifier=sources
+- pkg:maven/de.gesellix/docker-client@2022-02-01T12-00-00?classifier=sources

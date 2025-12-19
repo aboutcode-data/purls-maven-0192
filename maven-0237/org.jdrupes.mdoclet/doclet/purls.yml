@@ -14,3 +14,4 @@
 - pkg:maven/org.jdrupes.mdoclet/doclet@1.0.8
 - pkg:maven/org.jdrupes.mdoclet/doclet@1.0.8?classifier=sources
 - pkg:maven/org.jdrupes.mdoclet/doclet@2.0.0?classifier=sources
+- pkg:maven/org.jdrupes.mdoclet/doclet@2.1.0?classifier=sources

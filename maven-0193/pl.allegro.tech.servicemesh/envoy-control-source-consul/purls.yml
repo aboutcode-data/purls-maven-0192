@@ -56,6 +56,9 @@
 - pkg:maven/pl.allegro.tech.servicemesh/envoy-control-source-consul@0.17.2?classifier=sources
 - pkg:maven/pl.allegro.tech.servicemesh/envoy-control-source-consul@0.17.3?classifier=sources
 - pkg:maven/pl.allegro.tech.servicemesh/envoy-control-source-consul@0.18.1?classifier=sources
+- pkg:maven/pl.allegro.tech.servicemesh/envoy-control-source-consul@0.18.2?classifier=sources
+- pkg:maven/pl.allegro.tech.servicemesh/envoy-control-source-consul@0.18.4?classifier=sources
+- pkg:maven/pl.allegro.tech.servicemesh/envoy-control-source-consul@0.19.0?classifier=sources
 - pkg:maven/pl.allegro.tech.servicemesh/envoy-control-source-consul@0.8.1
 - pkg:maven/pl.allegro.tech.servicemesh/envoy-control-source-consul@0.8.10
 - pkg:maven/pl.allegro.tech.servicemesh/envoy-control-source-consul@0.8.10?classifier=sources
