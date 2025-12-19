@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.seatunnel/seatunnel-hadoop3-3.1.4-uber@2.3.0
+- pkg:maven/org.apache.seatunnel/seatunnel-hadoop3-3.1.4-uber@2.3.0?classifier=sources

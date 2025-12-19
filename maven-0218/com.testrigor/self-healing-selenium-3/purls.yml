@@ -1,0 +1,2 @@
+- pkg:maven/com.testrigor/self-healing-selenium-3@0.1.0
+- pkg:maven/com.testrigor/self-healing-selenium-3@0.1.0?classifier=sources

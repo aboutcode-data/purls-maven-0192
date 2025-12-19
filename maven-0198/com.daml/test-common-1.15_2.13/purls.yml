@@ -1,0 +1,4 @@
+- pkg:maven/com.daml/test-common-1.15_2.13@2.6.0-snapshot.20230206.11376.0.2713e2b4
+- pkg:maven/com.daml/test-common-1.15_2.13@2.6.0-snapshot.20230206.11376.0.2713e2b4?classifier=sources
+- pkg:maven/com.daml/test-common-1.15_2.13@2.6.0-snapshot.20230207.11384.0.6501782d
+- pkg:maven/com.daml/test-common-1.15_2.13@2.6.0-snapshot.20230207.11384.0.6501782d?classifier=sources

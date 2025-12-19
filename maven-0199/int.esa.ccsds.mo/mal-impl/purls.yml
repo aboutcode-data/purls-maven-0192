@@ -1,0 +1,2 @@
+- pkg:maven/int.esa.ccsds.mo/mal-impl@9.0
+- pkg:maven/int.esa.ccsds.mo/mal-impl@9.0?classifier=sources

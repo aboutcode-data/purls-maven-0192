@@ -66,3 +66,7 @@
 - pkg:maven/io.trino/trino-testing-containers@402?classifier=sources
 - pkg:maven/io.trino/trino-testing-containers@403
 - pkg:maven/io.trino/trino-testing-containers@403?classifier=sources
+- pkg:maven/io.trino/trino-testing-containers@405
+- pkg:maven/io.trino/trino-testing-containers@405?classifier=sources
+- pkg:maven/io.trino/trino-testing-containers@406
+- pkg:maven/io.trino/trino-testing-containers@406?classifier=sources

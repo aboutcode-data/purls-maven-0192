@@ -3,3 +3,5 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-kafka-cucumber@1.36.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-kafka-cucumber@1.37.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-kafka-cucumber@1.38.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-kafka-cucumber@1.40.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-kafka-cucumber@1.41.0?classifier=sources

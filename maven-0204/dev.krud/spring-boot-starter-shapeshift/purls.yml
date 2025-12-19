@@ -8,3 +8,4 @@
 - pkg:maven/dev.krud/spring-boot-starter-shapeshift@0.4.0?classifier=sources
 - pkg:maven/dev.krud/spring-boot-starter-shapeshift@0.6.0?classifier=sources
 - pkg:maven/dev.krud/spring-boot-starter-shapeshift@0.7.0?classifier=sources
+- pkg:maven/dev.krud/spring-boot-starter-shapeshift@0.8.0?classifier=sources

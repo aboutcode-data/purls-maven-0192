@@ -1,0 +1,2 @@
+- pkg:maven/com.shzcloud/resource@1.0.0
+- pkg:maven/com.shzcloud/resource@1.0.0?classifier=sources

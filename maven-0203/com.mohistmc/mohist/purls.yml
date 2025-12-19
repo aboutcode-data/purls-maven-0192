@@ -112,6 +112,10 @@
 - pkg:maven/com.mohistmc/mohist@1.16.5-1093?classifier=sources
 - pkg:maven/com.mohistmc/mohist@1.16.5-1094?classifier=sources
 - pkg:maven/com.mohistmc/mohist@1.16.5-1095?classifier=sources
+- pkg:maven/com.mohistmc/mohist@1.16.5-1096?classifier=sources
+- pkg:maven/com.mohistmc/mohist@1.16.5-1097?classifier=sources
+- pkg:maven/com.mohistmc/mohist@1.16.5-1098?classifier=sources
+- pkg:maven/com.mohistmc/mohist@1.16.5-1099?classifier=sources
 - pkg:maven/com.mohistmc/mohist@1.16.5-52?classifier=sources
 - pkg:maven/com.mohistmc/mohist@1.16.5-765?classifier=sources
 - pkg:maven/com.mohistmc/mohist@1.16.5-768?classifier=sources

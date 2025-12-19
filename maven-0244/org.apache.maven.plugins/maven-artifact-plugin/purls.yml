@@ -10,3 +10,6 @@
 - pkg:maven/org.apache.maven.plugins/maven-artifact-plugin@3.3.0
 - pkg:maven/org.apache.maven.plugins/maven-artifact-plugin@3.3.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.plugins/maven-artifact-plugin@3.3.0?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-artifact-plugin@3.4.0
+- pkg:maven/org.apache.maven.plugins/maven-artifact-plugin@3.4.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-artifact-plugin@3.4.0?classifier=sources

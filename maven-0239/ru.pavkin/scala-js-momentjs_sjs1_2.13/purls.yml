@@ -10,3 +10,5 @@
 - pkg:maven/ru.pavkin/scala-js-momentjs_sjs1_2.13@0.10.7?classifier=sources
 - pkg:maven/ru.pavkin/scala-js-momentjs_sjs1_2.13@0.10.8
 - pkg:maven/ru.pavkin/scala-js-momentjs_sjs1_2.13@0.10.8?classifier=sources
+- pkg:maven/ru.pavkin/scala-js-momentjs_sjs1_2.13@0.10.9
+- pkg:maven/ru.pavkin/scala-js-momentjs_sjs1_2.13@0.10.9?classifier=sources

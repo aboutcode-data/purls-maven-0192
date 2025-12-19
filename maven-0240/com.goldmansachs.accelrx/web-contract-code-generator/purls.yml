@@ -1,0 +1,4 @@
+- pkg:maven/com.goldmansachs.accelrx/web-contract-code-generator@1.0.0-beta.6
+- pkg:maven/com.goldmansachs.accelrx/web-contract-code-generator@1.0.0-beta.6?classifier=sources
+- pkg:maven/com.goldmansachs.accelrx/web-contract-code-generator@v1.0.0-beta.4
+- pkg:maven/com.goldmansachs.accelrx/web-contract-code-generator@v1.0.0-beta.4?classifier=sources

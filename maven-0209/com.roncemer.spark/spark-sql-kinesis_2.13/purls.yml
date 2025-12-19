@@ -1,2 +1,4 @@
 - pkg:maven/com.roncemer.spark/spark-sql-kinesis_2.13@1.2.1_spark-3.2
 - pkg:maven/com.roncemer.spark/spark-sql-kinesis_2.13@1.2.1_spark-3.2?classifier=sources
+- pkg:maven/com.roncemer.spark/spark-sql-kinesis_2.13@1.2.2_spark-3.2
+- pkg:maven/com.roncemer.spark/spark-sql-kinesis_2.13@1.2.2_spark-3.2?classifier=sources

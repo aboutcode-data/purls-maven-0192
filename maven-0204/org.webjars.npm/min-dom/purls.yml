@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/min-dom@3.2.1?classifier=sources
 - pkg:maven/org.webjars.npm/min-dom@4.0.3
 - pkg:maven/org.webjars.npm/min-dom@4.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/min-dom@4.1.0
+- pkg:maven/org.webjars.npm/min-dom@4.1.0?classifier=sources

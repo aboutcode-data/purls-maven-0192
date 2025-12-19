@@ -172,8 +172,10 @@
 - pkg:maven/org.checkerframework/checker-qual@3.26.0?classifier=sources
 - pkg:maven/org.checkerframework/checker-qual@3.27.0?classifier=sources
 - pkg:maven/org.checkerframework/checker-qual@3.28.0?classifier=sources
+- pkg:maven/org.checkerframework/checker-qual@3.29.0?classifier=sources
 - pkg:maven/org.checkerframework/checker-qual@3.3.0
 - pkg:maven/org.checkerframework/checker-qual@3.3.0?classifier=sources
+- pkg:maven/org.checkerframework/checker-qual@3.30.0?classifier=sources
 - pkg:maven/org.checkerframework/checker-qual@3.4.0
 - pkg:maven/org.checkerframework/checker-qual@3.4.0?classifier=sources
 - pkg:maven/org.checkerframework/checker-qual@3.4.1

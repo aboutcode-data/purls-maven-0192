@@ -4,6 +4,8 @@
 - pkg:maven/org.webjars.npm/cheerio@0.20.0?classifier=sources
 - pkg:maven/org.webjars.npm/cheerio@0.22.0
 - pkg:maven/org.webjars.npm/cheerio@0.22.0?classifier=sources
+- pkg:maven/org.webjars.npm/cheerio@1.0.0-rc.10
+- pkg:maven/org.webjars.npm/cheerio@1.0.0-rc.10?classifier=sources
 - pkg:maven/org.webjars.npm/cheerio@1.0.0-rc.5
 - pkg:maven/org.webjars.npm/cheerio@1.0.0-rc.5?classifier=sources
 - pkg:maven/org.webjars.npm/cheerio@1.0.0-rc.9

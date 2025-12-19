@@ -1,0 +1,8 @@
+- pkg:maven/org.finos.vuu/vuu@0.4.3
+- pkg:maven/org.finos.vuu/vuu@0.4.3?classifier=sources
+- pkg:maven/org.finos.vuu/vuu@0.4.42
+- pkg:maven/org.finos.vuu/vuu@0.4.42?classifier=sources
+- pkg:maven/org.finos.vuu/vuu@0.4.43
+- pkg:maven/org.finos.vuu/vuu@0.4.43?classifier=sources
+- pkg:maven/org.finos.vuu/vuu@0.4.44
+- pkg:maven/org.finos.vuu/vuu@0.4.44?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/io.quarkiverse.logging.splunk/quarkus-logging-splunk-docs@2.2.1
 - pkg:maven/io.quarkiverse.logging.splunk/quarkus-logging-splunk-docs@2.3.0
 - pkg:maven/io.quarkiverse.logging.splunk/quarkus-logging-splunk-docs@2.4.0
+- pkg:maven/io.quarkiverse.logging.splunk/quarkus-logging-splunk-docs@2.5.0
+- pkg:maven/io.quarkiverse.logging.splunk/quarkus-logging-splunk-docs@2.5.1

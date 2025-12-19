@@ -7,6 +7,7 @@
 - pkg:maven/com.myadsget/san-sdk@0.0.0.7?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@0.0.0.8?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@0.0.0.9?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@0.0.1-rt1?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@0.0.1.0?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@0.0.1.1?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@0.0.1.2?classifier=sources
@@ -83,6 +84,12 @@
 - pkg:maven/com.myadsget/san-sdk@3.12.7.8?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.12.7.9?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.12.7?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.12.8.0?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.12.8.1?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.12.8.2?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.12.8.3?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.12.8.4-alpha?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.12.8.4?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.13.0.1-ln?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.13.0.2-ln?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.13.0.3_ln?classifier=sources
@@ -90,6 +97,14 @@
 - pkg:maven/com.myadsget/san-sdk@3.13.0.5?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.13.0.5_ln?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.13.0.6_ln?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.13.0.7-beta?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.13.0.7?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.13.0.8-alpha?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.13.0.8-beta?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.13.0.8?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.13.1.0?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.13.1.1?classifier=sources
+- pkg:maven/com.myadsget/san-sdk@3.13.1.2?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.2.0.0?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.2.0.1?classifier=sources
 - pkg:maven/com.myadsget/san-sdk@3.2.0.2?classifier=sources

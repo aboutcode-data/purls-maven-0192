@@ -102,6 +102,7 @@
 - pkg:maven/org.protelis/protelis@16.2.0?classifier=sources
 - pkg:maven/org.protelis/protelis@16.3.0?classifier=sources
 - pkg:maven/org.protelis/protelis@16.4.0?classifier=sources
+- pkg:maven/org.protelis/protelis@16.4.1?classifier=sources
 - pkg:maven/org.protelis/protelis@4.0.0
 - pkg:maven/org.protelis/protelis@4.0.0?classifier=sources
 - pkg:maven/org.protelis/protelis@4.0.1

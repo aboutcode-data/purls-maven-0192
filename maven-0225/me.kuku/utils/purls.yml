@@ -22,3 +22,5 @@
 - pkg:maven/me.kuku/utils@1.5?classifier=sources
 - pkg:maven/me.kuku/utils@2.2.1.0?classifier=sources
 - pkg:maven/me.kuku/utils@2.2.1.1?classifier=sources
+- pkg:maven/me.kuku/utils@2.2.2.1?classifier=sources
+- pkg:maven/me.kuku/utils@2.2.3.0?classifier=sources

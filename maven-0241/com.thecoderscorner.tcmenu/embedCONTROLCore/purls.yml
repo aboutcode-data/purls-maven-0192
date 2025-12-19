@@ -6,3 +6,5 @@
 - pkg:maven/com.thecoderscorner.tcmenu/embedCONTROLCore@2.4.0?classifier=sources
 - pkg:maven/com.thecoderscorner.tcmenu/embedCONTROLCore@2.5.0
 - pkg:maven/com.thecoderscorner.tcmenu/embedCONTROLCore@2.5.0?classifier=sources
+- pkg:maven/com.thecoderscorner.tcmenu/embedCONTROLCore@3.0.0
+- pkg:maven/com.thecoderscorner.tcmenu/embedCONTROLCore@3.0.0?classifier=sources

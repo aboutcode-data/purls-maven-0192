@@ -12,3 +12,4 @@
 - pkg:maven/com.mapxus.sdk/sdk-auth@3.0.0?classifier=sources
 - pkg:maven/com.mapxus.sdk/sdk-auth@4.0.0?classifier=sources
 - pkg:maven/com.mapxus.sdk/sdk-auth@4.0.0?type=aar
+- pkg:maven/com.mapxus.sdk/sdk-auth@4.0.1?classifier=sources

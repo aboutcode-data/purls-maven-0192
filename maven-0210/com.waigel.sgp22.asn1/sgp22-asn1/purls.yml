@@ -1,0 +1,2 @@
+- pkg:maven/com.waigel.sgp22.asn1/sgp22-asn1@1.0.0?classifier=sources
+- pkg:maven/com.waigel.sgp22.asn1/sgp22-asn1@1.0.1?classifier=sources

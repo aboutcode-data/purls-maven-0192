@@ -142,3 +142,5 @@
 - pkg:maven/com.yahoo.elide/elide-datastore-search@6.1.8?classifier=sources
 - pkg:maven/com.yahoo.elide/elide-datastore-search@6.1.9
 - pkg:maven/com.yahoo.elide/elide-datastore-search@6.1.9?classifier=sources
+- pkg:maven/com.yahoo.elide/elide-datastore-search@7.0.0-pr2
+- pkg:maven/com.yahoo.elide/elide-datastore-search@7.0.0-pr2?classifier=sources

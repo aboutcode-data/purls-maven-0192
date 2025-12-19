@@ -71,6 +71,9 @@
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@2.0.15
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@2.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@2.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@2.0.16
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@2.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@2.0.16?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@2.0.17
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@2.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@2.0.17?classifier=sources-commercial
@@ -111,6 +114,9 @@
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@3.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@3.0.1
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@3.0.10
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@3.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@3.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@3.0.11
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@3.0.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@3.0.11?classifier=sources-commercial
@@ -129,6 +135,9 @@
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@3.0.16
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@3.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@3.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@3.0.17
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@3.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@3.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@3.0.2
@@ -159,6 +168,9 @@
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@4.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@4.0.1
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@4.0.10
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@4.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@4.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@4.0.2
@@ -182,3 +194,6 @@
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@4.0.8
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@4.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@4.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@4.0.9
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@4.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.nullable@4.0.9?classifier=sources-commercial

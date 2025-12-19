@@ -34,3 +34,5 @@
 - pkg:maven/de.tk.opensource/3rdparty-privacy-proxy@1.0.9.2
 - pkg:maven/de.tk.opensource/3rdparty-privacy-proxy@1.0.9.2?classifier=sources
 - pkg:maven/de.tk.opensource/3rdparty-privacy-proxy@1.0.9?classifier=sources
+- pkg:maven/de.tk.opensource/3rdparty-privacy-proxy@1.1.0
+- pkg:maven/de.tk.opensource/3rdparty-privacy-proxy@1.1.0?classifier=sources

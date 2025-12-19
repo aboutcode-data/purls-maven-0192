@@ -1,0 +1,2 @@
+- pkg:maven/com.genexus/gxcache-memcached@2.10.0
+- pkg:maven/com.genexus/gxcache-memcached@2.10.0?classifier=sources

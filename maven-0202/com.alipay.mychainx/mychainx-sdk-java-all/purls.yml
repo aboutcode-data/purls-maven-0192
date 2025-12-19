@@ -1,5 +1,7 @@
 - pkg:maven/com.alipay.mychainx/mychainx-sdk-java-all@0.10.2.24.5?classifier=sources
+- pkg:maven/com.alipay.mychainx/mychainx-sdk-java-all@0.10.2.24.9
 - pkg:maven/com.alipay.mychainx/mychainx-sdk-java-all@0.10.2.24.9-RC
 - pkg:maven/com.alipay.mychainx/mychainx-sdk-java-all@0.10.2.24.9-RC?classifier=sources
 - pkg:maven/com.alipay.mychainx/mychainx-sdk-java-all@0.10.2.24.9-rc
 - pkg:maven/com.alipay.mychainx/mychainx-sdk-java-all@0.10.2.24.9-rc?classifier=sources
+- pkg:maven/com.alipay.mychainx/mychainx-sdk-java-all@0.10.2.24.9?classifier=sources

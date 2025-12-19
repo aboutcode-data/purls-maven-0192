@@ -28,3 +28,5 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-jps-plugin@1.8.0-RC2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-jps-plugin@1.8.0-RC?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-jps-plugin@1.8.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-jps-plugin@1.8.10
+- pkg:maven/org.jetbrains.kotlin/kotlin-jps-plugin@1.8.10?classifier=sources

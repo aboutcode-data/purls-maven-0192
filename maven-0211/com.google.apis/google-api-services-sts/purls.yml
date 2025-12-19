@@ -48,6 +48,10 @@
 - pkg:maven/com.google.apis/google-api-services-sts@v1-rev20220916-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-sts@v1-rev20221204-2.0.0
 - pkg:maven/com.google.apis/google-api-services-sts@v1-rev20221204-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-sts@v1-rev20230121-2.0.0
+- pkg:maven/com.google.apis/google-api-services-sts@v1-rev20230121-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-sts@v1-rev20230129-2.0.0
+- pkg:maven/com.google.apis/google-api-services-sts@v1-rev20230129-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-sts@v1beta-rev20200908-1.30.10
 - pkg:maven/com.google.apis/google-api-services-sts@v1beta-rev20200908-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-sts@v1beta-rev20200919-1.30.10
@@ -88,3 +92,5 @@
 - pkg:maven/com.google.apis/google-api-services-sts@v1beta-rev20220806-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-sts@v1beta-rev20220826-2.0.0
 - pkg:maven/com.google.apis/google-api-services-sts@v1beta-rev20220826-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-sts@v1beta-rev20230129-2.0.0
+- pkg:maven/com.google.apis/google-api-services-sts@v1beta-rev20230129-2.0.0?classifier=sources

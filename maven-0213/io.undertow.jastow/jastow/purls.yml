@@ -40,6 +40,9 @@
 - pkg:maven/io.undertow.jastow/jastow@2.0.12.Final?classifier=sources
 - pkg:maven/io.undertow.jastow/jastow@2.0.13.Final?classifier=source-release&type=zip
 - pkg:maven/io.undertow.jastow/jastow@2.0.13.Final?classifier=sources
+- pkg:maven/io.undertow.jastow/jastow@2.0.14.Final
+- pkg:maven/io.undertow.jastow/jastow@2.0.14.Final?classifier=source-release&type=zip
+- pkg:maven/io.undertow.jastow/jastow@2.0.14.Final?classifier=sources
 - pkg:maven/io.undertow.jastow/jastow@2.0.2.Final
 - pkg:maven/io.undertow.jastow/jastow@2.0.2.Final?classifier=sources
 - pkg:maven/io.undertow.jastow/jastow@2.0.3.Final
@@ -72,3 +75,5 @@
 - pkg:maven/io.undertow.jastow/jastow@2.2.4.Final?classifier=sources
 - pkg:maven/io.undertow.jastow/jastow@2.2.5.Final?classifier=source-release&type=zip
 - pkg:maven/io.undertow.jastow/jastow@2.2.5.Final?classifier=sources
+- pkg:maven/io.undertow.jastow/jastow@2.2.6.Final?classifier=source-release&type=zip
+- pkg:maven/io.undertow.jastow/jastow@2.2.6.Final?classifier=sources

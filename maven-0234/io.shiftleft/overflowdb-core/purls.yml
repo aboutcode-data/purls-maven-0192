@@ -130,6 +130,8 @@
 - pkg:maven/io.shiftleft/overflowdb-core@1.16
 - pkg:maven/io.shiftleft/overflowdb-core@1.160
 - pkg:maven/io.shiftleft/overflowdb-core@1.160?classifier=sources
+- pkg:maven/io.shiftleft/overflowdb-core@1.166
+- pkg:maven/io.shiftleft/overflowdb-core@1.166?classifier=sources
 - pkg:maven/io.shiftleft/overflowdb-core@1.16?classifier=sources
 - pkg:maven/io.shiftleft/overflowdb-core@1.17
 - pkg:maven/io.shiftleft/overflowdb-core@1.17?classifier=sources

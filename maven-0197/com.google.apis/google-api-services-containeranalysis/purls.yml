@@ -40,6 +40,10 @@
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1-rev20221015-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1-rev20221107-2.0.0
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1-rev20221107-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-containeranalysis@v1-rev20230120-2.0.0
+- pkg:maven/com.google.apis/google-api-services-containeranalysis@v1-rev20230120-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-containeranalysis@v1-rev20230127-2.0.0
+- pkg:maven/com.google.apis/google-api-services-containeranalysis@v1-rev20230127-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1alpha1-rev10-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1alpha1-rev10-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1alpha1-rev10-1.22.0
@@ -298,6 +302,10 @@
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1alpha1-rev20221015-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1alpha1-rev20221107-2.0.0
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1alpha1-rev20221107-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-containeranalysis@v1alpha1-rev20230120-2.0.0
+- pkg:maven/com.google.apis/google-api-services-containeranalysis@v1alpha1-rev20230120-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-containeranalysis@v1alpha1-rev20230127-2.0.0
+- pkg:maven/com.google.apis/google-api-services-containeranalysis@v1alpha1-rev20230127-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1alpha1-rev34-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1alpha1-rev34-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1alpha1-rev34-1.25.0
@@ -618,6 +626,10 @@
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1beta1-rev20221107-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1beta1-rev20221112-2.0.0
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1beta1-rev20221112-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-containeranalysis@v1beta1-rev20230120-2.0.0
+- pkg:maven/com.google.apis/google-api-services-containeranalysis@v1beta1-rev20230120-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-containeranalysis@v1beta1-rev20230127-2.0.0
+- pkg:maven/com.google.apis/google-api-services-containeranalysis@v1beta1-rev20230127-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1beta1-rev34-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1beta1-rev34-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1beta1-rev34-1.25.0

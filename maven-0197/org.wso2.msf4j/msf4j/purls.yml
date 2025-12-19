@@ -14,8 +14,11 @@
 - pkg:maven/org.wso2.msf4j/msf4j@2.7.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.msf4j/msf4j@2.7.7?classifier=source-release&type=zip
 - pkg:maven/org.wso2.msf4j/msf4j@2.7.8?classifier=source-release&type=zip
+- pkg:maven/org.wso2.msf4j/msf4j@2.8.10?classifier=source-release&type=zip
+- pkg:maven/org.wso2.msf4j/msf4j@2.8.11?classifier=source-release&type=zip
 - pkg:maven/org.wso2.msf4j/msf4j@2.8.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.msf4j/msf4j@2.8.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.msf4j/msf4j@2.8.4?classifier=source-release&type=zip
 - pkg:maven/org.wso2.msf4j/msf4j@2.8.6?classifier=source-release&type=zip
 - pkg:maven/org.wso2.msf4j/msf4j@2.8.7?classifier=source-release&type=zip
+- pkg:maven/org.wso2.msf4j/msf4j@2.8.8?classifier=source-release&type=zip

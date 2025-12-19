@@ -148,3 +148,9 @@
 - pkg:maven/org.wso2.carbon.identity.application.auth.basic/org.wso2.carbon.identity.application.authentication.handler.session@6.7.2?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.application.auth.basic/org.wso2.carbon.identity.application.authentication.handler.session@6.7.3
 - pkg:maven/org.wso2.carbon.identity.application.auth.basic/org.wso2.carbon.identity.application.authentication.handler.session@6.7.3?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.application.auth.basic/org.wso2.carbon.identity.application.authentication.handler.session@6.7.7
+- pkg:maven/org.wso2.carbon.identity.application.auth.basic/org.wso2.carbon.identity.application.authentication.handler.session@6.7.7?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.application.auth.basic/org.wso2.carbon.identity.application.authentication.handler.session@6.7.8
+- pkg:maven/org.wso2.carbon.identity.application.auth.basic/org.wso2.carbon.identity.application.authentication.handler.session@6.7.8?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.application.auth.basic/org.wso2.carbon.identity.application.authentication.handler.session@6.7.9
+- pkg:maven/org.wso2.carbon.identity.application.auth.basic/org.wso2.carbon.identity.application.authentication.handler.session@6.7.9?classifier=sources

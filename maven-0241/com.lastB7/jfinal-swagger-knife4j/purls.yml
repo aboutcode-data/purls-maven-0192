@@ -15,6 +15,8 @@
 - pkg:maven/com.lastB7/jfinal-swagger-knife4j@2.10.5?classifier=sources
 - pkg:maven/com.lastB7/jfinal-swagger-knife4j@2.11.0
 - pkg:maven/com.lastB7/jfinal-swagger-knife4j@2.11.0?classifier=sources
+- pkg:maven/com.lastB7/jfinal-swagger-knife4j@2.12.0
+- pkg:maven/com.lastB7/jfinal-swagger-knife4j@2.12.0?classifier=sources
 - pkg:maven/com.lastB7/jfinal-swagger-knife4j@2.1?classifier=sources
 - pkg:maven/com.lastB7/jfinal-swagger-knife4j@2.2
 - pkg:maven/com.lastB7/jfinal-swagger-knife4j@2.2?classifier=sources
@@ -34,3 +36,5 @@
 - pkg:maven/com.lastB7/jfinal-swagger-knife4j@2.9.1
 - pkg:maven/com.lastB7/jfinal-swagger-knife4j@2.9.1?classifier=sources
 - pkg:maven/com.lastB7/jfinal-swagger-knife4j@2.9?classifier=sources
+- pkg:maven/com.lastB7/jfinal-swagger-knife4j@3.0.0
+- pkg:maven/com.lastB7/jfinal-swagger-knife4j@3.0.0?classifier=sources

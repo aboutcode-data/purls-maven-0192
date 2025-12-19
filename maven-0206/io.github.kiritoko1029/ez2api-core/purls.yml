@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kiritoko1029/ez2api-core@1.0.0
+- pkg:maven/io.github.kiritoko1029/ez2api-core@1.0.0?classifier=sources
