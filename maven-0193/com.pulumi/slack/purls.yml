@@ -1,0 +1,4 @@
+- pkg:maven/com.pulumi/slack@0.2.1-alpha.1660680816%2B47ced5b2?classifier=sources
+- pkg:maven/com.pulumi/slack@0.2.1?classifier=sources
+- pkg:maven/com.pulumi/slack@0.2.2-alpha.1660927837%2B572a130c?classifier=sources
+- pkg:maven/com.pulumi/slack@0.2.2?classifier=sources

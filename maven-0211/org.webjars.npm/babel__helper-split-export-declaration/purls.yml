@@ -16,6 +16,8 @@
 - pkg:maven/org.webjars.npm/babel__helper-split-export-declaration@7.15.4?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-split-export-declaration@7.16.7
 - pkg:maven/org.webjars.npm/babel__helper-split-export-declaration@7.16.7?classifier=sources
+- pkg:maven/org.webjars.npm/babel__helper-split-export-declaration@7.18.6
+- pkg:maven/org.webjars.npm/babel__helper-split-export-declaration@7.18.6?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-split-export-declaration@7.4.0
 - pkg:maven/org.webjars.npm/babel__helper-split-export-declaration@7.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-split-export-declaration@7.4.4

@@ -1,0 +1,3 @@
+- pkg:maven/id.luckynetwork.lyrams.lyralibs/velocity@b292?classifier=sources
+- pkg:maven/id.luckynetwork.lyrams.lyralibs/velocity@b294?classifier=sources
+- pkg:maven/id.luckynetwork.lyrams.lyralibs/velocity@b296?classifier=sources

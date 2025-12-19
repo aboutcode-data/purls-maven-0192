@@ -16,3 +16,5 @@
 - pkg:maven/ch.qos.reload4j/reload4j@1.2.20?classifier=sources
 - pkg:maven/ch.qos.reload4j/reload4j@1.2.21
 - pkg:maven/ch.qos.reload4j/reload4j@1.2.21?classifier=sources
+- pkg:maven/ch.qos.reload4j/reload4j@1.2.22
+- pkg:maven/ch.qos.reload4j/reload4j@1.2.22?classifier=sources

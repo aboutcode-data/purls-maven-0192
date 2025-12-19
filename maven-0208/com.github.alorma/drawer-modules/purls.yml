@@ -12,6 +12,8 @@
 - pkg:maven/com.github.alorma/drawer-modules@0.21.0?classifier=sources
 - pkg:maven/com.github.alorma/drawer-modules@0.22.0?classifier=sources
 - pkg:maven/com.github.alorma/drawer-modules@0.23.0?classifier=sources
+- pkg:maven/com.github.alorma/drawer-modules@0.24.0?classifier=sources
+- pkg:maven/com.github.alorma/drawer-modules@0.25.0?classifier=sources
 - pkg:maven/com.github.alorma/drawer-modules@0.3.0?classifier=sources
 - pkg:maven/com.github.alorma/drawer-modules@0.4.0?classifier=sources
 - pkg:maven/com.github.alorma/drawer-modules@0.5.0?classifier=sources

@@ -96,3 +96,5 @@
 - pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-standalone@7.71.0.Final?type=war
 - pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-standalone@7.72.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-standalone@7.72.0.Final?type=war
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-standalone@7.73.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-standalone@7.73.0.Final?type=war

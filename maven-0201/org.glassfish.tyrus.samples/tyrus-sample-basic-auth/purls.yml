@@ -73,6 +73,9 @@
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-basic-auth@2.0.3?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-basic-auth@2.0.3?classifier=sources
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-basic-auth@2.0.3?type=war
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-basic-auth@2.0.4?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-basic-auth@2.0.4?classifier=sources
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-basic-auth@2.0.4?type=war
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-basic-auth@2.1.0-M1?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-basic-auth@2.1.0-M1?classifier=sources
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-basic-auth@2.1.0-M1?type=war
@@ -82,3 +85,6 @@
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-basic-auth@2.1.0-M4?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-basic-auth@2.1.0-M4?classifier=sources
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-basic-auth@2.1.0-M4?type=war
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-basic-auth@2.1.0?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-basic-auth@2.1.0?classifier=sources
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-basic-auth@2.1.0?type=war

@@ -7,3 +7,4 @@
 - pkg:maven/com.athaydes.rawhttp/rawhttp-cookies@0.2.1
 - pkg:maven/com.athaydes.rawhttp/rawhttp-cookies@0.2.1?classifier=sources
 - pkg:maven/com.athaydes.rawhttp/rawhttp-cookies@0.3.0?classifier=sources
+- pkg:maven/com.athaydes.rawhttp/rawhttp-cookies@0.3.1?classifier=sources

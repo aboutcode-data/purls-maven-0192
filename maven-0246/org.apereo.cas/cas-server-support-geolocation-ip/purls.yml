@@ -1,0 +1,2 @@
+- pkg:maven/org.apereo.cas/cas-server-support-geolocation-ip@6.6.0-RC5?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-geolocation-ip@6.6.0?classifier=sources

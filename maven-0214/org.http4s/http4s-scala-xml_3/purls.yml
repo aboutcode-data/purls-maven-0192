@@ -86,3 +86,5 @@
 - pkg:maven/org.http4s/http4s-scala-xml_3@1.0.0-M33?classifier=sources
 - pkg:maven/org.http4s/http4s-scala-xml_3@1.0.0-M34
 - pkg:maven/org.http4s/http4s-scala-xml_3@1.0.0-M34?classifier=sources
+- pkg:maven/org.http4s/http4s-scala-xml_3@1.0.0-M35
+- pkg:maven/org.http4s/http4s-scala-xml_3@1.0.0-M35?classifier=sources

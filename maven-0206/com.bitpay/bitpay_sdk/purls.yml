@@ -54,3 +54,5 @@
 - pkg:maven/com.bitpay/bitpay_sdk@8.5.2206?classifier=sources
 - pkg:maven/com.bitpay/bitpay_sdk@8.5.2207
 - pkg:maven/com.bitpay/bitpay_sdk@8.5.2207?classifier=sources
+- pkg:maven/com.bitpay/bitpay_sdk@8.5.2208
+- pkg:maven/com.bitpay/bitpay_sdk@8.5.2208?classifier=sources

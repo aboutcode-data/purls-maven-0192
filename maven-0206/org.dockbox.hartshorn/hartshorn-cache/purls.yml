@@ -2,4 +2,5 @@
 - pkg:maven/org.dockbox.hartshorn/hartshorn-cache@22.2?classifier=sources
 - pkg:maven/org.dockbox.hartshorn/hartshorn-cache@22.3.1?classifier=sources
 - pkg:maven/org.dockbox.hartshorn/hartshorn-cache@22.3?classifier=sources
+- pkg:maven/org.dockbox.hartshorn/hartshorn-cache@22.4?classifier=sources
 - pkg:maven/org.dockbox.hartshorn/hartshorn-cache@4.2.4?classifier=sources

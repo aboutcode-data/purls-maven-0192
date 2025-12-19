@@ -98,3 +98,17 @@
 - pkg:maven/com.google.apis/google-api-services-analyticsadmin@v1alpha-rev20220625-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-analyticsadmin@v1alpha-rev20220706-1.32.1
 - pkg:maven/com.google.apis/google-api-services-analyticsadmin@v1alpha-rev20220706-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-analyticsadmin@v1alpha-rev20220725-1.32.1
+- pkg:maven/com.google.apis/google-api-services-analyticsadmin@v1alpha-rev20220725-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-analyticsadmin@v1alpha-rev20220727-1.32.1
+- pkg:maven/com.google.apis/google-api-services-analyticsadmin@v1alpha-rev20220727-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-analyticsadmin@v1alpha-rev20220727-2.0.0
+- pkg:maven/com.google.apis/google-api-services-analyticsadmin@v1alpha-rev20220727-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-analyticsadmin@v1alpha-rev20220730-2.0.0
+- pkg:maven/com.google.apis/google-api-services-analyticsadmin@v1alpha-rev20220730-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-analyticsadmin@v1alpha-rev20220803-2.0.0
+- pkg:maven/com.google.apis/google-api-services-analyticsadmin@v1alpha-rev20220803-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-analyticsadmin@v1alpha-rev20220817-2.0.0
+- pkg:maven/com.google.apis/google-api-services-analyticsadmin@v1alpha-rev20220817-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-analyticsadmin@v1alpha-rev20220825-2.0.0
+- pkg:maven/com.google.apis/google-api-services-analyticsadmin@v1alpha-rev20220825-2.0.0?classifier=sources

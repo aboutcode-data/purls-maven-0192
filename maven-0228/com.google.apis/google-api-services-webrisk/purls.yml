@@ -16,3 +16,9 @@
 - pkg:maven/com.google.apis/google-api-services-webrisk@v1-rev20220625-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-webrisk@v1-rev20220708-1.32.1
 - pkg:maven/com.google.apis/google-api-services-webrisk@v1-rev20220708-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-webrisk@v1-rev20220708-2.0.0
+- pkg:maven/com.google.apis/google-api-services-webrisk@v1-rev20220708-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-webrisk@v1-rev20220806-2.0.0
+- pkg:maven/com.google.apis/google-api-services-webrisk@v1-rev20220806-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-webrisk@v1-rev20220819-2.0.0
+- pkg:maven/com.google.apis/google-api-services-webrisk@v1-rev20220819-2.0.0?classifier=sources

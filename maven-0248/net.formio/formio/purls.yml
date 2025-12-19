@@ -48,3 +48,5 @@
 - pkg:maven/net.formio/formio@1.6.7?classifier=sources
 - pkg:maven/net.formio/formio@1.6.8
 - pkg:maven/net.formio/formio@1.6.8?classifier=sources
+- pkg:maven/net.formio/formio@1.6.9
+- pkg:maven/net.formio/formio@1.6.9?classifier=sources

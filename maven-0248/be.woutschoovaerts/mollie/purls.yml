@@ -33,3 +33,7 @@
 - pkg:maven/be.woutschoovaerts/mollie@3.6.7?classifier=sources
 - pkg:maven/be.woutschoovaerts/mollie@3.6.8
 - pkg:maven/be.woutschoovaerts/mollie@3.6.8?classifier=sources
+- pkg:maven/be.woutschoovaerts/mollie@3.7.0
+- pkg:maven/be.woutschoovaerts/mollie@3.7.0?classifier=sources
+- pkg:maven/be.woutschoovaerts/mollie@3.7.1
+- pkg:maven/be.woutschoovaerts/mollie@3.7.1?classifier=sources

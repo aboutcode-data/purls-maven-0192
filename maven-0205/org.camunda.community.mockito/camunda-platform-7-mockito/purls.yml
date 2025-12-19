@@ -1,2 +1,4 @@
 - pkg:maven/org.camunda.community.mockito/camunda-platform-7-mockito@6.17.0
 - pkg:maven/org.camunda.community.mockito/camunda-platform-7-mockito@6.17.0?classifier=sources
+- pkg:maven/org.camunda.community.mockito/camunda-platform-7-mockito@6.17.1
+- pkg:maven/org.camunda.community.mockito/camunda-platform-7-mockito@6.17.1?classifier=sources

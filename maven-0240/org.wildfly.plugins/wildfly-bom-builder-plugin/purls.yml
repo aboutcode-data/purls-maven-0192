@@ -16,3 +16,5 @@
 - pkg:maven/org.wildfly.plugins/wildfly-bom-builder-plugin@2.0.2.Final?classifier=sources
 - pkg:maven/org.wildfly.plugins/wildfly-bom-builder-plugin@2.0.3.Final
 - pkg:maven/org.wildfly.plugins/wildfly-bom-builder-plugin@2.0.3.Final?classifier=sources
+- pkg:maven/org.wildfly.plugins/wildfly-bom-builder-plugin@2.0.4.Final
+- pkg:maven/org.wildfly.plugins/wildfly-bom-builder-plugin@2.0.4.Final?classifier=sources

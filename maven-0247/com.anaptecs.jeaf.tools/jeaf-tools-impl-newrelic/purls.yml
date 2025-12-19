@@ -21,6 +21,14 @@
 - pkg:maven/com.anaptecs.jeaf.tools/jeaf-tools-impl-newrelic@1.6.2
 - pkg:maven/com.anaptecs.jeaf.tools/jeaf-tools-impl-newrelic@1.6.20
 - pkg:maven/com.anaptecs.jeaf.tools/jeaf-tools-impl-newrelic@1.6.20?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.tools/jeaf-tools-impl-newrelic@1.6.21
+- pkg:maven/com.anaptecs.jeaf.tools/jeaf-tools-impl-newrelic@1.6.21?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.tools/jeaf-tools-impl-newrelic@1.6.22
+- pkg:maven/com.anaptecs.jeaf.tools/jeaf-tools-impl-newrelic@1.6.22?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.tools/jeaf-tools-impl-newrelic@1.6.23
+- pkg:maven/com.anaptecs.jeaf.tools/jeaf-tools-impl-newrelic@1.6.23?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.tools/jeaf-tools-impl-newrelic@1.6.24
+- pkg:maven/com.anaptecs.jeaf.tools/jeaf-tools-impl-newrelic@1.6.24?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.tools/jeaf-tools-impl-newrelic@1.6.2?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.tools/jeaf-tools-impl-newrelic@1.6.3
 - pkg:maven/com.anaptecs.jeaf.tools/jeaf-tools-impl-newrelic@1.6.3?classifier=sources

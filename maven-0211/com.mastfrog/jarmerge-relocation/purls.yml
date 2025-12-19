@@ -1,0 +1,2 @@
+- pkg:maven/com.mastfrog/jarmerge-relocation@1.0.2
+- pkg:maven/com.mastfrog/jarmerge-relocation@1.0.2?classifier=sources

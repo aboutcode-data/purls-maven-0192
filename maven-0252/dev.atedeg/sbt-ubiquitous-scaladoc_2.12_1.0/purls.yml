@@ -1,0 +1,4 @@
+- pkg:maven/dev.atedeg/sbt-ubiquitous-scaladoc_2.12_1.0@2.0.0
+- pkg:maven/dev.atedeg/sbt-ubiquitous-scaladoc_2.12_1.0@2.0.0?classifier=sources
+- pkg:maven/dev.atedeg/sbt-ubiquitous-scaladoc_2.12_1.0@2.0.1
+- pkg:maven/dev.atedeg/sbt-ubiquitous-scaladoc_2.12_1.0@2.0.1?classifier=sources

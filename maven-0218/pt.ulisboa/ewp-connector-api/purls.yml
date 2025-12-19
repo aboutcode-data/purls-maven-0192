@@ -22,3 +22,5 @@
 - pkg:maven/pt.ulisboa/ewp-connector-api@3.6.0?classifier=sources
 - pkg:maven/pt.ulisboa/ewp-connector-api@3.7.0
 - pkg:maven/pt.ulisboa/ewp-connector-api@3.7.0?classifier=sources
+- pkg:maven/pt.ulisboa/ewp-connector-api@3.8.0
+- pkg:maven/pt.ulisboa/ewp-connector-api@3.8.0?classifier=sources

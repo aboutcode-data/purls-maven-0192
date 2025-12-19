@@ -1,1 +1,2 @@
 - pkg:maven/org.ical4j/ical4j-integration-mail@0.1.2?classifier=sources
+- pkg:maven/org.ical4j/ical4j-integration-mail@0.2.0?classifier=sources

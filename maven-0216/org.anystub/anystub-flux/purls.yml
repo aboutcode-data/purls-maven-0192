@@ -1,2 +1,8 @@
 - pkg:maven/org.anystub/anystub-flux@0.1.5
 - pkg:maven/org.anystub/anystub-flux@0.1.5?classifier=sources
+- pkg:maven/org.anystub/anystub-flux@0.1.6
+- pkg:maven/org.anystub/anystub-flux@0.1.6?classifier=sources
+- pkg:maven/org.anystub/anystub-flux@0.1.7
+- pkg:maven/org.anystub/anystub-flux@0.1.7?classifier=sources
+- pkg:maven/org.anystub/anystub-flux@0.2.1
+- pkg:maven/org.anystub/anystub-flux@0.2.1?classifier=sources

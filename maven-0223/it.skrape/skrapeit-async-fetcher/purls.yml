@@ -12,3 +12,4 @@
 - pkg:maven/it.skrape/skrapeit-async-fetcher@1.2.0?classifier=sources
 - pkg:maven/it.skrape/skrapeit-async-fetcher@1.2.1?classifier=sources
 - pkg:maven/it.skrape/skrapeit-async-fetcher@1.2.2?classifier=sources
+- pkg:maven/it.skrape/skrapeit-async-fetcher@1.3.0-alpha.1?classifier=sources

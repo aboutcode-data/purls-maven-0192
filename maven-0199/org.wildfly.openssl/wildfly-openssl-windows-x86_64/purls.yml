@@ -33,3 +33,5 @@
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-windows-x86_64@2.1.0.Final?classifier=sources
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-windows-x86_64@2.2.0.Final
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-windows-x86_64@2.2.0.Final?classifier=sources
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-windows-x86_64@2.2.2.Final
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-windows-x86_64@2.2.2.Final?classifier=sources

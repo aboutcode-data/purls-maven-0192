@@ -1,0 +1,6 @@
+- pkg:maven/cn.hserver/hserver-plugin-mqtt@3.0.0
+- pkg:maven/cn.hserver/hserver-plugin-mqtt@3.0.0?classifier=sources
+- pkg:maven/cn.hserver/hserver-plugin-mqtt@3.0.M3
+- pkg:maven/cn.hserver/hserver-plugin-mqtt@3.0.M3?classifier=sources
+- pkg:maven/cn.hserver/hserver-plugin-mqtt@3.0.M5
+- pkg:maven/cn.hserver/hserver-plugin-mqtt@3.0.M5?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/io.github.yongzheng7/atom-plugin@4.0.0?classifier=sources
 - pkg:maven/io.github.yongzheng7/atom-plugin@5.0.0
 - pkg:maven/io.github.yongzheng7/atom-plugin@5.0.0?classifier=sources
+- pkg:maven/io.github.yongzheng7/atom-plugin@6.0.0
+- pkg:maven/io.github.yongzheng7/atom-plugin@6.0.0?classifier=sources

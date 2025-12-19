@@ -1,0 +1,2 @@
+- pkg:maven/com.pulumi/vault@5.6.0-alpha.1660649408%2B7c17b76a?classifier=sources
+- pkg:maven/com.pulumi/vault@5.6.0?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/com.thegoate/testng@0.15.17.202207222244?classifier=sources
+- pkg:maven/com.thegoate/testng@0.15.17.202208262237?classifier=sources
 - pkg:maven/com.thegoate/testng@0.15.8.202102061107
 - pkg:maven/com.thegoate/testng@0.15.8.202102061107?classifier=sources
 - pkg:maven/com.thegoate/testng@0.15.8.202102092109
@@ -44,3 +46,5 @@
 - pkg:maven/com.thegoate/testng@0.15.8.202206221624?classifier=sources
 - pkg:maven/com.thegoate/testng@0.15.8.202207071539?classifier=sources
 - pkg:maven/com.thegoate/testng@0.15.8.202207081326?classifier=sources
+- pkg:maven/com.thegoate/testng@0.15.8.202208111012?classifier=sources
+- pkg:maven/com.thegoate/testng@0.15.8.202208262138?classifier=sources

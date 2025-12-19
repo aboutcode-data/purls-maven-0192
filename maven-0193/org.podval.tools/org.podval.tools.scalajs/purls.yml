@@ -3,3 +3,5 @@
 - pkg:maven/org.podval.tools/org.podval.tools.scalajs@0.0.3?classifier=sources
 - pkg:maven/org.podval.tools/org.podval.tools.scalajs@0.0.4?classifier=sources
 - pkg:maven/org.podval.tools/org.podval.tools.scalajs@0.1.0?classifier=sources
+- pkg:maven/org.podval.tools/org.podval.tools.scalajs@0.2.0?classifier=sources
+- pkg:maven/org.podval.tools/org.podval.tools.scalajs@0.3.0?classifier=sources

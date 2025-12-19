@@ -330,6 +330,14 @@
 - pkg:maven/com.google.apis/google-api-services-logging@v2-rev20220527-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-logging@v2-rev20220624-1.32.1
 - pkg:maven/com.google.apis/google-api-services-logging@v2-rev20220624-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-logging@v2-rev20220714-1.32.1
+- pkg:maven/com.google.apis/google-api-services-logging@v2-rev20220714-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-logging@v2-rev20220714-2.0.0
+- pkg:maven/com.google.apis/google-api-services-logging@v2-rev20220714-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-logging@v2-rev20220805-2.0.0
+- pkg:maven/com.google.apis/google-api-services-logging@v2-rev20220805-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-logging@v2-rev20220819-2.0.0
+- pkg:maven/com.google.apis/google-api-services-logging@v2-rev20220819-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-logging@v2-rev209-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-logging@v2-rev209-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-logging@v2-rev3-1.18.0-rc

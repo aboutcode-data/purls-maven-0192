@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/cache-chunk-store@3.2.2
+- pkg:maven/org.webjars.npm/cache-chunk-store@3.2.2?classifier=sources

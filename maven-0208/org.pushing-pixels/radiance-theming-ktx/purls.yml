@@ -1,1 +1,2 @@
 - pkg:maven/org.pushing-pixels/radiance-theming-ktx@5.0.0?classifier=sources
+- pkg:maven/org.pushing-pixels/radiance-theming-ktx@6.0.0?classifier=sources

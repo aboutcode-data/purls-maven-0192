@@ -1,0 +1,2 @@
+- pkg:maven/com.mmorrell/mango@1.2
+- pkg:maven/com.mmorrell/mango@1.2?classifier=sources

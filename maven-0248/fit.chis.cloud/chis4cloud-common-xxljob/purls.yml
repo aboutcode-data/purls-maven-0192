@@ -1,0 +1,4 @@
+- pkg:maven/fit.chis.cloud/chis4cloud-common-xxljob@3.6.0.3
+- pkg:maven/fit.chis.cloud/chis4cloud-common-xxljob@3.6.0.3.RC2
+- pkg:maven/fit.chis.cloud/chis4cloud-common-xxljob@3.6.0.3.RC2?classifier=sources
+- pkg:maven/fit.chis.cloud/chis4cloud-common-xxljob@3.6.0.3?classifier=sources

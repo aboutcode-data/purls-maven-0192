@@ -4,4 +4,5 @@
 - pkg:maven/io.github.ludorival/kotlin-tdd@1.1.1?classifier=sources
 - pkg:maven/io.github.ludorival/kotlin-tdd@1.1.2?classifier=sources
 - pkg:maven/io.github.ludorival/kotlin-tdd@1.2.0?classifier=sources
+- pkg:maven/io.github.ludorival/kotlin-tdd@2.0.0.beta?classifier=sources
 - pkg:maven/io.github.ludorival/kotlin-tdd@79acbc5.dirty?classifier=sources

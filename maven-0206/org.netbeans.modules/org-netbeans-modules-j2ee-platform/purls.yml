@@ -13,3 +13,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-platform@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-platform@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-platform@RELEASE140?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-platform@RELEASE150?classifier=sources

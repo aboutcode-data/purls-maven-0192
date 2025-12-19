@@ -14,3 +14,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-apigen@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-apigen@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-apigen@RELEASE140?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-apigen@RELEASE150?classifier=sources

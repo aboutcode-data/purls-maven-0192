@@ -1,0 +1,6 @@
+- pkg:maven/de.team-holycow/acc-data@0.1
+- pkg:maven/de.team-holycow/acc-data@0.1?classifier=sources
+- pkg:maven/de.team-holycow/acc-data@0.2
+- pkg:maven/de.team-holycow/acc-data@0.2?classifier=sources
+- pkg:maven/de.team-holycow/acc-data@0.3
+- pkg:maven/de.team-holycow/acc-data@0.3?classifier=sources

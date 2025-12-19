@@ -7,3 +7,4 @@
 - pkg:maven/io.gamedock.sdk/gamedock-sdk@5.1.2?classifier=sources
 - pkg:maven/io.gamedock.sdk/gamedock-sdk@5.1.3?classifier=sources
 - pkg:maven/io.gamedock.sdk/gamedock-sdk@5.2.0?classifier=sources
+- pkg:maven/io.gamedock.sdk/gamedock-sdk@5.2.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.infinum.sentinel/tool-timber@1.1.9?classifier=sources
+- pkg:maven/com.infinum.sentinel/tool-timber@1.2.1?classifier=sources

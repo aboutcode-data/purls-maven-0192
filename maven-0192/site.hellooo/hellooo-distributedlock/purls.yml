@@ -1,0 +1,10 @@
+- pkg:maven/site.hellooo/hellooo-distributedlock@0.0.1-GA
+- pkg:maven/site.hellooo/hellooo-distributedlock@0.0.1-GA?classifier=sources
+- pkg:maven/site.hellooo/hellooo-distributedlock@0.0.2-GA
+- pkg:maven/site.hellooo/hellooo-distributedlock@0.0.2-GA?classifier=sources
+- pkg:maven/site.hellooo/hellooo-distributedlock@0.0.3-GA
+- pkg:maven/site.hellooo/hellooo-distributedlock@0.0.3-GA?classifier=sources
+- pkg:maven/site.hellooo/hellooo-distributedlock@0.0.4
+- pkg:maven/site.hellooo/hellooo-distributedlock@0.0.4?classifier=sources
+- pkg:maven/site.hellooo/hellooo-distributedlock@0.0.5-GA
+- pkg:maven/site.hellooo/hellooo-distributedlock@0.0.5-GA?classifier=sources

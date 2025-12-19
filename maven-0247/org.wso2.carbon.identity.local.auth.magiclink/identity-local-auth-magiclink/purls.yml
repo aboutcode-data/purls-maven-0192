@@ -1,1 +1,9 @@
+- pkg:maven/org.wso2.carbon.identity.local.auth.magiclink/identity-local-auth-magiclink@0.0.3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.local.auth.magiclink/identity-local-auth-magiclink@1.0.10?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.local.auth.magiclink/identity-local-auth-magiclink@1.0.11?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.local.auth.magiclink/identity-local-auth-magiclink@1.0.5?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.local.auth.magiclink/identity-local-auth-magiclink@1.0.8?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.local.auth.magiclink/identity-local-auth-magiclink@1.0.9?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.local.auth.magiclink/identity-local-auth-magiclink@1.1.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.local.auth.magiclink/identity-local-auth-magiclink@1.1.1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.local.auth.magiclink/identity-local-auth-magiclink@1.1.2?classifier=source-release&type=zip

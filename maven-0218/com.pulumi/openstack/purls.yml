@@ -1,0 +1,2 @@
+- pkg:maven/com.pulumi/openstack@3.9.0-alpha.1659603007%2Be0710191?classifier=sources
+- pkg:maven/com.pulumi/openstack@3.9.0?classifier=sources

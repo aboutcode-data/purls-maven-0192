@@ -75,6 +75,12 @@
 - pkg:maven/com.aliyun/retailbot20210224@2.8.24?classifier=sources
 - pkg:maven/com.aliyun/retailbot20210224@2.8.25
 - pkg:maven/com.aliyun/retailbot20210224@2.8.25?classifier=sources
+- pkg:maven/com.aliyun/retailbot20210224@2.8.26
+- pkg:maven/com.aliyun/retailbot20210224@2.8.26?classifier=sources
+- pkg:maven/com.aliyun/retailbot20210224@2.8.28
+- pkg:maven/com.aliyun/retailbot20210224@2.8.28?classifier=sources
+- pkg:maven/com.aliyun/retailbot20210224@2.8.29
+- pkg:maven/com.aliyun/retailbot20210224@2.8.29?classifier=sources
 - pkg:maven/com.aliyun/retailbot20210224@2.8.2?classifier=sources
 - pkg:maven/com.aliyun/retailbot20210224@2.8.4
 - pkg:maven/com.aliyun/retailbot20210224@2.8.4?classifier=sources

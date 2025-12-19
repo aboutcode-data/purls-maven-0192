@@ -3,3 +3,4 @@
 - pkg:maven/io.fabric8/fabric8-maven-plugin-it@4.3.1
 - pkg:maven/io.fabric8/fabric8-maven-plugin-it@4.4.0
 - pkg:maven/io.fabric8/fabric8-maven-plugin-it@4.4.1
+- pkg:maven/io.fabric8/fabric8-maven-plugin-it@4.4.2

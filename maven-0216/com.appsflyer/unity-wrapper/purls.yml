@@ -20,3 +20,4 @@
 - pkg:maven/com.appsflyer/unity-wrapper@6.5.2?type=aar
 - pkg:maven/com.appsflyer/unity-wrapper@6.5.4?type=aar
 - pkg:maven/com.appsflyer/unity-wrapper@6.6.0?type=aar
+- pkg:maven/com.appsflyer/unity-wrapper@6.8.1?type=aar

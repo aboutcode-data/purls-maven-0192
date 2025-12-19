@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sbt/sbt-jni-core_2.11@1.5.4
+- pkg:maven/com.github.sbt/sbt-jni-core_2.11@1.5.4?classifier=sources

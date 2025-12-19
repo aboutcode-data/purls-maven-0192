@@ -73,6 +73,8 @@
 - pkg:maven/no.mnemonic.services.common/documentation@0.3.34?classifier=sources
 - pkg:maven/no.mnemonic.services.common/documentation@0.3.35
 - pkg:maven/no.mnemonic.services.common/documentation@0.3.35?classifier=sources
+- pkg:maven/no.mnemonic.services.common/documentation@0.3.36
+- pkg:maven/no.mnemonic.services.common/documentation@0.3.36?classifier=sources
 - pkg:maven/no.mnemonic.services.common/documentation@0.3.3?classifier=sources
 - pkg:maven/no.mnemonic.services.common/documentation@0.3.4
 - pkg:maven/no.mnemonic.services.common/documentation@0.3.4?classifier=sources

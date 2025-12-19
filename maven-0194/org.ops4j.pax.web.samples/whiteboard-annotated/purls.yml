@@ -1,0 +1,2 @@
+- pkg:maven/org.ops4j.pax.web.samples/whiteboard-annotated@8.0.7
+- pkg:maven/org.ops4j.pax.web.samples/whiteboard-annotated@8.0.7?classifier=sources
