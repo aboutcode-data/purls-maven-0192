@@ -5,3 +5,4 @@
 - pkg:maven/io.github.springboot-addons/spring-boot-starter-httpclient-integration-tests@1.0.4
 - pkg:maven/io.github.springboot-addons/spring-boot-starter-httpclient-integration-tests@1.0.5
 - pkg:maven/io.github.springboot-addons/spring-boot-starter-httpclient-integration-tests@1.0.7
+- pkg:maven/io.github.springboot-addons/spring-boot-starter-httpclient-integration-tests@2.0.0

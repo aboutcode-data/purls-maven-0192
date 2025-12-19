@@ -16,4 +16,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-versioning-indexingbridge@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-versioning-indexingbridge@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-versioning-indexingbridge@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-versioning-indexingbridge@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-versioning-indexingbridge@RELEASE90?classifier=sources

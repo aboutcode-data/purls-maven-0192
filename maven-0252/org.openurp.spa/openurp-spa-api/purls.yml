@@ -40,3 +40,5 @@
 - pkg:maven/org.openurp.spa/openurp-spa-api@0.30.5?classifier=sources
 - pkg:maven/org.openurp.spa/openurp-spa-api@0.31.0.Beta1
 - pkg:maven/org.openurp.spa/openurp-spa-api@0.31.0.Beta1?classifier=sources
+- pkg:maven/org.openurp.spa/openurp-spa-api@0.31.0.Beta2
+- pkg:maven/org.openurp.spa/openurp-spa-api@0.31.0.Beta2?classifier=sources

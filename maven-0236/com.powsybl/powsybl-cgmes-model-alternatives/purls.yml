@@ -64,3 +64,4 @@
 - pkg:maven/com.powsybl/powsybl-cgmes-model-alternatives@5.1.0
 - pkg:maven/com.powsybl/powsybl-cgmes-model-alternatives@5.1.0-RC1
 - pkg:maven/com.powsybl/powsybl-cgmes-model-alternatives@5.1.1
+- pkg:maven/com.powsybl/powsybl-cgmes-model-alternatives@5.2.0-alpha-1

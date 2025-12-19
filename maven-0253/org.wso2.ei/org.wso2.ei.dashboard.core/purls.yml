@@ -14,5 +14,7 @@
 - pkg:maven/org.wso2.ei/org.wso2.ei.dashboard.core@4.1.0-m2?type=war
 - pkg:maven/org.wso2.ei/org.wso2.ei.dashboard.core@4.1.0-m3?classifier=sources
 - pkg:maven/org.wso2.ei/org.wso2.ei.dashboard.core@4.1.0-m3?type=war
+- pkg:maven/org.wso2.ei/org.wso2.ei.dashboard.core@4.2.0-beta?classifier=sources
+- pkg:maven/org.wso2.ei/org.wso2.ei.dashboard.core@4.2.0-beta?type=war
 - pkg:maven/org.wso2.ei/org.wso2.ei.dashboard.core@4.2.0-m1?classifier=sources
 - pkg:maven/org.wso2.ei/org.wso2.ei.dashboard.core@4.2.0-m1?type=war

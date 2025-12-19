@@ -1,0 +1,2 @@
+- pkg:maven/com.kroger.telemetry/android@1.0.0-alpha.7?classifier=sources
+- pkg:maven/com.kroger.telemetry/android@1.0.0?classifier=sources

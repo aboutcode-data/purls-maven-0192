@@ -1,0 +1,3 @@
+- pkg:maven/com.pulumi/onelogin@0.3.1-alpha.1675882960%2B476a7b0d?classifier=sources
+- pkg:maven/com.pulumi/onelogin@0.4.0?classifier=sources
+- pkg:maven/com.pulumi/onelogin@0.4.1-alpha.1677788410%2Bdf5f0e06?classifier=sources

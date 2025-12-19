@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/brython@3.6.2?classifier=sources
 - pkg:maven/org.webjars.npm/brython@3.7.1
 - pkg:maven/org.webjars.npm/brython@3.7.1?classifier=sources
+- pkg:maven/org.webjars.npm/brython@3.8.10
+- pkg:maven/org.webjars.npm/brython@3.8.10?classifier=sources

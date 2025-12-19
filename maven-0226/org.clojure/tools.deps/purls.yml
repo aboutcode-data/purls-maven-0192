@@ -2,3 +2,13 @@
 - pkg:maven/org.clojure/tools.deps@0.16.1260?classifier=sources
 - pkg:maven/org.clojure/tools.deps@0.16.1264
 - pkg:maven/org.clojure/tools.deps@0.16.1264?classifier=sources
+- pkg:maven/org.clojure/tools.deps@0.16.1273
+- pkg:maven/org.clojure/tools.deps@0.16.1273?classifier=sources
+- pkg:maven/org.clojure/tools.deps@0.16.1277
+- pkg:maven/org.clojure/tools.deps@0.16.1277?classifier=sources
+- pkg:maven/org.clojure/tools.deps@0.16.1281
+- pkg:maven/org.clojure/tools.deps@0.16.1281?classifier=sources
+- pkg:maven/org.clojure/tools.deps@0.16.1285
+- pkg:maven/org.clojure/tools.deps@0.16.1285?classifier=sources
+- pkg:maven/org.clojure/tools.deps@0.17.1297
+- pkg:maven/org.clojure/tools.deps@0.17.1297?classifier=sources

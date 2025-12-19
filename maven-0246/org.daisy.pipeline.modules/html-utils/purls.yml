@@ -22,3 +22,5 @@
 - pkg:maven/org.daisy.pipeline.modules/html-utils@5.1.0?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules/html-utils@6.0.0
 - pkg:maven/org.daisy.pipeline.modules/html-utils@6.0.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/html-utils@6.1.0
+- pkg:maven/org.daisy.pipeline.modules/html-utils@6.1.0?classifier=sources

@@ -140,3 +140,7 @@
 - pkg:maven/com.github.javaclub/sword@1.7.6_20?classifier=sources
 - pkg:maven/com.github.javaclub/sword@1.7.6_21
 - pkg:maven/com.github.javaclub/sword@1.7.6_21?classifier=sources
+- pkg:maven/com.github.javaclub/sword@1.8.0
+- pkg:maven/com.github.javaclub/sword@1.8.0?classifier=sources
+- pkg:maven/com.github.javaclub/sword@1.8.1
+- pkg:maven/com.github.javaclub/sword@1.8.1?classifier=sources

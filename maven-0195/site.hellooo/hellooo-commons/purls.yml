@@ -1,2 +1,4 @@
 - pkg:maven/site.hellooo/hellooo-commons@0.0.1-GA
 - pkg:maven/site.hellooo/hellooo-commons@0.0.1-GA?classifier=sources
+- pkg:maven/site.hellooo/hellooo-commons@0.0.2-GA
+- pkg:maven/site.hellooo/hellooo-commons@0.0.2-GA?classifier=sources

@@ -50,3 +50,5 @@
 - pkg:maven/io.gitee.jiujiupin/fxu-generator@1.2.7?classifier=sources
 - pkg:maven/io.gitee.jiujiupin/fxu-generator@1.2.8
 - pkg:maven/io.gitee.jiujiupin/fxu-generator@1.2.8?classifier=sources
+- pkg:maven/io.gitee.jiujiupin/fxu-generator@1.2.9
+- pkg:maven/io.gitee.jiujiupin/fxu-generator@1.2.9?classifier=sources

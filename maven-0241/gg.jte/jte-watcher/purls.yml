@@ -42,3 +42,7 @@
 - pkg:maven/gg.jte/jte-watcher@2.2.3?classifier=sources
 - pkg:maven/gg.jte/jte-watcher@2.2.4
 - pkg:maven/gg.jte/jte-watcher@2.2.4?classifier=sources
+- pkg:maven/gg.jte/jte-watcher@2.2.6
+- pkg:maven/gg.jte/jte-watcher@2.2.6?classifier=sources
+- pkg:maven/gg.jte/jte-watcher@2.3.0
+- pkg:maven/gg.jte/jte-watcher@2.3.0?classifier=sources

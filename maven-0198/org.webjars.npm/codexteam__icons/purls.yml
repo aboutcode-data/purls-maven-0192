@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/codexteam__icons@0.0.4
+- pkg:maven/org.webjars.npm/codexteam__icons@0.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/codexteam__icons@0.0.5
+- pkg:maven/org.webjars.npm/codexteam__icons@0.0.5?classifier=sources
+- pkg:maven/org.webjars.npm/codexteam__icons@0.1.0
+- pkg:maven/org.webjars.npm/codexteam__icons@0.1.0?classifier=sources

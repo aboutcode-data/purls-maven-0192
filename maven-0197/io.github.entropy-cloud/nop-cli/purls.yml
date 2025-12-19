@@ -1,0 +1,2 @@
+- pkg:maven/io.github.entropy-cloud/nop-cli@2.0.0-BETA.1
+- pkg:maven/io.github.entropy-cloud/nop-cli@2.0.0-BETA.1?classifier=sources

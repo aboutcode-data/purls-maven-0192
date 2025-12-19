@@ -74,3 +74,5 @@
 - pkg:maven/com.clarifai/clarifai-grpc@8.0.0?classifier=sources
 - pkg:maven/com.clarifai/clarifai-grpc@9.1.0
 - pkg:maven/com.clarifai/clarifai-grpc@9.1.0?classifier=sources
+- pkg:maven/com.clarifai/clarifai-grpc@9.2.0
+- pkg:maven/com.clarifai/clarifai-grpc@9.2.0?classifier=sources

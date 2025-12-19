@@ -7,3 +7,5 @@
 - pkg:maven/com.unblu.openapi/models-v3@7.22.2?classifier=sources
 - pkg:maven/com.unblu.openapi/models-v3@7.23.2?classifier=sources
 - pkg:maven/com.unblu.openapi/models-v3@7.24.1?classifier=sources
+- pkg:maven/com.unblu.openapi/models-v3@7.25.0?classifier=sources
+- pkg:maven/com.unblu.openapi/models-v3@7.26.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.edurt.datacap.plugin.natived/datacap-plugin-native-zookeeper@1.5.0
+- pkg:maven/io.edurt.datacap.plugin.natived/datacap-plugin-native-zookeeper@1.5.0?classifier=sources

@@ -48,6 +48,10 @@
 - pkg:maven/top.lieder/base@0.0.1-33?classifier=sources
 - pkg:maven/top.lieder/base@0.0.1-34
 - pkg:maven/top.lieder/base@0.0.1-34?classifier=sources
+- pkg:maven/top.lieder/base@0.0.1-35
+- pkg:maven/top.lieder/base@0.0.1-35?classifier=sources
+- pkg:maven/top.lieder/base@0.0.1-36
+- pkg:maven/top.lieder/base@0.0.1-36?classifier=sources
 - pkg:maven/top.lieder/base@0.0.1-4
 - pkg:maven/top.lieder/base@0.0.1-4?classifier=sources
 - pkg:maven/top.lieder/base@0.0.1-5

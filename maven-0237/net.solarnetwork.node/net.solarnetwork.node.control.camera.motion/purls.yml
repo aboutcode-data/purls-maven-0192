@@ -1,2 +1,6 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.control.camera.motion@2.0.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.control.camera.motion@2.0.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.control.camera.motion@2.0.1
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.control.camera.motion@2.0.1?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.control.camera.motion@3.0.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.control.camera.motion@3.0.0?classifier=sources

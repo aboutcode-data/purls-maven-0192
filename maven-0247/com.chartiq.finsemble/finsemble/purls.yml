@@ -24,6 +24,8 @@
 - pkg:maven/com.chartiq.finsemble/finsemble@6.6.2?classifier=sources
 - pkg:maven/com.chartiq.finsemble/finsemble@6.6.3
 - pkg:maven/com.chartiq.finsemble/finsemble@6.6.3?classifier=sources
+- pkg:maven/com.chartiq.finsemble/finsemble@6.6.6
+- pkg:maven/com.chartiq.finsemble/finsemble@6.6.6?classifier=sources
 - pkg:maven/com.chartiq.finsemble/finsemble@7.0.0
 - pkg:maven/com.chartiq.finsemble/finsemble@7.0.0?classifier=sources
 - pkg:maven/com.chartiq.finsemble/finsemble@7.0.1
@@ -37,6 +39,10 @@
 - pkg:maven/com.chartiq.finsemble/finsemble@7.3.0
 - pkg:maven/com.chartiq.finsemble/finsemble@7.3.0?classifier=sources
 - pkg:maven/com.chartiq.finsemble/finsemble@7.3.1
+- pkg:maven/com.chartiq.finsemble/finsemble@7.3.10
+- pkg:maven/com.chartiq.finsemble/finsemble@7.3.10?classifier=sources
+- pkg:maven/com.chartiq.finsemble/finsemble@7.3.11
+- pkg:maven/com.chartiq.finsemble/finsemble@7.3.11?classifier=sources
 - pkg:maven/com.chartiq.finsemble/finsemble@7.3.1?classifier=sources
 - pkg:maven/com.chartiq.finsemble/finsemble@7.3.2
 - pkg:maven/com.chartiq.finsemble/finsemble@7.3.2?classifier=sources
@@ -72,5 +78,15 @@
 - pkg:maven/com.chartiq.finsemble/finsemble@8.2.3?classifier=sources
 - pkg:maven/com.chartiq.finsemble/finsemble@8.3.0
 - pkg:maven/com.chartiq.finsemble/finsemble@8.3.0?classifier=sources
+- pkg:maven/com.chartiq.finsemble/finsemble@8.3.1
+- pkg:maven/com.chartiq.finsemble/finsemble@8.3.1?classifier=sources
+- pkg:maven/com.chartiq.finsemble/finsemble@8.3.2
+- pkg:maven/com.chartiq.finsemble/finsemble@8.3.2?classifier=sources
 - pkg:maven/com.chartiq.finsemble/finsemble@8.4.0
 - pkg:maven/com.chartiq.finsemble/finsemble@8.4.0?classifier=sources
+- pkg:maven/com.chartiq.finsemble/finsemble@8.4.1
+- pkg:maven/com.chartiq.finsemble/finsemble@8.4.1?classifier=sources
+- pkg:maven/com.chartiq.finsemble/finsemble@8.4.2
+- pkg:maven/com.chartiq.finsemble/finsemble@8.4.2?classifier=sources
+- pkg:maven/com.chartiq.finsemble/finsemble@8.5.0
+- pkg:maven/com.chartiq.finsemble/finsemble@8.5.0?classifier=sources

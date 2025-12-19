@@ -6,3 +6,4 @@
 - pkg:maven/net.skobow/apikey-authentication-spring-boot-autoconfigure@0.5.1?classifier=sources
 - pkg:maven/net.skobow/apikey-authentication-spring-boot-autoconfigure@0.6.0
 - pkg:maven/net.skobow/apikey-authentication-spring-boot-autoconfigure@0.6.0?classifier=sources
+- pkg:maven/net.skobow/apikey-authentication-spring-boot-autoconfigure@0.6.1?classifier=sources

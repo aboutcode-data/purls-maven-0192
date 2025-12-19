@@ -1,0 +1,4 @@
+- pkg:maven/com.github.fracpete/lightgbm-weka-package@2023.2.10
+- pkg:maven/com.github.fracpete/lightgbm-weka-package@2023.2.10?classifier=sources
+- pkg:maven/com.github.fracpete/lightgbm-weka-package@2023.3.1
+- pkg:maven/com.github.fracpete/lightgbm-weka-package@2023.3.1?classifier=sources

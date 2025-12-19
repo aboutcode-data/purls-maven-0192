@@ -1,2 +1,4 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.web.proxy@2.0.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.web.proxy@2.0.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.web.proxy@3.0.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.web.proxy@3.0.0?classifier=sources

@@ -7,6 +7,12 @@
 - pkg:maven/me.ahoo.cosec/cosec-ip2region@1.10.6?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-ip2region@1.10.8?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-ip2region@1.10.9?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-ip2region@1.11.0?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-ip2region@1.11.1?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-ip2region@1.12.0?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-ip2region@1.12.1?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-ip2region@1.12.2?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-ip2region@1.12.3?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-ip2region@1.9.0?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-ip2region@1.9.2?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-ip2region@1.9.3?classifier=sources

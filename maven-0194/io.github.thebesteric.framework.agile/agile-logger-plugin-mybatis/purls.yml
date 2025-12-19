@@ -1,0 +1,2 @@
+- pkg:maven/io.github.thebesteric.framework.agile/agile-logger-plugin-mybatis@1.0.12
+- pkg:maven/io.github.thebesteric.framework.agile/agile-logger-plugin-mybatis@1.0.12?classifier=sources

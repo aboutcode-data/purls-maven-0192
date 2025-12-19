@@ -37,3 +37,4 @@
 - pkg:maven/com.wappier/WappierSDK@4.1.6-nobillingRelease?classifier=sources
 - pkg:maven/com.wappier/WappierSDK@5.0.0-pricingRelease?classifier=sources
 - pkg:maven/com.wappier/WappierSDK@5.1.0-pricingRelease?classifier=sources
+- pkg:maven/com.wappier/WappierSDK@5.2.1-pricingRelease?classifier=sources

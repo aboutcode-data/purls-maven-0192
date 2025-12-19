@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.drill.contrib/drill-format-ltsv@1.20.0?classifier=sources
 - pkg:maven/org.apache.drill.contrib/drill-format-ltsv@1.20.2
 - pkg:maven/org.apache.drill.contrib/drill-format-ltsv@1.20.2?classifier=sources
+- pkg:maven/org.apache.drill.contrib/drill-format-ltsv@1.21.0
+- pkg:maven/org.apache.drill.contrib/drill-format-ltsv@1.21.0?classifier=sources

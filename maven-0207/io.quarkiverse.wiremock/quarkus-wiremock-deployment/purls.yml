@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.wiremock/quarkus-wiremock-deployment@0.0.2
+- pkg:maven/io.quarkiverse.wiremock/quarkus-wiremock-deployment@0.0.2?classifier=sources

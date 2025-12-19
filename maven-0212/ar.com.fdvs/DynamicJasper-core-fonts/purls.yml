@@ -2,3 +2,5 @@
 - pkg:maven/ar.com.fdvs/DynamicJasper-core-fonts@1.0?classifier=sources
 - pkg:maven/ar.com.fdvs/DynamicJasper-core-fonts@2.0
 - pkg:maven/ar.com.fdvs/DynamicJasper-core-fonts@2.0?classifier=sources
+- pkg:maven/ar.com.fdvs/DynamicJasper-core-fonts@2.1
+- pkg:maven/ar.com.fdvs/DynamicJasper-core-fonts@2.1?classifier=sources

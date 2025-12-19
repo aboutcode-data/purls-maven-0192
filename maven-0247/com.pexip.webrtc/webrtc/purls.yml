@@ -4,6 +4,11 @@
 - pkg:maven/com.pexip.webrtc/webrtc@104.0.0?classifier=sources
 - pkg:maven/com.pexip.webrtc/webrtc@105.0.0?classifier=sources
 - pkg:maven/com.pexip.webrtc/webrtc@106.0.0?classifier=sources
+- pkg:maven/com.pexip.webrtc/webrtc@107.0.0?classifier=sources
+- pkg:maven/com.pexip.webrtc/webrtc@108.0.0?classifier=sources
+- pkg:maven/com.pexip.webrtc/webrtc@109.0.0?classifier=sources
+- pkg:maven/com.pexip.webrtc/webrtc@109.1.0?classifier=sources
+- pkg:maven/com.pexip.webrtc/webrtc@110.0.0?classifier=sources
 - pkg:maven/com.pexip.webrtc/webrtc@96.0.0?classifier=sources
 - pkg:maven/com.pexip.webrtc/webrtc@97.0.0?classifier=sources
 - pkg:maven/com.pexip.webrtc/webrtc@98.0.0?classifier=sources
