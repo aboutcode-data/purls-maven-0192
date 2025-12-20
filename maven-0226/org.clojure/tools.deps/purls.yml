@@ -66,3 +66,5 @@
 - pkg:maven/org.clojure/tools.deps@0.21.1456?classifier=sources
 - pkg:maven/org.clojure/tools.deps@0.21.1460
 - pkg:maven/org.clojure/tools.deps@0.21.1460?classifier=sources
+- pkg:maven/org.clojure/tools.deps@0.21.1467
+- pkg:maven/org.clojure/tools.deps@0.21.1467?classifier=sources

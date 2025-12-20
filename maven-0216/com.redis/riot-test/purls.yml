@@ -29,3 +29,4 @@
 - pkg:maven/com.redis/riot-test@4.1.7?classifier=sources
 - pkg:maven/com.redis/riot-test@4.1.8?classifier=sources
 - pkg:maven/com.redis/riot-test@4.1.9?classifier=sources
+- pkg:maven/com.redis/riot-test@4.2.0?classifier=sources

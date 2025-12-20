@@ -87,3 +87,4 @@
 - pkg:maven/org.apache.activemq/activemq-spring@6.1.2?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-spring@6.1.3?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-spring@6.1.4?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-spring@6.1.5?classifier=sources

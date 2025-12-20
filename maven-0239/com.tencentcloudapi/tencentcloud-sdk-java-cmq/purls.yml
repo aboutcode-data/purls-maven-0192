@@ -10,6 +10,10 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cmq@1.1.6?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cmq@3.1.1044
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cmq@3.1.1044?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cmq@3.1.1171
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cmq@3.1.1171?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cmq@3.1.1179
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cmq@3.1.1179?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cmq@3.1.179
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cmq@3.1.179?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cmq@3.1.180

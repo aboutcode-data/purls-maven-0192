@@ -3,3 +3,4 @@
 - pkg:maven/org.webjars.npm/idiomorph@0.0.9
 - pkg:maven/org.webjars.npm/idiomorph@0.0.9?classifier=sources
 - pkg:maven/org.webjars.npm/idiomorph@0.3.0
+- pkg:maven/org.webjars.npm/idiomorph@0.4.0

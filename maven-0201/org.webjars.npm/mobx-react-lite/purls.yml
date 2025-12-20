@@ -19,3 +19,4 @@
 - pkg:maven/org.webjars.npm/mobx-react-lite@3.4.3
 - pkg:maven/org.webjars.npm/mobx-react-lite@3.4.3?classifier=sources
 - pkg:maven/org.webjars.npm/mobx-react-lite@4.0.7
+- pkg:maven/org.webjars.npm/mobx-react-lite@4.1.0

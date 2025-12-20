@@ -289,5 +289,11 @@
 - pkg:maven/com.yahoo.vespa/container-onnxruntime@8.456.14?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-onnxruntime@8.457.32?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-onnxruntime@8.458.13?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-onnxruntime@8.459.67?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-onnxruntime@8.460.16?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-onnxruntime@8.461.16?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-onnxruntime@8.463.9?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-onnxruntime@8.464.10?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-onnxruntime@8.465.15?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-onnxruntime@8.98.34?classifier=sources
 - pkg:maven/com.yahoo.vespa/container-onnxruntime@8.99.32?classifier=sources

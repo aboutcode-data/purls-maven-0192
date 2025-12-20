@@ -1,2 +1,4 @@
 - pkg:maven/org.graalvm.python/org.graalvm.python.gradle.plugin@24.1.1
 - pkg:maven/org.graalvm.python/org.graalvm.python.gradle.plugin@24.1.1?classifier=sources
+- pkg:maven/org.graalvm.python/org.graalvm.python.gradle.plugin@24.1.2
+- pkg:maven/org.graalvm.python/org.graalvm.python.gradle.plugin@24.1.2?classifier=sources

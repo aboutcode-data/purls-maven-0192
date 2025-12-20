@@ -20,3 +20,4 @@
 - pkg:maven/org.rribbit/rribbit@7.0.0?classifier=sources
 - pkg:maven/org.rribbit/rribbit@7.1.0?classifier=sources
 - pkg:maven/org.rribbit/rribbit@8.0.0?classifier=sources
+- pkg:maven/org.rribbit/rribbit@8.1.0?classifier=sources

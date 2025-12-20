@@ -1,3 +1,9 @@
 - pkg:maven/com.optimetriks.unio.compose/pickers@12?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/pickers@17?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/pickers@18?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/pickers@22?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/pickers@24?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/pickers@34?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/pickers@36?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/pickers@40?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/pickers@46?classifier=sources

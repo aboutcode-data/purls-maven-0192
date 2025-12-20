@@ -50,3 +50,5 @@
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.pdf-exporter@7.4.0?classifier=sources
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.pdf-exporter@7.5.0
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.pdf-exporter@7.5.0?classifier=sources
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.pdf-exporter@8.0.0
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.pdf-exporter@8.0.0?classifier=sources

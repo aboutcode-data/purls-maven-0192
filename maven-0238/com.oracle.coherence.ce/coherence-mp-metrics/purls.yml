@@ -1,3 +1,5 @@
+- pkg:maven/com.oracle.coherence.ce/coherence-mp-metrics@14.1.2-0-0
+- pkg:maven/com.oracle.coherence.ce/coherence-mp-metrics@14.1.2-0-0?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-mp-metrics@20.06
 - pkg:maven/com.oracle.coherence.ce/coherence-mp-metrics@20.06.1
 - pkg:maven/com.oracle.coherence.ce/coherence-mp-metrics@20.06.1?classifier=sources

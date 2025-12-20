@@ -5,3 +5,5 @@
 - pkg:maven/com.palantir.suppressible-error-prone/suppressible-error-prone-annotations@1.4.0?classifier=sources
 - pkg:maven/com.palantir.suppressible-error-prone/suppressible-error-prone-annotations@1.5.0?classifier=sources
 - pkg:maven/com.palantir.suppressible-error-prone/suppressible-error-prone-annotations@1.6.0?classifier=sources
+- pkg:maven/com.palantir.suppressible-error-prone/suppressible-error-prone-annotations@1.7.0?classifier=sources
+- pkg:maven/com.palantir.suppressible-error-prone/suppressible-error-prone-annotations@1.8.0?classifier=sources

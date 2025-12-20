@@ -96,3 +96,5 @@
 - pkg:maven/io.helidon.messaging.mock/helidon-messaging-mock@4.1.4?classifier=sources
 - pkg:maven/io.helidon.messaging.mock/helidon-messaging-mock@4.1.5
 - pkg:maven/io.helidon.messaging.mock/helidon-messaging-mock@4.1.5?classifier=sources
+- pkg:maven/io.helidon.messaging.mock/helidon-messaging-mock@4.1.6
+- pkg:maven/io.helidon.messaging.mock/helidon-messaging-mock@4.1.6?classifier=sources

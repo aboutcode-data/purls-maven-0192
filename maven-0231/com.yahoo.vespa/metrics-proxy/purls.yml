@@ -689,7 +689,13 @@
 - pkg:maven/com.yahoo.vespa/metrics-proxy@8.456.14?classifier=sources
 - pkg:maven/com.yahoo.vespa/metrics-proxy@8.457.32?classifier=sources
 - pkg:maven/com.yahoo.vespa/metrics-proxy@8.458.13?classifier=sources
+- pkg:maven/com.yahoo.vespa/metrics-proxy@8.459.67?classifier=sources
 - pkg:maven/com.yahoo.vespa/metrics-proxy@8.46.19?classifier=sources
+- pkg:maven/com.yahoo.vespa/metrics-proxy@8.460.16?classifier=sources
+- pkg:maven/com.yahoo.vespa/metrics-proxy@8.461.16?classifier=sources
+- pkg:maven/com.yahoo.vespa/metrics-proxy@8.463.9?classifier=sources
+- pkg:maven/com.yahoo.vespa/metrics-proxy@8.464.10?classifier=sources
+- pkg:maven/com.yahoo.vespa/metrics-proxy@8.465.15?classifier=sources
 - pkg:maven/com.yahoo.vespa/metrics-proxy@8.47.18?classifier=sources
 - pkg:maven/com.yahoo.vespa/metrics-proxy@8.48.22?classifier=sources
 - pkg:maven/com.yahoo.vespa/metrics-proxy@8.51.18?classifier=sources

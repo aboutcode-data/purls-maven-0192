@@ -12,6 +12,10 @@
 - pkg:maven/org.wso2.carbon/SecVerifier@4.10.22?type=aar
 - pkg:maven/org.wso2.carbon/SecVerifier@4.10.2?classifier=sources
 - pkg:maven/org.wso2.carbon/SecVerifier@4.10.2?type=aar
+- pkg:maven/org.wso2.carbon/SecVerifier@4.10.31?classifier=sources
+- pkg:maven/org.wso2.carbon/SecVerifier@4.10.31?type=aar
+- pkg:maven/org.wso2.carbon/SecVerifier@4.10.32?classifier=sources
+- pkg:maven/org.wso2.carbon/SecVerifier@4.10.32?type=aar
 - pkg:maven/org.wso2.carbon/SecVerifier@4.4.19?classifier=sources
 - pkg:maven/org.wso2.carbon/SecVerifier@4.4.19?type=aar
 - pkg:maven/org.wso2.carbon/SecVerifier@4.4.20?classifier=sources

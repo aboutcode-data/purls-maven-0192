@@ -168,3 +168,5 @@
 - pkg:maven/org.commonjava.indy/indy-pkg-npm-model-java@3.3.6?classifier=sources
 - pkg:maven/org.commonjava.indy/indy-pkg-npm-model-java@3.4.0
 - pkg:maven/org.commonjava.indy/indy-pkg-npm-model-java@3.4.0?classifier=sources
+- pkg:maven/org.commonjava.indy/indy-pkg-npm-model-java@3.4.2
+- pkg:maven/org.commonjava.indy/indy-pkg-npm-model-java@3.4.2?classifier=sources

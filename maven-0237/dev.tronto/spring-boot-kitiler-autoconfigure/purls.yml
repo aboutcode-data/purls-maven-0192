@@ -1,0 +1,2 @@
+- pkg:maven/dev.tronto/spring-boot-kitiler-autoconfigure@0.2.1?classifier=sources
+- pkg:maven/dev.tronto/spring-boot-kitiler-autoconfigure@0.2.2?classifier=sources

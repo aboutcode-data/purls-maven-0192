@@ -2,3 +2,4 @@
 - pkg:maven/com.inwx/domrobot@3.1.1
 - pkg:maven/com.inwx/domrobot@3.1.1?classifier=sources
 - pkg:maven/com.inwx/domrobot@3.1?classifier=sources
+- pkg:maven/com.inwx/domrobot@4.0.0?classifier=sources

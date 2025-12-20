@@ -61,6 +61,9 @@
 - pkg:maven/org.ossreviewtoolkit/advisor@43.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/advisor@43.0.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/advisor@43.0.2?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/advisor@44.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/advisor@45.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/advisor@46.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/advisor@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/advisor@5.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/advisor@6.0.0?classifier=sources

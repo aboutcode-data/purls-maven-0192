@@ -1,1 +1,2 @@
 - pkg:maven/com.lucendar/strm-sdk@3.4.4?classifier=sources
+- pkg:maven/com.lucendar/strm-sdk@4.0.1?classifier=sources

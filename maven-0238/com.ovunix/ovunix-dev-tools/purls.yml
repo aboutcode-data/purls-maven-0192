@@ -1,1 +1,2 @@
 - pkg:maven/com.ovunix/ovunix-dev-tools@1.0.0?classifier=sources
+- pkg:maven/com.ovunix/ovunix-dev-tools@1.1.0?classifier=sources

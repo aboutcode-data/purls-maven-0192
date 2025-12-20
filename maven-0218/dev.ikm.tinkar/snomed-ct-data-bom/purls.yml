@@ -1,1 +1,2 @@
 - pkg:maven/dev.ikm.tinkar/snomed-ct-data-bom@1.1.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/snomed-ct-data-bom@1.2.0?classifier=sources

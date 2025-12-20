@@ -4,3 +4,5 @@
 - pkg:maven/com.netease.nimlib/highavailable@10.5.1?type=aar
 - pkg:maven/com.netease.nimlib/highavailable@10.6.0?classifier=sources
 - pkg:maven/com.netease.nimlib/highavailable@10.6.0?type=aar
+- pkg:maven/com.netease.nimlib/highavailable@10.7.0?classifier=sources
+- pkg:maven/com.netease.nimlib/highavailable@10.7.0?type=aar

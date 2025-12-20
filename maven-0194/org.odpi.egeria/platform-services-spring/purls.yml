@@ -78,3 +78,5 @@
 - pkg:maven/org.odpi.egeria/platform-services-spring@4.3?classifier=sources
 - pkg:maven/org.odpi.egeria/platform-services-spring@5.0?classifier=sources
 - pkg:maven/org.odpi.egeria/platform-services-spring@5.1?classifier=sources
+- pkg:maven/org.odpi.egeria/platform-services-spring@5.2.1?classifier=sources
+- pkg:maven/org.odpi.egeria/platform-services-spring@5.2?classifier=sources

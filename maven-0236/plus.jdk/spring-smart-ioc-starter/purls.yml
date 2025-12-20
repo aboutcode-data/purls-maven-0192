@@ -8,3 +8,5 @@
 - pkg:maven/plus.jdk/spring-smart-ioc-starter@1.0.2?classifier=sources
 - pkg:maven/plus.jdk/spring-smart-ioc-starter@1.0.4
 - pkg:maven/plus.jdk/spring-smart-ioc-starter@1.0.4?classifier=sources
+- pkg:maven/plus.jdk/spring-smart-ioc-starter@1.0.5
+- pkg:maven/plus.jdk/spring-smart-ioc-starter@1.0.5?classifier=sources

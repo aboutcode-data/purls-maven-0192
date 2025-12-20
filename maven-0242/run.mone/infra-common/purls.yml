@@ -4,3 +4,5 @@
 - pkg:maven/run.mone/infra-common@1.4.2?classifier=sources
 - pkg:maven/run.mone/infra-common@1.5.0-jdk21
 - pkg:maven/run.mone/infra-common@1.5.0-jdk21?classifier=sources
+- pkg:maven/run.mone/infra-common@1.6.1-jdk21
+- pkg:maven/run.mone/infra-common@1.6.1-jdk21?classifier=sources

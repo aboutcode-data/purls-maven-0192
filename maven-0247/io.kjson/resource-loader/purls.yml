@@ -24,3 +24,5 @@
 - pkg:maven/io.kjson/resource-loader@5.2?classifier=sources
 - pkg:maven/io.kjson/resource-loader@5.3
 - pkg:maven/io.kjson/resource-loader@5.3?classifier=sources
+- pkg:maven/io.kjson/resource-loader@6.0
+- pkg:maven/io.kjson/resource-loader@6.0?classifier=sources

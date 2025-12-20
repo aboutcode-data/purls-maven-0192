@@ -1,1 +1,5 @@
 - pkg:maven/io.github.ndt-hil/remote-jarsigner-maven-plugin@3.0.0.20241213134940?classifier=sources
+- pkg:maven/io.github.ndt-hil/remote-jarsigner-maven-plugin@3.0.1.20241219173313?classifier=sources
+- pkg:maven/io.github.ndt-hil/remote-jarsigner-maven-plugin@3.1.1.20250114143457?classifier=sources
+- pkg:maven/io.github.ndt-hil/remote-jarsigner-maven-plugin@3.1.2.20250114145503?classifier=sources
+- pkg:maven/io.github.ndt-hil/remote-jarsigner-maven-plugin@3.2.0.20250116100749?classifier=sources

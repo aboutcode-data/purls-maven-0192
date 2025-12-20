@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ztiany/android-livedata-ex@1.0.2?classifier=sources
+- pkg:maven/io.github.ztiany/android-livedata-ex@2.0.0?classifier=sources

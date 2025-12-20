@@ -458,6 +458,10 @@
 - pkg:maven/software.amazon.awsconstructs/cognitoapigatewaylambda@2.73.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/cognitoapigatewaylambda@2.74.0
 - pkg:maven/software.amazon.awsconstructs/cognitoapigatewaylambda@2.74.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/cognitoapigatewaylambda@2.75.0
+- pkg:maven/software.amazon.awsconstructs/cognitoapigatewaylambda@2.75.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/cognitoapigatewaylambda@2.76.0
+- pkg:maven/software.amazon.awsconstructs/cognitoapigatewaylambda@2.76.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/cognitoapigatewaylambda@2.8.0
 - pkg:maven/software.amazon.awsconstructs/cognitoapigatewaylambda@2.8.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/cognitoapigatewaylambda@2.9.0

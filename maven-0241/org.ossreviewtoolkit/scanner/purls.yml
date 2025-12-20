@@ -61,6 +61,9 @@
 - pkg:maven/org.ossreviewtoolkit/scanner@43.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/scanner@43.0.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/scanner@43.0.2?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/scanner@44.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/scanner@45.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/scanner@46.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/scanner@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/scanner@5.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/scanner@6.0.0?classifier=sources
