@@ -1,1 +1,2 @@
 - pkg:maven/net.rk4z/igf@1.0.0?classifier=sources
+- pkg:maven/net.rk4z/igf@1.0.1?classifier=sources

@@ -62,3 +62,5 @@
 - pkg:maven/ba.sake/sharaf_3@0.7.3?classifier=sources
 - pkg:maven/ba.sake/sharaf_3@0.7.4
 - pkg:maven/ba.sake/sharaf_3@0.7.4?classifier=sources
+- pkg:maven/ba.sake/sharaf_3@0.7.5
+- pkg:maven/ba.sake/sharaf_3@0.7.5?classifier=sources

@@ -62,6 +62,10 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-bot@1.11.48
 - pkg:maven/com.antgroup.antchain.openapi/openapi-bot@1.11.48?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-bot@1.11.4?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-bot@1.11.55
+- pkg:maven/com.antgroup.antchain.openapi/openapi-bot@1.11.55?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-bot@1.11.56
+- pkg:maven/com.antgroup.antchain.openapi/openapi-bot@1.11.56?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-bot@1.11.6
 - pkg:maven/com.antgroup.antchain.openapi/openapi-bot@1.11.6?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-bot@1.11.7

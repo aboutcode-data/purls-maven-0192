@@ -56,3 +56,5 @@
 - pkg:maven/org.primefaces/primefaces-integration-tests@14.0.5?type=war
 - pkg:maven/org.primefaces/primefaces-integration-tests@14.0.6?classifier=sources
 - pkg:maven/org.primefaces/primefaces-integration-tests@14.0.6?type=war
+- pkg:maven/org.primefaces/primefaces-integration-tests@14.0.7?classifier=sources
+- pkg:maven/org.primefaces/primefaces-integration-tests@14.0.7?type=war

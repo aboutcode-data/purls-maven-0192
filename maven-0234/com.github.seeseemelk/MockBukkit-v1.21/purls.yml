@@ -48,6 +48,7 @@
 - pkg:maven/com.github.seeseemelk/MockBukkit-v1.21@3.132.0?classifier=sources
 - pkg:maven/com.github.seeseemelk/MockBukkit-v1.21@3.133.0?classifier=sources
 - pkg:maven/com.github.seeseemelk/MockBukkit-v1.21@3.133.1?classifier=sources
+- pkg:maven/com.github.seeseemelk/MockBukkit-v1.21@3.133.2?classifier=sources
 - pkg:maven/com.github.seeseemelk/MockBukkit-v1.21@3.94.0?classifier=sources
 - pkg:maven/com.github.seeseemelk/MockBukkit-v1.21@3.95.0?classifier=sources
 - pkg:maven/com.github.seeseemelk/MockBukkit-v1.21@3.95.1?classifier=sources

@@ -224,6 +224,10 @@
 - pkg:maven/com.zepben.protobuf/evolve-grpc@0.31.0-SNAPSHOT9
 - pkg:maven/com.zepben.protobuf/evolve-grpc@0.31.0-SNAPSHOT9?classifier=sources
 - pkg:maven/com.zepben.protobuf/evolve-grpc@0.31.0?classifier=sources
+- pkg:maven/com.zepben.protobuf/evolve-grpc@0.32.0-SNAPSHOT1
+- pkg:maven/com.zepben.protobuf/evolve-grpc@0.32.0-SNAPSHOT1?classifier=sources
+- pkg:maven/com.zepben.protobuf/evolve-grpc@0.32.0-SNAPSHOT2
+- pkg:maven/com.zepben.protobuf/evolve-grpc@0.32.0-SNAPSHOT2?classifier=sources
 - pkg:maven/com.zepben.protobuf/evolve-grpc@0.4.0
 - pkg:maven/com.zepben.protobuf/evolve-grpc@0.4.0?classifier=sources
 - pkg:maven/com.zepben.protobuf/evolve-grpc@0.5.0

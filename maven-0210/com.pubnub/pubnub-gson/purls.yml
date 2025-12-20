@@ -1,4 +1,6 @@
 - pkg:maven/com.pubnub/pubnub-gson@10.0.0?classifier=sources
+- pkg:maven/com.pubnub/pubnub-gson@10.1.0?classifier=sources
+- pkg:maven/com.pubnub/pubnub-gson@10.2.0?classifier=sources
 - pkg:maven/com.pubnub/pubnub-gson@4.10.0
 - pkg:maven/com.pubnub/pubnub-gson@4.10.0?classifier=sources
 - pkg:maven/com.pubnub/pubnub-gson@4.11.0

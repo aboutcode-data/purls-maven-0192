@@ -208,3 +208,5 @@
 - pkg:maven/io.sealights.on-premise.agents/sl-test-listener@4.0.2561?classifier=sources
 - pkg:maven/io.sealights.on-premise.agents/sl-test-listener@4.0.2565
 - pkg:maven/io.sealights.on-premise.agents/sl-test-listener@4.0.2565?classifier=sources
+- pkg:maven/io.sealights.on-premise.agents/sl-test-listener@4.0.2570
+- pkg:maven/io.sealights.on-premise.agents/sl-test-listener@4.0.2570?classifier=sources

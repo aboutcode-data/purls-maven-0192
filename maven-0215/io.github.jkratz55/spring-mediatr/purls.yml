@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jkratz55/spring-mediatr@1.1-RELEASE?classifier=sources
+- pkg:maven/io.github.jkratz55/spring-mediatr@2.0.0-RELEASE?classifier=sources

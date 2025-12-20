@@ -147,6 +147,9 @@
 - pkg:maven/org.apache.santuario/xmlsec@3.0.4
 - pkg:maven/org.apache.santuario/xmlsec@3.0.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.santuario/xmlsec@3.0.4?classifier=sources
+- pkg:maven/org.apache.santuario/xmlsec@3.0.5
+- pkg:maven/org.apache.santuario/xmlsec@3.0.5?classifier=source-release&type=zip
+- pkg:maven/org.apache.santuario/xmlsec@3.0.5?classifier=sources
 - pkg:maven/org.apache.santuario/xmlsec@4.0.0
 - pkg:maven/org.apache.santuario/xmlsec@4.0.0-M1
 - pkg:maven/org.apache.santuario/xmlsec@4.0.0-M1?classifier=source-release&type=zip
@@ -159,3 +162,6 @@
 - pkg:maven/org.apache.santuario/xmlsec@4.0.2
 - pkg:maven/org.apache.santuario/xmlsec@4.0.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.santuario/xmlsec@4.0.2?classifier=sources
+- pkg:maven/org.apache.santuario/xmlsec@4.0.3
+- pkg:maven/org.apache.santuario/xmlsec@4.0.3?classifier=source-release&type=zip
+- pkg:maven/org.apache.santuario/xmlsec@4.0.3?classifier=sources

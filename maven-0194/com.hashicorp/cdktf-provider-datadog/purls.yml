@@ -1120,6 +1120,12 @@
 - pkg:maven/com.hashicorp/cdktf-provider-datadog@11.10.1?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-datadog@11.11.0
 - pkg:maven/com.hashicorp/cdktf-provider-datadog@11.11.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-datadog@11.12.0
+- pkg:maven/com.hashicorp/cdktf-provider-datadog@11.12.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-datadog@11.13.0
+- pkg:maven/com.hashicorp/cdktf-provider-datadog@11.13.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-datadog@11.13.1
+- pkg:maven/com.hashicorp/cdktf-provider-datadog@11.13.1?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-datadog@11.2.0
 - pkg:maven/com.hashicorp/cdktf-provider-datadog@11.2.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-datadog@11.2.1

@@ -1,3 +1,6 @@
+- pkg:maven/com.tangzc/mybatis-flex-ext-autotable-annotation@1.10.1.053?classifier=sources
+- pkg:maven/com.tangzc/mybatis-flex-ext-autotable-annotation@1.10.1.054?classifier=sources
+- pkg:maven/com.tangzc/mybatis-flex-ext-autotable-annotation@1.10.1.055?classifier=sources
 - pkg:maven/com.tangzc/mybatis-flex-ext-autotable-annotation@1.8.3.001-beta?classifier=sources
 - pkg:maven/com.tangzc/mybatis-flex-ext-autotable-annotation@1.8.3.002-beta?classifier=sources
 - pkg:maven/com.tangzc/mybatis-flex-ext-autotable-annotation@1.8.3.003-beta?classifier=sources
@@ -25,3 +28,8 @@
 - pkg:maven/com.tangzc/mybatis-flex-ext-autotable-annotation@1.9.7.036?classifier=sources
 - pkg:maven/com.tangzc/mybatis-flex-ext-autotable-annotation@1.9.7.037?classifier=sources
 - pkg:maven/com.tangzc/mybatis-flex-ext-autotable-annotation@1.9.7.038?classifier=sources
+- pkg:maven/com.tangzc/mybatis-flex-ext-autotable-annotation@1.9.7.040?classifier=sources
+- pkg:maven/com.tangzc/mybatis-flex-ext-autotable-annotation@1.9.7.050?classifier=sources
+- pkg:maven/com.tangzc/mybatis-flex-ext-autotable-annotation@1.9.7.051?classifier=sources
+- pkg:maven/com.tangzc/mybatis-flex-ext-autotable-annotation@1.9.7.052?classifier=sources
+- pkg:maven/com.tangzc/mybatis-flex-ext-autotable-annotation@1.9.7.053?classifier=sources

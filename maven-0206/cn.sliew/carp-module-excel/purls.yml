@@ -1,0 +1,2 @@
+- pkg:maven/cn.sliew/carp-module-excel@0.0.13
+- pkg:maven/cn.sliew/carp-module-excel@0.0.13?classifier=sources

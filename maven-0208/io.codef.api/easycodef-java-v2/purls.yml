@@ -1,0 +1,8 @@
+- pkg:maven/io.codef.api/easycodef-java-v2@2.0.0-alpha%2B001?classifier=sources
+- pkg:maven/io.codef.api/easycodef-java-v2@2.0.0-alpha-002?classifier=sources
+- pkg:maven/io.codef.api/easycodef-java-v2@2.0.0-alpha-003?classifier=sources
+- pkg:maven/io.codef.api/easycodef-java-v2@2.0.0-alpha-004?classifier=sources
+- pkg:maven/io.codef.api/easycodef-java-v2@2.0.0-alpha-005?classifier=sources
+- pkg:maven/io.codef.api/easycodef-java-v2@2.0.0-beta-001?classifier=sources
+- pkg:maven/io.codef.api/easycodef-java-v2@2.0.0-beta-002?classifier=sources
+- pkg:maven/io.codef.api/easycodef-java-v2@2.0.0-beta-003?classifier=sources

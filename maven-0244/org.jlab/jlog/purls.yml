@@ -1,1 +1,2 @@
 - pkg:maven/org.jlab/jlog@5.0.0?classifier=sources
+- pkg:maven/org.jlab/jlog@5.1.0?classifier=sources

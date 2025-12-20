@@ -1,0 +1,2 @@
+- pkg:maven/com.inteligr8/solr-api@1.0.0-solr6
+- pkg:maven/com.inteligr8/solr-api@1.0.0-solr6?classifier=sources

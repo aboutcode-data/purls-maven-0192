@@ -78,3 +78,7 @@
 - pkg:maven/com.lithic.api/lithic-kotlin-client-okhttp@0.66.0?classifier=sources
 - pkg:maven/com.lithic.api/lithic-kotlin-client-okhttp@0.67.0?classifier=sources
 - pkg:maven/com.lithic.api/lithic-kotlin-client-okhttp@0.68.0?classifier=sources
+- pkg:maven/com.lithic.api/lithic-kotlin-client-okhttp@0.69.0?classifier=sources
+- pkg:maven/com.lithic.api/lithic-kotlin-client-okhttp@0.70.0?classifier=sources
+- pkg:maven/com.lithic.api/lithic-kotlin-client-okhttp@0.71.0?classifier=sources
+- pkg:maven/com.lithic.api/lithic-kotlin-client-okhttp@0.72.0?classifier=sources

@@ -16,4 +16,5 @@
 - pkg:maven/com.optimizely.ab/android-sdk-datafile-handler@4.0.2?classifier=sources
 - pkg:maven/com.optimizely.ab/android-sdk-datafile-handler@4.0.3?classifier=sources
 - pkg:maven/com.optimizely.ab/android-sdk-datafile-handler@4.0.4?classifier=sources
+- pkg:maven/com.optimizely.ab/android-sdk-datafile-handler@4.1.0?classifier=sources
 - pkg:maven/com.optimizely.ab/android-sdk-datafile-handler@MC-TEST-1?classifier=sources

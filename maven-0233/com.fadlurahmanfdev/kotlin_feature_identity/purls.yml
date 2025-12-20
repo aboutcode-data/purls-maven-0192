@@ -1,4 +1,16 @@
 - pkg:maven/com.fadlurahmanfdev/kotlin_feature_identity@0.0.1-beta?classifier=sources
+- pkg:maven/com.fadlurahmanfdev/kotlin_feature_identity@0.0.10-beta-flutter?classifier=sources
+- pkg:maven/com.fadlurahmanfdev/kotlin_feature_identity@0.0.10-beta?classifier=sources
+- pkg:maven/com.fadlurahmanfdev/kotlin_feature_identity@0.0.11-beta-flutter?classifier=sources
+- pkg:maven/com.fadlurahmanfdev/kotlin_feature_identity@0.0.11-beta?classifier=sources
 - pkg:maven/com.fadlurahmanfdev/kotlin_feature_identity@0.0.2-beta?classifier=sources
 - pkg:maven/com.fadlurahmanfdev/kotlin_feature_identity@0.0.3-beta?classifier=sources
 - pkg:maven/com.fadlurahmanfdev/kotlin_feature_identity@0.0.4-beta?classifier=sources
+- pkg:maven/com.fadlurahmanfdev/kotlin_feature_identity@0.0.5-beta?classifier=sources
+- pkg:maven/com.fadlurahmanfdev/kotlin_feature_identity@0.0.6-beta-flutter?classifier=sources
+- pkg:maven/com.fadlurahmanfdev/kotlin_feature_identity@0.0.6-beta?classifier=sources
+- pkg:maven/com.fadlurahmanfdev/kotlin_feature_identity@0.0.7-beta-flutter?classifier=sources
+- pkg:maven/com.fadlurahmanfdev/kotlin_feature_identity@0.0.8-beta-flutter?classifier=sources
+- pkg:maven/com.fadlurahmanfdev/kotlin_feature_identity@0.0.8-beta?classifier=sources
+- pkg:maven/com.fadlurahmanfdev/kotlin_feature_identity@0.0.9-beta-flutter?classifier=sources
+- pkg:maven/com.fadlurahmanfdev/kotlin_feature_identity@0.0.9-beta?classifier=sources

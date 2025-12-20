@@ -50,7 +50,12 @@
 - pkg:maven/org.ossreviewtoolkit.clients/oss-index-client@35.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/oss-index-client@36.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/oss-index-client@37.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/oss-index-client@38.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/oss-index-client@39.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/oss-index-client@4.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/oss-index-client@40.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/oss-index-client@40.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/oss-index-client@41.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/oss-index-client@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/oss-index-client@5.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/oss-index-client@6.0.0?classifier=sources

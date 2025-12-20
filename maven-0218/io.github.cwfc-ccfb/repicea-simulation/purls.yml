@@ -11,3 +11,4 @@
 - pkg:maven/io.github.cwfc-ccfb/repicea-simulation@1.0.8?classifier=sources
 - pkg:maven/io.github.cwfc-ccfb/repicea-simulation@1.0.9?classifier=sources
 - pkg:maven/io.github.cwfc-ccfb/repicea-simulation@1.1.0?classifier=sources
+- pkg:maven/io.github.cwfc-ccfb/repicea-simulation@1.1.1?classifier=sources

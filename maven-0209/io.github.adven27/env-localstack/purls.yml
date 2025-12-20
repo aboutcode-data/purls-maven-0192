@@ -1,0 +1,2 @@
+- pkg:maven/io.github.adven27/env-localstack@5.4.0?classifier=sources
+- pkg:maven/io.github.adven27/env-localstack@5.5.0?classifier=sources

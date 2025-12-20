@@ -20,3 +20,5 @@
 - pkg:maven/io.trino/trino-web-ui@463?classifier=sources
 - pkg:maven/io.trino/trino-web-ui@464
 - pkg:maven/io.trino/trino-web-ui@464?classifier=sources
+- pkg:maven/io.trino/trino-web-ui@465
+- pkg:maven/io.trino/trino-web-ui@465?classifier=sources

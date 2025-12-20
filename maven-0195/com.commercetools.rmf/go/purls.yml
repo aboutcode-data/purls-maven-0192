@@ -20,6 +20,8 @@
 - pkg:maven/com.commercetools.rmf/go@0.1.50?classifier=sources
 - pkg:maven/com.commercetools.rmf/go@0.1.51?classifier=sources
 - pkg:maven/com.commercetools.rmf/go@0.1.52?classifier=sources
+- pkg:maven/com.commercetools.rmf/go@0.1.53?classifier=sources
+- pkg:maven/com.commercetools.rmf/go@0.1.54?classifier=sources
 - pkg:maven/com.commercetools.rmf/go@1.0.0-20220509072230?classifier=sources
 - pkg:maven/com.commercetools.rmf/go@1.0.0-20220513094737?classifier=sources
 - pkg:maven/com.commercetools.rmf/go@1.0.0-20220516202952?classifier=sources
@@ -194,3 +196,5 @@
 - pkg:maven/com.commercetools.rmf/go@1.0.0-20240806090705?classifier=sources
 - pkg:maven/com.commercetools.rmf/go@1.0.0-20240902110655?classifier=sources
 - pkg:maven/com.commercetools.rmf/go@1.0.0-20241007205046?classifier=sources
+- pkg:maven/com.commercetools.rmf/go@1.0.0-20241111134841?classifier=sources
+- pkg:maven/com.commercetools.rmf/go@1.0.0-20241111140641?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/dev.ultreon/ubo@1.4.0?classifier=sources
+- pkg:maven/dev.ultreon/ubo@1.5.0?classifier=sources

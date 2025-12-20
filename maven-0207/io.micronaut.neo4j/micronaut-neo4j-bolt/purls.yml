@@ -25,3 +25,4 @@
 - pkg:maven/io.micronaut.neo4j/micronaut-neo4j-bolt@6.5.0?classifier=sources
 - pkg:maven/io.micronaut.neo4j/micronaut-neo4j-bolt@6.6.0?classifier=sources
 - pkg:maven/io.micronaut.neo4j/micronaut-neo4j-bolt@6.7.0?classifier=sources
+- pkg:maven/io.micronaut.neo4j/micronaut-neo4j-bolt@6.8.0?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.vmware.pscoe.polyglot.archetypes/package-polyglot-archetype@2.41.0?classifier=sources
 - pkg:maven/com.vmware.pscoe.polyglot.archetypes/package-polyglot-archetype@2.42.0?classifier=sources
 - pkg:maven/com.vmware.pscoe.polyglot.archetypes/package-polyglot-archetype@2.43.0?classifier=sources
+- pkg:maven/com.vmware.pscoe.polyglot.archetypes/package-polyglot-archetype@2.44.0?classifier=sources
+- pkg:maven/com.vmware.pscoe.polyglot.archetypes/package-polyglot-archetype@3.0.0?classifier=sources

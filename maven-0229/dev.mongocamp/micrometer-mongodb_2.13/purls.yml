@@ -46,3 +46,7 @@
 - pkg:maven/dev.mongocamp/micrometer-mongodb_2.13@0.7.8.snapshot?classifier=sources
 - pkg:maven/dev.mongocamp/micrometer-mongodb_2.13@0.7.9.snapshot
 - pkg:maven/dev.mongocamp/micrometer-mongodb_2.13@0.7.9.snapshot?classifier=sources
+- pkg:maven/dev.mongocamp/micrometer-mongodb_2.13@1.0.0
+- pkg:maven/dev.mongocamp/micrometer-mongodb_2.13@1.0.0?classifier=sources
+- pkg:maven/dev.mongocamp/micrometer-mongodb_2.13@1.0.1
+- pkg:maven/dev.mongocamp/micrometer-mongodb_2.13@1.0.1?classifier=sources

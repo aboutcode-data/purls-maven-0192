@@ -32,3 +32,5 @@
 - pkg:maven/dev.schlaubi.lavakord/core-js@7.0.1?classifier=sources
 - pkg:maven/dev.schlaubi.lavakord/core-js@7.0.3?classifier=sources
 - pkg:maven/dev.schlaubi.lavakord/core-js@7.1.0?classifier=sources
+- pkg:maven/dev.schlaubi.lavakord/core-js@8.0.1?classifier=sources
+- pkg:maven/dev.schlaubi.lavakord/core-js@8.1.0?classifier=sources

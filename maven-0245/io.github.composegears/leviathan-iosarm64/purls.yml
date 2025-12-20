@@ -1,1 +1,2 @@
 - pkg:maven/io.github.composegears/leviathan-iosarm64@1.0.0?classifier=sources
+- pkg:maven/io.github.composegears/leviathan-iosarm64@2.0.0?classifier=sources

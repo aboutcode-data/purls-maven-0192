@@ -21,6 +21,7 @@
 - pkg:maven/net.taler/qtart@0.12.7?classifier=sources
 - pkg:maven/net.taler/qtart@0.12.8?classifier=sources
 - pkg:maven/net.taler/qtart@0.13.0?classifier=sources
+- pkg:maven/net.taler/qtart@0.13.10?classifier=sources
 - pkg:maven/net.taler/qtart@0.13.2?classifier=sources
 - pkg:maven/net.taler/qtart@0.13.3?classifier=sources
 - pkg:maven/net.taler/qtart@0.13.4?classifier=sources

@@ -401,3 +401,12 @@
 - pkg:maven/io.airlift/bootstrap@274?classifier=sources
 - pkg:maven/io.airlift/bootstrap@275?classifier=sources
 - pkg:maven/io.airlift/bootstrap@276?classifier=sources
+- pkg:maven/io.airlift/bootstrap@277?classifier=sources
+- pkg:maven/io.airlift/bootstrap@278?classifier=sources
+- pkg:maven/io.airlift/bootstrap@279?classifier=sources
+- pkg:maven/io.airlift/bootstrap@280?classifier=sources
+- pkg:maven/io.airlift/bootstrap@281?classifier=sources
+- pkg:maven/io.airlift/bootstrap@282?classifier=sources
+- pkg:maven/io.airlift/bootstrap@283?classifier=sources
+- pkg:maven/io.airlift/bootstrap@284?classifier=sources
+- pkg:maven/io.airlift/bootstrap@285?classifier=sources

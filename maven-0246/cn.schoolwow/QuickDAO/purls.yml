@@ -186,3 +186,7 @@
 - pkg:maven/cn.schoolwow/QuickDAO@5.2.3?classifier=sources
 - pkg:maven/cn.schoolwow/QuickDAO@5.2.4
 - pkg:maven/cn.schoolwow/QuickDAO@5.2.4?classifier=sources
+- pkg:maven/cn.schoolwow/QuickDAO@5.3.0
+- pkg:maven/cn.schoolwow/QuickDAO@5.3.0?classifier=sources
+- pkg:maven/cn.schoolwow/QuickDAO@5.3.1
+- pkg:maven/cn.schoolwow/QuickDAO@5.3.1?classifier=sources

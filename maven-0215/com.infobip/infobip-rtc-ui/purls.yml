@@ -50,6 +50,13 @@
 - pkg:maven/com.infobip/infobip-rtc-ui@13.0.2?classifier=sources
 - pkg:maven/com.infobip/infobip-rtc-ui@13.0.3?classifier=sources
 - pkg:maven/com.infobip/infobip-rtc-ui@13.0.X?classifier=sources
+- pkg:maven/com.infobip/infobip-rtc-ui@13.1.0?classifier=sources
+- pkg:maven/com.infobip/infobip-rtc-ui@13.1.1?classifier=sources
+- pkg:maven/com.infobip/infobip-rtc-ui@13.1.2?classifier=sources
+- pkg:maven/com.infobip/infobip-rtc-ui@13.2.0?classifier=sources
+- pkg:maven/com.infobip/infobip-rtc-ui@13.2.1?classifier=sources
+- pkg:maven/com.infobip/infobip-rtc-ui@13.2.2?classifier=sources
+- pkg:maven/com.infobip/infobip-rtc-ui@13.2.3?classifier=sources
 - pkg:maven/com.infobip/infobip-rtc-ui@7.3.0-rc1?classifier=sources
 - pkg:maven/com.infobip/infobip-rtc-ui@7.3.0-rc2?classifier=sources
 - pkg:maven/com.infobip/infobip-rtc-ui@7.3.0-rc3?classifier=sources

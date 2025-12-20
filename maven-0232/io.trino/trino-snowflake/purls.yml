@@ -23,3 +23,4 @@
 - pkg:maven/io.trino/trino-snowflake@462?classifier=sources
 - pkg:maven/io.trino/trino-snowflake@463?classifier=sources
 - pkg:maven/io.trino/trino-snowflake@464?classifier=sources
+- pkg:maven/io.trino/trino-snowflake@465?classifier=sources

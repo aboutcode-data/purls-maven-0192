@@ -50,7 +50,12 @@
 - pkg:maven/org.ossreviewtoolkit/scanner@35.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/scanner@36.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/scanner@37.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/scanner@38.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/scanner@39.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/scanner@4.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/scanner@40.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/scanner@40.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/scanner@41.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/scanner@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/scanner@5.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/scanner@6.0.0?classifier=sources

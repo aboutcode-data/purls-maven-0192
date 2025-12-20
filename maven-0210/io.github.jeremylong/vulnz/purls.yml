@@ -10,3 +10,4 @@
 - pkg:maven/io.github.jeremylong/vulnz@6.1.7?classifier=sources
 - pkg:maven/io.github.jeremylong/vulnz@6.2.0?classifier=sources
 - pkg:maven/io.github.jeremylong/vulnz@7.0.0?classifier=sources
+- pkg:maven/io.github.jeremylong/vulnz@7.0.1?classifier=sources

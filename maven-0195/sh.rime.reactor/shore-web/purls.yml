@@ -12,3 +12,8 @@
 - pkg:maven/sh.rime.reactor/shore-web@1.8.0?classifier=sources
 - pkg:maven/sh.rime.reactor/shore-web@1.8.1?classifier=sources
 - pkg:maven/sh.rime.reactor/shore-web@1.8.2?classifier=sources
+- pkg:maven/sh.rime.reactor/shore-web@1.9.0?classifier=sources
+- pkg:maven/sh.rime.reactor/shore-web@1.9.1?classifier=sources
+- pkg:maven/sh.rime.reactor/shore-web@1.9.2?classifier=sources
+- pkg:maven/sh.rime.reactor/shore-web@1.9.3?classifier=sources
+- pkg:maven/sh.rime.reactor/shore-web@2.0.0?classifier=sources

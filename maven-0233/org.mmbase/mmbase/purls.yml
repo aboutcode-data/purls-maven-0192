@@ -1,2 +1,4 @@
 - pkg:maven/org.mmbase/mmbase@1.9.6
 - pkg:maven/org.mmbase/mmbase@1.9.6?classifier=sources
+- pkg:maven/org.mmbase/mmbase@1.9.7-rc1
+- pkg:maven/org.mmbase/mmbase@1.9.7-rc1?classifier=sources

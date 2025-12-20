@@ -1,0 +1,2 @@
+- pkg:maven/org.chocodev.uploadthing/core@1.0.1?classifier=sources
+- pkg:maven/org.chocodev.uploadthing/core@1.0?classifier=sources
