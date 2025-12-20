@@ -17,3 +17,4 @@
 - pkg:maven/io.quarkiverse.jgit/quarkus-jgit-docs@3.0.7
 - pkg:maven/io.quarkiverse.jgit/quarkus-jgit-docs@3.1.0
 - pkg:maven/io.quarkiverse.jgit/quarkus-jgit-docs@3.1.1
+- pkg:maven/io.quarkiverse.jgit/quarkus-jgit-docs@3.1.2

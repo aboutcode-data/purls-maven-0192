@@ -48,3 +48,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.core.runtime@3.30.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.core.runtime@3.31.0
 - pkg:maven/org.eclipse.platform/org.eclipse.core.runtime@3.31.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.core.runtime@3.31.100
+- pkg:maven/org.eclipse.platform/org.eclipse.core.runtime@3.31.100?classifier=sources

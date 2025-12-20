@@ -88,3 +88,11 @@
 - pkg:maven/com.google.apis/google-api-services-firebaseml@v2beta-rev20240515-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-firebaseml@v2beta-rev20240521-2.0.0
 - pkg:maven/com.google.apis/google-api-services-firebaseml@v2beta-rev20240521-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firebaseml@v2beta-rev20240524-2.0.0
+- pkg:maven/com.google.apis/google-api-services-firebaseml@v2beta-rev20240524-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firebaseml@v2beta-rev20240603-2.0.0
+- pkg:maven/com.google.apis/google-api-services-firebaseml@v2beta-rev20240603-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firebaseml@v2beta-rev20240611-2.0.0
+- pkg:maven/com.google.apis/google-api-services-firebaseml@v2beta-rev20240611-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firebaseml@v2beta-rev20240614-2.0.0
+- pkg:maven/com.google.apis/google-api-services-firebaseml@v2beta-rev20240614-2.0.0?classifier=sources

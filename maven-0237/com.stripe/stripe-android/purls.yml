@@ -295,6 +295,10 @@
 - pkg:maven/com.stripe/stripe-android@20.42.0?classifier=sources
 - pkg:maven/com.stripe/stripe-android@20.43.0?classifier=sources
 - pkg:maven/com.stripe/stripe-android@20.44.0?classifier=sources
+- pkg:maven/com.stripe/stripe-android@20.44.1?classifier=sources
+- pkg:maven/com.stripe/stripe-android@20.44.2?classifier=sources
+- pkg:maven/com.stripe/stripe-android@20.45.0?classifier=sources
+- pkg:maven/com.stripe/stripe-android@20.46.0?classifier=sources
 - pkg:maven/com.stripe/stripe-android@20.5.0?classifier=sources
 - pkg:maven/com.stripe/stripe-android@20.6.1?classifier=sources
 - pkg:maven/com.stripe/stripe-android@20.6.2?classifier=sources

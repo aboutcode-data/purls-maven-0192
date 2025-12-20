@@ -1,1 +1,2 @@
 - pkg:maven/org.odpi.egeria/asset-look-up-sample@4.3?classifier=sources
+- pkg:maven/org.odpi.egeria/asset-look-up-sample@5.0?classifier=sources

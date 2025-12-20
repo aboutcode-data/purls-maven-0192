@@ -2,4 +2,12 @@
 - pkg:maven/com.enniovisco/webmonitor@0.2.0?classifier=sources
 - pkg:maven/com.enniovisco/webmonitor@1.0.0?classifier=sources
 - pkg:maven/com.enniovisco/webmonitor@1.1.0-internal.1?classifier=sources
+- pkg:maven/com.enniovisco/webmonitor@1.2.0-beta.8?classifier=sources
+- pkg:maven/com.enniovisco/webmonitor@1.2.0?classifier=sources
 - pkg:maven/com.enniovisco/webmonitor@v1.1.0-internal.1.beta.1?classifier=sources
+- pkg:maven/com.enniovisco/webmonitor@v1.2.0-beta.2?classifier=sources
+- pkg:maven/com.enniovisco/webmonitor@v1.2.0-beta.3?classifier=sources
+- pkg:maven/com.enniovisco/webmonitor@v1.2.0-beta.4?classifier=sources
+- pkg:maven/com.enniovisco/webmonitor@v1.2.0-beta.5?classifier=sources
+- pkg:maven/com.enniovisco/webmonitor@v1.2.0-beta.6?classifier=sources
+- pkg:maven/com.enniovisco/webmonitor@v1.2.0-beta.7?classifier=sources

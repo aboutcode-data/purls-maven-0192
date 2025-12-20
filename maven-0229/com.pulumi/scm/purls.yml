@@ -1,0 +1,12 @@
+- pkg:maven/com.pulumi/scm@0.0.1?classifier=sources
+- pkg:maven/com.pulumi/scm@0.1.1?classifier=sources
+- pkg:maven/com.pulumi/scm@0.1.2?classifier=sources
+- pkg:maven/com.pulumi/scm@0.2.0-alpha.1717147110?classifier=sources
+- pkg:maven/com.pulumi/scm@0.2.0-alpha.1717610143?classifier=sources
+- pkg:maven/com.pulumi/scm@0.2.0-alpha.1717629842?classifier=sources
+- pkg:maven/com.pulumi/scm@0.2.0-alpha.1717722332?classifier=sources
+- pkg:maven/com.pulumi/scm@0.2.0-alpha.1718089040?classifier=sources
+- pkg:maven/com.pulumi/scm@0.2.0-alpha.1718172884?classifier=sources
+- pkg:maven/com.pulumi/scm@0.2.0-alpha.1718259488?classifier=sources
+- pkg:maven/com.pulumi/scm@0.2.0-alpha.1718345638?classifier=sources
+- pkg:maven/com.pulumi/scm@0.2.0-alpha.1718432395?classifier=sources

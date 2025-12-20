@@ -1,1 +1,2 @@
 - pkg:maven/com.yiruibim.cairo/cairo-jackson@1.1.6?classifier=sources
+- pkg:maven/com.yiruibim.cairo/cairo-jackson@1.1.7?classifier=sources

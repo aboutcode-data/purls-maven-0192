@@ -49,6 +49,8 @@
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@14.1
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@14.10
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@14.11
+- pkg:maven/org.opencastproject/opencast-engage-paella-player@14.12
+- pkg:maven/org.opencastproject/opencast-engage-paella-player@14.13
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@14.2
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@14.3
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@14.5
@@ -61,6 +63,8 @@
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@15.2
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@15.3
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@15.4
+- pkg:maven/org.opencastproject/opencast-engage-paella-player@15.5
+- pkg:maven/org.opencastproject/opencast-engage-paella-player@15.6
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@6.6
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-engage-paella-player@7.2

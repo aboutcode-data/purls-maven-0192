@@ -1,0 +1,2 @@
+- pkg:maven/io.kalix/kalix-sdk-spi_2.13@1.1.36-66e8260
+- pkg:maven/io.kalix/kalix-sdk-spi_2.13@1.1.36-66e8260?classifier=sources

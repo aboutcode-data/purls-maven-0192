@@ -1,2 +1,4 @@
 - pkg:maven/dev.kord.cache/cache-api-jvm@0.4.0?classifier=sources
+- pkg:maven/dev.kord.cache/cache-api-jvm@0.5.0?classifier=sources
+- pkg:maven/dev.kord.cache/cache-api-jvm@0.5.1?classifier=sources
 - pkg:maven/dev.kord.cache/cache-api-jvm@unspecified?classifier=sources

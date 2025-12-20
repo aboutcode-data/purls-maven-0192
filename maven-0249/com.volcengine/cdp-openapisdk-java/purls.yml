@@ -54,3 +54,7 @@
 - pkg:maven/com.volcengine/cdp-openapisdk-java@1.21.4?classifier=sources
 - pkg:maven/com.volcengine/cdp-openapisdk-java@1.21.5
 - pkg:maven/com.volcengine/cdp-openapisdk-java@1.21.5?classifier=sources
+- pkg:maven/com.volcengine/cdp-openapisdk-java@1.23.2.udf
+- pkg:maven/com.volcengine/cdp-openapisdk-java@1.23.2.udf?classifier=sources
+- pkg:maven/com.volcengine/cdp-openapisdk-java@udf.1.23.2
+- pkg:maven/com.volcengine/cdp-openapisdk-java@udf.1.23.2?classifier=sources

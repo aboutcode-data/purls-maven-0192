@@ -186,3 +186,7 @@
 - pkg:maven/org.noear/solon-admin-client@2.8.2?classifier=sources
 - pkg:maven/org.noear/solon-admin-client@2.8.3
 - pkg:maven/org.noear/solon-admin-client@2.8.3?classifier=sources
+- pkg:maven/org.noear/solon-admin-client@2.8.4
+- pkg:maven/org.noear/solon-admin-client@2.8.4?classifier=sources
+- pkg:maven/org.noear/solon-admin-client@2.8.5-RC
+- pkg:maven/org.noear/solon-admin-client@2.8.5-RC?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/cn.lonelysnow/snow-code-generator-code@2.4?classifier=sources
 - pkg:maven/cn.lonelysnow/snow-code-generator-code@2.5
 - pkg:maven/cn.lonelysnow/snow-code-generator-code@2.5?classifier=sources
+- pkg:maven/cn.lonelysnow/snow-code-generator-code@2.7
+- pkg:maven/cn.lonelysnow/snow-code-generator-code@2.7?classifier=sources

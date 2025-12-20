@@ -38,6 +38,8 @@
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.build@3.12.200?classifier=sources
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.build@3.12.300
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.build@3.12.300?classifier=sources
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.build@3.12.400
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.build@3.12.400?classifier=sources
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.build@3.9.200
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.build@3.9.200?classifier=sources
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.build@3.9.300

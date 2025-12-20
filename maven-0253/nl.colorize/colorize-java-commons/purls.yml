@@ -149,4 +149,5 @@
 - pkg:maven/nl.colorize/colorize-java-commons@2024.2?classifier=sources
 - pkg:maven/nl.colorize/colorize-java-commons@2024.3?classifier=sources
 - pkg:maven/nl.colorize/colorize-java-commons@2024.4.1?classifier=sources
+- pkg:maven/nl.colorize/colorize-java-commons@2024.4.2?classifier=sources
 - pkg:maven/nl.colorize/colorize-java-commons@2024.4?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/dev.vality/exrates-proto@1.6-56a317c?classifier=sources
 - pkg:maven/dev.vality/exrates-proto@1.7-ce9563e
 - pkg:maven/dev.vality/exrates-proto@1.7-ce9563e?classifier=sources
+- pkg:maven/dev.vality/exrates-proto@1.8-9794d14
+- pkg:maven/dev.vality/exrates-proto@1.8-9794d14?classifier=sources

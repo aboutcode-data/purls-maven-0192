@@ -120,3 +120,7 @@
 - pkg:maven/org.camunda.bpm.springboot.project/qa-webapp-invoice-example@7.21.0?classifier=sources
 - pkg:maven/org.camunda.bpm.springboot.project/qa-webapp-invoice-example@7.22.0-alpha1
 - pkg:maven/org.camunda.bpm.springboot.project/qa-webapp-invoice-example@7.22.0-alpha1?classifier=sources
+- pkg:maven/org.camunda.bpm.springboot.project/qa-webapp-invoice-example@7.22.0-alpha2
+- pkg:maven/org.camunda.bpm.springboot.project/qa-webapp-invoice-example@7.22.0-alpha2?classifier=sources
+- pkg:maven/org.camunda.bpm.springboot.project/qa-webapp-invoice-example@7.22.0-alpha3
+- pkg:maven/org.camunda.bpm.springboot.project/qa-webapp-invoice-example@7.22.0-alpha3?classifier=sources

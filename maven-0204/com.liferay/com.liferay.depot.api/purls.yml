@@ -128,3 +128,4 @@
 - pkg:maven/com.liferay/com.liferay.depot.api@4.5.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.depot.api@4.6.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.depot.api@5.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.depot.api@6.0.0?classifier=sources

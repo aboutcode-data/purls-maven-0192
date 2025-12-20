@@ -1,0 +1,1 @@
+- pkg:maven/io.github.vooft/kotlinx-serialization-smile-core-wasm-js@0.4.1?classifier=sources

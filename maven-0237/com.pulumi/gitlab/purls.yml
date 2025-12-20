@@ -1,3 +1,4 @@
+- pkg:maven/com.pulumi/gitlab@0.0.1?classifier=sources
 - pkg:maven/com.pulumi/gitlab@4.10.0-alpha.1673416878%2B555561a1?classifier=sources
 - pkg:maven/com.pulumi/gitlab@4.10.0-alpha.1673588176%2B4d4c6e55?classifier=sources
 - pkg:maven/com.pulumi/gitlab@4.10.0-alpha.1677784816%2B43d3f1ab?classifier=sources
@@ -153,5 +154,22 @@
 - pkg:maven/com.pulumi/gitlab@6.9.0-alpha.1708340471%2B580164bc?classifier=sources
 - pkg:maven/com.pulumi/gitlab@6.9.0?classifier=sources
 - pkg:maven/com.pulumi/gitlab@7.0.0?classifier=sources
+- pkg:maven/com.pulumi/gitlab@7.0.1?classifier=sources
+- pkg:maven/com.pulumi/gitlab@7.0.2?classifier=sources
 - pkg:maven/com.pulumi/gitlab@7.1.0-alpha.1716265194?classifier=sources
 - pkg:maven/com.pulumi/gitlab@7.1.0-alpha.1716269914?classifier=sources
+- pkg:maven/com.pulumi/gitlab@7.1.0-alpha.1716508448?classifier=sources
+- pkg:maven/com.pulumi/gitlab@7.1.0-alpha.1716961064?classifier=sources
+- pkg:maven/com.pulumi/gitlab@7.1.0-alpha.1717091887?classifier=sources
+- pkg:maven/com.pulumi/gitlab@8.0.0?classifier=sources
+- pkg:maven/com.pulumi/gitlab@8.0.1-alpha.1717895347?classifier=sources
+- pkg:maven/com.pulumi/gitlab@8.0.1?classifier=sources
+- pkg:maven/com.pulumi/gitlab@8.1.0-alpha.1717220008?classifier=sources
+- pkg:maven/com.pulumi/gitlab@8.1.0-alpha.1717479728?classifier=sources
+- pkg:maven/com.pulumi/gitlab@8.1.0-alpha.1717541256?classifier=sources
+- pkg:maven/com.pulumi/gitlab@8.1.0-alpha.1717724115?classifier=sources
+- pkg:maven/com.pulumi/gitlab@8.1.0-alpha.1718084557?classifier=sources
+- pkg:maven/com.pulumi/gitlab@8.1.0-alpha.1718170645?classifier=sources
+- pkg:maven/com.pulumi/gitlab@8.1.0-alpha.1718257125?classifier=sources
+- pkg:maven/com.pulumi/gitlab@8.1.0-alpha.1718343430?classifier=sources
+- pkg:maven/com.pulumi/gitlab@8.1.0-alpha.1718429760?classifier=sources

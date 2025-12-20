@@ -8,3 +8,5 @@
 - pkg:maven/de.jplag/emf-metamodel@4.3.0?classifier=sources
 - pkg:maven/de.jplag/emf-metamodel@5.0.0
 - pkg:maven/de.jplag/emf-metamodel@5.0.0?classifier=sources
+- pkg:maven/de.jplag/emf-metamodel@5.1.0
+- pkg:maven/de.jplag/emf-metamodel@5.1.0?classifier=sources

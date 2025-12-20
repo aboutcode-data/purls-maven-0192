@@ -552,6 +552,8 @@
 - pkg:maven/com.mailslurp/mailslurp-client-java@15.19.20?classifier=sources
 - pkg:maven/com.mailslurp/mailslurp-client-java@15.19.21
 - pkg:maven/com.mailslurp/mailslurp-client-java@15.19.21?classifier=sources
+- pkg:maven/com.mailslurp/mailslurp-client-java@15.19.22
+- pkg:maven/com.mailslurp/mailslurp-client-java@15.19.22?classifier=sources
 - pkg:maven/com.mailslurp/mailslurp-client-java@15.2.0
 - pkg:maven/com.mailslurp/mailslurp-client-java@15.2.0?classifier=sources
 - pkg:maven/com.mailslurp/mailslurp-client-java@15.2.1

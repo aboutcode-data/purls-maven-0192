@@ -1,0 +1,1 @@
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-json-io-wasm-wasi@1.7.1?classifier=sources

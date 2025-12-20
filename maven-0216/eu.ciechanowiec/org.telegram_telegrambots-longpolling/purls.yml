@@ -1,0 +1,2 @@
+- pkg:maven/eu.ciechanowiec/org.telegram_telegrambots-longpolling@7.4.2
+- pkg:maven/eu.ciechanowiec/org.telegram_telegrambots-longpolling@7.4.2?classifier=sources

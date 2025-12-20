@@ -29,6 +29,11 @@
 - pkg:maven/org.ossreviewtoolkit/advisor@22.5.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/advisor@22.6.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/advisor@22.7.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/advisor@22.8.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/advisor@23.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/advisor@24.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/advisor@25.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/advisor@25.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/advisor@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/advisor@4.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/advisor@5.0.0?classifier=sources

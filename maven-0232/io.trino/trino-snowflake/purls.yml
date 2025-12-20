@@ -8,3 +8,4 @@
 - pkg:maven/io.trino/trino-snowflake@447?classifier=sources
 - pkg:maven/io.trino/trino-snowflake@448?classifier=sources
 - pkg:maven/io.trino/trino-snowflake@449?classifier=sources
+- pkg:maven/io.trino/trino-snowflake@450?classifier=sources

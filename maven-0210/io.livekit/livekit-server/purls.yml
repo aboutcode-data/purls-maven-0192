@@ -14,3 +14,5 @@
 - pkg:maven/io.livekit/livekit-server@0.5.7?classifier=sources
 - pkg:maven/io.livekit/livekit-server@0.5.8?classifier=sources
 - pkg:maven/io.livekit/livekit-server@0.5.9?classifier=sources
+- pkg:maven/io.livekit/livekit-server@0.6.0?classifier=sources
+- pkg:maven/io.livekit/livekit-server@0.6.1?classifier=sources

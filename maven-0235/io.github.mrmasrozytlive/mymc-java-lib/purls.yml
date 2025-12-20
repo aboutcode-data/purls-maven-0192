@@ -1,1 +1,2 @@
 - pkg:maven/io.github.mrmasrozytlive/mymc-java-lib@1.0.0?classifier=sources
+- pkg:maven/io.github.mrmasrozytlive/mymc-java-lib@1.1.0?classifier=sources

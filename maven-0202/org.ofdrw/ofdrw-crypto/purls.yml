@@ -132,3 +132,5 @@
 - pkg:maven/org.ofdrw/ofdrw-crypto@2.2.9?classifier=sources
 - pkg:maven/org.ofdrw/ofdrw-crypto@2.3.0
 - pkg:maven/org.ofdrw/ofdrw-crypto@2.3.0?classifier=sources
+- pkg:maven/org.ofdrw/ofdrw-crypto@2.3.1
+- pkg:maven/org.ofdrw/ofdrw-crypto@2.3.1?classifier=sources

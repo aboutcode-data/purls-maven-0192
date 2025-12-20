@@ -28,3 +28,5 @@
 - pkg:maven/no.priv.bang.oldalbum/oldalbum.backend.imageio@1.9.28?classifier=sources
 - pkg:maven/no.priv.bang.oldalbum/oldalbum.backend.imageio@2.0.0
 - pkg:maven/no.priv.bang.oldalbum/oldalbum.backend.imageio@2.0.0?classifier=sources
+- pkg:maven/no.priv.bang.oldalbum/oldalbum.backend.imageio@2.0.1
+- pkg:maven/no.priv.bang.oldalbum/oldalbum.backend.imageio@2.0.1?classifier=sources

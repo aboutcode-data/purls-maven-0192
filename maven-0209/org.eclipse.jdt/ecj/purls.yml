@@ -60,3 +60,5 @@
 - pkg:maven/org.eclipse.jdt/ecj@3.36.0?classifier=sources
 - pkg:maven/org.eclipse.jdt/ecj@3.37.0
 - pkg:maven/org.eclipse.jdt/ecj@3.37.0?classifier=sources
+- pkg:maven/org.eclipse.jdt/ecj@3.38.0
+- pkg:maven/org.eclipse.jdt/ecj@3.38.0?classifier=sources

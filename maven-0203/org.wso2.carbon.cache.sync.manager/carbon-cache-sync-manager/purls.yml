@@ -5,3 +5,4 @@
 - pkg:maven/org.wso2.carbon.cache.sync.manager/carbon-cache-sync-manager@1.0.4?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.cache.sync.manager/carbon-cache-sync-manager@2.0.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.cache.sync.manager/carbon-cache-sync-manager@2.0.14?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.cache.sync.manager/carbon-cache-sync-manager@2.1.0?classifier=source-release&type=zip

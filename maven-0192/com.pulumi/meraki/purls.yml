@@ -1,0 +1,16 @@
+- pkg:maven/com.pulumi/meraki@0.0.1?classifier=sources
+- pkg:maven/com.pulumi/meraki@0.2.1?classifier=sources
+- pkg:maven/com.pulumi/meraki@0.2.2?classifier=sources
+- pkg:maven/com.pulumi/meraki@0.2.3?classifier=sources
+- pkg:maven/com.pulumi/meraki@0.2.4-alpha.1718405003?classifier=sources
+- pkg:maven/com.pulumi/meraki@0.2.4?classifier=sources
+- pkg:maven/com.pulumi/meraki@0.3.0-alpha.1717147856?classifier=sources
+- pkg:maven/com.pulumi/meraki@0.3.0-alpha.1717431919?classifier=sources
+- pkg:maven/com.pulumi/meraki@0.3.0-alpha.1717774631?classifier=sources
+- pkg:maven/com.pulumi/meraki@0.3.0-alpha.1717791873?classifier=sources
+- pkg:maven/com.pulumi/meraki@0.3.0-alpha.1718085307?classifier=sources
+- pkg:maven/com.pulumi/meraki@0.3.0-alpha.1718132943?classifier=sources
+- pkg:maven/com.pulumi/meraki@0.3.0-alpha.1718171418?classifier=sources
+- pkg:maven/com.pulumi/meraki@0.3.0-alpha.1718258039?classifier=sources
+- pkg:maven/com.pulumi/meraki@0.3.0-alpha.1718344141?classifier=sources
+- pkg:maven/com.pulumi/meraki@0.3.0-alpha.1718430449?classifier=sources

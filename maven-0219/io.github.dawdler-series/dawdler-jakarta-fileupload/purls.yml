@@ -1,0 +1,2 @@
+- pkg:maven/io.github.dawdler-series/dawdler-jakarta-fileupload@17.2-jdk17-RELEASES?classifier=sources
+- pkg:maven/io.github.dawdler-series/dawdler-jakarta-fileupload@21.2-jdk21-RELEASES?classifier=sources

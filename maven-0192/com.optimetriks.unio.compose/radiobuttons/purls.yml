@@ -3,3 +3,4 @@
 - pkg:maven/com.optimetriks.unio.compose/radiobuttons@4?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/radiobuttons@6?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/radiobuttons@7?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/radiobuttons@8?classifier=sources
