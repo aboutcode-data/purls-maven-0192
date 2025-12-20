@@ -68,3 +68,5 @@
 - pkg:maven/org.eclipse.scout.rt/eclipse-scout-chart@24.1.15
 - pkg:maven/org.eclipse.scout.rt/eclipse-scout-chart@24.1.3
 - pkg:maven/org.eclipse.scout.rt/eclipse-scout-chart@24.1.6
+- pkg:maven/org.eclipse.scout.rt/eclipse-scout-chart@24.2.0-beta.0
+- pkg:maven/org.eclipse.scout.rt/eclipse-scout-chart@24.2.0-beta.2

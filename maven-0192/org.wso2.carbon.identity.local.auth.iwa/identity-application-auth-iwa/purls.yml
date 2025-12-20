@@ -9,3 +9,4 @@
 - pkg:maven/org.wso2.carbon.identity.local.auth.iwa/identity-application-auth-iwa@5.4.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.local.auth.iwa/identity-application-auth-iwa@5.4.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.local.auth.iwa/identity-application-auth-iwa@5.4.2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.local.auth.iwa/identity-application-auth-iwa@5.4.5?classifier=source-release&type=zip

@@ -38,3 +38,4 @@
 - pkg:maven/fr.neolegal/fec-reader@0.2.1?classifier=sources
 - pkg:maven/fr.neolegal/fec-reader@0.2.2
 - pkg:maven/fr.neolegal/fec-reader@0.2.2?classifier=sources
+- pkg:maven/fr.neolegal/fec-reader@0.2.3?classifier=sources

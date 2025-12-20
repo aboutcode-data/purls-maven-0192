@@ -188,6 +188,7 @@
 - pkg:maven/io.netty/netty-all@4.1.11.Final?classifier=sources
 - pkg:maven/io.netty/netty-all@4.1.110.Final
 - pkg:maven/io.netty/netty-all@4.1.111.Final
+- pkg:maven/io.netty/netty-all@4.1.112.Final
 - pkg:maven/io.netty/netty-all@4.1.12.Final
 - pkg:maven/io.netty/netty-all@4.1.12.Final?classifier=sources
 - pkg:maven/io.netty/netty-all@4.1.13.Final
@@ -349,6 +350,7 @@
 - pkg:maven/io.netty/netty-all@4.1.98.Final
 - pkg:maven/io.netty/netty-all@4.1.99.Final
 - pkg:maven/io.netty/netty-all@4.2.0.Alpha1
+- pkg:maven/io.netty/netty-all@4.2.0.Alpha2
 - pkg:maven/io.netty/netty-all@5.0.0.Alpha1
 - pkg:maven/io.netty/netty-all@5.0.0.Alpha1?classifier=sources
 - pkg:maven/io.netty/netty-all@5.0.0.Alpha2

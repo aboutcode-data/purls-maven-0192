@@ -6,3 +6,4 @@
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-desktops@3.9.1?classifier=sources
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-desktops@4.0.0?classifier=sources
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-desktops@4.1.0?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-desktops@4.1.1?classifier=sources

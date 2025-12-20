@@ -27,6 +27,7 @@
 - pkg:maven/org.webjars.npm/sweetalert2__theme-bootstrap-4@5.0.15?classifier=sources
 - pkg:maven/org.webjars.npm/sweetalert2__theme-bootstrap-4@5.0.16
 - pkg:maven/org.webjars.npm/sweetalert2__theme-bootstrap-4@5.0.16?classifier=sources
+- pkg:maven/org.webjars.npm/sweetalert2__theme-bootstrap-4@5.0.17
 - pkg:maven/org.webjars.npm/sweetalert2__theme-bootstrap-4@5.0.1?classifier=sources
 - pkg:maven/org.webjars.npm/sweetalert2__theme-bootstrap-4@5.0.2
 - pkg:maven/org.webjars.npm/sweetalert2__theme-bootstrap-4@5.0.2?classifier=sources

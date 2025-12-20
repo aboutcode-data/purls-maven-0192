@@ -28,3 +28,5 @@
 - pkg:maven/io.sfrei/tracksearch@0.8.2?classifier=sources
 - pkg:maven/io.sfrei/tracksearch@0.9.0
 - pkg:maven/io.sfrei/tracksearch@0.9.0?classifier=sources
+- pkg:maven/io.sfrei/tracksearch@1.0.0
+- pkg:maven/io.sfrei/tracksearch@1.0.0?classifier=sources

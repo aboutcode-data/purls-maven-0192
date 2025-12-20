@@ -1,0 +1,2 @@
+- pkg:maven/io.github.goooler.osgi/legacy-osgi-gradle-plugin@0.8.3?classifier=sources
+- pkg:maven/io.github.goooler.osgi/legacy-osgi-gradle-plugin@0.8.4?classifier=sources

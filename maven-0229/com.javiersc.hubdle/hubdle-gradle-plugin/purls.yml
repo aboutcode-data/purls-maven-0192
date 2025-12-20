@@ -131,3 +131,5 @@
 - pkg:maven/com.javiersc.hubdle/hubdle-gradle-plugin@0.6.7?classifier=sources
 - pkg:maven/com.javiersc.hubdle/hubdle-gradle-plugin@0.6.8?classifier=sources
 - pkg:maven/com.javiersc.hubdle/hubdle-gradle-plugin@0.7.0?classifier=sources
+- pkg:maven/com.javiersc.hubdle/hubdle-gradle-plugin@0.7.1?classifier=sources
+- pkg:maven/com.javiersc.hubdle/hubdle-gradle-plugin@0.7.2?classifier=sources

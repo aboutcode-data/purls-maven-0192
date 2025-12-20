@@ -4,3 +4,4 @@
 - pkg:maven/org.webjars.npm/angular-translate-loader-url@2.13.1?classifier=sources
 - pkg:maven/org.webjars.npm/angular-translate-loader-url@2.15.2
 - pkg:maven/org.webjars.npm/angular-translate-loader-url@2.15.2?classifier=sources
+- pkg:maven/org.webjars.npm/angular-translate-loader-url@2.19.1

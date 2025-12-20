@@ -151,3 +151,4 @@
 - pkg:maven/com.pulumi/slack@0.5.0-alpha.1718259966?classifier=sources
 - pkg:maven/com.pulumi/slack@0.5.0-alpha.1718345996?classifier=sources
 - pkg:maven/com.pulumi/slack@0.5.0-alpha.1718433154?classifier=sources
+- pkg:maven/com.pulumi/slack@0.5.0-alpha.1722063937?classifier=sources

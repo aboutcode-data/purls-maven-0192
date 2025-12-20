@@ -20,3 +20,5 @@
 - pkg:maven/fun.wuqian/wuqian-tool@1.2.2?classifier=sources
 - pkg:maven/fun.wuqian/wuqian-tool@1.2.3
 - pkg:maven/fun.wuqian/wuqian-tool@1.2.3?classifier=sources
+- pkg:maven/fun.wuqian/wuqian-tool@1.2.4
+- pkg:maven/fun.wuqian/wuqian-tool@1.2.4?classifier=sources

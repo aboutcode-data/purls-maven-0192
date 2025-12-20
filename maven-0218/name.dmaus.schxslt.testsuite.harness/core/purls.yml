@@ -1,0 +1,2 @@
+- pkg:maven/name.dmaus.schxslt.testsuite.harness/core@1.0
+- pkg:maven/name.dmaus.schxslt.testsuite.harness/core@1.0?classifier=sources

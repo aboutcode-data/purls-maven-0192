@@ -15,3 +15,4 @@
 - pkg:maven/com.facebook.presto/presto-router@0.285?classifier=sources
 - pkg:maven/com.facebook.presto/presto-router@0.286?classifier=sources
 - pkg:maven/com.facebook.presto/presto-router@0.287?classifier=sources
+- pkg:maven/com.facebook.presto/presto-router@0.288?classifier=sources

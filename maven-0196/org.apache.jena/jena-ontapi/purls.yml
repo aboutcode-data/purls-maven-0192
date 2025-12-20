@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.jena/jena-ontapi@5.1.0
+- pkg:maven/org.apache.jena/jena-ontapi@5.1.0?classifier=sources

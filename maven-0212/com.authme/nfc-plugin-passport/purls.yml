@@ -27,3 +27,4 @@
 - pkg:maven/com.authme/nfc-plugin-passport@1.1.0-rc.7?classifier=sources
 - pkg:maven/com.authme/nfc-plugin-passport@1.1.0?classifier=sources
 - pkg:maven/com.authme/nfc-plugin-passport@1.1.1?classifier=sources
+- pkg:maven/com.authme/nfc-plugin-passport@1.1.2?classifier=sources

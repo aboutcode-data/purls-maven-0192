@@ -63,3 +63,5 @@
 - pkg:maven/org.javalite/activejdbc-instrumentation@3.3-j11?classifier=sources
 - pkg:maven/org.javalite/activejdbc-instrumentation@3.4-j11
 - pkg:maven/org.javalite/activejdbc-instrumentation@3.4-j11?classifier=sources
+- pkg:maven/org.javalite/activejdbc-instrumentation@3.5-j11
+- pkg:maven/org.javalite/activejdbc-instrumentation@3.5-j11?classifier=sources

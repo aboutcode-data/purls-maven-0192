@@ -178,6 +178,10 @@
 - pkg:maven/com.google.cloud/google-cloud-aiplatform@3.45.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-aiplatform@3.46.0
 - pkg:maven/com.google.cloud/google-cloud-aiplatform@3.46.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-aiplatform@3.47.0
+- pkg:maven/com.google.cloud/google-cloud-aiplatform@3.47.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-aiplatform@3.48.0
+- pkg:maven/com.google.cloud/google-cloud-aiplatform@3.48.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-aiplatform@3.5.0
 - pkg:maven/com.google.cloud/google-cloud-aiplatform@3.5.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-aiplatform@3.6.0

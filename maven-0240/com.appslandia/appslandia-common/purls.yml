@@ -188,8 +188,14 @@
 - pkg:maven/com.appslandia/appslandia-common@19.16.0?classifier=sources
 - pkg:maven/com.appslandia/appslandia-common@19.17.0
 - pkg:maven/com.appslandia/appslandia-common@19.17.0?classifier=sources
+- pkg:maven/com.appslandia/appslandia-common@19.18.0
+- pkg:maven/com.appslandia/appslandia-common@19.18.0?classifier=sources
+- pkg:maven/com.appslandia/appslandia-common@19.19.0
+- pkg:maven/com.appslandia/appslandia-common@19.19.0?classifier=sources
 - pkg:maven/com.appslandia/appslandia-common@19.2.0
 - pkg:maven/com.appslandia/appslandia-common@19.2.0?classifier=sources
+- pkg:maven/com.appslandia/appslandia-common@19.20.0
+- pkg:maven/com.appslandia/appslandia-common@19.20.0?classifier=sources
 - pkg:maven/com.appslandia/appslandia-common@19.3.0
 - pkg:maven/com.appslandia/appslandia-common@19.3.0?classifier=sources
 - pkg:maven/com.appslandia/appslandia-common@19.3.1

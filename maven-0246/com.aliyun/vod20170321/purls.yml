@@ -50,3 +50,5 @@
 - pkg:maven/com.aliyun/vod20170321@2.21.0?classifier=sources
 - pkg:maven/com.aliyun/vod20170321@2.22.0
 - pkg:maven/com.aliyun/vod20170321@2.22.0?classifier=sources
+- pkg:maven/com.aliyun/vod20170321@3.0.0
+- pkg:maven/com.aliyun/vod20170321@3.0.0?classifier=sources

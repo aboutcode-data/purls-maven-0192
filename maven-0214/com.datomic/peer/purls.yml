@@ -4,3 +4,4 @@
 - pkg:maven/com.datomic/peer@1.0.7010
 - pkg:maven/com.datomic/peer@1.0.7021
 - pkg:maven/com.datomic/peer@1.0.7075
+- pkg:maven/com.datomic/peer@1.0.7180

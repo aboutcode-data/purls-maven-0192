@@ -1,0 +1,2 @@
+- pkg:maven/com.retailsvc/vertx-redis-clustermanager@1.0.0?classifier=sources
+- pkg:maven/com.retailsvc/vertx-redis-clustermanager@1.1.0?classifier=sources

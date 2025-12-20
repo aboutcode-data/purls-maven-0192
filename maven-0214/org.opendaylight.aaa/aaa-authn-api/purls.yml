@@ -157,6 +157,8 @@
 - pkg:maven/org.opendaylight.aaa/aaa-authn-api@0.2.3-Lithium-SR3?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-authn-api@0.2.4-Lithium-SR4
 - pkg:maven/org.opendaylight.aaa/aaa-authn-api@0.2.4-Lithium-SR4?classifier=sources
+- pkg:maven/org.opendaylight.aaa/aaa-authn-api@0.20.0
+- pkg:maven/org.opendaylight.aaa/aaa-authn-api@0.20.0?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-authn-api@0.3.0-Beryllium
 - pkg:maven/org.opendaylight.aaa/aaa-authn-api@0.3.0-Beryllium?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-authn-api@0.3.1-Beryllium-SR1

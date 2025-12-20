@@ -20,3 +20,5 @@
 - pkg:maven/fish.focus.uvms.asset/asset-module@6.8.33?type=war
 - pkg:maven/fish.focus.uvms.asset/asset-module@6.8.34?classifier=sources
 - pkg:maven/fish.focus.uvms.asset/asset-module@6.8.34?type=war
+- pkg:maven/fish.focus.uvms.asset/asset-module@6.8.35?classifier=sources
+- pkg:maven/fish.focus.uvms.asset/asset-module@6.8.35?type=war

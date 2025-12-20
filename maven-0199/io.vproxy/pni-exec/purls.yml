@@ -7,3 +7,4 @@
 - pkg:maven/io.vproxy/pni-exec@21.0.0.18?classifier=sources
 - pkg:maven/io.vproxy/pni-exec@21.0.0.19?classifier=sources
 - pkg:maven/io.vproxy/pni-exec@21.0.0.20?classifier=sources
+- pkg:maven/io.vproxy/pni-exec@21.0.0.21?classifier=sources

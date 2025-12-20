@@ -365,6 +365,10 @@
 - pkg:maven/org.gurux/gurux.dlms@4.0.63?classifier=sources
 - pkg:maven/org.gurux/gurux.dlms@4.0.64
 - pkg:maven/org.gurux/gurux.dlms@4.0.64?classifier=sources
+- pkg:maven/org.gurux/gurux.dlms@4.0.65
+- pkg:maven/org.gurux/gurux.dlms@4.0.65?classifier=sources
+- pkg:maven/org.gurux/gurux.dlms@4.0.66
+- pkg:maven/org.gurux/gurux.dlms@4.0.66?classifier=sources
 - pkg:maven/org.gurux/gurux.dlms@4.0.6?classifier=sources
 - pkg:maven/org.gurux/gurux.dlms@4.0.7
 - pkg:maven/org.gurux/gurux.dlms@4.0.7?classifier=sources

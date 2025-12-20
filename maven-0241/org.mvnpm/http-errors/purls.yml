@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/http-errors@1.6.3?classifier=sources
+- pkg:maven/org.mvnpm/http-errors@2.0.0?classifier=sources

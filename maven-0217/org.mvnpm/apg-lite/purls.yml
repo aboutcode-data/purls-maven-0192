@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/apg-lite@1.0.3?classifier=sources
+- pkg:maven/org.mvnpm/apg-lite@1.0.4?classifier=sources

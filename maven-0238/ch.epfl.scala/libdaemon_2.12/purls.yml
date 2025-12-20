@@ -1,0 +1,2 @@
+- pkg:maven/ch.epfl.scala/libdaemon_2.12@0.0.12
+- pkg:maven/ch.epfl.scala/libdaemon_2.12@0.0.12?classifier=sources

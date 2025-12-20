@@ -1,1 +1,2 @@
 - pkg:maven/com.github.kmehrunes/javalin-jwt@0.7.0?classifier=sources
+- pkg:maven/com.github.kmehrunes/javalin-jwt@6.0.0?classifier=sources

@@ -32,5 +32,11 @@
 - pkg:maven/io.github.quafadas/live-server-scala-cli-js_3@0.1.0?classifier=sources
 - pkg:maven/io.github.quafadas/live-server-scala-cli-js_3@0.1.1
 - pkg:maven/io.github.quafadas/live-server-scala-cli-js_3@0.1.1?classifier=sources
+- pkg:maven/io.github.quafadas/live-server-scala-cli-js_3@0.1.2
+- pkg:maven/io.github.quafadas/live-server-scala-cli-js_3@0.1.2?classifier=sources
+- pkg:maven/io.github.quafadas/live-server-scala-cli-js_3@0.1.3
+- pkg:maven/io.github.quafadas/live-server-scala-cli-js_3@0.1.3?classifier=sources
+- pkg:maven/io.github.quafadas/live-server-scala-cli-js_3@0.1.4
+- pkg:maven/io.github.quafadas/live-server-scala-cli-js_3@0.1.4?classifier=sources
 - pkg:maven/io.github.quafadas/live-server-scala-cli-js_3@V0.0.16
 - pkg:maven/io.github.quafadas/live-server-scala-cli-js_3@V0.0.16?classifier=sources

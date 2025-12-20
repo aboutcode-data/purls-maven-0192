@@ -18,3 +18,5 @@
 - pkg:maven/io.permazen/permazen-kv-lmdb@4.1.9?classifier=sources
 - pkg:maven/io.permazen/permazen-kv-lmdb@4.2.0
 - pkg:maven/io.permazen/permazen-kv-lmdb@4.2.0?classifier=sources
+- pkg:maven/io.permazen/permazen-kv-lmdb@5.0.0
+- pkg:maven/io.permazen/permazen-kv-lmdb@5.0.0?classifier=sources
