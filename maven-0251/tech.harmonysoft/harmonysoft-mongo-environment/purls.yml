@@ -1,5 +1,6 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-mongo-environment@1.100.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-mongo-environment@1.102.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-mongo-environment@1.103.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-mongo-environment@1.60.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-mongo-environment@1.61.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-mongo-environment@1.65.0?classifier=sources

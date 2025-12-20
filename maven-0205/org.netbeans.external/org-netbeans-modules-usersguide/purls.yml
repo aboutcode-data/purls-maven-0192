@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.external/org-netbeans-modules-usersguide@RELEASE180
 - pkg:maven/org.netbeans.external/org-netbeans-modules-usersguide@RELEASE190
 - pkg:maven/org.netbeans.external/org-netbeans-modules-usersguide@RELEASE200
+- pkg:maven/org.netbeans.external/org-netbeans-modules-usersguide@RELEASE210
 - pkg:maven/org.netbeans.external/org-netbeans-modules-usersguide@RELEASE90

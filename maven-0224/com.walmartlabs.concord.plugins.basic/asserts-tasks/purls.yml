@@ -1,0 +1,2 @@
+- pkg:maven/com.walmartlabs.concord.plugins.basic/asserts-tasks@2.9.0
+- pkg:maven/com.walmartlabs.concord.plugins.basic/asserts-tasks@2.9.0?classifier=sources

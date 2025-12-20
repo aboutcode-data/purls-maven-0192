@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-webkit-debugging@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-webkit-debugging@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-webkit-debugging@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-webkit-debugging@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-webkit-debugging@RELEASE90?classifier=sources

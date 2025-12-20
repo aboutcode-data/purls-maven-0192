@@ -1,0 +1,14 @@
+- pkg:maven/com.zepben.mvn-lib-ci-test/mvn-lib-ci-centralization-test-no-docs@0.10.0-SNAPSHOT20
+- pkg:maven/com.zepben.mvn-lib-ci-test/mvn-lib-ci-centralization-test-no-docs@0.10.0-SNAPSHOT20?classifier=sources
+- pkg:maven/com.zepben.mvn-lib-ci-test/mvn-lib-ci-centralization-test-no-docs@0.10.0-SNAPSHOT21
+- pkg:maven/com.zepben.mvn-lib-ci-test/mvn-lib-ci-centralization-test-no-docs@0.10.0-SNAPSHOT21?classifier=sources
+- pkg:maven/com.zepben.mvn-lib-ci-test/mvn-lib-ci-centralization-test-no-docs@0.10.0-SNAPSHOT22
+- pkg:maven/com.zepben.mvn-lib-ci-test/mvn-lib-ci-centralization-test-no-docs@0.10.0-SNAPSHOT22?classifier=sources
+- pkg:maven/com.zepben.mvn-lib-ci-test/mvn-lib-ci-centralization-test-no-docs@0.10.0-SNAPSHOT23
+- pkg:maven/com.zepben.mvn-lib-ci-test/mvn-lib-ci-centralization-test-no-docs@0.10.0-SNAPSHOT23?classifier=sources
+- pkg:maven/com.zepben.mvn-lib-ci-test/mvn-lib-ci-centralization-test-no-docs@0.10.0-SNAPSHOT24
+- pkg:maven/com.zepben.mvn-lib-ci-test/mvn-lib-ci-centralization-test-no-docs@0.10.0-SNAPSHOT24?classifier=sources
+- pkg:maven/com.zepben.mvn-lib-ci-test/mvn-lib-ci-centralization-test-no-docs@0.10.0-SNAPSHOT25
+- pkg:maven/com.zepben.mvn-lib-ci-test/mvn-lib-ci-centralization-test-no-docs@0.10.0-SNAPSHOT25?classifier=sources
+- pkg:maven/com.zepben.mvn-lib-ci-test/mvn-lib-ci-centralization-test-no-docs@0.10.0-SNAPSHOT26
+- pkg:maven/com.zepben.mvn-lib-ci-test/mvn-lib-ci-centralization-test-no-docs@0.10.0-SNAPSHOT26?classifier=sources

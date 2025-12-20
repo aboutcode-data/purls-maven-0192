@@ -22,3 +22,5 @@
 - pkg:maven/io.stargate.db.cassandra/persistence-cassandra-4.1@2.1.0-BETA-7?classifier=sources
 - pkg:maven/io.stargate.db.cassandra/persistence-cassandra-4.1@2.1.0-BETA-8
 - pkg:maven/io.stargate.db.cassandra/persistence-cassandra-4.1@2.1.0-BETA-8?classifier=sources
+- pkg:maven/io.stargate.db.cassandra/persistence-cassandra-4.1@2.1.0-BETA-9
+- pkg:maven/io.stargate.db.cassandra/persistence-cassandra-4.1@2.1.0-BETA-9?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.eventoframework/evento-bundle@ev1.4.6?classifier=sources
 - pkg:maven/com.eventoframework/evento-bundle@ev1.4.7?classifier=sources
 - pkg:maven/com.eventoframework/evento-bundle@ev1.4.8?classifier=sources
+- pkg:maven/com.eventoframework/evento-bundle@ev1.5.0?classifier=sources
+- pkg:maven/com.eventoframework/evento-bundle@ev1.6.0?classifier=sources

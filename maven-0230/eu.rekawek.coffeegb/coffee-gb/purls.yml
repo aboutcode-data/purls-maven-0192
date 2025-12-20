@@ -1,2 +1,4 @@
 - pkg:maven/eu.rekawek.coffeegb/coffee-gb@1.0.2
 - pkg:maven/eu.rekawek.coffeegb/coffee-gb@1.0.2?classifier=sources
+- pkg:maven/eu.rekawek.coffeegb/coffee-gb@1.2.1
+- pkg:maven/eu.rekawek.coffeegb/coffee-gb@1.2.1?classifier=sources

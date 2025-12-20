@@ -6,3 +6,5 @@
 - pkg:maven/org.mvnpm/js-tokens@3.0.2?classifier=sources
 - pkg:maven/org.mvnpm/js-tokens@4.0.0?classifier=sources
 - pkg:maven/org.mvnpm/js-tokens@8.0.2?classifier=sources
+- pkg:maven/org.mvnpm/js-tokens@8.0.3?classifier=sources
+- pkg:maven/org.mvnpm/js-tokens@9.0.0?classifier=sources

@@ -117,6 +117,10 @@
 - pkg:maven/org.jfrog.buildinfo/build-info-extractor-gradle@4.33.10?classifier=sources
 - pkg:maven/org.jfrog.buildinfo/build-info-extractor-gradle@4.33.11
 - pkg:maven/org.jfrog.buildinfo/build-info-extractor-gradle@4.33.11?classifier=sources
+- pkg:maven/org.jfrog.buildinfo/build-info-extractor-gradle@4.33.12
+- pkg:maven/org.jfrog.buildinfo/build-info-extractor-gradle@4.33.12?classifier=sources
+- pkg:maven/org.jfrog.buildinfo/build-info-extractor-gradle@4.33.13
+- pkg:maven/org.jfrog.buildinfo/build-info-extractor-gradle@4.33.13?classifier=sources
 - pkg:maven/org.jfrog.buildinfo/build-info-extractor-gradle@4.33.1?classifier=sources
 - pkg:maven/org.jfrog.buildinfo/build-info-extractor-gradle@4.33.2
 - pkg:maven/org.jfrog.buildinfo/build-info-extractor-gradle@4.33.2?classifier=sources
@@ -152,3 +156,4 @@
 - pkg:maven/org.jfrog.buildinfo/build-info-extractor-gradle@5.1.7?classifier=sources
 - pkg:maven/org.jfrog.buildinfo/build-info-extractor-gradle@5.1.8?classifier=sources
 - pkg:maven/org.jfrog.buildinfo/build-info-extractor-gradle@5.1.9?classifier=sources
+- pkg:maven/org.jfrog.buildinfo/build-info-extractor-gradle@5.2.0?classifier=sources

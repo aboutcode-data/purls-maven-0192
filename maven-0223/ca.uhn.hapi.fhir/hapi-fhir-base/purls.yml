@@ -166,6 +166,8 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base@6.10.2?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base@6.10.3
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base@6.10.3?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base@6.10.4
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base@6.10.4?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base@6.2.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base@6.2.0?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base@6.2.1

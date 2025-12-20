@@ -24,3 +24,4 @@
 - pkg:maven/aws.sdk.kotlin.crt/aws-crt-kotlin-android@0.8.2?classifier=sources
 - pkg:maven/aws.sdk.kotlin.crt/aws-crt-kotlin-android@0.8.3?classifier=sources
 - pkg:maven/aws.sdk.kotlin.crt/aws-crt-kotlin-android@0.8.4?classifier=sources
+- pkg:maven/aws.sdk.kotlin.crt/aws-crt-kotlin-android@0.8.5?classifier=sources

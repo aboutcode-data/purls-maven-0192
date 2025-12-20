@@ -24,6 +24,8 @@
 - pkg:maven/org.webjars.npm/fullcalendar__daygrid@6.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/fullcalendar__daygrid@6.1.10
 - pkg:maven/org.webjars.npm/fullcalendar__daygrid@6.1.10?classifier=sources
+- pkg:maven/org.webjars.npm/fullcalendar__daygrid@6.1.11
+- pkg:maven/org.webjars.npm/fullcalendar__daygrid@6.1.11?classifier=sources
 - pkg:maven/org.webjars.npm/fullcalendar__daygrid@6.1.4
 - pkg:maven/org.webjars.npm/fullcalendar__daygrid@6.1.4?classifier=sources
 - pkg:maven/org.webjars.npm/fullcalendar__daygrid@6.1.7

@@ -9,3 +9,4 @@
 - pkg:maven/org.opencord/mcast-app@2.7.0?classifier=sources
 - pkg:maven/org.opencord/mcast-app@2.8.0?classifier=sources
 - pkg:maven/org.opencord/mcast-app@2.9.0?classifier=sources
+- pkg:maven/org.opencord/mcast-app@2.9.1?classifier=sources

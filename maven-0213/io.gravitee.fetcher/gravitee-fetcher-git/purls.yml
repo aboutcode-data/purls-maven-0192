@@ -9,3 +9,4 @@
 - pkg:maven/io.gravitee.fetcher/gravitee-fetcher-git@1.7.0?classifier=sources
 - pkg:maven/io.gravitee.fetcher/gravitee-fetcher-git@1.8.0?classifier=sources
 - pkg:maven/io.gravitee.fetcher/gravitee-fetcher-git@1.8.1?classifier=sources
+- pkg:maven/io.gravitee.fetcher/gravitee-fetcher-git@1.8.2?classifier=sources

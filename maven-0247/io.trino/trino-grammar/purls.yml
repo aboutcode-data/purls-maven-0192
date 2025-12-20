@@ -24,3 +24,9 @@
 - pkg:maven/io.trino/trino-grammar@435?classifier=sources
 - pkg:maven/io.trino/trino-grammar@436
 - pkg:maven/io.trino/trino-grammar@436?classifier=sources
+- pkg:maven/io.trino/trino-grammar@437
+- pkg:maven/io.trino/trino-grammar@437?classifier=sources
+- pkg:maven/io.trino/trino-grammar@438
+- pkg:maven/io.trino/trino-grammar@438?classifier=sources
+- pkg:maven/io.trino/trino-grammar@439
+- pkg:maven/io.trino/trino-grammar@439?classifier=sources

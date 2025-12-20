@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-junit-ant@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-junit-ant@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-junit-ant@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-junit-ant@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-junit-ant@RELEASE90?classifier=sources

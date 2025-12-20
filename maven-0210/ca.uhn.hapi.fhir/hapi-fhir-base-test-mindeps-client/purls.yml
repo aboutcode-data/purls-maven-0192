@@ -13,6 +13,7 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base-test-mindeps-client@6.10.1
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base-test-mindeps-client@6.10.2
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base-test-mindeps-client@6.10.3
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base-test-mindeps-client@6.10.4
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base-test-mindeps-client@6.2.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base-test-mindeps-client@6.2.1
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base-test-mindeps-client@6.2.2

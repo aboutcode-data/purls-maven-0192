@@ -1,0 +1,2 @@
+- pkg:maven/com.solace.quarkus/quarkus-solace-messaging-connector-deployment@1.0.0
+- pkg:maven/com.solace.quarkus/quarkus-solace-messaging-connector-deployment@1.0.0?classifier=sources

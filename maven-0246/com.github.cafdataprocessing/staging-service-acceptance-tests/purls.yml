@@ -11,3 +11,4 @@
 - pkg:maven/com.github.cafdataprocessing/staging-service-acceptance-tests@2.1.0-963
 - pkg:maven/com.github.cafdataprocessing/staging-service-acceptance-tests@2.1.1-996
 - pkg:maven/com.github.cafdataprocessing/staging-service-acceptance-tests@2.1.2-1015
+- pkg:maven/com.github.cafdataprocessing/staging-service-acceptance-tests@3.0.0-1050

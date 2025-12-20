@@ -249,3 +249,7 @@
 - pkg:maven/com.google.api/gax-httpjson@2.40.0?classifier=sources
 - pkg:maven/com.google.api/gax-httpjson@2.41.0
 - pkg:maven/com.google.api/gax-httpjson@2.41.0?classifier=sources
+- pkg:maven/com.google.api/gax-httpjson@2.42.0
+- pkg:maven/com.google.api/gax-httpjson@2.42.0?classifier=sources
+- pkg:maven/com.google.api/gax-httpjson@2.43.0
+- pkg:maven/com.google.api/gax-httpjson@2.43.0?classifier=sources

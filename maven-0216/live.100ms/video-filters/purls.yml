@@ -1,0 +1,3 @@
+- pkg:maven/live.100ms/video-filters@2.9.2?classifier=sources
+- pkg:maven/live.100ms/video-filters@2.9.3?classifier=sources
+- pkg:maven/live.100ms/video-filters@2.9.4?classifier=sources

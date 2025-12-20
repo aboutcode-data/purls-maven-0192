@@ -1,0 +1,2 @@
+- pkg:maven/net.solarnetwork.external/org.apache.felix.fileinstall@3.5.4.SN01
+- pkg:maven/net.solarnetwork.external/org.apache.felix.fileinstall@3.5.4.SN01?classifier=sources

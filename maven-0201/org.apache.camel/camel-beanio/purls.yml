@@ -294,3 +294,5 @@
 - pkg:maven/org.apache.camel/camel-beanio@3.8.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-beanio@3.9.0
 - pkg:maven/org.apache.camel/camel-beanio@3.9.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-beanio@4.4.0
+- pkg:maven/org.apache.camel/camel-beanio@4.4.0?classifier=sources

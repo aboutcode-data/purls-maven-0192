@@ -273,6 +273,9 @@
 - pkg:maven/com.tencent.tav/libpag@4.2.110-harfbuzz?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@4.2.110-noffavc?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@4.2.110?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@4.2.111-harfbuzz?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@4.2.111-noffavc?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@4.2.111?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@4.2.11?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@4.2.11?type=aar
 - pkg:maven/com.tencent.tav/libpag@4.2.12-harfbuzz?classifier=sources

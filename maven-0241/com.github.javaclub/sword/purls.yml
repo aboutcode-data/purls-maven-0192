@@ -158,6 +158,12 @@
 - pkg:maven/com.github.javaclub/sword@1.8.9?classifier=sources
 - pkg:maven/com.github.javaclub/sword@1.9.0
 - pkg:maven/com.github.javaclub/sword@1.9.0?classifier=sources
+- pkg:maven/com.github.javaclub/sword@1.9.1
+- pkg:maven/com.github.javaclub/sword@1.9.1?classifier=sources
+- pkg:maven/com.github.javaclub/sword@1.9.1_01
+- pkg:maven/com.github.javaclub/sword@1.9.1_01?classifier=sources
+- pkg:maven/com.github.javaclub/sword@1.9.1_02
+- pkg:maven/com.github.javaclub/sword@1.9.1_02?classifier=sources
 - pkg:maven/com.github.javaclub/sword@2.7.0
 - pkg:maven/com.github.javaclub/sword@2.7.0?classifier=sources
 - pkg:maven/com.github.javaclub/sword@2.7.1
@@ -166,3 +172,5 @@
 - pkg:maven/com.github.javaclub/sword@2.7.2?classifier=sources
 - pkg:maven/com.github.javaclub/sword@2.7.3
 - pkg:maven/com.github.javaclub/sword@2.7.3?classifier=sources
+- pkg:maven/com.github.javaclub/sword@2.7.3_01
+- pkg:maven/com.github.javaclub/sword@2.7.3_01?classifier=sources

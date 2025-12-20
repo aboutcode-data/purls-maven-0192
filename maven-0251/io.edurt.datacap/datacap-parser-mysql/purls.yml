@@ -1,0 +1,2 @@
+- pkg:maven/io.edurt.datacap/datacap-parser-mysql@2024.01.1
+- pkg:maven/io.edurt.datacap/datacap-parser-mysql@2024.01.1?classifier=sources

@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-templates@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-templates@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-templates@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-templates@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-templates@RELEASE90?classifier=sources

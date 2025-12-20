@@ -7,3 +7,4 @@
 - pkg:maven/com.hivemq/hivemq-edge-extension-sdk@2023.7?classifier=sources
 - pkg:maven/com.hivemq/hivemq-edge-extension-sdk@2023.8?classifier=sources
 - pkg:maven/com.hivemq/hivemq-edge-extension-sdk@2023.9?classifier=sources
+- pkg:maven/com.hivemq/hivemq-edge-extension-sdk@2024.1?classifier=sources

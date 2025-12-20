@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-freeform@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-freeform@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-freeform@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-freeform@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-freeform@RELEASE90?classifier=sources

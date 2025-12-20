@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-core-ide@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-core-ide@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-core-ide@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-core-ide@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-core-ide@RELEASE90?classifier=sources

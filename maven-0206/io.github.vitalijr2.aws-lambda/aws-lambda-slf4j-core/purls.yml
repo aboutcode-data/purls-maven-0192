@@ -1,0 +1,1 @@
+- pkg:maven/io.github.vitalijr2.aws-lambda/aws-lambda-slf4j-core@1.1.1?classifier=sources

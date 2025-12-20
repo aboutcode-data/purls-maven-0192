@@ -84,3 +84,9 @@
 - pkg:maven/cn.mybatis-mp/mybatis-mp-spring-boot-starter@1.3.6
 - pkg:maven/cn.mybatis-mp/mybatis-mp-spring-boot-starter@1.3.6-spring-boot3?classifier=sources
 - pkg:maven/cn.mybatis-mp/mybatis-mp-spring-boot-starter@1.3.6?classifier=sources
+- pkg:maven/cn.mybatis-mp/mybatis-mp-spring-boot-starter@1.3.7
+- pkg:maven/cn.mybatis-mp/mybatis-mp-spring-boot-starter@1.3.7-spring-boot3?classifier=sources
+- pkg:maven/cn.mybatis-mp/mybatis-mp-spring-boot-starter@1.3.7?classifier=sources
+- pkg:maven/cn.mybatis-mp/mybatis-mp-spring-boot-starter@1.3.9
+- pkg:maven/cn.mybatis-mp/mybatis-mp-spring-boot-starter@1.3.9-spring-boot3?classifier=sources
+- pkg:maven/cn.mybatis-mp/mybatis-mp-spring-boot-starter@1.3.9?classifier=sources

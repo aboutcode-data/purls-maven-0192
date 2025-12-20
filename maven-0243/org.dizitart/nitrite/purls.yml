@@ -34,3 +34,5 @@
 - pkg:maven/org.dizitart/nitrite@3.4.4?classifier=sources
 - pkg:maven/org.dizitart/nitrite@4.2.0
 - pkg:maven/org.dizitart/nitrite@4.2.0?classifier=sources
+- pkg:maven/org.dizitart/nitrite@4.2.1
+- pkg:maven/org.dizitart/nitrite@4.2.1?classifier=sources

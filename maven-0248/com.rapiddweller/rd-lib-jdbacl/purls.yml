@@ -16,6 +16,10 @@
 - pkg:maven/com.rapiddweller/rd-lib-jdbacl@1.1.14-jdk-11?classifier=sources
 - pkg:maven/com.rapiddweller/rd-lib-jdbacl@1.1.15-jdk-11
 - pkg:maven/com.rapiddweller/rd-lib-jdbacl@1.1.15-jdk-11?classifier=sources
+- pkg:maven/com.rapiddweller/rd-lib-jdbacl@1.1.16-jdk-11
+- pkg:maven/com.rapiddweller/rd-lib-jdbacl@1.1.16-jdk-11?classifier=sources
+- pkg:maven/com.rapiddweller/rd-lib-jdbacl@1.1.17-jdk-11
+- pkg:maven/com.rapiddweller/rd-lib-jdbacl@1.1.17-jdk-11?classifier=sources
 - pkg:maven/com.rapiddweller/rd-lib-jdbacl@1.1.2-jdk-11
 - pkg:maven/com.rapiddweller/rd-lib-jdbacl@1.1.2-jdk-11?classifier=sources
 - pkg:maven/com.rapiddweller/rd-lib-jdbacl@1.1.3-jdk-11

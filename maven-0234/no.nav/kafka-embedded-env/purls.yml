@@ -56,3 +56,5 @@
 - pkg:maven/no.nav/kafka-embedded-env@3.2.3?classifier=sources
 - pkg:maven/no.nav/kafka-embedded-env@3.2.4
 - pkg:maven/no.nav/kafka-embedded-env@3.2.4?classifier=sources
+- pkg:maven/no.nav/kafka-embedded-env@3.2.5
+- pkg:maven/no.nav/kafka-embedded-env@3.2.5?classifier=sources

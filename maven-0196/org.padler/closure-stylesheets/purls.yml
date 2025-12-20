@@ -5,3 +5,4 @@
 - pkg:maven/org.padler/closure-stylesheets@1.6.3?classifier=sources
 - pkg:maven/org.padler/closure-stylesheets@1.6.4?classifier=sources
 - pkg:maven/org.padler/closure-stylesheets@1.6.5?classifier=sources
+- pkg:maven/org.padler/closure-stylesheets@1.7.0?classifier=sources

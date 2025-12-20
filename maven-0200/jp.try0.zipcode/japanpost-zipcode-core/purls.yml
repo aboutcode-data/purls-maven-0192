@@ -1,0 +1,2 @@
+- pkg:maven/jp.try0.zipcode/japanpost-zipcode-core@0.0.1
+- pkg:maven/jp.try0.zipcode/japanpost-zipcode-core@0.0.1?classifier=sources

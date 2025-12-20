@@ -51,6 +51,12 @@
 - pkg:maven/cn.lanink/MemoriesOfTime-GameCore@1.6.12-PNX
 - pkg:maven/cn.lanink/MemoriesOfTime-GameCore@1.6.12-PNX?classifier=sources
 - pkg:maven/cn.lanink/MemoriesOfTime-GameCore@1.6.12?classifier=sources
+- pkg:maven/cn.lanink/MemoriesOfTime-GameCore@1.6.13
+- pkg:maven/cn.lanink/MemoriesOfTime-GameCore@1.6.13-PM1E
+- pkg:maven/cn.lanink/MemoriesOfTime-GameCore@1.6.13-PM1E?classifier=sources
+- pkg:maven/cn.lanink/MemoriesOfTime-GameCore@1.6.13-PNX
+- pkg:maven/cn.lanink/MemoriesOfTime-GameCore@1.6.13-PNX?classifier=sources
+- pkg:maven/cn.lanink/MemoriesOfTime-GameCore@1.6.13?classifier=sources
 - pkg:maven/cn.lanink/MemoriesOfTime-GameCore@1.6.1?classifier=sources
 - pkg:maven/cn.lanink/MemoriesOfTime-GameCore@1.6.2
 - pkg:maven/cn.lanink/MemoriesOfTime-GameCore@1.6.2.0-PM1E

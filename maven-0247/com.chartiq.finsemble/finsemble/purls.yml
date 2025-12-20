@@ -76,6 +76,8 @@
 - pkg:maven/com.chartiq.finsemble/finsemble@8.10.2?classifier=sources
 - pkg:maven/com.chartiq.finsemble/finsemble@8.10.3
 - pkg:maven/com.chartiq.finsemble/finsemble@8.10.3?classifier=sources
+- pkg:maven/com.chartiq.finsemble/finsemble@8.10.4
+- pkg:maven/com.chartiq.finsemble/finsemble@8.10.4?classifier=sources
 - pkg:maven/com.chartiq.finsemble/finsemble@8.2.0
 - pkg:maven/com.chartiq.finsemble/finsemble@8.2.0?classifier=sources
 - pkg:maven/com.chartiq.finsemble/finsemble@8.2.1

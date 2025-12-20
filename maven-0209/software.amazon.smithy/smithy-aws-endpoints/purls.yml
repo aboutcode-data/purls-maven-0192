@@ -6,3 +6,4 @@
 - pkg:maven/software.amazon.smithy/smithy-aws-endpoints@1.42.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-aws-endpoints@1.43.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-aws-endpoints@1.44.0?classifier=sources
+- pkg:maven/software.amazon.smithy/smithy-aws-endpoints@1.45.0?classifier=sources

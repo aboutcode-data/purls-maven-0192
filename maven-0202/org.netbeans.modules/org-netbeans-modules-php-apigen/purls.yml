@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-apigen@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-apigen@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-apigen@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-apigen@RELEASE210?classifier=sources
