@@ -64,6 +64,7 @@
 - pkg:maven/com.sap.cds/cds-starter-cloudfoundry@1.34.4
 - pkg:maven/com.sap.cds/cds-starter-cloudfoundry@1.34.5
 - pkg:maven/com.sap.cds/cds-starter-cloudfoundry@1.34.6
+- pkg:maven/com.sap.cds/cds-starter-cloudfoundry@1.34.7
 - pkg:maven/com.sap.cds/cds-starter-cloudfoundry@1.4.0
 - pkg:maven/com.sap.cds/cds-starter-cloudfoundry@1.5.1
 - pkg:maven/com.sap.cds/cds-starter-cloudfoundry@1.5.2
@@ -78,3 +79,4 @@
 - pkg:maven/com.sap.cds/cds-starter-cloudfoundry@2.1.1
 - pkg:maven/com.sap.cds/cds-starter-cloudfoundry@2.2.0
 - pkg:maven/com.sap.cds/cds-starter-cloudfoundry@2.3.0
+- pkg:maven/com.sap.cds/cds-starter-cloudfoundry@2.3.1

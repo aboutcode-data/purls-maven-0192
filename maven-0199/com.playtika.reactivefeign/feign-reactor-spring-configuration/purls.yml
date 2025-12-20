@@ -116,3 +116,5 @@
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-configuration@3.3.0?classifier=sources
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-configuration@4.0.0
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-configuration@4.0.0?classifier=sources
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-configuration@4.0.2
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-spring-configuration@4.0.2?classifier=sources

@@ -12,3 +12,4 @@
 - pkg:maven/de.svws-nrw/svws-db-dto@0.7.5?classifier=sources
 - pkg:maven/de.svws-nrw/svws-db-dto@0.7.6?classifier=sources
 - pkg:maven/de.svws-nrw/svws-db-dto@0.7.7?classifier=sources
+- pkg:maven/de.svws-nrw/svws-db-dto@0.7.8?classifier=sources

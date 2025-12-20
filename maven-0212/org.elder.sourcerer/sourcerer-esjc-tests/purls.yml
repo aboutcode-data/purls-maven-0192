@@ -6,3 +6,4 @@
 - pkg:maven/org.elder.sourcerer/sourcerer-esjc-tests@v7.1.1?classifier=sources
 - pkg:maven/org.elder.sourcerer/sourcerer-esjc-tests@v8.0.0?classifier=sources
 - pkg:maven/org.elder.sourcerer/sourcerer-esjc-tests@v9.0.0?classifier=sources
+- pkg:maven/org.elder.sourcerer/sourcerer-esjc-tests@v9.0.1?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.m2e.core@2.0.3.20220904-1704?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.m2e.core@2.0.7.20230307-1553
 - pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.m2e.core@2.0.7.20230307-1553?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.m2e.core@2.4.0.20230826-0915
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.m2e.core@2.4.0.20230826-0915?classifier=sources

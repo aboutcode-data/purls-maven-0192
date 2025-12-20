@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/grapesjs-preset-webpage@0.1.10?classifier=sources
 - pkg:maven/org.webjars.npm/grapesjs-preset-webpage@0.1.11
 - pkg:maven/org.webjars.npm/grapesjs-preset-webpage@0.1.11?classifier=sources
+- pkg:maven/org.webjars.npm/grapesjs-preset-webpage@1.0.3
+- pkg:maven/org.webjars.npm/grapesjs-preset-webpage@1.0.3?classifier=sources

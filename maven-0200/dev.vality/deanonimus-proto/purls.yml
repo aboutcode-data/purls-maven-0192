@@ -1,2 +1,8 @@
 - pkg:maven/dev.vality/deanonimus-proto@1.23-b4ce7de
 - pkg:maven/dev.vality/deanonimus-proto@1.23-b4ce7de?classifier=sources
+- pkg:maven/dev.vality/deanonimus-proto@1.36-94fb655
+- pkg:maven/dev.vality/deanonimus-proto@1.36-94fb655?classifier=sources
+- pkg:maven/dev.vality/deanonimus-proto@1.37-0346936
+- pkg:maven/dev.vality/deanonimus-proto@1.37-0346936?classifier=sources
+- pkg:maven/dev.vality/deanonimus-proto@1.38-c54cca0
+- pkg:maven/dev.vality/deanonimus-proto@1.38-c54cca0?classifier=sources

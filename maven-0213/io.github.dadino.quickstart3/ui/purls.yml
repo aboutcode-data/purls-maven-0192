@@ -16,3 +16,5 @@
 - pkg:maven/io.github.dadino.quickstart3/ui@0.12.7?classifier=sources
 - pkg:maven/io.github.dadino.quickstart3/ui@0.12.8?classifier=sources
 - pkg:maven/io.github.dadino.quickstart3/ui@0.12.9?classifier=sources
+- pkg:maven/io.github.dadino.quickstart3/ui@0.13.0?classifier=sources
+- pkg:maven/io.github.dadino.quickstart3/ui@0.13.1?classifier=sources

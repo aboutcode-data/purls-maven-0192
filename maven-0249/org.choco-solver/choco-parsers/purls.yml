@@ -16,6 +16,8 @@
 - pkg:maven/org.choco-solver/choco-parsers@4.10.12?classifier=sources
 - pkg:maven/org.choco-solver/choco-parsers@4.10.13
 - pkg:maven/org.choco-solver/choco-parsers@4.10.13?classifier=sources
+- pkg:maven/org.choco-solver/choco-parsers@4.10.14
+- pkg:maven/org.choco-solver/choco-parsers@4.10.14?classifier=sources
 - pkg:maven/org.choco-solver/choco-parsers@4.10.3
 - pkg:maven/org.choco-solver/choco-parsers@4.10.3?classifier=sources
 - pkg:maven/org.choco-solver/choco-parsers@4.10.4

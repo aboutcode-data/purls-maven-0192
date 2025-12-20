@@ -66,6 +66,8 @@
 - pkg:maven/io.kubernetes/client-java@18.0.0?classifier=sources
 - pkg:maven/io.kubernetes/client-java@18.0.1
 - pkg:maven/io.kubernetes/client-java@18.0.1?classifier=sources
+- pkg:maven/io.kubernetes/client-java@19.0.0
+- pkg:maven/io.kubernetes/client-java@19.0.0?classifier=sources
 - pkg:maven/io.kubernetes/client-java@2.0.0
 - pkg:maven/io.kubernetes/client-java@2.0.0-beta1
 - pkg:maven/io.kubernetes/client-java@2.0.0-beta1?classifier=sources

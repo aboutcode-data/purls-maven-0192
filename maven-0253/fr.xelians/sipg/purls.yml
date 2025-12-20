@@ -1,0 +1,2 @@
+- pkg:maven/fr.xelians/sipg@1.21
+- pkg:maven/fr.xelians/sipg@1.21?classifier=sources

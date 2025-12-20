@@ -92,6 +92,10 @@
 - pkg:maven/com.bloomscorp/bmx-spring-base@0.0.55?classifier=sources
 - pkg:maven/com.bloomscorp/bmx-spring-base@0.0.56
 - pkg:maven/com.bloomscorp/bmx-spring-base@0.0.56?classifier=sources
+- pkg:maven/com.bloomscorp/bmx-spring-base@0.0.57
+- pkg:maven/com.bloomscorp/bmx-spring-base@0.0.57?classifier=sources
+- pkg:maven/com.bloomscorp/bmx-spring-base@0.0.58
+- pkg:maven/com.bloomscorp/bmx-spring-base@0.0.58?classifier=sources
 - pkg:maven/com.bloomscorp/bmx-spring-base@0.0.6
 - pkg:maven/com.bloomscorp/bmx-spring-base@0.0.6?classifier=sources
 - pkg:maven/com.bloomscorp/bmx-spring-base@0.0.7

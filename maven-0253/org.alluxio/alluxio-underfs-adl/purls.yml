@@ -82,3 +82,5 @@
 - pkg:maven/org.alluxio/alluxio-underfs-adl@303?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-adl@304
 - pkg:maven/org.alluxio/alluxio-underfs-adl@304?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-adl@305
+- pkg:maven/org.alluxio/alluxio-underfs-adl@305?classifier=sources

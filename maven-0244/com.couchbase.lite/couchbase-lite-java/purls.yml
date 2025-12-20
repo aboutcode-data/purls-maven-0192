@@ -38,6 +38,8 @@
 - pkg:maven/com.couchbase.lite/couchbase-lite-java@3.0.0?classifier=sources
 - pkg:maven/com.couchbase.lite/couchbase-lite-java@3.0.12
 - pkg:maven/com.couchbase.lite/couchbase-lite-java@3.0.12?classifier=sources
+- pkg:maven/com.couchbase.lite/couchbase-lite-java@3.0.15
+- pkg:maven/com.couchbase.lite/couchbase-lite-java@3.0.15?classifier=sources
 - pkg:maven/com.couchbase.lite/couchbase-lite-java@3.0.2
 - pkg:maven/com.couchbase.lite/couchbase-lite-java@3.0.2?classifier=sources
 - pkg:maven/com.couchbase.lite/couchbase-lite-java@3.0.5

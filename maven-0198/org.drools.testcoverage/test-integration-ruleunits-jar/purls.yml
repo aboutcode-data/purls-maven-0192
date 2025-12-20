@@ -10,6 +10,8 @@
 - pkg:maven/org.drools.testcoverage/test-integration-ruleunits-jar@8.39.0.Final?classifier=sources
 - pkg:maven/org.drools.testcoverage/test-integration-ruleunits-jar@8.40.0.Final
 - pkg:maven/org.drools.testcoverage/test-integration-ruleunits-jar@8.40.0.Final?classifier=sources
+- pkg:maven/org.drools.testcoverage/test-integration-ruleunits-jar@8.40.1.Final
+- pkg:maven/org.drools.testcoverage/test-integration-ruleunits-jar@8.40.1.Final?classifier=sources
 - pkg:maven/org.drools.testcoverage/test-integration-ruleunits-jar@8.41.0.Final
 - pkg:maven/org.drools.testcoverage/test-integration-ruleunits-jar@8.41.0.Final?classifier=sources
 - pkg:maven/org.drools.testcoverage/test-integration-ruleunits-jar@8.42.0.Final

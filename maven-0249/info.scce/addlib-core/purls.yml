@@ -1,0 +1,4 @@
+- pkg:maven/info.scce/addlib-core@3.0.0
+- pkg:maven/info.scce/addlib-core@3.0.0?classifier=sources
+- pkg:maven/info.scce/addlib-core@3.0.1
+- pkg:maven/info.scce/addlib-core@3.0.1?classifier=sources

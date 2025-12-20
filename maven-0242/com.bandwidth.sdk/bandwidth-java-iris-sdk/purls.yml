@@ -50,3 +50,5 @@
 - pkg:maven/com.bandwidth.sdk/bandwidth-java-iris-sdk@3.3.2?classifier=sources
 - pkg:maven/com.bandwidth.sdk/bandwidth-java-iris-sdk@4.0.0
 - pkg:maven/com.bandwidth.sdk/bandwidth-java-iris-sdk@4.0.0?classifier=sources
+- pkg:maven/com.bandwidth.sdk/bandwidth-java-iris-sdk@4.1.0
+- pkg:maven/com.bandwidth.sdk/bandwidth-java-iris-sdk@4.1.0?classifier=sources

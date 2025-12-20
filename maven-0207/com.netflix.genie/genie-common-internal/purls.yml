@@ -140,3 +140,4 @@
 - pkg:maven/com.netflix.genie/genie-common-internal@4.3.2?classifier=sources
 - pkg:maven/com.netflix.genie/genie-common-internal@4.3.3?classifier=sources
 - pkg:maven/com.netflix.genie/genie-common-internal@4.3.4?classifier=sources
+- pkg:maven/com.netflix.genie/genie-common-internal@4.3.5?classifier=sources

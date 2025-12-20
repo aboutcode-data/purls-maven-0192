@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/uirouter__react@1.0.3
 - pkg:maven/org.webjars.npm/uirouter__react@1.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/uirouter__react@1.0.7
+- pkg:maven/org.webjars.npm/uirouter__react@1.0.7?classifier=sources

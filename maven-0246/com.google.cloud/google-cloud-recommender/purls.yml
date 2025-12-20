@@ -117,6 +117,10 @@
 - pkg:maven/com.google.cloud/google-cloud-recommender@2.3.2?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-recommender@2.30.0
 - pkg:maven/com.google.cloud/google-cloud-recommender@2.30.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-recommender@2.31.0
+- pkg:maven/com.google.cloud/google-cloud-recommender@2.31.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-recommender@2.32.0
+- pkg:maven/com.google.cloud/google-cloud-recommender@2.32.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-recommender@2.4.0
 - pkg:maven/com.google.cloud/google-cloud-recommender@2.4.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-recommender@2.4.1

@@ -2,6 +2,10 @@
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@1.1.0.Final?type=war
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@10.0.0.Final?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@10.0.0.Final?type=war
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@10.0.1.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@10.0.1.Final?type=war
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@10.0.2.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@10.0.2.Final?type=war
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@2.0.0.Alpha2?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@2.0.0.Alpha2?type=war
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@2.0.0.Alpha3?classifier=sources
@@ -72,6 +76,8 @@
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@3.5.0.Final?type=war
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@3.5.1.Final?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@3.5.1.Final?type=war
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@3.5.2.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@3.5.2.Final?type=war
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@4.0.0.Alpha1?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@4.0.0.Alpha1?type=war
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@5.0.0.Alpha1?classifier=sources
@@ -80,5 +86,13 @@
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@6.0.0.Alpha1?type=war
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@8.0.0.Final?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@8.0.0.Final?type=war
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@8.0.1.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@8.0.1.Final?type=war
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@8.0.2.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@8.0.2.Final?type=war
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@9.0.0.Final?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@9.0.0.Final?type=war
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@9.0.1.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@9.0.1.Final?type=war
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@9.0.2.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-composite-query@9.0.2.Final?type=war

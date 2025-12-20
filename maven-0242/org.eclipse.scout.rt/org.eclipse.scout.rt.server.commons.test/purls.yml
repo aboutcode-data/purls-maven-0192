@@ -80,9 +80,12 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.commons.test@23.1.6
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.commons.test@23.1.8
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.commons.test@23.2.0-beta.4
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.commons.test@23.2.11
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.commons.test@23.2.13
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.commons.test@23.2.2
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.commons.test@23.2.4
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.commons.test@23.2.5
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.commons.test@23.2.9
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.commons.test@5.2.0.M3
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.commons.test@5.2.0.M4
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.commons.test@5.2.0.M5

@@ -100,3 +100,5 @@
 - pkg:maven/net.pwall.json/json-kotlin@4.7?classifier=sources
 - pkg:maven/net.pwall.json/json-kotlin@4.8
 - pkg:maven/net.pwall.json/json-kotlin@4.8?classifier=sources
+- pkg:maven/net.pwall.json/json-kotlin@4.9
+- pkg:maven/net.pwall.json/json-kotlin@4.9?classifier=sources

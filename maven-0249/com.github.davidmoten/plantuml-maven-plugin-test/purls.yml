@@ -15,3 +15,4 @@
 - pkg:maven/com.github.davidmoten/plantuml-maven-plugin-test@0.2.4
 - pkg:maven/com.github.davidmoten/plantuml-maven-plugin-test@0.2.5
 - pkg:maven/com.github.davidmoten/plantuml-maven-plugin-test@0.2.6
+- pkg:maven/com.github.davidmoten/plantuml-maven-plugin-test@0.2.7

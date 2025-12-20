@@ -35,6 +35,8 @@
 - pkg:maven/io.github.cardano-community/koios-java-client@1.17.2?classifier=sources
 - pkg:maven/io.github.cardano-community/koios-java-client@1.17.3
 - pkg:maven/io.github.cardano-community/koios-java-client@1.17.3?classifier=sources
+- pkg:maven/io.github.cardano-community/koios-java-client@1.18.0
+- pkg:maven/io.github.cardano-community/koios-java-client@1.18.0?classifier=sources
 - pkg:maven/io.github.cardano-community/koios-java-client@1.1?classifier=sources
 - pkg:maven/io.github.cardano-community/koios-java-client@1.2
 - pkg:maven/io.github.cardano-community/koios-java-client@1.2?classifier=sources

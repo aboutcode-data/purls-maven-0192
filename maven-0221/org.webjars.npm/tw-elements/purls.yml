@@ -1,6 +1,8 @@
+- pkg:maven/org.webjars.npm/tw-elements@1.0.0
 - pkg:maven/org.webjars.npm/tw-elements@1.0.0-alpha13
 - pkg:maven/org.webjars.npm/tw-elements@1.0.0-alpha13?classifier=sources
 - pkg:maven/org.webjars.npm/tw-elements@1.0.0-beta2
 - pkg:maven/org.webjars.npm/tw-elements@1.0.0-beta2?classifier=sources
 - pkg:maven/org.webjars.npm/tw-elements@1.0.0-beta3
 - pkg:maven/org.webjars.npm/tw-elements@1.0.0-beta3?classifier=sources
+- pkg:maven/org.webjars.npm/tw-elements@1.0.0?classifier=sources

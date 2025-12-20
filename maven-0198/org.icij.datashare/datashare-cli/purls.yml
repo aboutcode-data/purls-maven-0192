@@ -1,2 +1,10 @@
 - pkg:maven/org.icij.datashare/datashare-cli@13.2.1
 - pkg:maven/org.icij.datashare/datashare-cli@13.2.1?classifier=sources
+- pkg:maven/org.icij.datashare/datashare-cli@13.3.0
+- pkg:maven/org.icij.datashare/datashare-cli@13.3.0?classifier=sources
+- pkg:maven/org.icij.datashare/datashare-cli@13.3.1
+- pkg:maven/org.icij.datashare/datashare-cli@13.3.1?classifier=sources
+- pkg:maven/org.icij.datashare/datashare-cli@13.4.0
+- pkg:maven/org.icij.datashare/datashare-cli@13.4.0?classifier=sources
+- pkg:maven/org.icij.datashare/datashare-cli@13.5.0
+- pkg:maven/org.icij.datashare/datashare-cli@13.5.0?classifier=sources

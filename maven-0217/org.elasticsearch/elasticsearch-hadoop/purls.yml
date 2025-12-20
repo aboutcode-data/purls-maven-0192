@@ -263,6 +263,7 @@
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop@7.17.12?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop@7.17.13?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop@7.17.14?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-hadoop@7.17.15?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop@7.17.1?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop@7.17.2?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop@7.17.3?classifier=sources
@@ -309,6 +310,9 @@
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop@8.10.1?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop@8.10.2?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop@8.10.3?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-hadoop@8.10.4?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-hadoop@8.11.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-hadoop@8.11.1?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop@8.2.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop@8.2.1?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop@8.2.2?classifier=sources

@@ -87,6 +87,7 @@
 - pkg:maven/org.kie/kie-dmn-pmml-tests-trusty@8.38.0.Final
 - pkg:maven/org.kie/kie-dmn-pmml-tests-trusty@8.39.0.Final
 - pkg:maven/org.kie/kie-dmn-pmml-tests-trusty@8.40.0.Final
+- pkg:maven/org.kie/kie-dmn-pmml-tests-trusty@8.40.1.Final
 - pkg:maven/org.kie/kie-dmn-pmml-tests-trusty@8.41.0.Final
 - pkg:maven/org.kie/kie-dmn-pmml-tests-trusty@8.42.0.Final
 - pkg:maven/org.kie/kie-dmn-pmml-tests-trusty@8.43.0.Final

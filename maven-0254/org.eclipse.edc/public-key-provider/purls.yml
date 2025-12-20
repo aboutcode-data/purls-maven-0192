@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.edc/public-key-provider@0.4.0?classifier=sources
+- pkg:maven/org.eclipse.edc/public-key-provider@0.4.1?classifier=sources

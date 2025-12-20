@@ -42,3 +42,5 @@
 - pkg:maven/org.xipki.example/ocsp-store-example@6.2.0?classifier=sources
 - pkg:maven/org.xipki.example/ocsp-store-example@6.3.0
 - pkg:maven/org.xipki.example/ocsp-store-example@6.3.0?classifier=sources
+- pkg:maven/org.xipki.example/ocsp-store-example@6.4.0
+- pkg:maven/org.xipki.example/ocsp-store-example@6.4.0?classifier=sources

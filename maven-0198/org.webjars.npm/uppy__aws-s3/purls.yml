@@ -14,5 +14,11 @@
 - pkg:maven/org.webjars.npm/uppy__aws-s3@1.7.1?classifier=sources
 - pkg:maven/org.webjars.npm/uppy__aws-s3@2.0.0-alpha.0
 - pkg:maven/org.webjars.npm/uppy__aws-s3@2.0.0-alpha.0?classifier=sources
+- pkg:maven/org.webjars.npm/uppy__aws-s3@3.0.0-beta.3
+- pkg:maven/org.webjars.npm/uppy__aws-s3@3.0.0-beta.3?classifier=sources
 - pkg:maven/org.webjars.npm/uppy__aws-s3@3.0.5
 - pkg:maven/org.webjars.npm/uppy__aws-s3@3.0.5?classifier=sources
+- pkg:maven/org.webjars.npm/uppy__aws-s3@3.3.1
+- pkg:maven/org.webjars.npm/uppy__aws-s3@3.3.1?classifier=sources
+- pkg:maven/org.webjars.npm/uppy__aws-s3@3.4.0
+- pkg:maven/org.webjars.npm/uppy__aws-s3@3.4.0?classifier=sources

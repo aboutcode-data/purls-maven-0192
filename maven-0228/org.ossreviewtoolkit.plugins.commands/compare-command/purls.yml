@@ -3,3 +3,10 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/compare-command@1.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/compare-command@2.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/compare-command@3.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/compare-command@4.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/compare-command@5.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/compare-command@5.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/compare-command@6.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/compare-command@6.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/compare-command@6.1.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/compare-command@7.0.0?classifier=sources

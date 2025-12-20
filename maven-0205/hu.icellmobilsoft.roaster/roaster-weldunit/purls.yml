@@ -24,3 +24,5 @@
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-weldunit@1.0.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-weldunit@2.0.0
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-weldunit@2.0.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.roaster/roaster-weldunit@2.1.0
+- pkg:maven/hu.icellmobilsoft.roaster/roaster-weldunit@2.1.0?classifier=sources

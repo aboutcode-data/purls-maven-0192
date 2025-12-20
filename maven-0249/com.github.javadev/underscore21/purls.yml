@@ -1,1 +1,2 @@
 - pkg:maven/com.github.javadev/underscore21@1.51?classifier=sources
+- pkg:maven/com.github.javadev/underscore21@1.52?classifier=sources

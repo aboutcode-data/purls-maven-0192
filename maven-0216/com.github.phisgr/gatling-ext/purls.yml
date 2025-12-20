@@ -4,3 +4,5 @@
 - pkg:maven/com.github.phisgr/gatling-ext@0.3.0?classifier=sources
 - pkg:maven/com.github.phisgr/gatling-ext@0.4.0
 - pkg:maven/com.github.phisgr/gatling-ext@0.4.0?classifier=sources
+- pkg:maven/com.github.phisgr/gatling-ext@0.5.0
+- pkg:maven/com.github.phisgr/gatling-ext@0.5.0?classifier=sources

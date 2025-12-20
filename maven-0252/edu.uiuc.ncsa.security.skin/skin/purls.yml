@@ -1,2 +1,4 @@
 - pkg:maven/edu.uiuc.ncsa.security.skin/skin@5.3.4
 - pkg:maven/edu.uiuc.ncsa.security.skin/skin@5.3.4?classifier=sources
+- pkg:maven/edu.uiuc.ncsa.security.skin/skin@5.4
+- pkg:maven/edu.uiuc.ncsa.security.skin/skin@5.4?classifier=sources

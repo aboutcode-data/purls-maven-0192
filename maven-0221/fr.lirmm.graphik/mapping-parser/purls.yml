@@ -1,0 +1,2 @@
+- pkg:maven/fr.lirmm.graphik/mapping-parser@0.1.4
+- pkg:maven/fr.lirmm.graphik/mapping-parser@0.1.4?classifier=sources
