@@ -1,2 +1,12 @@
 - pkg:maven/io.trino/trino-web-ui@454
 - pkg:maven/io.trino/trino-web-ui@454?classifier=sources
+- pkg:maven/io.trino/trino-web-ui@455
+- pkg:maven/io.trino/trino-web-ui@455?classifier=sources
+- pkg:maven/io.trino/trino-web-ui@456
+- pkg:maven/io.trino/trino-web-ui@456?classifier=sources
+- pkg:maven/io.trino/trino-web-ui@457
+- pkg:maven/io.trino/trino-web-ui@457?classifier=sources
+- pkg:maven/io.trino/trino-web-ui@458
+- pkg:maven/io.trino/trino-web-ui@458?classifier=sources
+- pkg:maven/io.trino/trino-web-ui@459
+- pkg:maven/io.trino/trino-web-ui@459?classifier=sources

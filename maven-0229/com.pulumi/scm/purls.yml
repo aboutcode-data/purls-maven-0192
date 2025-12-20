@@ -14,3 +14,8 @@
 - pkg:maven/com.pulumi/scm@0.2.0-alpha.1723010172?classifier=sources
 - pkg:maven/com.pulumi/scm@0.2.0-alpha.1724479051?classifier=sources
 - pkg:maven/com.pulumi/scm@0.2.0-alpha.1724911378?classifier=sources
+- pkg:maven/com.pulumi/scm@0.2.0-alpha.1724997730?classifier=sources
+- pkg:maven/com.pulumi/scm@0.2.0-alpha.1725688711?classifier=sources
+- pkg:maven/com.pulumi/scm@0.2.0-alpha.1725948132?classifier=sources
+- pkg:maven/com.pulumi/scm@0.2.0-alpha.1726034647?classifier=sources
+- pkg:maven/com.pulumi/scm@0.2.0-alpha.1726207418?classifier=sources

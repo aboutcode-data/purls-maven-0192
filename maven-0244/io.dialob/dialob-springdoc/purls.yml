@@ -21,3 +21,5 @@
 - pkg:maven/io.dialob/dialob-springdoc@2.1.7
 - pkg:maven/io.dialob/dialob-springdoc@2.1.8
 - pkg:maven/io.dialob/dialob-springdoc@2.1.9
+- pkg:maven/io.dialob/dialob-springdoc@2.2.2
+- pkg:maven/io.dialob/dialob-springdoc@2.2.3

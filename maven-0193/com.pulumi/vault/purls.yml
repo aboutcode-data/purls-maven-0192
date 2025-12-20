@@ -163,3 +163,9 @@
 - pkg:maven/com.pulumi/vault@6.3.0?classifier=sources
 - pkg:maven/com.pulumi/vault@6.4.0-alpha.1724479618?classifier=sources
 - pkg:maven/com.pulumi/vault@6.4.0-alpha.1724912070?classifier=sources
+- pkg:maven/com.pulumi/vault@6.4.0-alpha.1724998330?classifier=sources
+- pkg:maven/com.pulumi/vault@6.4.0-alpha.1725689241?classifier=sources
+- pkg:maven/com.pulumi/vault@6.4.0-alpha.1725948652?classifier=sources
+- pkg:maven/com.pulumi/vault@6.4.0-alpha.1726035162?classifier=sources
+- pkg:maven/com.pulumi/vault@6.4.0-alpha.1726207977?classifier=sources
+- pkg:maven/com.pulumi/vault@6.4.0-alpha.1726726454?classifier=sources

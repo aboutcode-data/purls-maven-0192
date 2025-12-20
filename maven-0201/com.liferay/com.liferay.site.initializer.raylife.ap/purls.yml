@@ -73,6 +73,7 @@
 - pkg:maven/com.liferay/com.liferay.site.initializer.raylife.ap@1.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.initializer.raylife.ap@1.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.site.initializer.raylife.ap@1.0.160?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.initializer.raylife.ap@1.0.161?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.initializer.raylife.ap@1.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.initializer.raylife.ap@1.0.16?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.site.initializer.raylife.ap@1.0.17?classifier=sources

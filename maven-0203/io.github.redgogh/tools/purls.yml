@@ -1,0 +1,6 @@
+- pkg:maven/io.github.redgogh/tools@1.0.3?classifier=sources
+- pkg:maven/io.github.redgogh/tools@2.0.0-Beta?classifier=sources
+- pkg:maven/io.github.redgogh/tools@2.0.0?classifier=sources
+- pkg:maven/io.github.redgogh/tools@v1.0.2-beta.1%2Bbuild?classifier=sources
+- pkg:maven/io.github.redgogh/tools@v1.0.3-beta.1%2Bbuild?classifier=sources
+- pkg:maven/io.github.redgogh/tools@v2.0.0-beta.1%2Bbuild?classifier=sources

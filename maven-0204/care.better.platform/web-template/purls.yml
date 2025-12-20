@@ -50,6 +50,8 @@
 - pkg:maven/care.better.platform/web-template@3.2.7?classifier=sources
 - pkg:maven/care.better.platform/web-template@3.2.8
 - pkg:maven/care.better.platform/web-template@3.2.8?classifier=sources
+- pkg:maven/care.better.platform/web-template@3.2.9
+- pkg:maven/care.better.platform/web-template@3.2.9?classifier=sources
 - pkg:maven/care.better.platform/web-template@4.0.0
 - pkg:maven/care.better.platform/web-template@4.0.0-RC1
 - pkg:maven/care.better.platform/web-template@4.0.0-RC1?classifier=sources

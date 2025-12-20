@@ -146,3 +146,10 @@
 - pkg:maven/com.pulumi/openstack@4.2.0-alpha.1723009934?classifier=sources
 - pkg:maven/com.pulumi/openstack@4.2.0-alpha.1724478704?classifier=sources
 - pkg:maven/com.pulumi/openstack@4.2.0-alpha.1724911004?classifier=sources
+- pkg:maven/com.pulumi/openstack@4.2.0-alpha.1724997495?classifier=sources
+- pkg:maven/com.pulumi/openstack@4.2.0-alpha.1725602372?classifier=sources
+- pkg:maven/com.pulumi/openstack@4.2.0-alpha.1725688376?classifier=sources
+- pkg:maven/com.pulumi/openstack@4.2.0-alpha.1725947808?classifier=sources
+- pkg:maven/com.pulumi/openstack@4.2.0-alpha.1726034274?classifier=sources
+- pkg:maven/com.pulumi/openstack@4.2.0-alpha.1726207082?classifier=sources
+- pkg:maven/com.pulumi/openstack@4.2.0-alpha.1726725513?classifier=sources

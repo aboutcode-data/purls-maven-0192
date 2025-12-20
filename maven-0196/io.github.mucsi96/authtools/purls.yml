@@ -1,3 +1,6 @@
 - pkg:maven/io.github.mucsi96/authtools@1.0.0?classifier=sources
 - pkg:maven/io.github.mucsi96/authtools@2.0.0?classifier=sources
 - pkg:maven/io.github.mucsi96/authtools@3.0.0?classifier=sources
+- pkg:maven/io.github.mucsi96/authtools@4.0.0?classifier=sources
+- pkg:maven/io.github.mucsi96/authtools@5.0.0?classifier=sources
+- pkg:maven/io.github.mucsi96/authtools@6.0.0?classifier=sources

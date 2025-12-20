@@ -104,5 +104,7 @@
 - pkg:maven/com.volcengine/cdp-openapisdk-java@1.23.9?classifier=sources
 - pkg:maven/com.volcengine/cdp-openapisdk-java@1.24.1-internal
 - pkg:maven/com.volcengine/cdp-openapisdk-java@1.24.1-internal?classifier=sources
+- pkg:maven/com.volcengine/cdp-openapisdk-java@1.24.2-internal
+- pkg:maven/com.volcengine/cdp-openapisdk-java@1.24.2-internal?classifier=sources
 - pkg:maven/com.volcengine/cdp-openapisdk-java@udf.1.23.2
 - pkg:maven/com.volcengine/cdp-openapisdk-java@udf.1.23.2?classifier=sources

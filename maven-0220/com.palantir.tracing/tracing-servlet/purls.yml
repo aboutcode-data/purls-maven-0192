@@ -56,6 +56,7 @@
 - pkg:maven/com.palantir.tracing/tracing-servlet@6.16.0?classifier=sources
 - pkg:maven/com.palantir.tracing/tracing-servlet@6.17.0?classifier=sources
 - pkg:maven/com.palantir.tracing/tracing-servlet@6.18.0?classifier=sources
+- pkg:maven/com.palantir.tracing/tracing-servlet@6.19.0?classifier=sources
 - pkg:maven/com.palantir.tracing/tracing-servlet@6.2.0?classifier=sources
 - pkg:maven/com.palantir.tracing/tracing-servlet@6.3.0?classifier=sources
 - pkg:maven/com.palantir.tracing/tracing-servlet@6.4.0?classifier=sources

@@ -44,3 +44,5 @@
 - pkg:maven/no.nordicsemi.android/ble-common@2.7.4?classifier=sources
 - pkg:maven/no.nordicsemi.android/ble-common@2.7.5?classifier=sources
 - pkg:maven/no.nordicsemi.android/ble-common@2.8.0?classifier=sources
+- pkg:maven/no.nordicsemi.android/ble-common@2.9.0-beta01?classifier=sources
+- pkg:maven/no.nordicsemi.android/ble-common@2.9.0-beta02?classifier=sources

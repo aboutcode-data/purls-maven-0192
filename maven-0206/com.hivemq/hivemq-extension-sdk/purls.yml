@@ -134,6 +134,7 @@
 - pkg:maven/com.hivemq/hivemq-extension-sdk@4.9.21?classifier=sources
 - pkg:maven/com.hivemq/hivemq-extension-sdk@4.9.22?classifier=sources
 - pkg:maven/com.hivemq/hivemq-extension-sdk@4.9.23?classifier=sources
+- pkg:maven/com.hivemq/hivemq-extension-sdk@4.9.24?classifier=sources
 - pkg:maven/com.hivemq/hivemq-extension-sdk@4.9.2?classifier=sources
 - pkg:maven/com.hivemq/hivemq-extension-sdk@4.9.3?classifier=sources
 - pkg:maven/com.hivemq/hivemq-extension-sdk@4.9.4?classifier=sources

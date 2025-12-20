@@ -504,6 +504,10 @@
 - pkg:maven/sh.ory/ory-client@1.14.5?classifier=sources
 - pkg:maven/sh.ory/ory-client@1.15.0
 - pkg:maven/sh.ory/ory-client@1.15.0?classifier=sources
+- pkg:maven/sh.ory/ory-client@1.15.3
+- pkg:maven/sh.ory/ory-client@1.15.3?classifier=sources
+- pkg:maven/sh.ory/ory-client@1.15.4
+- pkg:maven/sh.ory/ory-client@1.15.4?classifier=sources
 - pkg:maven/sh.ory/ory-client@1.2.1
 - pkg:maven/sh.ory/ory-client@1.2.10
 - pkg:maven/sh.ory/ory-client@1.2.10?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.examples.ole.win32@3.109.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.examples.ole.win32@3.109.100
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.examples.ole.win32@3.109.100?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.swt.examples.ole.win32@3.109.200
+- pkg:maven/org.eclipse.platform/org.eclipse.swt.examples.ole.win32@3.109.200?classifier=sources

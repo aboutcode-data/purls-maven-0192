@@ -487,3 +487,4 @@
 - pkg:maven/com.palantir.dialogue/dialogue-serde@3.97.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-serde@3.98.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-serde@3.99.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-serde@4.0.0?classifier=sources

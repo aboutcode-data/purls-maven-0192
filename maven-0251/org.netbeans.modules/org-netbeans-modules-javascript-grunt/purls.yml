@@ -22,3 +22,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-grunt@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-grunt@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-grunt@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-grunt@RELEASE230?classifier=sources

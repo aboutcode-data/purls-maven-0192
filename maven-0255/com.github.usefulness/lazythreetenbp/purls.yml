@@ -13,3 +13,4 @@
 - pkg:maven/com.github.usefulness/lazythreetenbp@0.22.0?classifier=sources
 - pkg:maven/com.github.usefulness/lazythreetenbp@0.23.0?classifier=sources
 - pkg:maven/com.github.usefulness/lazythreetenbp@0.24.0?classifier=sources
+- pkg:maven/com.github.usefulness/lazythreetenbp@0.25.1?classifier=sources

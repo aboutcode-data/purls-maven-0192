@@ -73,6 +73,8 @@
 - pkg:maven/com.ibm.mq/com.ibm.mq.allclient@9.2.0.25?classifier=sources
 - pkg:maven/com.ibm.mq/com.ibm.mq.allclient@9.2.0.26
 - pkg:maven/com.ibm.mq/com.ibm.mq.allclient@9.2.0.26?classifier=sources
+- pkg:maven/com.ibm.mq/com.ibm.mq.allclient@9.2.0.27
+- pkg:maven/com.ibm.mq/com.ibm.mq.allclient@9.2.0.27?classifier=sources
 - pkg:maven/com.ibm.mq/com.ibm.mq.allclient@9.2.0.2?classifier=sources
 - pkg:maven/com.ibm.mq/com.ibm.mq.allclient@9.2.0.3
 - pkg:maven/com.ibm.mq/com.ibm.mq.allclient@9.2.0.3?classifier=sources
@@ -111,6 +113,8 @@
 - pkg:maven/com.ibm.mq/com.ibm.mq.allclient@9.3.0.2
 - pkg:maven/com.ibm.mq/com.ibm.mq.allclient@9.3.0.20
 - pkg:maven/com.ibm.mq/com.ibm.mq.allclient@9.3.0.20?classifier=sources
+- pkg:maven/com.ibm.mq/com.ibm.mq.allclient@9.3.0.21
+- pkg:maven/com.ibm.mq/com.ibm.mq.allclient@9.3.0.21?classifier=sources
 - pkg:maven/com.ibm.mq/com.ibm.mq.allclient@9.3.0.2?classifier=sources
 - pkg:maven/com.ibm.mq/com.ibm.mq.allclient@9.3.0.3
 - pkg:maven/com.ibm.mq/com.ibm.mq.allclient@9.3.0.3?classifier=sources
@@ -140,3 +144,5 @@
 - pkg:maven/com.ibm.mq/com.ibm.mq.allclient@9.3.5.1?classifier=sources
 - pkg:maven/com.ibm.mq/com.ibm.mq.allclient@9.4.0.0
 - pkg:maven/com.ibm.mq/com.ibm.mq.allclient@9.4.0.0?classifier=sources
+- pkg:maven/com.ibm.mq/com.ibm.mq.allclient@9.4.0.5
+- pkg:maven/com.ibm.mq/com.ibm.mq.allclient@9.4.0.5?classifier=sources

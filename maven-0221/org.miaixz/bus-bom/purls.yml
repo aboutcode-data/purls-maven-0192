@@ -1,2 +1,3 @@
 - pkg:maven/org.miaixz/bus-bom@8.0.8?classifier=sources
 - pkg:maven/org.miaixz/bus-bom@8.0.9?classifier=sources
+- pkg:maven/org.miaixz/bus-bom@8.1.0?classifier=sources

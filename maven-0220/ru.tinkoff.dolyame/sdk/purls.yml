@@ -13,3 +13,4 @@
 - pkg:maven/ru.tinkoff.dolyame/sdk@1.0.8?classifier=sources
 - pkg:maven/ru.tinkoff.dolyame/sdk@1.0.9?classifier=sources
 - pkg:maven/ru.tinkoff.dolyame/sdk@2.0.3?classifier=sources
+- pkg:maven/ru.tinkoff.dolyame/sdk@2.0.7?classifier=sources

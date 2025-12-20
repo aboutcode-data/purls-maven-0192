@@ -5,6 +5,8 @@
 - pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-core@0.10.2?classifier=sources
 - pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-core@0.10.2a?classifier=sources
 - pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-core@0.10.2b?classifier=sources
+- pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-core@0.10.3?classifier=sources
+- pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-core@0.10.4?classifier=sources
 - pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-core@0.2.4?classifier=sources
 - pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-core@0.3.0?classifier=sources
 - pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-core@0.4.0?classifier=sources

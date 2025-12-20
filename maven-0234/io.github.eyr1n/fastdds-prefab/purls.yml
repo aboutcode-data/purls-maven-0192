@@ -2,3 +2,4 @@
 - pkg:maven/io.github.eyr1n/fastdds-prefab@2.13.4.2?type=aar
 - pkg:maven/io.github.eyr1n/fastdds-prefab@2.13.4.3?type=aar
 - pkg:maven/io.github.eyr1n/fastdds-prefab@2.13.4?type=aar
+- pkg:maven/io.github.eyr1n/fastdds-prefab@3.0.1?type=aar

@@ -1,2 +1,15 @@
 - pkg:maven/fr.aneo/armonik-java@0.1.0?classifier=sources
 - pkg:maven/fr.aneo/armonik-java@3.19.0?classifier=sources
+- pkg:maven/fr.aneo/armonik-java@3.21.0-test-SNAP-001?classifier=sources
+- pkg:maven/fr.aneo/armonik-java@3.21.0?classifier=sources
+- pkg:maven/fr.aneo/armonik-java@3.21.1-ddhandleevent.19.a3232a0?classifier=sources
+- pkg:maven/fr.aneo/armonik-java@3.21.1-ddhandleevent.4.69ef9ad?classifier=sources
+- pkg:maven/fr.aneo/armonik-java@3.21.1-ddtestcppmock.29.aa694ea?classifier=sources
+- pkg:maven/fr.aneo/armonik-java@3.21.1-ddtestcppmock.30.c740bf4?classifier=sources
+- pkg:maven/fr.aneo/armonik-java@3.21.1-ddtestcppmock.31.1982c19?classifier=sources
+- pkg:maven/fr.aneo/armonik-java@3.21.1-ddtestcppmock.31.3555ce2?classifier=sources
+- pkg:maven/fr.aneo/armonik-java@3.21.1-ddtestcppmock.31.af21981?classifier=sources
+- pkg:maven/fr.aneo/armonik-java@3.21.1-edge.15.8e73cae?classifier=sources
+- pkg:maven/fr.aneo/armonik-java@3.21.1-edge.18.e9bdf8a?classifier=sources
+- pkg:maven/fr.aneo/armonik-java@3.21.1-jdfixcijavaversion.14.6a60974?classifier=sources
+- pkg:maven/fr.aneo/armonik-java@3.21.1-jdfixcijavaversion.15.a02381f?classifier=sources

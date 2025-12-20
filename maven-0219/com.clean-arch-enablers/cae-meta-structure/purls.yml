@@ -1,0 +1,2 @@
+- pkg:maven/com.clean-arch-enablers/cae-meta-structure@0.0.2?classifier=sources
+- pkg:maven/com.clean-arch-enablers/cae-meta-structure@0.0.3?classifier=sources

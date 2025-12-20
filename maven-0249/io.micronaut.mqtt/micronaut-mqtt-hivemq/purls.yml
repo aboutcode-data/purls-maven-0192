@@ -7,3 +7,4 @@
 - pkg:maven/io.micronaut.mqtt/micronaut-mqtt-hivemq@3.2.0?classifier=sources
 - pkg:maven/io.micronaut.mqtt/micronaut-mqtt-hivemq@3.3.0?classifier=sources
 - pkg:maven/io.micronaut.mqtt/micronaut-mqtt-hivemq@3.4.0?classifier=sources
+- pkg:maven/io.micronaut.mqtt/micronaut-mqtt-hivemq@3.4.1?classifier=sources

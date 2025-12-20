@@ -42,6 +42,8 @@
 - pkg:maven/com.github.romualdrousseau/shuju@1.29.6?classifier=sources
 - pkg:maven/com.github.romualdrousseau/shuju@1.29.7
 - pkg:maven/com.github.romualdrousseau/shuju@1.29.7?classifier=sources
+- pkg:maven/com.github.romualdrousseau/shuju@1.29.8
+- pkg:maven/com.github.romualdrousseau/shuju@1.29.8?classifier=sources
 - pkg:maven/com.github.romualdrousseau/shuju@1.29?classifier=sources
 - pkg:maven/com.github.romualdrousseau/shuju@1.2?classifier=sources
 - pkg:maven/com.github.romualdrousseau/shuju@1.3

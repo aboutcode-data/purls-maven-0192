@@ -38,3 +38,5 @@
 - pkg:maven/com.aliyun/cms20190101@7.0.52?classifier=sources
 - pkg:maven/com.aliyun/cms20190101@7.0.53
 - pkg:maven/com.aliyun/cms20190101@7.0.53?classifier=sources
+- pkg:maven/com.aliyun/cms20190101@8.0.0
+- pkg:maven/com.aliyun/cms20190101@8.0.0?classifier=sources

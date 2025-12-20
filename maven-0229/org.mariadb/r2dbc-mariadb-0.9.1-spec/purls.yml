@@ -1,0 +1,2 @@
+- pkg:maven/org.mariadb/r2dbc-mariadb-0.9.1-spec@1.2.2
+- pkg:maven/org.mariadb/r2dbc-mariadb-0.9.1-spec@1.2.2?classifier=sources

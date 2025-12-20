@@ -14,3 +14,5 @@
 - pkg:maven/com.github.ghik/zerowaste_2.12.18@0.2.21?classifier=sources
 - pkg:maven/com.github.ghik/zerowaste_2.12.18@0.2.22
 - pkg:maven/com.github.ghik/zerowaste_2.12.18@0.2.22?classifier=sources
+- pkg:maven/com.github.ghik/zerowaste_2.12.18@0.2.23
+- pkg:maven/com.github.ghik/zerowaste_2.12.18@0.2.23?classifier=sources

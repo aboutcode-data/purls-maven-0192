@@ -4,3 +4,4 @@
 - pkg:maven/org.opensearch.plugin/telemetry-otel@2.15.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/telemetry-otel@2.16.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/telemetry-otel@2.17.0?classifier=sources
+- pkg:maven/org.opensearch.plugin/telemetry-otel@2.17.1?classifier=sources

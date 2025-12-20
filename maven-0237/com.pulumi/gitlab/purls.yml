@@ -180,3 +180,11 @@
 - pkg:maven/com.pulumi/gitlab@8.3.1-alpha.1724837335?classifier=sources
 - pkg:maven/com.pulumi/gitlab@8.3.1?classifier=sources
 - pkg:maven/com.pulumi/gitlab@8.4.0-alpha.1724477732?classifier=sources
+- pkg:maven/com.pulumi/gitlab@8.4.0-alpha.1724996458?classifier=sources
+- pkg:maven/com.pulumi/gitlab@8.4.0-alpha.1725687361?classifier=sources
+- pkg:maven/com.pulumi/gitlab@8.4.0-alpha.1725946854?classifier=sources
+- pkg:maven/com.pulumi/gitlab@8.4.0-alpha.1726033163?classifier=sources
+- pkg:maven/com.pulumi/gitlab@8.4.0-alpha.1726206027?classifier=sources
+- pkg:maven/com.pulumi/gitlab@8.4.0-alpha.1726724478?classifier=sources
+- pkg:maven/com.pulumi/gitlab@8.4.0-alpha.1726830864?classifier=sources
+- pkg:maven/com.pulumi/gitlab@8.4.0?classifier=sources

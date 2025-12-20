@@ -1,0 +1,2 @@
+- pkg:maven/com.gu/cross-platform-navigation_3@1.3.2
+- pkg:maven/com.gu/cross-platform-navigation_3@1.3.2?classifier=sources

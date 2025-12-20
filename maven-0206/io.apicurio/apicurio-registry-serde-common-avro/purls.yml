@@ -1,0 +1,2 @@
+- pkg:maven/io.apicurio/apicurio-registry-serde-common-avro@3.0.0.M5
+- pkg:maven/io.apicurio/apicurio-registry-serde-common-avro@3.0.0.M5?classifier=sources

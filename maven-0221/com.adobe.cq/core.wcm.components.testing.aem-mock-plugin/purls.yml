@@ -70,3 +70,5 @@
 - pkg:maven/com.adobe.cq/core.wcm.components.testing.aem-mock-plugin@2.25.4?classifier=sources
 - pkg:maven/com.adobe.cq/core.wcm.components.testing.aem-mock-plugin@2.26.0
 - pkg:maven/com.adobe.cq/core.wcm.components.testing.aem-mock-plugin@2.26.0?classifier=sources
+- pkg:maven/com.adobe.cq/core.wcm.components.testing.aem-mock-plugin@2.27.0
+- pkg:maven/com.adobe.cq/core.wcm.components.testing.aem-mock-plugin@2.27.0?classifier=sources

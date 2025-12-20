@@ -13,3 +13,5 @@
 - pkg:maven/com.startapp/applovin-mediation@2.0.1?classifier=sources
 - pkg:maven/com.startapp/applovin-mediation@2.0.2?classifier=sources
 - pkg:maven/com.startapp/applovin-mediation@2.0.3?classifier=sources
+- pkg:maven/com.startapp/applovin-mediation@2.0.4?classifier=sources
+- pkg:maven/com.startapp/applovin-mediation@3.0.0?classifier=sources

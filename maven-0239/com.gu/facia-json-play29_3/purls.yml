@@ -1,3 +1,7 @@
+- pkg:maven/com.gu/facia-json-play29_3@10.0.0
+- pkg:maven/com.gu/facia-json-play29_3@10.0.0-PREVIEW.capi-client-v32.2024-09-02T1227.9263e798
+- pkg:maven/com.gu/facia-json-play29_3@10.0.0-PREVIEW.capi-client-v32.2024-09-02T1227.9263e798?classifier=sources
+- pkg:maven/com.gu/facia-json-play29_3@10.0.0?classifier=sources
 - pkg:maven/com.gu/facia-json-play29_3@8.0.1
 - pkg:maven/com.gu/facia-json-play29_3@8.0.1-PREVIEW.drop-scala-212-and-play-27.2024-07-24T1515.3aa8aa15
 - pkg:maven/com.gu/facia-json-play29_3@8.0.1-PREVIEW.drop-scala-212-and-play-27.2024-07-24T1515.3aa8aa15?classifier=sources
