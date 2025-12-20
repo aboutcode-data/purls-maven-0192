@@ -31,6 +31,10 @@
 - pkg:maven/com.salesforce.grammaticus/grammaticus@1.2.20?classifier=sources
 - pkg:maven/com.salesforce.grammaticus/grammaticus@1.2.23
 - pkg:maven/com.salesforce.grammaticus/grammaticus@1.2.23?classifier=sources
+- pkg:maven/com.salesforce.grammaticus/grammaticus@1.2.24
+- pkg:maven/com.salesforce.grammaticus/grammaticus@1.2.24?classifier=sources
+- pkg:maven/com.salesforce.grammaticus/grammaticus@1.2.26
+- pkg:maven/com.salesforce.grammaticus/grammaticus@1.2.26?classifier=sources
 - pkg:maven/com.salesforce.grammaticus/grammaticus@1.2.2?classifier=sources
 - pkg:maven/com.salesforce.grammaticus/grammaticus@1.2.3
 - pkg:maven/com.salesforce.grammaticus/grammaticus@1.2.3?classifier=sources

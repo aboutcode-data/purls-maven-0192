@@ -1,3 +1,5 @@
 - pkg:maven/ai.platon.pulsar/gora-shaded-mongodb@0.8
 - pkg:maven/ai.platon.pulsar/gora-shaded-mongodb@0.8?classifier=source-release&type=zip
 - pkg:maven/ai.platon.pulsar/gora-shaded-mongodb@0.8?classifier=sources
+- pkg:maven/ai.platon.pulsar/gora-shaded-mongodb@0.9
+- pkg:maven/ai.platon.pulsar/gora-shaded-mongodb@0.9?classifier=sources

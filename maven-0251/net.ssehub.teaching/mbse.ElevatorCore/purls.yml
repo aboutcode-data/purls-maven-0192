@@ -1,0 +1,2 @@
+- pkg:maven/net.ssehub.teaching/mbse.ElevatorCore@0.5.4
+- pkg:maven/net.ssehub.teaching/mbse.ElevatorCore@0.5.4?classifier=sources

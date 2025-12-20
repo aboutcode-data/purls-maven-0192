@@ -46,3 +46,7 @@
 - pkg:maven/com.aliyun/vod20170321@2.19.2?classifier=sources
 - pkg:maven/com.aliyun/vod20170321@2.20.0
 - pkg:maven/com.aliyun/vod20170321@2.20.0?classifier=sources
+- pkg:maven/com.aliyun/vod20170321@2.21.0
+- pkg:maven/com.aliyun/vod20170321@2.21.0?classifier=sources
+- pkg:maven/com.aliyun/vod20170321@2.22.0
+- pkg:maven/com.aliyun/vod20170321@2.22.0?classifier=sources

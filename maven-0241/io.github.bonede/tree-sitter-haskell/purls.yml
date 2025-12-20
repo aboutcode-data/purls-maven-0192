@@ -1,1 +1,2 @@
 - pkg:maven/io.github.bonede/tree-sitter-haskell@0.13.0?classifier=sources
+- pkg:maven/io.github.bonede/tree-sitter-haskell@0.21.0?classifier=sources

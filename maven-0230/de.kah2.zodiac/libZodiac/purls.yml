@@ -6,3 +6,5 @@
 - pkg:maven/de.kah2.zodiac/libZodiac@0.9.3?classifier=sources
 - pkg:maven/de.kah2.zodiac/libZodiac@0.9.4?classifier=sources
 - pkg:maven/de.kah2.zodiac/libZodiac@0.9?classifier=sources
+- pkg:maven/de.kah2.zodiac/libZodiac@1.0?classifier=sources
+- pkg:maven/de.kah2.zodiac/libZodiac@1.1?classifier=sources

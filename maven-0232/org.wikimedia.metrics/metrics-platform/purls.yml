@@ -28,3 +28,5 @@
 - pkg:maven/org.wikimedia.metrics/metrics-platform@2.3?classifier=sources
 - pkg:maven/org.wikimedia.metrics/metrics-platform@2.4
 - pkg:maven/org.wikimedia.metrics/metrics-platform@2.4?classifier=sources
+- pkg:maven/org.wikimedia.metrics/metrics-platform@2.7
+- pkg:maven/org.wikimedia.metrics/metrics-platform@2.7?classifier=sources

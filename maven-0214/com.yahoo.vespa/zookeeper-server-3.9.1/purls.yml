@@ -59,3 +59,5 @@
 - pkg:maven/com.yahoo.vespa/zookeeper-server-3.9.1@8.334.22?classifier=sources
 - pkg:maven/com.yahoo.vespa/zookeeper-server-3.9.1@8.337.85?classifier=sources
 - pkg:maven/com.yahoo.vespa/zookeeper-server-3.9.1@8.338.38?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.9.1@8.339.15?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.9.1@8.340.17?classifier=sources

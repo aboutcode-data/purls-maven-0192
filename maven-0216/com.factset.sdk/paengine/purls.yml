@@ -26,3 +26,5 @@
 - pkg:maven/com.factset.sdk/paengine@1.0.2?classifier=sources
 - pkg:maven/com.factset.sdk/paengine@1.0.3?classifier=sources
 - pkg:maven/com.factset.sdk/paengine@1.0.4?classifier=sources
+- pkg:maven/com.factset.sdk/paengine@1.0.5?classifier=sources
+- pkg:maven/com.factset.sdk/paengine@2.0.0?classifier=sources

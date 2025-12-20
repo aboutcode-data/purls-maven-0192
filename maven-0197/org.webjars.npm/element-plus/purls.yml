@@ -6,6 +6,7 @@
 - pkg:maven/org.webjars.npm/element-plus@1.0.2-beta.70?classifier=sources
 - pkg:maven/org.webjars.npm/element-plus@2.0.0
 - pkg:maven/org.webjars.npm/element-plus@2.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/element-plus@2.0.4
 - pkg:maven/org.webjars.npm/element-plus@2.1.10
 - pkg:maven/org.webjars.npm/element-plus@2.1.10?classifier=sources
 - pkg:maven/org.webjars.npm/element-plus@2.1.7

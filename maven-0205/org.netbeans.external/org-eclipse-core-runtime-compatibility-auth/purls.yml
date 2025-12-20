@@ -17,3 +17,4 @@
 - pkg:maven/org.netbeans.external/org-eclipse-core-runtime-compatibility-auth@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-core-runtime-compatibility-auth@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-core-runtime-compatibility-auth@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.external/org-eclipse-core-runtime-compatibility-auth@RELEASE220?classifier=sources

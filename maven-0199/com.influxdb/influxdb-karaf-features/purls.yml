@@ -25,3 +25,4 @@
 - pkg:maven/com.influxdb/influxdb-karaf-features@6.8.0?classifier=sources
 - pkg:maven/com.influxdb/influxdb-karaf-features@6.9.0?classifier=sources
 - pkg:maven/com.influxdb/influxdb-karaf-features@7.0.0?classifier=sources
+- pkg:maven/com.influxdb/influxdb-karaf-features@7.1.0?classifier=sources

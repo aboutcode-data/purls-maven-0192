@@ -10,3 +10,4 @@
 - pkg:maven/org.wildfly.legacy.test/wildfly-legacy-test-parent@7.0.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.legacy.test/wildfly-legacy-test-parent@8.0.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.legacy.test/wildfly-legacy-test-parent@8.0.1.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.legacy.test/wildfly-legacy-test-parent@8.0.2.Final?classifier=source-release&type=zip

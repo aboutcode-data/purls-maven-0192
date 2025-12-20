@@ -677,6 +677,7 @@
 - pkg:maven/io.streamlayer/androidsdk@2.16.1-beta.25?classifier=sources
 - pkg:maven/io.streamlayer/androidsdk@2.16.1-beta.31?classifier=sources
 - pkg:maven/io.streamlayer/androidsdk@2.16.1-beta.41?classifier=sources
+- pkg:maven/io.streamlayer/androidsdk@2.17.0-beta.22?classifier=sources
 - pkg:maven/io.streamlayer/androidsdk@2.2.0-beta.100?classifier=sources
 - pkg:maven/io.streamlayer/androidsdk@2.2.0-beta.100?type=aar
 - pkg:maven/io.streamlayer/androidsdk@2.2.0-beta.101?classifier=sources

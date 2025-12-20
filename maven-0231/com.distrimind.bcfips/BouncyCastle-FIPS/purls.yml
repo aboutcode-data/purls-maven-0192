@@ -4,4 +4,5 @@
 - pkg:maven/com.distrimind.bcfips/BouncyCastle-FIPS@1.0.2.3c?classifier=sources
 - pkg:maven/com.distrimind.bcfips/BouncyCastle-FIPS@1.0.2.3d?classifier=sources
 - pkg:maven/com.distrimind.bcfips/BouncyCastle-FIPS@1.0.2.4?classifier=sources
+- pkg:maven/com.distrimind.bcfips/BouncyCastle-FIPS@1.0.2.5?classifier=sources
 - pkg:maven/com.distrimind.bcfips/BouncyCastle-FIPS@unspecified?classifier=sources

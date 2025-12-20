@@ -12,3 +12,6 @@
 - pkg:maven/io.tiledb/tiledb-cloud-java@0.2.1?classifier=sources
 - pkg:maven/io.tiledb/tiledb-cloud-java@0.2.2?classifier=sources
 - pkg:maven/io.tiledb/tiledb-cloud-java@0.3.0?classifier=sources
+- pkg:maven/io.tiledb/tiledb-cloud-java@0.3.1?classifier=sources
+- pkg:maven/io.tiledb/tiledb-cloud-java@0.3.2?classifier=sources
+- pkg:maven/io.tiledb/tiledb-cloud-java@0.3.3?classifier=sources

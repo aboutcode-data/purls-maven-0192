@@ -318,6 +318,10 @@
 - pkg:maven/org.infinispan/infinispan-checkstyle@15.0.1.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-checkstyle@15.0.2.Final
 - pkg:maven/org.infinispan/infinispan-checkstyle@15.0.2.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-checkstyle@15.0.3.Final
+- pkg:maven/org.infinispan/infinispan-checkstyle@15.0.3.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-checkstyle@15.0.4.Final
+- pkg:maven/org.infinispan/infinispan-checkstyle@15.0.4.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-checkstyle@8.2.1.Final
 - pkg:maven/org.infinispan/infinispan-checkstyle@8.2.1.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-checkstyle@8.2.10.Final

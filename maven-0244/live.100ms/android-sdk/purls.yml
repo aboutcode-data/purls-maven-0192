@@ -59,5 +59,10 @@
 - pkg:maven/live.100ms/android-sdk@2.9.53?classifier=sources
 - pkg:maven/live.100ms/android-sdk@2.9.54?classifier=sources
 - pkg:maven/live.100ms/android-sdk@2.9.55?classifier=sources
+- pkg:maven/live.100ms/android-sdk@2.9.56?classifier=sources
+- pkg:maven/live.100ms/android-sdk@2.9.57?classifier=sources
+- pkg:maven/live.100ms/android-sdk@2.9.58?classifier=sources
+- pkg:maven/live.100ms/android-sdk@2.9.59?classifier=sources
 - pkg:maven/live.100ms/android-sdk@2.9.5?classifier=sources
+- pkg:maven/live.100ms/android-sdk@2.9.60?classifier=sources
 - pkg:maven/live.100ms/android-sdk@release-v2?classifier=sources

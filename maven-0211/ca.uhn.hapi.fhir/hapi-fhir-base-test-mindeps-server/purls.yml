@@ -41,3 +41,4 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base-test-mindeps-server@7.0.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base-test-mindeps-server@7.0.1
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base-test-mindeps-server@7.0.2
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base-test-mindeps-server@7.2.0

@@ -7,3 +7,4 @@
 - pkg:maven/io.github.AnLaVN/AL-Library_VN@4.70.10?classifier=sources
 - pkg:maven/io.github.AnLaVN/AL-Library_VN@4.72.10?classifier=sources
 - pkg:maven/io.github.AnLaVN/AL-Library_VN@5.70.10?classifier=sources
+- pkg:maven/io.github.AnLaVN/AL-Library_VN@6.70.10?classifier=sources

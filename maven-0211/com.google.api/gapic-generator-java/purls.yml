@@ -68,3 +68,5 @@
 - pkg:maven/com.google.api/gapic-generator-java@2.39.0?classifier=sources
 - pkg:maven/com.google.api/gapic-generator-java@2.40.0
 - pkg:maven/com.google.api/gapic-generator-java@2.40.0?classifier=sources
+- pkg:maven/com.google.api/gapic-generator-java@2.40.1
+- pkg:maven/com.google.api/gapic-generator-java@2.40.1?classifier=sources

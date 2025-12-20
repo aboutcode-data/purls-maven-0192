@@ -1,0 +1,4 @@
+- pkg:maven/site.ripic.sso/sso-core@0.0.1-beta?classifier=sources
+- pkg:maven/site.ripic.sso/sso-core@0.0.1.1-beta?classifier=sources
+- pkg:maven/site.ripic.sso/sso-core@0.0.1.2-bate?classifier=sources
+- pkg:maven/site.ripic.sso/sso-core@0.0.1.2-beta?classifier=sources

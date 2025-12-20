@@ -40,5 +40,7 @@
 - pkg:maven/com.volcengine/ve-tos-java-sdk@2.6.7?classifier=sources
 - pkg:maven/com.volcengine/ve-tos-java-sdk@2.7.0
 - pkg:maven/com.volcengine/ve-tos-java-sdk@2.7.0?classifier=sources
+- pkg:maven/com.volcengine/ve-tos-java-sdk@2.7.1
+- pkg:maven/com.volcengine/ve-tos-java-sdk@2.7.1?classifier=sources
 - pkg:maven/com.volcengine/ve-tos-java-sdk@2.8.0
 - pkg:maven/com.volcengine/ve-tos-java-sdk@2.8.0?classifier=sources

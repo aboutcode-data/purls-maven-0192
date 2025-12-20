@@ -1,3 +1,5 @@
+- pkg:maven/io.github.evis/scalafix-maven-plugin_2.13@0.1.10_0.11.0
+- pkg:maven/io.github.evis/scalafix-maven-plugin_2.13@0.1.10_0.11.0?classifier=sources
 - pkg:maven/io.github.evis/scalafix-maven-plugin_2.13@0.1.4_0.9.23
 - pkg:maven/io.github.evis/scalafix-maven-plugin_2.13@0.1.4_0.9.23?classifier=sources
 - pkg:maven/io.github.evis/scalafix-maven-plugin_2.13@0.1.4_0.9.31
@@ -24,3 +26,5 @@
 - pkg:maven/io.github.evis/scalafix-maven-plugin_2.13@0.1.8_0.10.4?classifier=sources
 - pkg:maven/io.github.evis/scalafix-maven-plugin_2.13@0.1.8_0.11.0
 - pkg:maven/io.github.evis/scalafix-maven-plugin_2.13@0.1.8_0.11.0?classifier=sources
+- pkg:maven/io.github.evis/scalafix-maven-plugin_2.13@0.1.9_0.12.1
+- pkg:maven/io.github.evis/scalafix-maven-plugin_2.13@0.1.9_0.12.1?classifier=sources

@@ -20,3 +20,4 @@
 - pkg:maven/org.bedework.evreg/bw-event-registration-war@5.0.1?type=war
 - pkg:maven/org.bedework.evreg/bw-event-registration-war@5.0.2?type=war
 - pkg:maven/org.bedework.evreg/bw-event-registration-war@5.0.3?type=war
+- pkg:maven/org.bedework.evreg/bw-event-registration-war@5.0.4?type=war

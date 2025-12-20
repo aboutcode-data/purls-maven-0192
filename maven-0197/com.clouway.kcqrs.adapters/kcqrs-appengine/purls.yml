@@ -1,4 +1,6 @@
 - pkg:maven/com.clouway.kcqrs.adapters/kcqrs-appengine@0.0.1
 - pkg:maven/com.clouway.kcqrs.adapters/kcqrs-appengine@0.0.1?classifier=sources
+- pkg:maven/com.clouway.kcqrs.adapters/kcqrs-appengine@v1.2.7
+- pkg:maven/com.clouway.kcqrs.adapters/kcqrs-appengine@v1.2.7?classifier=sources
 - pkg:maven/com.clouway.kcqrs.adapters/kcqrs-appengine@v1.3.0
 - pkg:maven/com.clouway.kcqrs.adapters/kcqrs-appengine@v1.3.0?classifier=sources

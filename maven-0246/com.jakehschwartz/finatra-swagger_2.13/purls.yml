@@ -32,3 +32,5 @@
 - pkg:maven/com.jakehschwartz/finatra-swagger_2.13@23.11.0?classifier=sources
 - pkg:maven/com.jakehschwartz/finatra-swagger_2.13@23.11.1
 - pkg:maven/com.jakehschwartz/finatra-swagger_2.13@23.11.1?classifier=sources
+- pkg:maven/com.jakehschwartz/finatra-swagger_2.13@24.2.0
+- pkg:maven/com.jakehschwartz/finatra-swagger_2.13@24.2.0?classifier=sources

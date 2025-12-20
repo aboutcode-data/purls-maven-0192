@@ -76,3 +76,9 @@
 - pkg:maven/com.pulumi/null@0.0.4-alpha.1714537391%2Ba9dcc1c9?classifier=sources
 - pkg:maven/com.pulumi/null@0.1.0-alpha.1714542983%2B794e956?classifier=sources
 - pkg:maven/com.pulumi/null@0.1.0-alpha.1714564434%2B1503944?classifier=sources
+- pkg:maven/com.pulumi/null@0.1.0-alpha.1715061333%2Bbcd8073?classifier=sources
+- pkg:maven/com.pulumi/null@0.1.0-alpha.1715234767%2B1d7c5b1?classifier=sources
+- pkg:maven/com.pulumi/null@0.1.0-alpha.1715303875%2B4b05c32?classifier=sources
+- pkg:maven/com.pulumi/null@0.1.0-alpha.1715338256%2Bb8c4ce0?classifier=sources
+- pkg:maven/com.pulumi/null@0.1.0-alpha.1715761248%2B503868a?classifier=sources
+- pkg:maven/com.pulumi/null@0.1.0-alpha.1715926439?classifier=sources

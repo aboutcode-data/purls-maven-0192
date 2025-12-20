@@ -21,4 +21,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-module-graph@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-module-graph@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-module-graph@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-module-graph@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-module-graph@RELEASE90?classifier=sources

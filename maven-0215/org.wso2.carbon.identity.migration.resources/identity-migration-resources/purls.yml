@@ -99,6 +99,8 @@
 - pkg:maven/org.wso2.carbon.identity.migration.resources/identity-migration-resources@1.0.234?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.migration.resources/identity-migration-resources@1.0.266?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.migration.resources/identity-migration-resources@1.0.268?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.migration.resources/identity-migration-resources@1.0.269?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.migration.resources/identity-migration-resources@1.0.274?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.migration.resources/identity-migration-resources@1.0.46?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.migration.resources/identity-migration-resources@1.0.47?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.migration.resources/identity-migration-resources@1.0.48?classifier=source-release&type=zip
