@@ -35,3 +35,4 @@
 - pkg:maven/org.opfab/external-devices-client-data@4.0.4.RELEASE?classifier=sources
 - pkg:maven/org.opfab/external-devices-client-data@4.1.0-RC.RELEASE?classifier=sources
 - pkg:maven/org.opfab/external-devices-client-data@4.1.0.RELEASE?classifier=sources
+- pkg:maven/org.opfab/external-devices-client-data@4.1.1.RELEASE?classifier=sources

@@ -74,3 +74,13 @@
 - pkg:maven/org.entur.jwt-rs/jwt-spring-grpc@3.1.0?classifier=sources
 - pkg:maven/org.entur.jwt-rs/jwt-spring-grpc@4.0.0
 - pkg:maven/org.entur.jwt-rs/jwt-spring-grpc@4.0.0?classifier=sources
+- pkg:maven/org.entur.jwt-rs/jwt-spring-grpc@4.0.1
+- pkg:maven/org.entur.jwt-rs/jwt-spring-grpc@4.0.1?classifier=sources
+- pkg:maven/org.entur.jwt-rs/jwt-spring-grpc@4.0.4
+- pkg:maven/org.entur.jwt-rs/jwt-spring-grpc@4.0.4?classifier=sources
+- pkg:maven/org.entur.jwt-rs/jwt-spring-grpc@4.0.5
+- pkg:maven/org.entur.jwt-rs/jwt-spring-grpc@4.0.5?classifier=sources
+- pkg:maven/org.entur.jwt-rs/jwt-spring-grpc@4.1.0
+- pkg:maven/org.entur.jwt-rs/jwt-spring-grpc@4.1.0?classifier=sources
+- pkg:maven/org.entur.jwt-rs/jwt-spring-grpc@4.1.1
+- pkg:maven/org.entur.jwt-rs/jwt-spring-grpc@4.1.1?classifier=sources

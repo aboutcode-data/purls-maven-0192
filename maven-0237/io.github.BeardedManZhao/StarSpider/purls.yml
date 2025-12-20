@@ -1,0 +1,2 @@
+- pkg:maven/io.github.BeardedManZhao/StarSpider@1.0
+- pkg:maven/io.github.BeardedManZhao/StarSpider@1.0?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/top.chenlq/xxl-job-admin@2.4.1
+- pkg:maven/top.chenlq/xxl-job-admin@2.4.2
+- pkg:maven/top.chenlq/xxl-job-admin@2.4.2?classifier=sources

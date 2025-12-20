@@ -4,3 +4,5 @@
 - pkg:maven/fr.xelians/sipg@1.26?classifier=sources
 - pkg:maven/fr.xelians/sipg@1.28
 - pkg:maven/fr.xelians/sipg@1.28?classifier=sources
+- pkg:maven/fr.xelians/sipg@1.30
+- pkg:maven/fr.xelians/sipg@1.30?classifier=sources

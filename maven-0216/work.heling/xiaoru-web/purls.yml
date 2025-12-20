@@ -1,0 +1,2 @@
+- pkg:maven/work.heling/xiaoru-web@1.17.7?classifier=sources
+- pkg:maven/work.heling/xiaoru-web@1.17.8?classifier=sources

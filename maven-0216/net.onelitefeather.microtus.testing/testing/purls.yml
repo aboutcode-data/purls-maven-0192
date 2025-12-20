@@ -13,6 +13,7 @@
 - pkg:maven/net.onelitefeather.microtus.testing/testing@1.1.1-SNAPSHOT%2Ba8e43bb?classifier=sources
 - pkg:maven/net.onelitefeather.microtus.testing/testing@1.1.1?classifier=sources
 - pkg:maven/net.onelitefeather.microtus.testing/testing@1.1.2?classifier=sources
+- pkg:maven/net.onelitefeather.microtus.testing/testing@1.1.3?classifier=sources
 - pkg:maven/net.onelitefeather.microtus.testing/testing@1.2.0-SNAPSHOT%2B6d3ab54?classifier=sources
 - pkg:maven/net.onelitefeather.microtus.testing/testing@1.2.0-SNAPSHOT%2B7117b3d?classifier=sources
 - pkg:maven/net.onelitefeather.microtus.testing/testing@1.2.0-SNAPSHOT%2B74b3bd4?classifier=sources

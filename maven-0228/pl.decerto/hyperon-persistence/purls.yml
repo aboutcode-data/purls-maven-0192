@@ -163,3 +163,4 @@
 - pkg:maven/pl.decerto/hyperon-persistence@2.2.9?classifier=sources
 - pkg:maven/pl.decerto/hyperon-persistence@2.3.0?classifier=sources
 - pkg:maven/pl.decerto/hyperon-persistence@2.3.1?classifier=sources
+- pkg:maven/pl.decerto/hyperon-persistence@2.3.2?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/graphiql__plugin-explorer@0.1.19
 - pkg:maven/org.webjars.npm/graphiql__plugin-explorer@0.1.19?classifier=sources
+- pkg:maven/org.webjars.npm/graphiql__plugin-explorer@1.0.3
+- pkg:maven/org.webjars.npm/graphiql__plugin-explorer@1.0.3?classifier=sources

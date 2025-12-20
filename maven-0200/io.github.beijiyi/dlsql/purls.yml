@@ -1,0 +1,12 @@
+- pkg:maven/io.github.beijiyi/dlsql@1.0.0
+- pkg:maven/io.github.beijiyi/dlsql@1.0.0-RELEASE
+- pkg:maven/io.github.beijiyi/dlsql@1.0.0-RELEASE?classifier=sources
+- pkg:maven/io.github.beijiyi/dlsql@1.0.0?classifier=sources
+- pkg:maven/io.github.beijiyi/dlsql@1.0.3
+- pkg:maven/io.github.beijiyi/dlsql@1.0.3?classifier=sources
+- pkg:maven/io.github.beijiyi/dlsql@1.0.4
+- pkg:maven/io.github.beijiyi/dlsql@1.0.4?classifier=sources
+- pkg:maven/io.github.beijiyi/dlsql@1.0.6
+- pkg:maven/io.github.beijiyi/dlsql@1.0.6?classifier=sources
+- pkg:maven/io.github.beijiyi/dlsql@1.0.8
+- pkg:maven/io.github.beijiyi/dlsql@1.0.8?classifier=sources

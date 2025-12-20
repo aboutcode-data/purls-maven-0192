@@ -1,3 +1,4 @@
 - pkg:maven/io.github.ar-tool/hileiaps-g200@2.1.17?classifier=sources
 - pkg:maven/io.github.ar-tool/hileiaps-g200@2.1.18?classifier=sources
 - pkg:maven/io.github.ar-tool/hileiaps-g200@2.1.18_rc01?classifier=sources
+- pkg:maven/io.github.ar-tool/hileiaps-g200@2.1.19?classifier=sources

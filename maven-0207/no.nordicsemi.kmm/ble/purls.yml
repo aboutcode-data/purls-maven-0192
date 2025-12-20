@@ -1,0 +1,2 @@
+- pkg:maven/no.nordicsemi.kmm/ble@0.0.0?classifier=sources
+- pkg:maven/no.nordicsemi.kmm/ble@0.0.1?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/org.wso2.carbon/SecVerifier@4.10.2?classifier=sources
+- pkg:maven/org.wso2.carbon/SecVerifier@4.10.2?type=aar
 - pkg:maven/org.wso2.carbon/SecVerifier@4.4.19?classifier=sources
 - pkg:maven/org.wso2.carbon/SecVerifier@4.4.19?type=aar
 - pkg:maven/org.wso2.carbon/SecVerifier@4.4.20?classifier=sources
@@ -168,5 +170,7 @@
 - pkg:maven/org.wso2.carbon/SecVerifier@4.9.1-m1?type=aar
 - pkg:maven/org.wso2.carbon/SecVerifier@4.9.1?classifier=sources
 - pkg:maven/org.wso2.carbon/SecVerifier@4.9.1?type=aar
+- pkg:maven/org.wso2.carbon/SecVerifier@4.9.22?classifier=sources
+- pkg:maven/org.wso2.carbon/SecVerifier@4.9.22?type=aar
 - pkg:maven/org.wso2.carbon/SecVerifier@4.9.3?classifier=sources
 - pkg:maven/org.wso2.carbon/SecVerifier@4.9.3?type=aar

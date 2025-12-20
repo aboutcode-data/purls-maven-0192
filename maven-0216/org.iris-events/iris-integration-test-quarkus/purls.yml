@@ -1,0 +1,4 @@
+- pkg:maven/org.iris-events/iris-integration-test-quarkus@5.0.10
+- pkg:maven/org.iris-events/iris-integration-test-quarkus@5.0.10?classifier=sources
+- pkg:maven/org.iris-events/iris-integration-test-quarkus@6.0.0
+- pkg:maven/org.iris-events/iris-integration-test-quarkus@6.0.0?classifier=sources

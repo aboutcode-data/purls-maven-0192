@@ -149,6 +149,12 @@
 - pkg:maven/org.cdk8s/cdk8s-plus-27@2.7.7
 - pkg:maven/org.cdk8s/cdk8s-plus-27@2.7.70
 - pkg:maven/org.cdk8s/cdk8s-plus-27@2.7.70?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-plus-27@2.7.71
+- pkg:maven/org.cdk8s/cdk8s-plus-27@2.7.71?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-plus-27@2.7.72
+- pkg:maven/org.cdk8s/cdk8s-plus-27@2.7.72?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-plus-27@2.7.73
+- pkg:maven/org.cdk8s/cdk8s-plus-27@2.7.73?classifier=sources
 - pkg:maven/org.cdk8s/cdk8s-plus-27@2.7.7?classifier=sources
 - pkg:maven/org.cdk8s/cdk8s-plus-27@2.7.8
 - pkg:maven/org.cdk8s/cdk8s-plus-27@2.7.8?classifier=sources

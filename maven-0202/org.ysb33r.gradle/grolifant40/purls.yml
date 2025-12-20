@@ -24,3 +24,6 @@
 - pkg:maven/org.ysb33r.gradle/grolifant40@2.1.1?classifier=sources
 - pkg:maven/org.ysb33r.gradle/grolifant40@2.2.0?classifier=sources
 - pkg:maven/org.ysb33r.gradle/grolifant40@2.2.1?classifier=sources
+- pkg:maven/org.ysb33r.gradle/grolifant40@2.2.2?classifier=sources
+- pkg:maven/org.ysb33r.gradle/grolifant40@2.2.3?classifier=sources
+- pkg:maven/org.ysb33r.gradle/grolifant40@3.0.0?classifier=sources

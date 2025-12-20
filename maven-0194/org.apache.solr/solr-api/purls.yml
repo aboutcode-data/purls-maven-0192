@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.solr/solr-api@9.4.0?classifier=sources
+- pkg:maven/org.apache.solr/solr-api@9.4.1?classifier=sources

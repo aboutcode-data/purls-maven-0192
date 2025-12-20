@@ -1,2 +1,4 @@
 - pkg:maven/io.github.qsy7.java.modules.email.providers.javamail.modules/async@0.1.2
 - pkg:maven/io.github.qsy7.java.modules.email.providers.javamail.modules/async@0.1.2?classifier=sources
+- pkg:maven/io.github.qsy7.java.modules.email.providers.javamail.modules/async@0.3.2
+- pkg:maven/io.github.qsy7.java.modules.email.providers.javamail.modules/async@0.3.2?classifier=sources

@@ -29,3 +29,11 @@
 - pkg:maven/com.github.aquality-automation/aquality-selenium-core@2.0.6?classifier=sources
 - pkg:maven/com.github.aquality-automation/aquality-selenium-core@3.0.0
 - pkg:maven/com.github.aquality-automation/aquality-selenium-core@3.0.0?classifier=sources
+- pkg:maven/com.github.aquality-automation/aquality-selenium-core@3.0.9
+- pkg:maven/com.github.aquality-automation/aquality-selenium-core@3.0.9?classifier=sources
+- pkg:maven/com.github.aquality-automation/aquality-selenium-core@3.1.0
+- pkg:maven/com.github.aquality-automation/aquality-selenium-core@3.1.0?classifier=sources
+- pkg:maven/com.github.aquality-automation/aquality-selenium-core@3.1.1
+- pkg:maven/com.github.aquality-automation/aquality-selenium-core@3.1.1?classifier=sources
+- pkg:maven/com.github.aquality-automation/aquality-selenium-core@3.1.2
+- pkg:maven/com.github.aquality-automation/aquality-selenium-core@3.1.2?classifier=sources

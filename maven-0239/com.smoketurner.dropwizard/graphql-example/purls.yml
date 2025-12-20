@@ -48,3 +48,5 @@
 - pkg:maven/com.smoketurner.dropwizard/graphql-example@3.0.0-1?classifier=sources
 - pkg:maven/com.smoketurner.dropwizard/graphql-example@4.0.0-1
 - pkg:maven/com.smoketurner.dropwizard/graphql-example@4.0.0-1?classifier=sources
+- pkg:maven/com.smoketurner.dropwizard/graphql-example@4.0.5-1
+- pkg:maven/com.smoketurner.dropwizard/graphql-example@4.0.5-1?classifier=sources

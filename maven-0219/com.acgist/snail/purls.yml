@@ -30,3 +30,5 @@
 - pkg:maven/com.acgist/snail@1.6.0?classifier=sources
 - pkg:maven/com.acgist/snail@1.7.11
 - pkg:maven/com.acgist/snail@1.7.11?classifier=sources
+- pkg:maven/com.acgist/snail@2.17.0
+- pkg:maven/com.acgist/snail@2.17.0?classifier=sources

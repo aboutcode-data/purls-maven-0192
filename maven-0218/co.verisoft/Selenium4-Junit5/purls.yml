@@ -49,6 +49,14 @@
 - pkg:maven/co.verisoft/Selenium4-Junit5@1.0.0-RC3?classifier=sources
 - pkg:maven/co.verisoft/Selenium4-Junit5@1.0.0-RC4
 - pkg:maven/co.verisoft/Selenium4-Junit5@1.0.0-RC4?classifier=sources
+- pkg:maven/co.verisoft/Selenium4-Junit5@1.0.0-RC5
+- pkg:maven/co.verisoft/Selenium4-Junit5@1.0.0-RC5?classifier=sources
+- pkg:maven/co.verisoft/Selenium4-Junit5@1.0.0-RC6
+- pkg:maven/co.verisoft/Selenium4-Junit5@1.0.0-RC6?classifier=sources
+- pkg:maven/co.verisoft/Selenium4-Junit5@1.0.0-RC7
+- pkg:maven/co.verisoft/Selenium4-Junit5@1.0.0-RC7?classifier=sources
 - pkg:maven/co.verisoft/Selenium4-Junit5@1.0.0-RC?classifier=sources
 - pkg:maven/co.verisoft/Selenium4-Junit5@1.0.1-RC
 - pkg:maven/co.verisoft/Selenium4-Junit5@1.0.1-RC?classifier=sources
+- pkg:maven/co.verisoft/Selenium4-Junit5@dummyVersion
+- pkg:maven/co.verisoft/Selenium4-Junit5@dummyVersion?classifier=sources

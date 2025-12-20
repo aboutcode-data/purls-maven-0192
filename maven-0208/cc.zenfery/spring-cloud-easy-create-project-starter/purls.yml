@@ -7,3 +7,7 @@
 - pkg:maven/cc.zenfery/spring-cloud-easy-create-project-starter@1.0?classifier=sources
 - pkg:maven/cc.zenfery/spring-cloud-easy-create-project-starter@1.1.0
 - pkg:maven/cc.zenfery/spring-cloud-easy-create-project-starter@1.1.0?classifier=sources
+- pkg:maven/cc.zenfery/spring-cloud-easy-create-project-starter@1.1.2
+- pkg:maven/cc.zenfery/spring-cloud-easy-create-project-starter@1.1.2?classifier=sources
+- pkg:maven/cc.zenfery/spring-cloud-easy-create-project-starter@1.1.3
+- pkg:maven/cc.zenfery/spring-cloud-easy-create-project-starter@1.1.3?classifier=sources

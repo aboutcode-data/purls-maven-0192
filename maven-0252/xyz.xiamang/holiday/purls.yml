@@ -6,3 +6,5 @@
 - pkg:maven/xyz.xiamang/holiday@0.0.3-2022?classifier=sources
 - pkg:maven/xyz.xiamang/holiday@0.0.5-2022
 - pkg:maven/xyz.xiamang/holiday@0.0.5-2022?classifier=sources
+- pkg:maven/xyz.xiamang/holiday@0.0.5-2024
+- pkg:maven/xyz.xiamang/holiday@0.0.5-2024?classifier=sources

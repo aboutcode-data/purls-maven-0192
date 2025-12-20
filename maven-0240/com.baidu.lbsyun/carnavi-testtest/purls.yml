@@ -7,3 +7,4 @@
 - pkg:maven/com.baidu.lbsyun/carnavi-testtest@5.5.8?classifier=sources
 - pkg:maven/com.baidu.lbsyun/carnavi-testtest@5.5.9?classifier=sources
 - pkg:maven/com.baidu.lbsyun/carnavi-testtest@6.5.0?classifier=sources
+- pkg:maven/com.baidu.lbsyun/carnavi-testtest@6.5.3?classifier=sources

@@ -48,6 +48,8 @@
 - pkg:maven/io.reactiverse/es4x-pm@0.19.2?classifier=sources
 - pkg:maven/io.reactiverse/es4x-pm@0.20.0
 - pkg:maven/io.reactiverse/es4x-pm@0.20.0?classifier=sources
+- pkg:maven/io.reactiverse/es4x-pm@0.21.0
+- pkg:maven/io.reactiverse/es4x-pm@0.21.0?classifier=sources
 - pkg:maven/io.reactiverse/es4x-pm@0.7.0
 - pkg:maven/io.reactiverse/es4x-pm@0.7.0?classifier=sources
 - pkg:maven/io.reactiverse/es4x-pm@0.7.1

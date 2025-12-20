@@ -3,6 +3,8 @@
 - pkg:maven/org.ossreviewtoolkit.clients/oss-index-client@1.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/oss-index-client@10.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/oss-index-client@11.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/oss-index-client@12.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/oss-index-client@13.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/oss-index-client@2.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/oss-index-client@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/oss-index-client@4.0.0?classifier=sources

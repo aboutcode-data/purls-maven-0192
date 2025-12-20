@@ -1,0 +1,2 @@
+- pkg:maven/br.gov.lexml.parser.pl/lexml-scala-utils@1.0.0
+- pkg:maven/br.gov.lexml.parser.pl/lexml-scala-utils@1.0.0?classifier=sources

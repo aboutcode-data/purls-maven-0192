@@ -104,3 +104,4 @@
 - pkg:maven/org.swisspush.gateleen/gateleen-hook-js@2.0.1
 - pkg:maven/org.swisspush.gateleen/gateleen-hook-js@2.0.2
 - pkg:maven/org.swisspush.gateleen/gateleen-hook-js@2.0.3
+- pkg:maven/org.swisspush.gateleen/gateleen-hook-js@2.1.0

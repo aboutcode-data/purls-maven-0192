@@ -27,6 +27,7 @@
 - pkg:maven/com.squareup.leakcanary/leakcanary-android-instrumentation@2.10?classifier=sources
 - pkg:maven/com.squareup.leakcanary/leakcanary-android-instrumentation@2.11?classifier=sources
 - pkg:maven/com.squareup.leakcanary/leakcanary-android-instrumentation@2.12?classifier=sources
+- pkg:maven/com.squareup.leakcanary/leakcanary-android-instrumentation@2.13?classifier=sources
 - pkg:maven/com.squareup.leakcanary/leakcanary-android-instrumentation@2.1?classifier=sources
 - pkg:maven/com.squareup.leakcanary/leakcanary-android-instrumentation@2.1?type=aar
 - pkg:maven/com.squareup.leakcanary/leakcanary-android-instrumentation@2.2?classifier=sources
@@ -45,3 +46,4 @@
 - pkg:maven/com.squareup.leakcanary/leakcanary-android-instrumentation@2.8?classifier=sources
 - pkg:maven/com.squareup.leakcanary/leakcanary-android-instrumentation@2.9.1?classifier=sources
 - pkg:maven/com.squareup.leakcanary/leakcanary-android-instrumentation@2.9?classifier=sources
+- pkg:maven/com.squareup.leakcanary/leakcanary-android-instrumentation@3.0-alpha-1?classifier=sources

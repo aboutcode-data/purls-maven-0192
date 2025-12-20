@@ -2,3 +2,4 @@
 - pkg:maven/cn.leyekeji/store-common@1.0.0-RELEASES?classifier=sources
 - pkg:maven/cn.leyekeji/store-common@1.0.1?classifier=sources
 - pkg:maven/cn.leyekeji/store-common@1.1.0?classifier=sources
+- pkg:maven/cn.leyekeji/store-common@1.1.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kostaskougios/examples_3@0.1
+- pkg:maven/io.github.kostaskougios/examples_3@0.1?classifier=sources

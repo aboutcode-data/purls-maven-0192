@@ -1,0 +1,2 @@
+- pkg:maven/com.itcoon.boot/common-boot-aliyun-oss@1.1.0
+- pkg:maven/com.itcoon.boot/common-boot-aliyun-oss@1.1.0?classifier=sources

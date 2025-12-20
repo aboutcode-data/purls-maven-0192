@@ -1,0 +1,2 @@
+- pkg:maven/io.github.heezer/aleph-alpha-client-java@0.1.0
+- pkg:maven/io.github.heezer/aleph-alpha-client-java@0.1.0?classifier=sources

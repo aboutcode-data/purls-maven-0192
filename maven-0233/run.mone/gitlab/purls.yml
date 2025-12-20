@@ -1,0 +1,2 @@
+- pkg:maven/run.mone/gitlab@1.6-jdk21
+- pkg:maven/run.mone/gitlab@1.6-jdk21?classifier=sources

@@ -3,3 +3,5 @@
 - pkg:maven/com.what3words/w3w-android-cerence@1.0.3?classifier=sources
 - pkg:maven/com.what3words/w3w-android-cerence@1.0.4?classifier=sources
 - pkg:maven/com.what3words/w3w-android-cerence@1.1.0?classifier=sources
+- pkg:maven/com.what3words/w3w-android-cerence@2.0.0?classifier=sources
+- pkg:maven/com.what3words/w3w-android-cerence@3.0.0?classifier=sources

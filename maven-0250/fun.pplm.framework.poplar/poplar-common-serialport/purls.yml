@@ -18,3 +18,5 @@
 - pkg:maven/fun.pplm.framework.poplar/poplar-common-serialport@1.7.14?classifier=sources
 - pkg:maven/fun.pplm.framework.poplar/poplar-common-serialport@1.8.15
 - pkg:maven/fun.pplm.framework.poplar/poplar-common-serialport@1.8.15?classifier=sources
+- pkg:maven/fun.pplm.framework.poplar/poplar-common-serialport@1.8.16
+- pkg:maven/fun.pplm.framework.poplar/poplar-common-serialport@1.8.16?classifier=sources
