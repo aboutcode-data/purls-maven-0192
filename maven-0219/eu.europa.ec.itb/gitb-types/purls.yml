@@ -56,6 +56,8 @@
 - pkg:maven/eu.europa.ec.itb/gitb-types@1.24.2?classifier=sources
 - pkg:maven/eu.europa.ec.itb/gitb-types@1.24.3
 - pkg:maven/eu.europa.ec.itb/gitb-types@1.24.3?classifier=sources
+- pkg:maven/eu.europa.ec.itb/gitb-types@1.24.4
+- pkg:maven/eu.europa.ec.itb/gitb-types@1.24.4?classifier=sources
 - pkg:maven/eu.europa.ec.itb/gitb-types@1.4.0
 - pkg:maven/eu.europa.ec.itb/gitb-types@1.4.0?classifier=sources
 - pkg:maven/eu.europa.ec.itb/gitb-types@1.4.1

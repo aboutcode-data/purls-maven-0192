@@ -23,4 +23,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-css-visual@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-css-visual@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-css-visual@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-css-visual@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-css-visual@RELEASE90?classifier=sources

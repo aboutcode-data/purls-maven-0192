@@ -157,5 +157,10 @@
 - pkg:maven/org.finos.cdm/examples@6.0.0-dev.82?classifier=sources
 - pkg:maven/org.finos.cdm/examples@6.0.0-dev.83?classifier=sources
 - pkg:maven/org.finos.cdm/examples@6.0.0-dev.84?classifier=sources
+- pkg:maven/org.finos.cdm/examples@6.0.0-dev.85?classifier=sources
+- pkg:maven/org.finos.cdm/examples@6.0.0-dev.86?classifier=sources
+- pkg:maven/org.finos.cdm/examples@6.0.0-dev.87?classifier=sources
+- pkg:maven/org.finos.cdm/examples@6.0.0-dev.88?classifier=sources
+- pkg:maven/org.finos.cdm/examples@6.0.0-dev.89?classifier=sources
 - pkg:maven/org.finos.cdm/examples@6.0.0-dev.8?classifier=sources
 - pkg:maven/org.finos.cdm/examples@6.0.0-dev.9?classifier=sources

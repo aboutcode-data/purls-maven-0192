@@ -1,3 +1,5 @@
 - pkg:maven/io.ably/network-client-default@1.2.43?classifier=sources
 - pkg:maven/io.ably/network-client-default@1.2.44?classifier=sources
 - pkg:maven/io.ably/network-client-default@1.2.45?classifier=sources
+- pkg:maven/io.ably/network-client-default@1.2.46?classifier=sources
+- pkg:maven/io.ably/network-client-default@1.2.47?classifier=sources

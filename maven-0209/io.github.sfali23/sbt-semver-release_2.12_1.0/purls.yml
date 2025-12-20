@@ -4,3 +4,17 @@
 - pkg:maven/io.github.sfali23/sbt-semver-release_2.12_1.0@0.3.0?classifier=sources
 - pkg:maven/io.github.sfali23/sbt-semver-release_2.12_1.0@0.4.0
 - pkg:maven/io.github.sfali23/sbt-semver-release_2.12_1.0@0.4.0?classifier=sources
+- pkg:maven/io.github.sfali23/sbt-semver-release_2.12_1.0@0.5.0
+- pkg:maven/io.github.sfali23/sbt-semver-release_2.12_1.0@0.5.0-SNAPSHOT%2B05d8981
+- pkg:maven/io.github.sfali23/sbt-semver-release_2.12_1.0@0.5.0-SNAPSHOT%2B05d8981?classifier=sources
+- pkg:maven/io.github.sfali23/sbt-semver-release_2.12_1.0@0.5.0-SNAPSHOT%2Bdd7face
+- pkg:maven/io.github.sfali23/sbt-semver-release_2.12_1.0@0.5.0-SNAPSHOT%2Bdd7face?classifier=sources
+- pkg:maven/io.github.sfali23/sbt-semver-release_2.12_1.0@0.5.0-SNAPSHOT%2Bef97a97
+- pkg:maven/io.github.sfali23/sbt-semver-release_2.12_1.0@0.5.0-SNAPSHOT%2Bef97a97?classifier=sources
+- pkg:maven/io.github.sfali23/sbt-semver-release_2.12_1.0@0.5.0?classifier=sources
+- pkg:maven/io.github.sfali23/sbt-semver-release_2.12_1.0@0.5.1
+- pkg:maven/io.github.sfali23/sbt-semver-release_2.12_1.0@0.5.1?classifier=sources
+- pkg:maven/io.github.sfali23/sbt-semver-release_2.12_1.0@0.5.2
+- pkg:maven/io.github.sfali23/sbt-semver-release_2.12_1.0@0.5.2?classifier=sources
+- pkg:maven/io.github.sfali23/sbt-semver-release_2.12_1.0@0.5.3
+- pkg:maven/io.github.sfali23/sbt-semver-release_2.12_1.0@0.5.3?classifier=sources

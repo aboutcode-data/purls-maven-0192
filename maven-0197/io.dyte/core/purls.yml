@@ -125,3 +125,4 @@
 - pkg:maven/io.dyte/core@1.8.0?classifier=sources
 - pkg:maven/io.dyte/core@1.9.0?classifier=sources
 - pkg:maven/io.dyte/core@2.0.0?classifier=sources
+- pkg:maven/io.dyte/core@2.0.1?classifier=sources

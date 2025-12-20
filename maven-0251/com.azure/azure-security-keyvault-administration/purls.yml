@@ -76,3 +76,4 @@
 - pkg:maven/com.azure/azure-security-keyvault-administration@4.5.7?classifier=sources
 - pkg:maven/com.azure/azure-security-keyvault-administration@4.5.8?classifier=sources
 - pkg:maven/com.azure/azure-security-keyvault-administration@4.6.0?classifier=sources
+- pkg:maven/com.azure/azure-security-keyvault-administration@4.6.1?classifier=sources

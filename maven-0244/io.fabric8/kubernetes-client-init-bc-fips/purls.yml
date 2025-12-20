@@ -6,3 +6,5 @@
 - pkg:maven/io.fabric8/kubernetes-client-init-bc-fips@6.13.2
 - pkg:maven/io.fabric8/kubernetes-client-init-bc-fips@6.13.3
 - pkg:maven/io.fabric8/kubernetes-client-init-bc-fips@6.13.4
+- pkg:maven/io.fabric8/kubernetes-client-init-bc-fips@7.0.0
+- pkg:maven/io.fabric8/kubernetes-client-init-bc-fips@7.0.1

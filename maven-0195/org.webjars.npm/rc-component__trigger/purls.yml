@@ -3,3 +3,5 @@
 - pkg:maven/org.webjars.npm/rc-component__trigger@1.18.3
 - pkg:maven/org.webjars.npm/rc-component__trigger@1.18.3?classifier=sources
 - pkg:maven/org.webjars.npm/rc-component__trigger@2.2.1
+- pkg:maven/org.webjars.npm/rc-component__trigger@2.2.5
+- pkg:maven/org.webjars.npm/rc-component__trigger@2.2.6

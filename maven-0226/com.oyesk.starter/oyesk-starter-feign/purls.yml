@@ -11,3 +11,4 @@
 - pkg:maven/com.oyesk.starter/oyesk-starter-feign@0.0.6
 - pkg:maven/com.oyesk.starter/oyesk-starter-feign@0.0.6?classifier=sources
 - pkg:maven/com.oyesk.starter/oyesk-starter-feign@0.0.7?classifier=sources
+- pkg:maven/com.oyesk.starter/oyesk-starter-feign@0.0.8?classifier=sources

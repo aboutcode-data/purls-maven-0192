@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.roq/quarkus-roq-plugin-series-deployment@1.0.6?classifier=sources
+- pkg:maven/io.quarkiverse.roq/quarkus-roq-plugin-series-deployment@1.0.7?classifier=sources

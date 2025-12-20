@@ -122,3 +122,13 @@
 - pkg:maven/software.amazon.awscdk/pipes-sources-alpha@2.169.0-alpha.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/pipes-sources-alpha@2.170.0-alpha.0
 - pkg:maven/software.amazon.awscdk/pipes-sources-alpha@2.170.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/pipes-sources-alpha@2.171.0-alpha.0
+- pkg:maven/software.amazon.awscdk/pipes-sources-alpha@2.171.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/pipes-sources-alpha@2.171.1-alpha.0
+- pkg:maven/software.amazon.awscdk/pipes-sources-alpha@2.171.1-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/pipes-sources-alpha@2.172.0-alpha.0
+- pkg:maven/software.amazon.awscdk/pipes-sources-alpha@2.172.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/pipes-sources-alpha@2.173.0-alpha.0
+- pkg:maven/software.amazon.awscdk/pipes-sources-alpha@2.173.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/pipes-sources-alpha@2.173.1-alpha.0
+- pkg:maven/software.amazon.awscdk/pipes-sources-alpha@2.173.1-alpha.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/se.alipsa.groovy/matrix-core@1.2.3?classifier=sources
 - pkg:maven/se.alipsa.groovy/matrix-core@1.2.4?classifier=sources
 - pkg:maven/se.alipsa.groovy/matrix-core@2.0.0?classifier=sources
+- pkg:maven/se.alipsa.groovy/matrix-core@2.1.0?classifier=sources
+- pkg:maven/se.alipsa.groovy/matrix-core@2.1.1?classifier=sources

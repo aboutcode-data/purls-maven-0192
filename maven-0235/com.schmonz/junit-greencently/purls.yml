@@ -42,3 +42,16 @@
 - pkg:maven/com.schmonz/junit-greencently@0.0.79?classifier=sources
 - pkg:maven/com.schmonz/junit-greencently@0.0.80?classifier=sources
 - pkg:maven/com.schmonz/junit-greencently@0.0.81?classifier=sources
+- pkg:maven/com.schmonz/junit-greencently@0.0.83?classifier=sources
+- pkg:maven/com.schmonz/junit-greencently@0.0.85?classifier=sources
+- pkg:maven/com.schmonz/junit-greencently@0.0.86?classifier=sources
+- pkg:maven/com.schmonz/junit-greencently@0.0.87?classifier=sources
+- pkg:maven/com.schmonz/junit-greencently@0.0.88?classifier=sources
+- pkg:maven/com.schmonz/junit-greencently@0.0.90?classifier=sources
+- pkg:maven/com.schmonz/junit-greencently@0.0.91?classifier=sources
+- pkg:maven/com.schmonz/junit-greencently@0.0.92?classifier=sources
+- pkg:maven/com.schmonz/junit-greencently@0.0.94?classifier=sources
+- pkg:maven/com.schmonz/junit-greencently@0.0.95?classifier=sources
+- pkg:maven/com.schmonz/junit-greencently@0.0.96?classifier=sources
+- pkg:maven/com.schmonz/junit-greencently@0.0.97?classifier=sources
+- pkg:maven/com.schmonz/junit-greencently@0.0.98?classifier=sources

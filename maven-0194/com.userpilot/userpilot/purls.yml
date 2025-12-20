@@ -1,0 +1,2 @@
+- pkg:maven/com.userpilot/userpilot@0.0.1-beta.2?classifier=sources
+- pkg:maven/com.userpilot/userpilot@1.0.0?classifier=sources

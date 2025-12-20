@@ -5,3 +5,5 @@
 - pkg:maven/com.iodigital/figex-core@1.0.11798263762?classifier=sources
 - pkg:maven/com.iodigital/figex-core@1.0.11833243827?classifier=sources
 - pkg:maven/com.iodigital/figex-core@1.0.11837269292?classifier=sources
+- pkg:maven/com.iodigital/figex-core@1.0.11913139289?classifier=sources
+- pkg:maven/com.iodigital/figex-core@1.0.12373363652?classifier=sources

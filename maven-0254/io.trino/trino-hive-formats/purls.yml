@@ -116,3 +116,9 @@
 - pkg:maven/io.trino/trino-hive-formats@464?classifier=sources
 - pkg:maven/io.trino/trino-hive-formats@465
 - pkg:maven/io.trino/trino-hive-formats@465?classifier=sources
+- pkg:maven/io.trino/trino-hive-formats@466
+- pkg:maven/io.trino/trino-hive-formats@466?classifier=sources
+- pkg:maven/io.trino/trino-hive-formats@467
+- pkg:maven/io.trino/trino-hive-formats@467?classifier=sources
+- pkg:maven/io.trino/trino-hive-formats@468
+- pkg:maven/io.trino/trino-hive-formats@468?classifier=sources

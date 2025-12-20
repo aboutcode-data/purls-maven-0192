@@ -34,3 +34,9 @@
 - pkg:maven/org.virtuslab/pulumi-alicloud-kotlin@3.62.1.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-alicloud-kotlin@3.63.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-alicloud-kotlin@3.63.1.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-alicloud-kotlin@3.64.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-alicloud-kotlin@3.65.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-alicloud-kotlin@3.65.1.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-alicloud-kotlin@3.66.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-alicloud-kotlin@3.68.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-alicloud-kotlin@3.69.0.0?classifier=sources

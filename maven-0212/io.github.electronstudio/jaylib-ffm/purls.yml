@@ -2,3 +2,4 @@
 - pkg:maven/io.github.electronstudio/jaylib-ffm@0.0.2?classifier=sources
 - pkg:maven/io.github.electronstudio/jaylib-ffm@0.0.3?classifier=sources
 - pkg:maven/io.github.electronstudio/jaylib-ffm@5.5.0-0?classifier=sources
+- pkg:maven/io.github.electronstudio/jaylib-ffm@5.5.0-1?classifier=sources

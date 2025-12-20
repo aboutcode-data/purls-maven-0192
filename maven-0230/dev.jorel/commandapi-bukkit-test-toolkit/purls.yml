@@ -1,0 +1,2 @@
+- pkg:maven/dev.jorel/commandapi-bukkit-test-toolkit@9.7.0
+- pkg:maven/dev.jorel/commandapi-bukkit-test-toolkit@9.7.0?classifier=sources

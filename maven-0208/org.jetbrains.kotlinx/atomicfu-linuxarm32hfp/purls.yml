@@ -1,1 +1,2 @@
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-linuxarm32hfp@0.26.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-linuxarm32hfp@0.26.1?classifier=sources

@@ -356,5 +356,17 @@
 - pkg:maven/fr.aneo/armonik-java@3.22.0-qdfixstyle.117.3affe83?classifier=sources
 - pkg:maven/fr.aneo/armonik-java@3.22.0-qdfixstyle.117.5657e9c?classifier=sources
 - pkg:maven/fr.aneo/armonik-java@3.22.0?classifier=sources
+- pkg:maven/fr.aneo/armonik-java@3.22.1-edge.2.e0f61b9?classifier=sources
+- pkg:maven/fr.aneo/armonik-java@3.22.1-edge.5.2f2be75?classifier=sources
+- pkg:maven/fr.aneo/armonik-java@3.22.1-edge.7.7edd98e?classifier=sources
+- pkg:maven/fr.aneo/armonik-java@3.22.1-ngtgzclient.3.ae6f96c?classifier=sources
+- pkg:maven/fr.aneo/armonik-java@3.22.1-ngtgzclient.4.ee484cf?classifier=sources
+- pkg:maven/fr.aneo/armonik-java@3.22.1-ngtgzclient.6.21e8df3?classifier=sources
+- pkg:maven/fr.aneo/armonik-java@3.22.1-ngtgzclient.7.a811857?classifier=sources
+- pkg:maven/fr.aneo/armonik-java@3.22.1-renovatenpm.4.1d5d35b?classifier=sources
+- pkg:maven/fr.aneo/armonik-java@3.22.1-renovatenpm.5.5a332bf?classifier=sources
+- pkg:maven/fr.aneo/armonik-java@3.22.1-renovatenugetarmonikutils.4.e3827bd?classifier=sources
 - pkg:maven/fr.aneo/armonik-java@3.23.0-flrustserver.14.765b2a3?classifier=sources
+- pkg:maven/fr.aneo/armonik-java@3.23.0-flrustserver.15.3351efc?classifier=sources
+- pkg:maven/fr.aneo/armonik-java@3.23.0-flrustserver.16.db6062d?classifier=sources
 - pkg:maven/fr.aneo/armonik-java@3.23.0-qdpythonworker.10.21492d4?classifier=sources

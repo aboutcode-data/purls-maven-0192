@@ -508,6 +508,12 @@
 - pkg:maven/sh.ory/ory-client@1.15.10?classifier=sources
 - pkg:maven/sh.ory/ory-client@1.15.12
 - pkg:maven/sh.ory/ory-client@1.15.12?classifier=sources
+- pkg:maven/sh.ory/ory-client@1.15.13
+- pkg:maven/sh.ory/ory-client@1.15.13?classifier=sources
+- pkg:maven/sh.ory/ory-client@1.15.14
+- pkg:maven/sh.ory/ory-client@1.15.14?classifier=sources
+- pkg:maven/sh.ory/ory-client@1.15.15
+- pkg:maven/sh.ory/ory-client@1.15.15?classifier=sources
 - pkg:maven/sh.ory/ory-client@1.15.3
 - pkg:maven/sh.ory/ory-client@1.15.3?classifier=sources
 - pkg:maven/sh.ory/ory-client@1.15.4

@@ -107,7 +107,12 @@
 - pkg:maven/software.amazon.smithy.kotlin/smithy-kotlin-codegen-testutils@0.33.23?classifier=sources
 - pkg:maven/software.amazon.smithy.kotlin/smithy-kotlin-codegen-testutils@0.33.24?classifier=sources
 - pkg:maven/software.amazon.smithy.kotlin/smithy-kotlin-codegen-testutils@0.33.25?classifier=sources
+- pkg:maven/software.amazon.smithy.kotlin/smithy-kotlin-codegen-testutils@0.33.26?classifier=sources
+- pkg:maven/software.amazon.smithy.kotlin/smithy-kotlin-codegen-testutils@0.33.27?classifier=sources
+- pkg:maven/software.amazon.smithy.kotlin/smithy-kotlin-codegen-testutils@0.33.28?classifier=sources
+- pkg:maven/software.amazon.smithy.kotlin/smithy-kotlin-codegen-testutils@0.33.29?classifier=sources
 - pkg:maven/software.amazon.smithy.kotlin/smithy-kotlin-codegen-testutils@0.33.2?classifier=sources
+- pkg:maven/software.amazon.smithy.kotlin/smithy-kotlin-codegen-testutils@0.33.30?classifier=sources
 - pkg:maven/software.amazon.smithy.kotlin/smithy-kotlin-codegen-testutils@0.33.3?classifier=sources
 - pkg:maven/software.amazon.smithy.kotlin/smithy-kotlin-codegen-testutils@0.33.4?classifier=sources
 - pkg:maven/software.amazon.smithy.kotlin/smithy-kotlin-codegen-testutils@0.33.5?classifier=sources

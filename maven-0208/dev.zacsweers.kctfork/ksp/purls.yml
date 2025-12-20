@@ -21,3 +21,4 @@
 - pkg:maven/dev.zacsweers.kctfork/ksp@0.6.0-alpha01?classifier=sources
 - pkg:maven/dev.zacsweers.kctfork/ksp@0.6.0?classifier=sources
 - pkg:maven/dev.zacsweers.kctfork/ksp@0.7.0-alpha01?classifier=sources
+- pkg:maven/dev.zacsweers.kctfork/ksp@0.7.0?classifier=sources

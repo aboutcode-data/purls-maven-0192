@@ -38,6 +38,7 @@
 - pkg:maven/com.teragrep/rlp_03@1.7.6?classifier=sources
 - pkg:maven/com.teragrep/rlp_03@1.7.8
 - pkg:maven/com.teragrep/rlp_03@1.7.8?classifier=sources
+- pkg:maven/com.teragrep/rlp_03@10.0.0?classifier=sources
 - pkg:maven/com.teragrep/rlp_03@2.0.0
 - pkg:maven/com.teragrep/rlp_03@2.0.0?classifier=sources
 - pkg:maven/com.teragrep/rlp_03@3.0.0

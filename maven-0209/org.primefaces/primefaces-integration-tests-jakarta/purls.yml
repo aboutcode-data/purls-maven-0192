@@ -46,3 +46,9 @@
 - pkg:maven/org.primefaces/primefaces-integration-tests-jakarta@14.0.6?type=war
 - pkg:maven/org.primefaces/primefaces-integration-tests-jakarta@14.0.7?classifier=sources
 - pkg:maven/org.primefaces/primefaces-integration-tests-jakarta@14.0.7?type=war
+- pkg:maven/org.primefaces/primefaces-integration-tests-jakarta@14.0.8?classifier=sources
+- pkg:maven/org.primefaces/primefaces-integration-tests-jakarta@14.0.8?type=war
+- pkg:maven/org.primefaces/primefaces-integration-tests-jakarta@14.0.9?classifier=sources
+- pkg:maven/org.primefaces/primefaces-integration-tests-jakarta@14.0.9?type=war
+- pkg:maven/org.primefaces/primefaces-integration-tests-jakarta@15.0.0-RC1?classifier=sources
+- pkg:maven/org.primefaces/primefaces-integration-tests-jakarta@15.0.0-RC1?type=war

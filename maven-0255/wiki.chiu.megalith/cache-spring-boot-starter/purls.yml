@@ -16,4 +16,8 @@
 - pkg:maven/wiki.chiu.megalith/cache-spring-boot-starter@1.7.1?classifier=sources
 - pkg:maven/wiki.chiu.megalith/cache-spring-boot-starter@1.7.2?classifier=sources
 - pkg:maven/wiki.chiu.megalith/cache-spring-boot-starter@1.7.3?classifier=sources
+- pkg:maven/wiki.chiu.megalith/cache-spring-boot-starter@3.3.5-FINAL-Z-1?classifier=sources
+- pkg:maven/wiki.chiu.megalith/cache-spring-boot-starter@3.3.5-FINAL-Z?classifier=sources
+- pkg:maven/wiki.chiu.megalith/cache-spring-boot-starter@3.3.5-FINAL?classifier=sources
+- pkg:maven/wiki.chiu.megalith/cache-spring-boot-starter@3.3.5?classifier=sources
 - pkg:maven/wiki.chiu.megalith/cache-spring-boot-starter@unspecified?classifier=sources

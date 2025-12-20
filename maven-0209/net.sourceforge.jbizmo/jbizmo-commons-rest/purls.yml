@@ -1,3 +1,5 @@
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-rest@10.0.0
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-rest@10.0.0?classifier=sources
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-rest@9.0.0
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-rest@9.0.0?classifier=sources
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-rest@9.1.0

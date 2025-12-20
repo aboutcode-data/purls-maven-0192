@@ -10,3 +10,4 @@
 - pkg:maven/vn.kalapa/ekyc@2.10.3.8?classifier=sources
 - pkg:maven/vn.kalapa/ekyc@2.10.3.9?classifier=sources
 - pkg:maven/vn.kalapa/ekyc@2.10.3?classifier=sources
+- pkg:maven/vn.kalapa/ekyc@2.10.4?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.github.quafadas/millSite_mill0.12_2.13@0.0.36
 - pkg:maven/io.github.quafadas/millSite_mill0.12_2.13@0.0.36?classifier=sources
+- pkg:maven/io.github.quafadas/millSite_mill0.12_2.13@0.0.38
+- pkg:maven/io.github.quafadas/millSite_mill0.12_2.13@0.0.38?classifier=sources

@@ -8,6 +8,7 @@
 - pkg:maven/org.sonarsource.slang/sonar-ruby-plugin@1.15.2.6150?classifier=sources
 - pkg:maven/org.sonarsource.slang/sonar-ruby-plugin@1.17.0.110?classifier=sources
 - pkg:maven/org.sonarsource.slang/sonar-ruby-plugin@1.17.1.134?classifier=sources
+- pkg:maven/org.sonarsource.slang/sonar-ruby-plugin@1.18.0.234?classifier=sources
 - pkg:maven/org.sonarsource.slang/sonar-ruby-plugin@1.5.0.315
 - pkg:maven/org.sonarsource.slang/sonar-ruby-plugin@1.5.0.315?classifier=sources
 - pkg:maven/org.sonarsource.slang/sonar-ruby-plugin@1.7.0.883

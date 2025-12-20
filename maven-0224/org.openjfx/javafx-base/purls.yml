@@ -357,5 +357,7 @@
 - pkg:maven/org.openjfx/javafx-base@23?classifier=sources
 - pkg:maven/org.openjfx/javafx-base@24-ea%2B15
 - pkg:maven/org.openjfx/javafx-base@24-ea%2B15?classifier=sources
+- pkg:maven/org.openjfx/javafx-base@24-ea%2B19
+- pkg:maven/org.openjfx/javafx-base@24-ea%2B19?classifier=sources
 - pkg:maven/org.openjfx/javafx-base@24-ea%2B5
 - pkg:maven/org.openjfx/javafx-base@24-ea%2B5?classifier=sources

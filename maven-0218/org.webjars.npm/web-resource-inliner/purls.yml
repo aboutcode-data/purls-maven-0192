@@ -6,3 +6,4 @@
 - pkg:maven/org.webjars.npm/web-resource-inliner@4.3.3?classifier=sources
 - pkg:maven/org.webjars.npm/web-resource-inliner@4.3.4
 - pkg:maven/org.webjars.npm/web-resource-inliner@4.3.4?classifier=sources
+- pkg:maven/org.webjars.npm/web-resource-inliner@6.0.1

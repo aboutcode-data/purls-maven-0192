@@ -7,3 +7,4 @@
 - pkg:maven/org.webjars.npm/materializecss__materialize@2.0.1-alpha
 - pkg:maven/org.webjars.npm/materializecss__materialize@2.0.1-alpha?classifier=sources
 - pkg:maven/org.webjars.npm/materializecss__materialize@2.1.0
+- pkg:maven/org.webjars.npm/materializecss__materialize@2.1.1

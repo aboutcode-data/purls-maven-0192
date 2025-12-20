@@ -47,3 +47,5 @@
 - pkg:maven/dev.mokkery/mokkery-plugin@2.4.0?classifier=sources
 - pkg:maven/dev.mokkery/mokkery-plugin@2.5.0?classifier=sources
 - pkg:maven/dev.mokkery/mokkery-plugin@2.5.1?classifier=sources
+- pkg:maven/dev.mokkery/mokkery-plugin@2.6.0?classifier=sources
+- pkg:maven/dev.mokkery/mokkery-plugin@2.6.1?classifier=sources

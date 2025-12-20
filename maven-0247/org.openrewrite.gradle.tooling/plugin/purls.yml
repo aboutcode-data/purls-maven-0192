@@ -45,3 +45,4 @@
 - pkg:maven/org.openrewrite.gradle.tooling/plugin@2.6.3?classifier=sources
 - pkg:maven/org.openrewrite.gradle.tooling/plugin@2.6.4?classifier=sources
 - pkg:maven/org.openrewrite.gradle.tooling/plugin@2.7.0?classifier=sources
+- pkg:maven/org.openrewrite.gradle.tooling/plugin@2.8.0?classifier=sources
