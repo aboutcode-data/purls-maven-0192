@@ -1,0 +1,2 @@
+- pkg:maven/org.icij.datashare/datashare-cli@13.2.1
+- pkg:maven/org.icij.datashare/datashare-cli@13.2.1?classifier=sources

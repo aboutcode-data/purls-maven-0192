@@ -1,6 +1,10 @@
+- pkg:maven/cloud.piranha.feature/piranha-feature-http@23.10.0
+- pkg:maven/cloud.piranha.feature/piranha-feature-http@23.10.0?classifier=sources
 - pkg:maven/cloud.piranha.feature/piranha-feature-http@23.6.0
 - pkg:maven/cloud.piranha.feature/piranha-feature-http@23.6.0?classifier=sources
 - pkg:maven/cloud.piranha.feature/piranha-feature-http@23.7.0
 - pkg:maven/cloud.piranha.feature/piranha-feature-http@23.7.0?classifier=sources
 - pkg:maven/cloud.piranha.feature/piranha-feature-http@23.8.0
 - pkg:maven/cloud.piranha.feature/piranha-feature-http@23.8.0?classifier=sources
+- pkg:maven/cloud.piranha.feature/piranha-feature-http@23.9.0
+- pkg:maven/cloud.piranha.feature/piranha-feature-http@23.9.0?classifier=sources

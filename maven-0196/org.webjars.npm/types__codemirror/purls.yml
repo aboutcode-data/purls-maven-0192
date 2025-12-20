@@ -16,5 +16,7 @@
 - pkg:maven/org.webjars.npm/types__codemirror@0.0.74?classifier=sources
 - pkg:maven/org.webjars.npm/types__codemirror@0.0.77
 - pkg:maven/org.webjars.npm/types__codemirror@0.0.77?classifier=sources
+- pkg:maven/org.webjars.npm/types__codemirror@5.60.10
+- pkg:maven/org.webjars.npm/types__codemirror@5.60.10?classifier=sources
 - pkg:maven/org.webjars.npm/types__codemirror@5.60.5
 - pkg:maven/org.webjars.npm/types__codemirror@5.60.5?classifier=sources

@@ -97,6 +97,8 @@
 - pkg:maven/org.hisp.dhis.rules/rule-engine@2.1.7
 - pkg:maven/org.hisp.dhis.rules/rule-engine@2.1.7?classifier=sources
 - pkg:maven/org.hisp.dhis.rules/rule-engine@2.1.8
+- pkg:maven/org.hisp.dhis.rules/rule-engine@2.1.8.0
+- pkg:maven/org.hisp.dhis.rules/rule-engine@2.1.8.0?classifier=sources
 - pkg:maven/org.hisp.dhis.rules/rule-engine@2.1.8?classifier=sources
 - pkg:maven/org.hisp.dhis.rules/rule-engine@2.1.9
 - pkg:maven/org.hisp.dhis.rules/rule-engine@2.1.9?classifier=sources

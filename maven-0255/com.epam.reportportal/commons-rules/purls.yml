@@ -11,4 +11,5 @@
 - pkg:maven/com.epam.reportportal/commons-rules@4.2.0?classifier=sources
 - pkg:maven/com.epam.reportportal/commons-rules@5.0.0?classifier=sources
 - pkg:maven/com.epam.reportportal/commons-rules@5.1.0?classifier=sources
+- pkg:maven/com.epam.reportportal/commons-rules@5.10.0?classifier=sources
 - pkg:maven/com.epam.reportportal/commons-rules@5.3.0?classifier=sources

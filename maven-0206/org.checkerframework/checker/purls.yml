@@ -184,6 +184,7 @@
 - pkg:maven/org.checkerframework/checker@3.36.0?classifier=sources
 - pkg:maven/org.checkerframework/checker@3.37.0?classifier=sources
 - pkg:maven/org.checkerframework/checker@3.38.0?classifier=sources
+- pkg:maven/org.checkerframework/checker@3.39.0?classifier=sources
 - pkg:maven/org.checkerframework/checker@3.4.0
 - pkg:maven/org.checkerframework/checker@3.4.0?classifier=sources
 - pkg:maven/org.checkerframework/checker@3.4.1

@@ -88,3 +88,5 @@
 - pkg:maven/com.liferay/com.liferay.analytics.batch.exportimport.impl@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.analytics.batch.exportimport.impl@3.0.2
 - pkg:maven/com.liferay/com.liferay.analytics.batch.exportimport.impl@3.0.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.analytics.batch.exportimport.impl@3.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.analytics.batch.exportimport.impl@3.0.4?classifier=sources

@@ -8,6 +8,7 @@
 - pkg:maven/com.factset.sdk/sparengine@0.22.0?classifier=sources
 - pkg:maven/com.factset.sdk/sparengine@0.22.1?classifier=sources
 - pkg:maven/com.factset.sdk/sparengine@0.22.2?classifier=sources
+- pkg:maven/com.factset.sdk/sparengine@0.23.0?classifier=sources
 - pkg:maven/com.factset.sdk/sparengine@0.8.0?classifier=sources
 - pkg:maven/com.factset.sdk/sparengine@0.8.1?classifier=sources
 - pkg:maven/com.factset.sdk/sparengine@0.8.2?classifier=sources

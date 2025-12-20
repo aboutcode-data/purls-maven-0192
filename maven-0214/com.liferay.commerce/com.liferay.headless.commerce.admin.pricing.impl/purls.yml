@@ -268,6 +268,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@1.0.9
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@1.0.90
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@1.0.90?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@1.0.91?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@1.0.9?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@1.0.9?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@2.0.0
@@ -390,6 +391,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@2.0.44?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@2.0.45
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@2.0.45?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@2.0.46?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@2.0.4?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@2.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@2.0.5
@@ -600,6 +602,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@3.0.67
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@3.0.67?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@3.0.68?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@3.0.69?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@3.0.6?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@3.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@3.0.7
@@ -814,6 +817,10 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@4.0.7
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@4.0.70?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@4.0.71?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@4.0.72?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@4.0.73?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@4.0.74?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@4.0.75?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@4.0.7?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@4.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.pricing.impl@4.0.8

@@ -23,6 +23,7 @@
 - pkg:maven/org.dmfs/oauth2-essentials@0.20.0?classifier=sources
 - pkg:maven/org.dmfs/oauth2-essentials@0.21.0?classifier=sources
 - pkg:maven/org.dmfs/oauth2-essentials@0.22.0?classifier=sources
+- pkg:maven/org.dmfs/oauth2-essentials@0.22.1?classifier=sources
 - pkg:maven/org.dmfs/oauth2-essentials@0.2?classifier=sources
 - pkg:maven/org.dmfs/oauth2-essentials@0.3
 - pkg:maven/org.dmfs/oauth2-essentials@0.3.1

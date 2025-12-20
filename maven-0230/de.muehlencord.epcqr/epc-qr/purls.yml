@@ -1,0 +1,2 @@
+- pkg:maven/de.muehlencord.epcqr/epc-qr@1.0.0
+- pkg:maven/de.muehlencord.epcqr/epc-qr@1.0.0?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/io.grasscutter/grasscutter@1.6.0?classifier=sources
 - pkg:maven/io.grasscutter/grasscutter@1.7.0?classifier=sources
 - pkg:maven/io.grasscutter/grasscutter@1.7.1?classifier=sources
+- pkg:maven/io.grasscutter/grasscutter@1.7.2?classifier=sources

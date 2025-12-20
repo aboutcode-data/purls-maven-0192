@@ -8,3 +8,5 @@
 - pkg:maven/com.github.ghik/silencer-lib_2.12.17@1.7.12?classifier=sources
 - pkg:maven/com.github.ghik/silencer-lib_2.12.17@1.7.13
 - pkg:maven/com.github.ghik/silencer-lib_2.12.17@1.7.13?classifier=sources
+- pkg:maven/com.github.ghik/silencer-lib_2.12.17@1.7.14
+- pkg:maven/com.github.ghik/silencer-lib_2.12.17@1.7.14?classifier=sources

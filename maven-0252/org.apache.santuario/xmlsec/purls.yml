@@ -135,3 +135,6 @@
 - pkg:maven/org.apache.santuario/xmlsec@3.0.2
 - pkg:maven/org.apache.santuario/xmlsec@3.0.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.santuario/xmlsec@3.0.2?classifier=sources
+- pkg:maven/org.apache.santuario/xmlsec@4.0.0-M1
+- pkg:maven/org.apache.santuario/xmlsec@4.0.0-M1?classifier=source-release&type=zip
+- pkg:maven/org.apache.santuario/xmlsec@4.0.0-M1?classifier=sources

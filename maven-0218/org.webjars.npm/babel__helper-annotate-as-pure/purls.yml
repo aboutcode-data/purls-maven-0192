@@ -20,3 +20,5 @@
 - pkg:maven/org.webjars.npm/babel__helper-annotate-as-pure@7.7.4?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-annotate-as-pure@7.8.3
 - pkg:maven/org.webjars.npm/babel__helper-annotate-as-pure@7.8.3?classifier=sources
+- pkg:maven/org.webjars.npm/babel__helper-annotate-as-pure@8.0.0-alpha.3
+- pkg:maven/org.webjars.npm/babel__helper-annotate-as-pure@8.0.0-alpha.3?classifier=sources

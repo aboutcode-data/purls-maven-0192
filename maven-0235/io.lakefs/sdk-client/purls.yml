@@ -1,0 +1,2 @@
+- pkg:maven/io.lakefs/sdk-client@0.111.2-RC.0
+- pkg:maven/io.lakefs/sdk-client@0.111.2-RC.0?classifier=sources

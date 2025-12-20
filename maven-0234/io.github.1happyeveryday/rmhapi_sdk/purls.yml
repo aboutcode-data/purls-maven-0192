@@ -1,0 +1,2 @@
+- pkg:maven/io.github.1happyeveryday/rmhapi_sdk@0.0.1-release
+- pkg:maven/io.github.1happyeveryday/rmhapi_sdk@0.0.1-release?classifier=sources

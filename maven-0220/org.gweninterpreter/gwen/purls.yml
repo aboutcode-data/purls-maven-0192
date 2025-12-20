@@ -478,6 +478,10 @@
 - pkg:maven/org.gweninterpreter/gwen@3.47.4?classifier=sources
 - pkg:maven/org.gweninterpreter/gwen@3.47.5
 - pkg:maven/org.gweninterpreter/gwen@3.47.5?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen@3.48.0
+- pkg:maven/org.gweninterpreter/gwen@3.48.0?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen@3.48.1
+- pkg:maven/org.gweninterpreter/gwen@3.48.1?classifier=sources
 - pkg:maven/org.gweninterpreter/gwen@3.5.0
 - pkg:maven/org.gweninterpreter/gwen@3.5.0?classifier=sources
 - pkg:maven/org.gweninterpreter/gwen@3.5.1

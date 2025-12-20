@@ -17,3 +17,4 @@
 - pkg:maven/org.http4k/http4k-connect-openai-plugin@5.1.6.2?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-openai-plugin@5.2.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-openai-plugin@5.2.2.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-openai-plugin@5.2.3.0?classifier=sources

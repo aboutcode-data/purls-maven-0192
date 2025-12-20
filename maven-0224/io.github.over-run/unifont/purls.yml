@@ -4,3 +4,5 @@
 - pkg:maven/io.github.over-run/unifont@15.0.03?classifier=sources
 - pkg:maven/io.github.over-run/unifont@15.0.06.1?classifier=sources
 - pkg:maven/io.github.over-run/unifont@15.0.06?classifier=sources
+- pkg:maven/io.github.over-run/unifont@15.1.01.1?classifier=sources
+- pkg:maven/io.github.over-run/unifont@15.1.01?classifier=sources

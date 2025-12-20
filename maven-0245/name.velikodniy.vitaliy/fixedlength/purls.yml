@@ -6,3 +6,5 @@
 - pkg:maven/name.velikodniy.vitaliy/fixedlength@0.7?classifier=sources
 - pkg:maven/name.velikodniy.vitaliy/fixedlength@0.8
 - pkg:maven/name.velikodniy.vitaliy/fixedlength@0.8?classifier=sources
+- pkg:maven/name.velikodniy.vitaliy/fixedlength@0.9
+- pkg:maven/name.velikodniy.vitaliy/fixedlength@0.9?classifier=sources

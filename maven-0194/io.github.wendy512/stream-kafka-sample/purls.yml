@@ -1,0 +1,2 @@
+- pkg:maven/io.github.wendy512/stream-kafka-sample@1.0.1
+- pkg:maven/io.github.wendy512/stream-kafka-sample@1.0.1?classifier=sources

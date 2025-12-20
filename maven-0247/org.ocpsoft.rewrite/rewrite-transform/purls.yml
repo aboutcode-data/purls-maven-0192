@@ -1,5 +1,7 @@
 - pkg:maven/org.ocpsoft.rewrite/rewrite-transform@1.1.0.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-transform@1.1.0.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite/rewrite-transform@10.0.0.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-transform@10.0.0.Final?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite/rewrite-transform@2.0.0.Alpha2
 - pkg:maven/org.ocpsoft.rewrite/rewrite-transform@2.0.0.Alpha2?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite/rewrite-transform@2.0.0.Alpha3
@@ -76,3 +78,7 @@
 - pkg:maven/org.ocpsoft.rewrite/rewrite-transform@5.0.0.Alpha1?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite/rewrite-transform@6.0.0.Alpha1
 - pkg:maven/org.ocpsoft.rewrite/rewrite-transform@6.0.0.Alpha1?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite/rewrite-transform@8.0.0.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-transform@8.0.0.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite/rewrite-transform@9.0.0.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-transform@9.0.0.Final?classifier=sources

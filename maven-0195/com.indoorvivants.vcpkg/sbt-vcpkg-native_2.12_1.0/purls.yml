@@ -1,2 +1,4 @@
 - pkg:maven/com.indoorvivants.vcpkg/sbt-vcpkg-native_2.12_1.0@0.0.14
 - pkg:maven/com.indoorvivants.vcpkg/sbt-vcpkg-native_2.12_1.0@0.0.14?classifier=sources
+- pkg:maven/com.indoorvivants.vcpkg/sbt-vcpkg-native_2.12_1.0@0.0.15
+- pkg:maven/com.indoorvivants.vcpkg/sbt-vcpkg-native_2.12_1.0@0.0.15?classifier=sources

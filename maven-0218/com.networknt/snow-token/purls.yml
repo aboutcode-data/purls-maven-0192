@@ -1,0 +1,2 @@
+- pkg:maven/com.networknt/snow-token@1.0.19
+- pkg:maven/com.networknt/snow-token@1.0.19?classifier=sources

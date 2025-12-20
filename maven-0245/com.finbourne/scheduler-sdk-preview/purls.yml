@@ -70,3 +70,13 @@
 - pkg:maven/com.finbourne/scheduler-sdk-preview@0.0.822?classifier=sources
 - pkg:maven/com.finbourne/scheduler-sdk-preview@0.0.823
 - pkg:maven/com.finbourne/scheduler-sdk-preview@0.0.823?classifier=sources
+- pkg:maven/com.finbourne/scheduler-sdk-preview@0.0.825
+- pkg:maven/com.finbourne/scheduler-sdk-preview@0.0.825?classifier=sources
+- pkg:maven/com.finbourne/scheduler-sdk-preview@0.0.826
+- pkg:maven/com.finbourne/scheduler-sdk-preview@0.0.826?classifier=sources
+- pkg:maven/com.finbourne/scheduler-sdk-preview@0.0.829
+- pkg:maven/com.finbourne/scheduler-sdk-preview@0.0.829?classifier=sources
+- pkg:maven/com.finbourne/scheduler-sdk-preview@0.0.830
+- pkg:maven/com.finbourne/scheduler-sdk-preview@0.0.830?classifier=sources
+- pkg:maven/com.finbourne/scheduler-sdk-preview@0.0.831
+- pkg:maven/com.finbourne/scheduler-sdk-preview@0.0.831?classifier=sources

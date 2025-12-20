@@ -19,3 +19,4 @@
 - pkg:maven/org.apache.juneau/juneau@8.2.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.juneau/juneau@9.0-B1?classifier=source-release&type=zip
 - pkg:maven/org.apache.juneau/juneau@9.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.juneau/juneau@9.0.1?classifier=source-release&type=zip

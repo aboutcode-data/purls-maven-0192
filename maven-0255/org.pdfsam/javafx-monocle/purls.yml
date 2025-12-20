@@ -1,0 +1,2 @@
+- pkg:maven/org.pdfsam/javafx-monocle@21
+- pkg:maven/org.pdfsam/javafx-monocle@21?classifier=sources

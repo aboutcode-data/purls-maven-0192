@@ -76,6 +76,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@16.2.0
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@16.2.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@17.0.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@18.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@2.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.inventory.api@2.0.0?classifier=sources-commercial

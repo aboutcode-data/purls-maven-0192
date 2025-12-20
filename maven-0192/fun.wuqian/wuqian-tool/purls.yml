@@ -12,3 +12,7 @@
 - pkg:maven/fun.wuqian/wuqian-tool@1.1.8?classifier=sources
 - pkg:maven/fun.wuqian/wuqian-tool@1.1.9
 - pkg:maven/fun.wuqian/wuqian-tool@1.1.9?classifier=sources
+- pkg:maven/fun.wuqian/wuqian-tool@1.2.0
+- pkg:maven/fun.wuqian/wuqian-tool@1.2.0?classifier=sources
+- pkg:maven/fun.wuqian/wuqian-tool@1.2.1
+- pkg:maven/fun.wuqian/wuqian-tool@1.2.1?classifier=sources

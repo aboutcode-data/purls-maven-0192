@@ -54,3 +54,5 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-neo4j@5.6.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-neo4j@5.7.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-neo4j@5.7.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-neo4j@5.8.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-neo4j@5.8.0?classifier=sources

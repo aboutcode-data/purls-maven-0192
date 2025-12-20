@@ -1,0 +1,2 @@
+- pkg:maven/com.valentinilk.shimmer/compose-shimmer-android@1.1.1?classifier=sources
+- pkg:maven/com.valentinilk.shimmer/compose-shimmer-android@1.2.0?classifier=sources

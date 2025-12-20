@@ -1,0 +1,2 @@
+- pkg:maven/io.github.xiananliu/liquibase-ext-hive2@1.0
+- pkg:maven/io.github.xiananliu/liquibase-ext-hive2@1.0?classifier=sources

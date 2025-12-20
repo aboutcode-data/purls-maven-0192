@@ -1,0 +1,2 @@
+- pkg:maven/com.onnuridmc.motiv-i/exelbid-sdk-base@1.0.0.0?classifier=sources
+- pkg:maven/com.onnuridmc.motiv-i/exelbid-sdk-base@1.0.2.3?classifier=sources

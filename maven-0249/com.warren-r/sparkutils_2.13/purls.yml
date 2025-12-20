@@ -1,2 +1,4 @@
 - pkg:maven/com.warren-r/sparkutils_2.13@0.1.3
 - pkg:maven/com.warren-r/sparkutils_2.13@0.1.3?classifier=sources
+- pkg:maven/com.warren-r/sparkutils_2.13@0.1.4
+- pkg:maven/com.warren-r/sparkutils_2.13@0.1.4?classifier=sources

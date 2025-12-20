@@ -1,0 +1,2 @@
+- pkg:maven/io.securin.plugin/securin-maven-plugin@1.0.0
+- pkg:maven/io.securin.plugin/securin-maven-plugin@1.0.0?classifier=sources

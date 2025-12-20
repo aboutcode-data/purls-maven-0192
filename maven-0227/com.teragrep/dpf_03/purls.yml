@@ -6,3 +6,7 @@
 - pkg:maven/com.teragrep/dpf_03@3.0.0?classifier=sources
 - pkg:maven/com.teragrep/dpf_03@4.0.1
 - pkg:maven/com.teragrep/dpf_03@4.0.1?classifier=sources
+- pkg:maven/com.teragrep/dpf_03@5.0.0
+- pkg:maven/com.teragrep/dpf_03@5.0.0?classifier=sources
+- pkg:maven/com.teragrep/dpf_03@6.0.0
+- pkg:maven/com.teragrep/dpf_03@6.0.0?classifier=sources
