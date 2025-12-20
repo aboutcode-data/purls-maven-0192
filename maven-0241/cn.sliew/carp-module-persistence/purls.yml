@@ -1,0 +1,2 @@
+- pkg:maven/cn.sliew/carp-module-persistence@0.0.3
+- pkg:maven/cn.sliew/carp-module-persistence@0.0.3?classifier=sources

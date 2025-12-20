@@ -17,4 +17,5 @@
 - pkg:maven/io.perfeccionista.framework/utils@0.6.0-Beta?classifier=sources
 - pkg:maven/io.perfeccionista.framework/utils@0.7.0-Beta?classifier=sources
 - pkg:maven/io.perfeccionista.framework/utils@0.7.1-Beta?classifier=sources
+- pkg:maven/io.perfeccionista.framework/utils@0.7.2-Beta?classifier=sources
 - pkg:maven/io.perfeccionista.framework/utils@17?classifier=sources

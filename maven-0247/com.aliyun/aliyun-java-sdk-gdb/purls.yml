@@ -4,5 +4,7 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-gdb@1.1.0?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-gdb@2.0.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-gdb@2.0.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-gdb@2.0.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-gdb@2.0.1?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-gdb@2020.02.26
 - pkg:maven/com.aliyun/aliyun-java-sdk-gdb@2020.02.26?classifier=sources

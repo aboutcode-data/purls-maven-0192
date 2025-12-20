@@ -5,3 +5,4 @@
 - pkg:maven/org.webjars.npm/amazon-quicksight-embedding-sdk@2.6.0
 - pkg:maven/org.webjars.npm/amazon-quicksight-embedding-sdk@2.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/amazon-quicksight-embedding-sdk@2.7.0
+- pkg:maven/org.webjars.npm/amazon-quicksight-embedding-sdk@2.8.0

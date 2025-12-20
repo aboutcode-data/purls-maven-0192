@@ -1,2 +1,6 @@
 - pkg:maven/xyz.block/web5-keymanager-aws@2.0.0
 - pkg:maven/xyz.block/web5-keymanager-aws@2.0.0?classifier=sources
+- pkg:maven/xyz.block/web5-keymanager-aws@2.0.1
+- pkg:maven/xyz.block/web5-keymanager-aws@2.0.1-debug1
+- pkg:maven/xyz.block/web5-keymanager-aws@2.0.1-debug1?classifier=sources
+- pkg:maven/xyz.block/web5-keymanager-aws@2.0.1?classifier=sources

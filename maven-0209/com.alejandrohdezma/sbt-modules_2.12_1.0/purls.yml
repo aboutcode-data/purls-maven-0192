@@ -2,3 +2,5 @@
 - pkg:maven/com.alejandrohdezma/sbt-modules_2.12_1.0@0.3.0?classifier=sources
 - pkg:maven/com.alejandrohdezma/sbt-modules_2.12_1.0@0.3.1
 - pkg:maven/com.alejandrohdezma/sbt-modules_2.12_1.0@0.3.1?classifier=sources
+- pkg:maven/com.alejandrohdezma/sbt-modules_2.12_1.0@0.3.2
+- pkg:maven/com.alejandrohdezma/sbt-modules_2.12_1.0@0.3.2?classifier=sources

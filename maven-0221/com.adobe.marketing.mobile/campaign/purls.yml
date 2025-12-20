@@ -10,3 +10,4 @@
 - pkg:maven/com.adobe.marketing.mobile/campaign@1.0.8?type=aar
 - pkg:maven/com.adobe.marketing.mobile/campaign@1.0.9?type=aar
 - pkg:maven/com.adobe.marketing.mobile/campaign@3.0.0?classifier=sources
+- pkg:maven/com.adobe.marketing.mobile/campaign@3.0.1?classifier=sources

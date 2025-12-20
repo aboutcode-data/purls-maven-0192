@@ -1,0 +1,2 @@
+- pkg:maven/io.trino/trino-web-ui@454
+- pkg:maven/io.trino/trino-web-ui@454?classifier=sources

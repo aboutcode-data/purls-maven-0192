@@ -86,6 +86,14 @@
 - pkg:maven/com.chartiq.finsemble/finsemble@8.11.0?classifier=sources
 - pkg:maven/com.chartiq.finsemble/finsemble@8.11.1
 - pkg:maven/com.chartiq.finsemble/finsemble@8.11.1?classifier=sources
+- pkg:maven/com.chartiq.finsemble/finsemble@8.11.2
+- pkg:maven/com.chartiq.finsemble/finsemble@8.11.2?classifier=sources
+- pkg:maven/com.chartiq.finsemble/finsemble@8.11.3
+- pkg:maven/com.chartiq.finsemble/finsemble@8.11.3?classifier=sources
+- pkg:maven/com.chartiq.finsemble/finsemble@8.12.0
+- pkg:maven/com.chartiq.finsemble/finsemble@8.12.0?classifier=sources
+- pkg:maven/com.chartiq.finsemble/finsemble@8.12.1
+- pkg:maven/com.chartiq.finsemble/finsemble@8.12.1?classifier=sources
 - pkg:maven/com.chartiq.finsemble/finsemble@8.2.0
 - pkg:maven/com.chartiq.finsemble/finsemble@8.2.0?classifier=sources
 - pkg:maven/com.chartiq.finsemble/finsemble@8.2.1
@@ -132,3 +140,5 @@
 - pkg:maven/com.chartiq.finsemble/finsemble@8.9.4?classifier=sources
 - pkg:maven/com.chartiq.finsemble/finsemble@8.9.5
 - pkg:maven/com.chartiq.finsemble/finsemble@8.9.5?classifier=sources
+- pkg:maven/com.chartiq.finsemble/finsemble@8.9.6
+- pkg:maven/com.chartiq.finsemble/finsemble@8.9.6?classifier=sources

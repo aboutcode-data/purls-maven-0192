@@ -10,3 +10,5 @@
 - pkg:maven/org.liquibase/liquibase-s3-extension@1.1.3?classifier=sources
 - pkg:maven/org.liquibase/liquibase-s3-extension@1.1.4
 - pkg:maven/org.liquibase/liquibase-s3-extension@1.1.4?classifier=sources
+- pkg:maven/org.liquibase/liquibase-s3-extension@1.1.5
+- pkg:maven/org.liquibase/liquibase-s3-extension@1.1.5?classifier=sources

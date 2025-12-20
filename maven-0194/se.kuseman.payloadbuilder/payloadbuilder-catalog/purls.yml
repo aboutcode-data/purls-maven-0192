@@ -27,6 +27,10 @@
 - pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-catalog@1.0.4
 - pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-catalog@1.0.4?classifier=sources
 - pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-catalog@1.0.5
+- pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-catalog@1.0.5.1
+- pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-catalog@1.0.5.1?classifier=sources
+- pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-catalog@1.0.5.2
+- pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-catalog@1.0.5.2?classifier=sources
 - pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-catalog@1.0.5?classifier=sources
 - pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-catalog@v1.0.0-RC1
 - pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-catalog@v1.0.0-RC1?classifier=sources

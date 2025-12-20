@@ -82,5 +82,9 @@
 - pkg:maven/co.verisoft/Selenium4-Junit5@2.1.0?classifier=sources
 - pkg:maven/co.verisoft/Selenium4-Junit5@2.2.0
 - pkg:maven/co.verisoft/Selenium4-Junit5@2.2.0?classifier=sources
+- pkg:maven/co.verisoft/Selenium4-Junit5@2.2.1
+- pkg:maven/co.verisoft/Selenium4-Junit5@2.2.1?classifier=sources
+- pkg:maven/co.verisoft/Selenium4-Junit5@2.3.0
+- pkg:maven/co.verisoft/Selenium4-Junit5@2.3.0?classifier=sources
 - pkg:maven/co.verisoft/Selenium4-Junit5@dummyVersion
 - pkg:maven/co.verisoft/Selenium4-Junit5@dummyVersion?classifier=sources

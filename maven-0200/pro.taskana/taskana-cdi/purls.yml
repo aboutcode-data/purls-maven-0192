@@ -172,9 +172,13 @@
 - pkg:maven/pro.taskana/taskana-cdi@7.0.0?classifier=sources
 - pkg:maven/pro.taskana/taskana-cdi@7.1.0
 - pkg:maven/pro.taskana/taskana-cdi@7.1.0?classifier=sources
+- pkg:maven/pro.taskana/taskana-cdi@7.2.0
+- pkg:maven/pro.taskana/taskana-cdi@7.2.0?classifier=sources
 - pkg:maven/pro.taskana/taskana-cdi@8.0.0
 - pkg:maven/pro.taskana/taskana-cdi@8.0.0?classifier=sources
 - pkg:maven/pro.taskana/taskana-cdi@8.0.1
 - pkg:maven/pro.taskana/taskana-cdi@8.0.1?classifier=sources
 - pkg:maven/pro.taskana/taskana-cdi@8.1.0
 - pkg:maven/pro.taskana/taskana-cdi@8.1.0?classifier=sources
+- pkg:maven/pro.taskana/taskana-cdi@8.2.0
+- pkg:maven/pro.taskana/taskana-cdi@8.2.0?classifier=sources

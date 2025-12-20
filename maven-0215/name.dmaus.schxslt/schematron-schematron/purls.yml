@@ -1,0 +1,2 @@
+- pkg:maven/name.dmaus.schxslt/schematron-schematron@1.1
+- pkg:maven/name.dmaus.schxslt/schematron-schematron@1.1?classifier=sources

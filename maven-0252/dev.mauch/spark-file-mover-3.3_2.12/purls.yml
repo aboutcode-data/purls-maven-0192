@@ -1,0 +1,10 @@
+- pkg:maven/dev.mauch/spark-file-mover-3.3_2.12@0.0.1-DIRTYd1d3649c
+- pkg:maven/dev.mauch/spark-file-mover-3.3_2.12@0.0.1-DIRTYd1d3649c?classifier=sources
+- pkg:maven/dev.mauch/spark-file-mover-3.3_2.12@0.0.2
+- pkg:maven/dev.mauch/spark-file-mover-3.3_2.12@0.0.2?classifier=sources
+- pkg:maven/dev.mauch/spark-file-mover-3.3_2.12@0.0.3
+- pkg:maven/dev.mauch/spark-file-mover-3.3_2.12@0.0.3?classifier=sources
+- pkg:maven/dev.mauch/spark-file-mover-3.3_2.12@0.0.4-DIRTY9e9a53b
+- pkg:maven/dev.mauch/spark-file-mover-3.3_2.12@0.0.4-DIRTY9e9a53b?classifier=sources
+- pkg:maven/dev.mauch/spark-file-mover-3.3_2.12@0.0.6
+- pkg:maven/dev.mauch/spark-file-mover-3.3_2.12@0.0.6?classifier=sources

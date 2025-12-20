@@ -2,3 +2,5 @@
 - pkg:maven/net.wicp.tams/common-kudu@3.6.20?classifier=sources
 - pkg:maven/net.wicp.tams/common-kudu@6.0.0
 - pkg:maven/net.wicp.tams/common-kudu@6.0.0?classifier=sources
+- pkg:maven/net.wicp.tams/common-kudu@6.1.0
+- pkg:maven/net.wicp.tams/common-kudu@6.1.0?classifier=sources

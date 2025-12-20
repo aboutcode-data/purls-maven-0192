@@ -92,6 +92,7 @@
 - pkg:maven/org.opendaylight.controller/sal-akka-raft-example@10.0.0?classifier=sources
 - pkg:maven/org.opendaylight.controller/sal-akka-raft-example@10.0.1
 - pkg:maven/org.opendaylight.controller/sal-akka-raft-example@10.0.1?classifier=sources
+- pkg:maven/org.opendaylight.controller/sal-akka-raft-example@10.0.2?classifier=sources
 - pkg:maven/org.opendaylight.controller/sal-akka-raft-example@2.0.0
 - pkg:maven/org.opendaylight.controller/sal-akka-raft-example@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.controller/sal-akka-raft-example@2.0.1
@@ -226,3 +227,4 @@
 - pkg:maven/org.opendaylight.controller/sal-akka-raft-example@9.0.3?classifier=sources
 - pkg:maven/org.opendaylight.controller/sal-akka-raft-example@9.0.4
 - pkg:maven/org.opendaylight.controller/sal-akka-raft-example@9.0.4?classifier=sources
+- pkg:maven/org.opendaylight.controller/sal-akka-raft-example@9.0.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.up2jakarta.divers/up2csv-core@1.0.0?classifier=sources
+- pkg:maven/io.github.up2jakarta.divers/up2csv-core@1.2.3?classifier=sources

@@ -1,0 +1,16 @@
+- pkg:maven/io.github.thebesteric.framework.agile.plugins/annotation-scanner-plugin@1.0.14
+- pkg:maven/io.github.thebesteric.framework.agile.plugins/annotation-scanner-plugin@1.0.14.1
+- pkg:maven/io.github.thebesteric.framework.agile.plugins/annotation-scanner-plugin@1.0.14.1?classifier=sources
+- pkg:maven/io.github.thebesteric.framework.agile.plugins/annotation-scanner-plugin@1.0.14.2
+- pkg:maven/io.github.thebesteric.framework.agile.plugins/annotation-scanner-plugin@1.0.14.2?classifier=sources
+- pkg:maven/io.github.thebesteric.framework.agile.plugins/annotation-scanner-plugin@1.0.14.3
+- pkg:maven/io.github.thebesteric.framework.agile.plugins/annotation-scanner-plugin@1.0.14.3?classifier=sources
+- pkg:maven/io.github.thebesteric.framework.agile.plugins/annotation-scanner-plugin@1.0.14.4
+- pkg:maven/io.github.thebesteric.framework.agile.plugins/annotation-scanner-plugin@1.0.14.4?classifier=sources
+- pkg:maven/io.github.thebesteric.framework.agile.plugins/annotation-scanner-plugin@1.0.14?classifier=sources
+- pkg:maven/io.github.thebesteric.framework.agile.plugins/annotation-scanner-plugin@1.0.15
+- pkg:maven/io.github.thebesteric.framework.agile.plugins/annotation-scanner-plugin@1.0.15.1
+- pkg:maven/io.github.thebesteric.framework.agile.plugins/annotation-scanner-plugin@1.0.15.1?classifier=sources
+- pkg:maven/io.github.thebesteric.framework.agile.plugins/annotation-scanner-plugin@1.0.15.2
+- pkg:maven/io.github.thebesteric.framework.agile.plugins/annotation-scanner-plugin@1.0.15.2?classifier=sources
+- pkg:maven/io.github.thebesteric.framework.agile.plugins/annotation-scanner-plugin@1.0.15?classifier=sources

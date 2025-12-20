@@ -95,3 +95,6 @@
 - pkg:maven/com.pulumi/null@0.1.0-alpha.1718344491?classifier=sources
 - pkg:maven/com.pulumi/null@0.1.0-alpha.1718430895?classifier=sources
 - pkg:maven/com.pulumi/null@0.1.0-alpha.1722060259?classifier=sources
+- pkg:maven/com.pulumi/null@0.1.0-alpha.1723009657?classifier=sources
+- pkg:maven/com.pulumi/null@0.1.0-alpha.1724478475?classifier=sources
+- pkg:maven/com.pulumi/null@0.1.0-alpha.1724910762?classifier=sources

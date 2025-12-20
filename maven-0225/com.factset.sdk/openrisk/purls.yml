@@ -17,3 +17,5 @@
 - pkg:maven/com.factset.sdk/openrisk@1.3.3?classifier=sources
 - pkg:maven/com.factset.sdk/openrisk@2.0.0?classifier=sources
 - pkg:maven/com.factset.sdk/openrisk@3.0.0?classifier=sources
+- pkg:maven/com.factset.sdk/openrisk@5.0.0?classifier=sources
+- pkg:maven/com.factset.sdk/openrisk@5.0.1?classifier=sources

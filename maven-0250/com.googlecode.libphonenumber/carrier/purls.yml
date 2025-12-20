@@ -282,6 +282,10 @@
 - pkg:maven/com.googlecode.libphonenumber/carrier@1.225?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/carrier@1.226
 - pkg:maven/com.googlecode.libphonenumber/carrier@1.226?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/carrier@1.227
+- pkg:maven/com.googlecode.libphonenumber/carrier@1.227?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/carrier@1.228
+- pkg:maven/com.googlecode.libphonenumber/carrier@1.228?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/carrier@1.22?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/carrier@1.23
 - pkg:maven/com.googlecode.libphonenumber/carrier@1.23?classifier=sources

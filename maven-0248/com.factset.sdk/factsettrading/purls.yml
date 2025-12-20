@@ -17,3 +17,4 @@
 - pkg:maven/com.factset.sdk/factsettrading@0.24.2?classifier=sources
 - pkg:maven/com.factset.sdk/factsettrading@0.24.3?classifier=sources
 - pkg:maven/com.factset.sdk/factsettrading@0.25.0?classifier=sources
+- pkg:maven/com.factset.sdk/factsettrading@0.26.0?classifier=sources

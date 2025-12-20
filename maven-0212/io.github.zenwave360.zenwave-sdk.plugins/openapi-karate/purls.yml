@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zenwave360.zenwave-sdk.plugins/openapi-karate@1.6.2
+- pkg:maven/io.github.zenwave360.zenwave-sdk.plugins/openapi-karate@1.6.2?classifier=sources

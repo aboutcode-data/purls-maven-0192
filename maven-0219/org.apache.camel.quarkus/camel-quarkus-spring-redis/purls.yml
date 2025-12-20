@@ -6,6 +6,8 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-spring-redis@3.12.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-spring-redis@3.13.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-spring-redis@3.13.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-spring-redis@3.14.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-spring-redis@3.14.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-spring-redis@3.6.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-spring-redis@3.6.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-spring-redis@3.7.0

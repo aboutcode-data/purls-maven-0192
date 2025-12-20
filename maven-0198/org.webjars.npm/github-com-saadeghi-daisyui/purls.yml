@@ -1,2 +1,3 @@
 - pkg:maven/org.webjars.npm/github-com-saadeghi-daisyui@1.14.2
 - pkg:maven/org.webjars.npm/github-com-saadeghi-daisyui@1.14.2?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-saadeghi-daisyui@4.12.10

@@ -333,3 +333,4 @@
 - pkg:maven/com.liferay/com.liferay.microblogs.api@7.3.1
 - pkg:maven/com.liferay/com.liferay.microblogs.api@7.3.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.microblogs.api@8.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.microblogs.api@9.0.0?classifier=sources

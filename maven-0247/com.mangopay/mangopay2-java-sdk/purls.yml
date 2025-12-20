@@ -106,6 +106,10 @@
 - pkg:maven/com.mangopay/mangopay2-java-sdk@2.37.1?classifier=sources
 - pkg:maven/com.mangopay/mangopay2-java-sdk@2.37.2
 - pkg:maven/com.mangopay/mangopay2-java-sdk@2.37.2?classifier=sources
+- pkg:maven/com.mangopay/mangopay2-java-sdk@2.38.0
+- pkg:maven/com.mangopay/mangopay2-java-sdk@2.38.0?classifier=sources
+- pkg:maven/com.mangopay/mangopay2-java-sdk@2.38.1
+- pkg:maven/com.mangopay/mangopay2-java-sdk@2.38.1?classifier=sources
 - pkg:maven/com.mangopay/mangopay2-java-sdk@2.5.0
 - pkg:maven/com.mangopay/mangopay2-java-sdk@2.5.0?classifier=sources
 - pkg:maven/com.mangopay/mangopay2-java-sdk@2.8.0

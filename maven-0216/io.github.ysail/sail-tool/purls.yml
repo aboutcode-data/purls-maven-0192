@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ysail/sail-tool@1.0-WEAPON?classifier=sources
+- pkg:maven/io.github.ysail/sail-tool@1.1-WEAPON?classifier=sources

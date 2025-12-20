@@ -28,3 +28,5 @@
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.edit@2.20.0?classifier=sources
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.edit@2.21.0
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.edit@2.21.0?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.edit@2.22.0
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.edit@2.22.0?classifier=sources

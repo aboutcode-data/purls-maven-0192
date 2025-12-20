@@ -1,0 +1,2 @@
+- pkg:maven/io.github.defective4/onematch-core@1.1
+- pkg:maven/io.github.defective4/onematch-core@1.1?classifier=sources

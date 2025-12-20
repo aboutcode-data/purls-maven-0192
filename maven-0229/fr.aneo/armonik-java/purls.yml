@@ -1,0 +1,2 @@
+- pkg:maven/fr.aneo/armonik-java@0.1.0?classifier=sources
+- pkg:maven/fr.aneo/armonik-java@3.19.0?classifier=sources

@@ -34,3 +34,4 @@
 - pkg:maven/io.micronaut.cache/micronaut-cache-management@4.2.1?classifier=sources
 - pkg:maven/io.micronaut.cache/micronaut-cache-management@4.2.2?classifier=sources
 - pkg:maven/io.micronaut.cache/micronaut-cache-management@4.3.0?classifier=sources
+- pkg:maven/io.micronaut.cache/micronaut-cache-management@5.0.0?classifier=sources

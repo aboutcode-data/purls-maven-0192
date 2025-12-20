@@ -2,3 +2,4 @@
 - pkg:maven/org.mvnpm.at.ui5/webcomponents-icons@1.20.1?classifier=sources
 - pkg:maven/org.mvnpm.at.ui5/webcomponents-icons@1.24.0?classifier=sources
 - pkg:maven/org.mvnpm.at.ui5/webcomponents-icons@1.24.4?classifier=sources
+- pkg:maven/org.mvnpm.at.ui5/webcomponents-icons@2.1.2?classifier=sources

@@ -4,6 +4,7 @@
 - pkg:maven/org.webjars.npm/firebase__messaging-compat@0.1.12?classifier=sources
 - pkg:maven/org.webjars.npm/firebase__messaging-compat@0.1.16
 - pkg:maven/org.webjars.npm/firebase__messaging-compat@0.1.16?classifier=sources
+- pkg:maven/org.webjars.npm/firebase__messaging-compat@0.2.10
 - pkg:maven/org.webjars.npm/firebase__messaging-compat@0.2.2
 - pkg:maven/org.webjars.npm/firebase__messaging-compat@0.2.2?classifier=sources
 - pkg:maven/org.webjars.npm/firebase__messaging-compat@0.2.3

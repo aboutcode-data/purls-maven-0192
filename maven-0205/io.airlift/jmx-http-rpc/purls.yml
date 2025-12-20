@@ -363,3 +363,8 @@
 - pkg:maven/io.airlift/jmx-http-rpc@255
 - pkg:maven/io.airlift/jmx-http-rpc@255?classifier=sources
 - pkg:maven/io.airlift/jmx-http-rpc@256?classifier=sources
+- pkg:maven/io.airlift/jmx-http-rpc@257?classifier=sources
+- pkg:maven/io.airlift/jmx-http-rpc@258?classifier=sources
+- pkg:maven/io.airlift/jmx-http-rpc@259?classifier=sources
+- pkg:maven/io.airlift/jmx-http-rpc@260?classifier=sources
+- pkg:maven/io.airlift/jmx-http-rpc@261?classifier=sources

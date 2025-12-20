@@ -12,6 +12,12 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-sms@3.1.1024?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-sms@3.1.1043
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-sms@3.1.1043?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-sms@3.1.1077
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-sms@3.1.1077?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-sms@3.1.1080
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-sms@3.1.1080?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-sms@3.1.1089
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-sms@3.1.1089?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-sms@3.1.179
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-sms@3.1.179?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-sms@3.1.180

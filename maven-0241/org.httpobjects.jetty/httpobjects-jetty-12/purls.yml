@@ -1,0 +1,3 @@
+- pkg:maven/org.httpobjects.jetty/httpobjects-jetty-12@0.54.0?classifier=sources
+- pkg:maven/org.httpobjects.jetty/httpobjects-jetty-12@0.55.0?classifier=sources
+- pkg:maven/org.httpobjects.jetty/httpobjects-jetty-12@1.0.0.pre1?classifier=sources

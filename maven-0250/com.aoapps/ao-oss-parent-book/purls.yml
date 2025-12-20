@@ -64,3 +64,5 @@
 - pkg:maven/com.aoapps/ao-oss-parent-book@1.24.2?classifier=sources
 - pkg:maven/com.aoapps/ao-oss-parent-book@1.24.3
 - pkg:maven/com.aoapps/ao-oss-parent-book@1.24.3?classifier=sources
+- pkg:maven/com.aoapps/ao-oss-parent-book@1.24.4
+- pkg:maven/com.aoapps/ao-oss-parent-book@1.24.4?classifier=sources

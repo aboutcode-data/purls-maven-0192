@@ -108,3 +108,5 @@
 - pkg:maven/com.adaptc.mws/plugins-testing@1.4-1700513710?classifier=sources
 - pkg:maven/com.adaptc.mws/plugins-testing@1.4-1717695460
 - pkg:maven/com.adaptc.mws/plugins-testing@1.4-1717695460?classifier=sources
+- pkg:maven/com.adaptc.mws/plugins-testing@1.4-1722028972
+- pkg:maven/com.adaptc.mws/plugins-testing@1.4-1722028972?classifier=sources

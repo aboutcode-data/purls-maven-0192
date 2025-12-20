@@ -4,6 +4,8 @@
 - pkg:maven/com.enniovisco/webmonitor@1.1.0-internal.1?classifier=sources
 - pkg:maven/com.enniovisco/webmonitor@1.2.0-beta.8?classifier=sources
 - pkg:maven/com.enniovisco/webmonitor@1.2.0?classifier=sources
+- pkg:maven/com.enniovisco/webmonitor@1.3.0?classifier=sources
+- pkg:maven/com.enniovisco/webmonitor@1.3.1?classifier=sources
 - pkg:maven/com.enniovisco/webmonitor@v1.1.0-internal.1.beta.1?classifier=sources
 - pkg:maven/com.enniovisco/webmonitor@v1.2.0-beta.2?classifier=sources
 - pkg:maven/com.enniovisco/webmonitor@v1.2.0-beta.3?classifier=sources

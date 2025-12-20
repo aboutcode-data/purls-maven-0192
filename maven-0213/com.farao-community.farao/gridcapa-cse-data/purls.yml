@@ -86,8 +86,14 @@
 - pkg:maven/com.farao-community.farao/gridcapa-cse-data@1.27.0?classifier=sources
 - pkg:maven/com.farao-community.farao/gridcapa-cse-data@1.28.0
 - pkg:maven/com.farao-community.farao/gridcapa-cse-data@1.28.0?classifier=sources
+- pkg:maven/com.farao-community.farao/gridcapa-cse-data@1.29.0
+- pkg:maven/com.farao-community.farao/gridcapa-cse-data@1.29.0?classifier=sources
 - pkg:maven/com.farao-community.farao/gridcapa-cse-data@1.3.0
 - pkg:maven/com.farao-community.farao/gridcapa-cse-data@1.3.0?classifier=sources
+- pkg:maven/com.farao-community.farao/gridcapa-cse-data@1.30.0
+- pkg:maven/com.farao-community.farao/gridcapa-cse-data@1.30.0?classifier=sources
+- pkg:maven/com.farao-community.farao/gridcapa-cse-data@1.31.0
+- pkg:maven/com.farao-community.farao/gridcapa-cse-data@1.31.0?classifier=sources
 - pkg:maven/com.farao-community.farao/gridcapa-cse-data@1.4.0
 - pkg:maven/com.farao-community.farao/gridcapa-cse-data@1.4.0?classifier=sources
 - pkg:maven/com.farao-community.farao/gridcapa-cse-data@1.4.1

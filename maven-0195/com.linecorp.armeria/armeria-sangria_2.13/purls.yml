@@ -59,3 +59,4 @@
 - pkg:maven/com.linecorp.armeria/armeria-sangria_2.13@1.29.2?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-sangria_2.13@1.29.3?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-sangria_2.13@1.29.4?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-sangria_2.13@1.30.0?classifier=sources
