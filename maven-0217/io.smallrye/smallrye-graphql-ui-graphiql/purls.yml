@@ -118,6 +118,8 @@
 - pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@1.7.1?classifier=sources
 - pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@1.7.2
 - pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@1.7.2?classifier=sources
+- pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@1.7.3
+- pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@1.7.3?classifier=sources
 - pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@1.8.0
 - pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@1.8.0?classifier=sources
 - pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@1.8.1
@@ -182,6 +184,10 @@
 - pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@2.2.0?classifier=sources
 - pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@2.2.1
 - pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@2.2.1?classifier=sources
+- pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@2.2.2
+- pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@2.2.2?classifier=sources
+- pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@2.2.3
+- pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@2.2.3?classifier=sources
 - pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@2.3.0
 - pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@2.3.0?classifier=sources
 - pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@2.4.0
@@ -190,3 +196,9 @@
 - pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@2.5.0?classifier=sources
 - pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@2.5.1
 - pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@2.5.1?classifier=sources
+- pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@2.5.2
+- pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@2.5.2?classifier=sources
+- pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@2.6.0
+- pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@2.6.0?classifier=sources
+- pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@2.6.1
+- pkg:maven/io.smallrye/smallrye-graphql-ui-graphiql@2.6.1?classifier=sources

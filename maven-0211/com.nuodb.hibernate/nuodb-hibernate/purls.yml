@@ -38,10 +38,14 @@
 - pkg:maven/com.nuodb.hibernate/nuodb-hibernate@22.0.1-hib5?classifier=sources
 - pkg:maven/com.nuodb.hibernate/nuodb-hibernate@22.0.2-hib5
 - pkg:maven/com.nuodb.hibernate/nuodb-hibernate@22.0.2-hib5?classifier=sources
+- pkg:maven/com.nuodb.hibernate/nuodb-hibernate@22.0.3-hib5
+- pkg:maven/com.nuodb.hibernate/nuodb-hibernate@22.0.3-hib5?classifier=sources
 - pkg:maven/com.nuodb.hibernate/nuodb-hibernate@23.0.0-hib6
 - pkg:maven/com.nuodb.hibernate/nuodb-hibernate@23.0.0-hib6?classifier=sources
 - pkg:maven/com.nuodb.hibernate/nuodb-hibernate@23.0.1-hib6
 - pkg:maven/com.nuodb.hibernate/nuodb-hibernate@23.0.1-hib6?classifier=sources
+- pkg:maven/com.nuodb.hibernate/nuodb-hibernate@23.0.2-hib6
+- pkg:maven/com.nuodb.hibernate/nuodb-hibernate@23.0.2-hib6?classifier=sources
 - pkg:maven/com.nuodb.hibernate/nuodb-hibernate@3.0.0
 - pkg:maven/com.nuodb.hibernate/nuodb-hibernate@3.0.0?classifier=sources
 - pkg:maven/com.nuodb.hibernate/nuodb-hibernate@3.0.1

@@ -12,3 +12,10 @@
 - pkg:maven/net.onelitefeather.microtus/Minestom@1.1.1-SNAPSHOT%2B97220ae?classifier=sources
 - pkg:maven/net.onelitefeather.microtus/Minestom@1.1.1-SNAPSHOT%2Ba8e43bb?classifier=sources
 - pkg:maven/net.onelitefeather.microtus/Minestom@1.1.1?classifier=sources
+- pkg:maven/net.onelitefeather.microtus/Minestom@1.1.2?classifier=sources
+- pkg:maven/net.onelitefeather.microtus/Minestom@1.2.0-SNAPSHOT%2B6d3ab54?classifier=sources
+- pkg:maven/net.onelitefeather.microtus/Minestom@1.2.0-SNAPSHOT%2B7117b3d?classifier=sources
+- pkg:maven/net.onelitefeather.microtus/Minestom@1.2.0-SNAPSHOT%2B74b3bd4?classifier=sources
+- pkg:maven/net.onelitefeather.microtus/Minestom@1.2.0-SNAPSHOT%2B88786fa?classifier=sources
+- pkg:maven/net.onelitefeather.microtus/Minestom@1.2.0-SNAPSHOT%2B8a0c6b3?classifier=sources
+- pkg:maven/net.onelitefeather.microtus/Minestom@1.2.1?classifier=sources

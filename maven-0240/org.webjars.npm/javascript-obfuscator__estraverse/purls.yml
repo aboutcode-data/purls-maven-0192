@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/javascript-obfuscator__estraverse@5.4.0
+- pkg:maven/org.webjars.npm/javascript-obfuscator__estraverse@5.4.0?classifier=sources

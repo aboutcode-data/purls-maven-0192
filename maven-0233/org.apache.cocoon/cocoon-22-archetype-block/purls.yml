@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.cocoon/cocoon-22-archetype-block@1.0.0-RC2
 - pkg:maven/org.apache.cocoon/cocoon-22-archetype-block@1.0.0-RC2?classifier=sources
 - pkg:maven/org.apache.cocoon/cocoon-22-archetype-block@1.0.0?classifier=sources
+- pkg:maven/org.apache.cocoon/cocoon-22-archetype-block@2.3.0
+- pkg:maven/org.apache.cocoon/cocoon-22-archetype-block@2.3.0?classifier=sources

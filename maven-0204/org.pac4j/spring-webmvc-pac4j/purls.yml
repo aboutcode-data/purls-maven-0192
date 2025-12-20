@@ -68,6 +68,7 @@
 - pkg:maven/org.pac4j/spring-webmvc-pac4j@7.0.0-RC2
 - pkg:maven/org.pac4j/spring-webmvc-pac4j@7.0.0-RC2?classifier=sources
 - pkg:maven/org.pac4j/spring-webmvc-pac4j@7.0.0?classifier=sources
+- pkg:maven/org.pac4j/spring-webmvc-pac4j@8.0.0
 - pkg:maven/org.pac4j/spring-webmvc-pac4j@8.0.0-RC2
 - pkg:maven/org.pac4j/spring-webmvc-pac4j@8.0.0-RC2?classifier=sources
 - pkg:maven/org.pac4j/spring-webmvc-pac4j@8.0.0-RC3
@@ -76,3 +77,4 @@
 - pkg:maven/org.pac4j/spring-webmvc-pac4j@8.0.0-RC4?classifier=sources
 - pkg:maven/org.pac4j/spring-webmvc-pac4j@8.0.0-RC5
 - pkg:maven/org.pac4j/spring-webmvc-pac4j@8.0.0-RC5?classifier=sources
+- pkg:maven/org.pac4j/spring-webmvc-pac4j@8.0.0?classifier=sources

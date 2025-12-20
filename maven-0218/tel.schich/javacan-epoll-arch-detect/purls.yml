@@ -1,0 +1,2 @@
+- pkg:maven/tel.schich/javacan-epoll-arch-detect@3.3.0
+- pkg:maven/tel.schich/javacan-epoll-arch-detect@3.3.0?classifier=sources

@@ -76,6 +76,8 @@
 - pkg:maven/io.github.devlibx.easy/metrics-statsd@0.0.139.java19.loom
 - pkg:maven/io.github.devlibx.easy/metrics-statsd@0.0.139.java19.loom?classifier=sources
 - pkg:maven/io.github.devlibx.easy/metrics-statsd@0.0.139?classifier=sources
+- pkg:maven/io.github.devlibx.easy/metrics-statsd@0.0.140
+- pkg:maven/io.github.devlibx.easy/metrics-statsd@0.0.140?classifier=sources
 - pkg:maven/io.github.devlibx.easy/metrics-statsd@2.java-17.1
 - pkg:maven/io.github.devlibx.easy/metrics-statsd@2.java-17.1?classifier=sources
 - pkg:maven/io.github.devlibx.easy/metrics-statsd@3.java-17.1

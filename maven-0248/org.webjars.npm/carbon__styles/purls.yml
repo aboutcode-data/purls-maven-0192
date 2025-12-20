@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/carbon__styles@1.42.0
 - pkg:maven/org.webjars.npm/carbon__styles@1.42.0?classifier=sources
+- pkg:maven/org.webjars.npm/carbon__styles@1.46.0
+- pkg:maven/org.webjars.npm/carbon__styles@1.46.0?classifier=sources

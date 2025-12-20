@@ -4,6 +4,10 @@
 - pkg:maven/com.axonivy.ivy.webtest/web-tester@10.0.14?classifier=sources
 - pkg:maven/com.axonivy.ivy.webtest/web-tester@11.1.0
 - pkg:maven/com.axonivy.ivy.webtest/web-tester@11.1.0?classifier=sources
+- pkg:maven/com.axonivy.ivy.webtest/web-tester@11.2.0
+- pkg:maven/com.axonivy.ivy.webtest/web-tester@11.2.0?classifier=sources
+- pkg:maven/com.axonivy.ivy.webtest/web-tester@11.2.1
+- pkg:maven/com.axonivy.ivy.webtest/web-tester@11.2.1?classifier=sources
 - pkg:maven/com.axonivy.ivy.webtest/web-tester@8.0.0
 - pkg:maven/com.axonivy.ivy.webtest/web-tester@8.0.0?classifier=sources
 - pkg:maven/com.axonivy.ivy.webtest/web-tester@8.0.1

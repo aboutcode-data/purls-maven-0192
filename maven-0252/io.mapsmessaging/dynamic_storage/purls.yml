@@ -1,0 +1,2 @@
+- pkg:maven/io.mapsmessaging/dynamic_storage@2.4.11
+- pkg:maven/io.mapsmessaging/dynamic_storage@2.4.11?classifier=sources

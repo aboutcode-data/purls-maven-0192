@@ -128,3 +128,5 @@
 - pkg:maven/com.spotify/github-client@0.1.62?classifier=sources
 - pkg:maven/com.spotify/github-client@0.2.0
 - pkg:maven/com.spotify/github-client@0.2.0?classifier=sources
+- pkg:maven/com.spotify/github-client@0.2.1
+- pkg:maven/com.spotify/github-client@0.2.1?classifier=sources

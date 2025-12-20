@@ -32,3 +32,7 @@
 - pkg:maven/org.clojure/tools.deps@0.18.1349?classifier=sources
 - pkg:maven/org.clojure/tools.deps@0.18.1354
 - pkg:maven/org.clojure/tools.deps@0.18.1354?classifier=sources
+- pkg:maven/org.clojure/tools.deps@0.18.1370
+- pkg:maven/org.clojure/tools.deps@0.18.1370?classifier=sources
+- pkg:maven/org.clojure/tools.deps@0.18.1374
+- pkg:maven/org.clojure/tools.deps@0.18.1374?classifier=sources

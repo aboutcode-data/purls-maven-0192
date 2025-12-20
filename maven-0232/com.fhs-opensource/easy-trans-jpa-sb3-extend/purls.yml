@@ -1,2 +1,4 @@
 - pkg:maven/com.fhs-opensource/easy-trans-jpa-sb3-extend@2.2.3
 - pkg:maven/com.fhs-opensource/easy-trans-jpa-sb3-extend@2.2.3?classifier=sources
+- pkg:maven/com.fhs-opensource/easy-trans-jpa-sb3-extend@2.2.4
+- pkg:maven/com.fhs-opensource/easy-trans-jpa-sb3-extend@2.2.4?classifier=sources

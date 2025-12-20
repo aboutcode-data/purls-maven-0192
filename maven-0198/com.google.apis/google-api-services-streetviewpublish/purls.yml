@@ -876,6 +876,8 @@
 - pkg:maven/com.google.apis/google-api-services-streetviewpublish@v1-rev20230611-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-streetviewpublish@v1-rev20230806-2.0.0
 - pkg:maven/com.google.apis/google-api-services-streetviewpublish@v1-rev20230806-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-streetviewpublish@v1-rev20231203-2.0.0
+- pkg:maven/com.google.apis/google-api-services-streetviewpublish@v1-rev20231203-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-streetviewpublish@v1-rev205-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-streetviewpublish@v1-rev205-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-streetviewpublish@v1-rev206-1.18.0-rc

@@ -144,6 +144,10 @@
 - pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.7.11?type=war
 - pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.7.12?classifier=sources
 - pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.7.12?type=war
+- pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.7.13?classifier=sources
+- pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.7.13?type=war
+- pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.7.14?classifier=sources
+- pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.7.14?type=war
 - pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.7.1?classifier=sources
 - pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.7.1?type=war
 - pkg:maven/de.codecentric/spring-boot-admin-sample-war@2.7.2?classifier=sources
@@ -206,3 +210,5 @@
 - pkg:maven/de.codecentric/spring-boot-admin-sample-war@3.1.6?type=war
 - pkg:maven/de.codecentric/spring-boot-admin-sample-war@3.1.7?classifier=sources
 - pkg:maven/de.codecentric/spring-boot-admin-sample-war@3.1.7?type=war
+- pkg:maven/de.codecentric/spring-boot-admin-sample-war@3.1.8?classifier=sources
+- pkg:maven/de.codecentric/spring-boot-admin-sample-war@3.1.8?type=war

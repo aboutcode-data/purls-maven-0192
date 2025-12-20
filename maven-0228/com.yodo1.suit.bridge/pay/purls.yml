@@ -3,3 +3,4 @@
 - pkg:maven/com.yodo1.suit.bridge/pay@6.1.2.3?classifier=sources
 - pkg:maven/com.yodo1.suit.bridge/pay@6.1.4.0?classifier=sources
 - pkg:maven/com.yodo1.suit.bridge/pay@6.1.7.0?classifier=sources
+- pkg:maven/com.yodo1.suit.bridge/pay@6.3.7.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.sigpwned/diffbot4j@20230813.1.0
+- pkg:maven/com.sigpwned/diffbot4j@20230813.1.0?classifier=sources

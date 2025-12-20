@@ -2,3 +2,7 @@
 - pkg:maven/org.glassfish.jersey.ext/jersey-micrometer@2.41?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-micrometer@3.0.12
 - pkg:maven/org.glassfish.jersey.ext/jersey-micrometer@3.0.12?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext/jersey-micrometer@3.1.4
+- pkg:maven/org.glassfish.jersey.ext/jersey-micrometer@3.1.4?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext/jersey-micrometer@3.1.5
+- pkg:maven/org.glassfish.jersey.ext/jersey-micrometer@3.1.5?classifier=sources

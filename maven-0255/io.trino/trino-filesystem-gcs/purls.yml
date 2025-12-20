@@ -1,2 +1,4 @@
 - pkg:maven/io.trino/trino-filesystem-gcs@433
 - pkg:maven/io.trino/trino-filesystem-gcs@433?classifier=sources
+- pkg:maven/io.trino/trino-filesystem-gcs@434
+- pkg:maven/io.trino/trino-filesystem-gcs@434?classifier=sources

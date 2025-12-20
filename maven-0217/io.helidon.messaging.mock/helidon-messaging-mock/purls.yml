@@ -22,6 +22,8 @@
 - pkg:maven/io.helidon.messaging.mock/helidon-messaging-mock@3.2.2?classifier=sources
 - pkg:maven/io.helidon.messaging.mock/helidon-messaging-mock@3.2.3
 - pkg:maven/io.helidon.messaging.mock/helidon-messaging-mock@3.2.3?classifier=sources
+- pkg:maven/io.helidon.messaging.mock/helidon-messaging-mock@3.2.4
+- pkg:maven/io.helidon.messaging.mock/helidon-messaging-mock@3.2.4?classifier=sources
 - pkg:maven/io.helidon.messaging.mock/helidon-messaging-mock@4.0.0
 - pkg:maven/io.helidon.messaging.mock/helidon-messaging-mock@4.0.0-ALPHA1
 - pkg:maven/io.helidon.messaging.mock/helidon-messaging-mock@4.0.0-ALPHA1?classifier=sources
@@ -44,3 +46,5 @@
 - pkg:maven/io.helidon.messaging.mock/helidon-messaging-mock@4.0.0-RC2
 - pkg:maven/io.helidon.messaging.mock/helidon-messaging-mock@4.0.0-RC2?classifier=sources
 - pkg:maven/io.helidon.messaging.mock/helidon-messaging-mock@4.0.0?classifier=sources
+- pkg:maven/io.helidon.messaging.mock/helidon-messaging-mock@4.0.1
+- pkg:maven/io.helidon.messaging.mock/helidon-messaging-mock@4.0.1?classifier=sources

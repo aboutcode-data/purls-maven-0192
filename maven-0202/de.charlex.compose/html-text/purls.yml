@@ -6,3 +6,4 @@
 - pkg:maven/de.charlex.compose/html-text@1.4.0?classifier=sources
 - pkg:maven/de.charlex.compose/html-text@1.4.1?classifier=sources
 - pkg:maven/de.charlex.compose/html-text@1.5.0?classifier=sources
+- pkg:maven/de.charlex.compose/html-text@1.6.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.yupiik.batch/yupiik-batch-metrics-relay@1.0.4
+- pkg:maven/io.yupiik.batch/yupiik-batch-metrics-relay@1.0.4?classifier=sources

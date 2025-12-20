@@ -18,3 +18,5 @@
 - pkg:maven/org.webjars.npm/tag2link@2022.11.28?classifier=sources
 - pkg:maven/org.webjars.npm/tag2link@2023.10.21
 - pkg:maven/org.webjars.npm/tag2link@2023.10.21?classifier=sources
+- pkg:maven/org.webjars.npm/tag2link@2023.11.21
+- pkg:maven/org.webjars.npm/tag2link@2023.11.21?classifier=sources

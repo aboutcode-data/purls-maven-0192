@@ -10,4 +10,5 @@
 - pkg:maven/org.ifinalframework/final-doc@1.5.2?classifier=sources
 - pkg:maven/org.ifinalframework/final-doc@1.5.3
 - pkg:maven/org.ifinalframework/final-doc@1.5.4
+- pkg:maven/org.ifinalframework/final-doc@1.5.5
 - pkg:maven/org.ifinalframework/final-doc@1.5.5-alpha

@@ -97,6 +97,7 @@
 - pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@1.0.39?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@1.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@1.0.4
+- pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@1.0.40?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@1.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@1.0.5
 - pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@1.0.5?classifier=sources
@@ -156,6 +157,7 @@
 - pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@2.0.21?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@2.0.22
 - pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@2.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@2.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@2.0.3
@@ -236,6 +238,7 @@
 - pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@3.0.25?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@3.0.26
 - pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@3.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@3.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@3.0.3
@@ -313,6 +316,7 @@
 - pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@4.0.24?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@4.0.25
 - pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@4.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@4.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.layout.prototype@4.0.3

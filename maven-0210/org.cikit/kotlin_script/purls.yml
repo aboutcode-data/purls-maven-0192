@@ -6,3 +6,6 @@
 - pkg:maven/org.cikit/kotlin_script@1.6.10.16?classifier=sources
 - pkg:maven/org.cikit/kotlin_script@1.6.21.18?classifier=sources
 - pkg:maven/org.cikit/kotlin_script@1.8.10.18?classifier=sources
+- pkg:maven/org.cikit/kotlin_script@1.9.21.19?classifier=sources
+- pkg:maven/org.cikit/kotlin_script@1.9.21.20?classifier=sources
+- pkg:maven/org.cikit/kotlin_script@1.9.21.21?classifier=sources

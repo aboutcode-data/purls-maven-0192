@@ -4,3 +4,6 @@
 - pkg:maven/ru.yoomoney.sdk.forms-sdk/forms-sdk-android-sdk@0.0.5?classifier=sources
 - pkg:maven/ru.yoomoney.sdk.forms-sdk/forms-sdk-android-sdk@0.0.6?classifier=sources
 - pkg:maven/ru.yoomoney.sdk.forms-sdk/forms-sdk-android-sdk@0.0.7?classifier=sources
+- pkg:maven/ru.yoomoney.sdk.forms-sdk/forms-sdk-android-sdk@0.1.0?classifier=sources
+- pkg:maven/ru.yoomoney.sdk.forms-sdk/forms-sdk-android-sdk@0.1.1?classifier=sources
+- pkg:maven/ru.yoomoney.sdk.forms-sdk/forms-sdk-android-sdk@0.1.2?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/com.epam.drill.autotest/agent-runner-plugin-maven@0.22.5?classifier=sources

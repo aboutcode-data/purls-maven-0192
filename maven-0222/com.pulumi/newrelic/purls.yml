@@ -75,6 +75,17 @@
 - pkg:maven/com.pulumi/newrelic@5.16.0-alpha.1699335926%2Bb5c5938c?classifier=sources
 - pkg:maven/com.pulumi/newrelic@5.16.0-alpha.1699509211%2B82365808?classifier=sources
 - pkg:maven/com.pulumi/newrelic@5.16.0-alpha.1699648924%2B9c272d2c?classifier=sources
+- pkg:maven/com.pulumi/newrelic@5.16.0-alpha.1700082329%2B368284a1?classifier=sources
+- pkg:maven/com.pulumi/newrelic@5.16.0-alpha.1700113893%2B84beff10?classifier=sources
+- pkg:maven/com.pulumi/newrelic@5.16.0-alpha.1700200098%2B9274e84b?classifier=sources
+- pkg:maven/com.pulumi/newrelic@5.16.0-alpha.1700545425%2Bff63d01c?classifier=sources
+- pkg:maven/com.pulumi/newrelic@5.16.0-alpha.1700614830%2B925fcc00?classifier=sources
+- pkg:maven/com.pulumi/newrelic@5.16.0-alpha.1701792627%2B4b59addd?classifier=sources
+- pkg:maven/com.pulumi/newrelic@5.16.0-alpha.1701841665%2B8810a1c7?classifier=sources
+- pkg:maven/com.pulumi/newrelic@5.16.0-alpha.1702349627%2B39ce0cb8?classifier=sources
+- pkg:maven/com.pulumi/newrelic@5.16.0-alpha.1702359808%2B7815f7fc?classifier=sources
+- pkg:maven/com.pulumi/newrelic@5.16.0-alpha.1702405250%2Bd96bab48?classifier=sources
+- pkg:maven/com.pulumi/newrelic@5.16.0-alpha.1702446618%2B3a770c31?classifier=sources
 - pkg:maven/com.pulumi/newrelic@5.2.0-alpha.1668645388%2B4da12d93?classifier=sources
 - pkg:maven/com.pulumi/newrelic@5.2.0?classifier=sources
 - pkg:maven/com.pulumi/newrelic@5.3.0-alpha.1673556204%2B6b8f022b?classifier=sources

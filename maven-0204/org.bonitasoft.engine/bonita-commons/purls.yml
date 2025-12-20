@@ -1,2 +1,3 @@
 - pkg:maven/org.bonitasoft.engine/bonita-commons@7.15.0?classifier=sources
 - pkg:maven/org.bonitasoft.engine/bonita-commons@8.0.0?classifier=sources
+- pkg:maven/org.bonitasoft.engine/bonita-commons@9.0.0?classifier=sources

@@ -25,6 +25,7 @@
 - pkg:maven/com.liferay/com.liferay.comment.api@2.0.8
 - pkg:maven/com.liferay/com.liferay.comment.api@2.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.comment.api@2.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.comment.api@2.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.comment.api@3.0.0
 - pkg:maven/com.liferay/com.liferay.comment.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.comment.api@3.0.0?classifier=sources-commercial
@@ -76,6 +77,7 @@
 - pkg:maven/com.liferay/com.liferay.comment.api@3.2.2
 - pkg:maven/com.liferay/com.liferay.comment.api@3.2.20
 - pkg:maven/com.liferay/com.liferay.comment.api@3.2.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.comment.api@3.2.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.comment.api@3.2.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.comment.api@3.2.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.comment.api@3.2.3
@@ -212,6 +214,7 @@
 - pkg:maven/com.liferay/com.liferay.comment.api@4.5.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.comment.api@4.5.3
 - pkg:maven/com.liferay/com.liferay.comment.api@4.5.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.comment.api@4.5.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.comment.api@5.0.0
 - pkg:maven/com.liferay/com.liferay.comment.api@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.comment.api@5.0.0?classifier=sources-commercial

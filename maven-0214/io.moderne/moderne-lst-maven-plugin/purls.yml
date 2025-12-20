@@ -10,3 +10,7 @@
 - pkg:maven/io.moderne/moderne-lst-maven-plugin@2.4.2
 - pkg:maven/io.moderne/moderne-lst-maven-plugin@2.4.3
 - pkg:maven/io.moderne/moderne-lst-maven-plugin@2.5.0
+- pkg:maven/io.moderne/moderne-lst-maven-plugin@2.6.0
+- pkg:maven/io.moderne/moderne-lst-maven-plugin@2.7.0
+- pkg:maven/io.moderne/moderne-lst-maven-plugin@2.7.1
+- pkg:maven/io.moderne/moderne-lst-maven-plugin@2.7.2

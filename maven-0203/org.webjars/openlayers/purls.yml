@@ -34,3 +34,4 @@
 - pkg:maven/org.webjars/openlayers@6.5.0
 - pkg:maven/org.webjars/openlayers@6.6.1
 - pkg:maven/org.webjars/openlayers@6.9.0
+- pkg:maven/org.webjars/openlayers@8.2.0

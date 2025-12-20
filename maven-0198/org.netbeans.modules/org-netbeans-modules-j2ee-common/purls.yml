@@ -18,3 +18,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-common@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-common@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-common@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-common@RELEASE200?classifier=sources

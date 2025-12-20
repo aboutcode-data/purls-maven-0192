@@ -1,0 +1,1 @@
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-collections-immutable-wasm-js@0.3.7?classifier=sources

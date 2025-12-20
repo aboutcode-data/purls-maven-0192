@@ -17,6 +17,7 @@
 - pkg:maven/com.hivemq/hivemq-extension-sdk@4.20.0?classifier=sources
 - pkg:maven/com.hivemq/hivemq-extension-sdk@4.21.0?classifier=sources
 - pkg:maven/com.hivemq/hivemq-extension-sdk@4.22.0?classifier=sources
+- pkg:maven/com.hivemq/hivemq-extension-sdk@4.23.0?classifier=sources
 - pkg:maven/com.hivemq/hivemq-extension-sdk@4.3.0
 - pkg:maven/com.hivemq/hivemq-extension-sdk@4.3.0?classifier=sources
 - pkg:maven/com.hivemq/hivemq-extension-sdk@4.4.0
@@ -107,6 +108,7 @@
 - pkg:maven/com.hivemq/hivemq-extension-sdk@4.9.11?classifier=sources
 - pkg:maven/com.hivemq/hivemq-extension-sdk@4.9.12?classifier=sources
 - pkg:maven/com.hivemq/hivemq-extension-sdk@4.9.13?classifier=sources
+- pkg:maven/com.hivemq/hivemq-extension-sdk@4.9.14?classifier=sources
 - pkg:maven/com.hivemq/hivemq-extension-sdk@4.9.1?classifier=sources
 - pkg:maven/com.hivemq/hivemq-extension-sdk@4.9.2?classifier=sources
 - pkg:maven/com.hivemq/hivemq-extension-sdk@4.9.3?classifier=sources

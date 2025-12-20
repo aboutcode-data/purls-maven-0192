@@ -6,3 +6,5 @@
 - pkg:maven/top.tanmw/db2dict@1.0.0?classifier=sources
 - pkg:maven/top.tanmw/db2dict@1.1.0
 - pkg:maven/top.tanmw/db2dict@1.1.0?classifier=sources
+- pkg:maven/top.tanmw/db2dict@1.1.1
+- pkg:maven/top.tanmw/db2dict@1.1.1?classifier=sources

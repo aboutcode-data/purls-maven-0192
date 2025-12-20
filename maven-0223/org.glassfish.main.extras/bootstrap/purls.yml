@@ -1,5 +1,6 @@
 - pkg:maven/org.glassfish.main.extras/bootstrap@7.0.1
 - pkg:maven/org.glassfish.main.extras/bootstrap@7.0.10?classifier=sources
+- pkg:maven/org.glassfish.main.extras/bootstrap@7.0.11?classifier=sources
 - pkg:maven/org.glassfish.main.extras/bootstrap@7.0.1?classifier=sources
 - pkg:maven/org.glassfish.main.extras/bootstrap@7.0.2
 - pkg:maven/org.glassfish.main.extras/bootstrap@7.0.2?classifier=sources
@@ -13,3 +14,4 @@
 - pkg:maven/org.glassfish.main.extras/bootstrap@7.0.7?classifier=sources
 - pkg:maven/org.glassfish.main.extras/bootstrap@7.0.8?classifier=sources
 - pkg:maven/org.glassfish.main.extras/bootstrap@7.0.9?classifier=sources
+- pkg:maven/org.glassfish.main.extras/bootstrap@8.0.0-M1?classifier=sources

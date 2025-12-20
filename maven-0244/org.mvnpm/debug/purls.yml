@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/debug@2.6.9?classifier=sources
 - pkg:maven/org.mvnpm/debug@4.3.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/eu.monniot/scala3mock-cats_3@0.6.0
+- pkg:maven/eu.monniot/scala3mock-cats_3@0.6.0?classifier=sources
