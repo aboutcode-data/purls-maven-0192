@@ -95,3 +95,5 @@
 - pkg:maven/com.powsybl/powsybl-cgmes-model-alternatives@6.4.0
 - pkg:maven/com.powsybl/powsybl-cgmes-model-alternatives@6.4.0-RC2
 - pkg:maven/com.powsybl/powsybl-cgmes-model-alternatives@6.4.1
+- pkg:maven/com.powsybl/powsybl-cgmes-model-alternatives@6.5.0
+- pkg:maven/com.powsybl/powsybl-cgmes-model-alternatives@6.5.0-RC1

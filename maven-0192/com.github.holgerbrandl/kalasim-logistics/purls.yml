@@ -4,3 +4,4 @@
 - pkg:maven/com.github.holgerbrandl/kalasim-logistics@0.12.107?classifier=sources
 - pkg:maven/com.github.holgerbrandl/kalasim-logistics@0.12.108?classifier=sources
 - pkg:maven/com.github.holgerbrandl/kalasim-logistics@0.12.109?classifier=sources
+- pkg:maven/com.github.holgerbrandl/kalasim-logistics@1.0.0?classifier=sources

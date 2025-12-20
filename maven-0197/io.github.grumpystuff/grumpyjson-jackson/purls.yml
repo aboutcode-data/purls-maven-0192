@@ -1,1 +1,2 @@
 - pkg:maven/io.github.grumpystuff/grumpyjson-jackson@0.10?classifier=sources
+- pkg:maven/io.github.grumpystuff/grumpyjson-jackson@0.11?classifier=sources

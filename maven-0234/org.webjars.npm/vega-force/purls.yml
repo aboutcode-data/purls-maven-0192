@@ -10,3 +10,4 @@
 - pkg:maven/org.webjars.npm/vega-force@4.0.7?classifier=sources
 - pkg:maven/org.webjars.npm/vega-force@4.1.0
 - pkg:maven/org.webjars.npm/vega-force@4.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/vega-force@4.2.1

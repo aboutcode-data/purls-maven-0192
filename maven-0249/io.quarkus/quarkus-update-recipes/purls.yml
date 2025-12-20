@@ -37,6 +37,8 @@
 - pkg:maven/io.quarkus/quarkus-update-recipes@1.0.20?classifier=sources
 - pkg:maven/io.quarkus/quarkus-update-recipes@1.0.21
 - pkg:maven/io.quarkus/quarkus-update-recipes@1.0.21?classifier=sources
+- pkg:maven/io.quarkus/quarkus-update-recipes@1.0.22
+- pkg:maven/io.quarkus/quarkus-update-recipes@1.0.22?classifier=sources
 - pkg:maven/io.quarkus/quarkus-update-recipes@1.0.2?classifier=sources
 - pkg:maven/io.quarkus/quarkus-update-recipes@1.0.3
 - pkg:maven/io.quarkus/quarkus-update-recipes@1.0.3?classifier=sources

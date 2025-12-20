@@ -2,6 +2,10 @@
 - pkg:maven/name.velikodniy.vitaliy/fixedlength@0.10?classifier=sources
 - pkg:maven/name.velikodniy.vitaliy/fixedlength@0.11
 - pkg:maven/name.velikodniy.vitaliy/fixedlength@0.11?classifier=sources
+- pkg:maven/name.velikodniy.vitaliy/fixedlength@0.12
+- pkg:maven/name.velikodniy.vitaliy/fixedlength@0.12?classifier=sources
+- pkg:maven/name.velikodniy.vitaliy/fixedlength@0.13
+- pkg:maven/name.velikodniy.vitaliy/fixedlength@0.13?classifier=sources
 - pkg:maven/name.velikodniy.vitaliy/fixedlength@0.5
 - pkg:maven/name.velikodniy.vitaliy/fixedlength@0.5?classifier=sources
 - pkg:maven/name.velikodniy.vitaliy/fixedlength@0.6

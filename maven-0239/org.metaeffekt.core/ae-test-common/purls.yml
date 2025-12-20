@@ -26,3 +26,7 @@
 - pkg:maven/org.metaeffekt.core/ae-test-common@0.122.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-test-common@0.123.0
 - pkg:maven/org.metaeffekt.core/ae-test-common@0.123.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-test-common@0.124.0
+- pkg:maven/org.metaeffekt.core/ae-test-common@0.124.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-test-common@0.125.0
+- pkg:maven/org.metaeffekt.core/ae-test-common@0.125.0?classifier=sources

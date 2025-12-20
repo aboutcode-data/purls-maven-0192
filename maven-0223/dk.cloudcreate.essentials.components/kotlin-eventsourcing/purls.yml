@@ -10,3 +10,7 @@
 - pkg:maven/dk.cloudcreate.essentials.components/kotlin-eventsourcing@0.40.14?classifier=sources
 - pkg:maven/dk.cloudcreate.essentials.components/kotlin-eventsourcing@0.40.15
 - pkg:maven/dk.cloudcreate.essentials.components/kotlin-eventsourcing@0.40.15?classifier=sources
+- pkg:maven/dk.cloudcreate.essentials.components/kotlin-eventsourcing@0.40.16
+- pkg:maven/dk.cloudcreate.essentials.components/kotlin-eventsourcing@0.40.16?classifier=sources
+- pkg:maven/dk.cloudcreate.essentials.components/kotlin-eventsourcing@0.40.17
+- pkg:maven/dk.cloudcreate.essentials.components/kotlin-eventsourcing@0.40.17?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/io.github.cdklabs.cdk_cloudformation/spot-elastigroup-group@1.0.3-alpha.7?classifier=sources
 - pkg:maven/io.github.cdklabs.cdk_cloudformation/spot-elastigroup-group@1.0.4-alpha.7
 - pkg:maven/io.github.cdklabs.cdk_cloudformation/spot-elastigroup-group@1.0.4-alpha.7?classifier=sources
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/spot-elastigroup-group@1.0.5-alpha.7
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/spot-elastigroup-group@1.0.5-alpha.7?classifier=sources

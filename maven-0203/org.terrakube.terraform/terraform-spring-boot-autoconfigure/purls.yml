@@ -20,6 +20,8 @@
 - pkg:maven/org.terrakube.terraform/terraform-spring-boot-autoconfigure@0.14.0?classifier=sources
 - pkg:maven/org.terrakube.terraform/terraform-spring-boot-autoconfigure@0.15.0
 - pkg:maven/org.terrakube.terraform/terraform-spring-boot-autoconfigure@0.15.0?classifier=sources
+- pkg:maven/org.terrakube.terraform/terraform-spring-boot-autoconfigure@0.16.0
+- pkg:maven/org.terrakube.terraform/terraform-spring-boot-autoconfigure@0.16.0?classifier=sources
 - pkg:maven/org.terrakube.terraform/terraform-spring-boot-autoconfigure@0.6.4
 - pkg:maven/org.terrakube.terraform/terraform-spring-boot-autoconfigure@0.6.4?classifier=sources
 - pkg:maven/org.terrakube.terraform/terraform-spring-boot-autoconfigure@0.6.5

@@ -38,6 +38,8 @@
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.license_check.spi@13.0.0-beta0027?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.license_check.spi@13.0.0-beta0028?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.license_check.spi@13.0.0?classifier=sources
+- pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.license_check.spi@14.0.0?classifier=sources
+- pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.license_check.spi@15.0.0?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.license_check.spi@6.10.0?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.license_check.spi@6.10.1?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.license_check.spi@6.11.0?classifier=sources

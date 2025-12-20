@@ -70,3 +70,13 @@
 - pkg:maven/io.trino/trino-grammar@458?classifier=sources
 - pkg:maven/io.trino/trino-grammar@459
 - pkg:maven/io.trino/trino-grammar@459?classifier=sources
+- pkg:maven/io.trino/trino-grammar@460
+- pkg:maven/io.trino/trino-grammar@460?classifier=sources
+- pkg:maven/io.trino/trino-grammar@461
+- pkg:maven/io.trino/trino-grammar@461?classifier=sources
+- pkg:maven/io.trino/trino-grammar@462
+- pkg:maven/io.trino/trino-grammar@462?classifier=sources
+- pkg:maven/io.trino/trino-grammar@463
+- pkg:maven/io.trino/trino-grammar@463?classifier=sources
+- pkg:maven/io.trino/trino-grammar@464
+- pkg:maven/io.trino/trino-grammar@464?classifier=sources

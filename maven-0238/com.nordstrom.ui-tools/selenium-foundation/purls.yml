@@ -525,3 +525,11 @@
 - pkg:maven/com.nordstrom.ui-tools/selenium-foundation@28.1.0-s4?classifier=sources
 - pkg:maven/com.nordstrom.ui-tools/selenium-foundation@28.1.1-s3?classifier=sources
 - pkg:maven/com.nordstrom.ui-tools/selenium-foundation@28.1.1-s4?classifier=sources
+- pkg:maven/com.nordstrom.ui-tools/selenium-foundation@28.2.0-s3?classifier=sources
+- pkg:maven/com.nordstrom.ui-tools/selenium-foundation@28.2.0-s4?classifier=sources
+- pkg:maven/com.nordstrom.ui-tools/selenium-foundation@28.2.1-s3?classifier=sources
+- pkg:maven/com.nordstrom.ui-tools/selenium-foundation@28.2.1-s4?classifier=sources
+- pkg:maven/com.nordstrom.ui-tools/selenium-foundation@28.2.2-s3?classifier=sources
+- pkg:maven/com.nordstrom.ui-tools/selenium-foundation@28.2.2-s4?classifier=sources
+- pkg:maven/com.nordstrom.ui-tools/selenium-foundation@28.3.0-s3?classifier=sources
+- pkg:maven/com.nordstrom.ui-tools/selenium-foundation@28.3.0-s4?classifier=sources

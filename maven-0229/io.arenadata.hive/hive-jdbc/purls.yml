@@ -6,5 +6,7 @@
 - pkg:maven/io.arenadata.hive/hive-jdbc@2.3.8-arenadata-pxf-3?classifier=sources
 - pkg:maven/io.arenadata.hive/hive-jdbc@2.3.9_arenadata1
 - pkg:maven/io.arenadata.hive/hive-jdbc@2.3.9_arenadata1?classifier=sources
+- pkg:maven/io.arenadata.hive/hive-jdbc@2.3.9_arenadata2
+- pkg:maven/io.arenadata.hive/hive-jdbc@2.3.9_arenadata2?classifier=sources
 - pkg:maven/io.arenadata.hive/hive-jdbc@3.1.1-arenadata
 - pkg:maven/io.arenadata.hive/hive-jdbc@3.1.1-arenadata?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.kyuubi/kyuubi-flink-token-provider@1.10.0
+- pkg:maven/org.apache.kyuubi/kyuubi-flink-token-provider@1.10.0?classifier=sources

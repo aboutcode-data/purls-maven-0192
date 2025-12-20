@@ -310,6 +310,10 @@
 - pkg:maven/io.sentry/sentry-android-timber@7.13.0?classifier=sources
 - pkg:maven/io.sentry/sentry-android-timber@7.14.0?classifier=sources
 - pkg:maven/io.sentry/sentry-android-timber@7.15.0-alpha.1?classifier=sources
+- pkg:maven/io.sentry/sentry-android-timber@7.15.0?classifier=sources
+- pkg:maven/io.sentry/sentry-android-timber@7.16.0-alpha.1?classifier=sources
+- pkg:maven/io.sentry/sentry-android-timber@7.16.0?classifier=sources
+- pkg:maven/io.sentry/sentry-android-timber@7.17.0-alpha.1?classifier=sources
 - pkg:maven/io.sentry/sentry-android-timber@7.2.0?classifier=sources
 - pkg:maven/io.sentry/sentry-android-timber@7.2.0?type=aar
 - pkg:maven/io.sentry/sentry-android-timber@7.3.0?classifier=sources
@@ -335,3 +339,4 @@
 - pkg:maven/io.sentry/sentry-android-timber@8.0.0-alpha.2?classifier=sources
 - pkg:maven/io.sentry/sentry-android-timber@8.0.0-alpha.3?classifier=sources
 - pkg:maven/io.sentry/sentry-android-timber@8.0.0-alpha.4?classifier=sources
+- pkg:maven/io.sentry/sentry-android-timber@8.0.0-beta.1?classifier=sources

@@ -38,6 +38,7 @@
 - pkg:maven/org.neo4j/neo4j-jdbc@4.0.9?classifier=sources
 - pkg:maven/org.neo4j/neo4j-jdbc@5.0.0
 - pkg:maven/org.neo4j/neo4j-jdbc@5.0.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-jdbc@6.0.0
 - pkg:maven/org.neo4j/neo4j-jdbc@6.0.0-M01
 - pkg:maven/org.neo4j/neo4j-jdbc@6.0.0-M01?classifier=sources
 - pkg:maven/org.neo4j/neo4j-jdbc@6.0.0-M02
@@ -48,3 +49,6 @@
 - pkg:maven/org.neo4j/neo4j-jdbc@6.0.0-M04?classifier=sources
 - pkg:maven/org.neo4j/neo4j-jdbc@6.0.0-M05
 - pkg:maven/org.neo4j/neo4j-jdbc@6.0.0-M05?classifier=sources
+- pkg:maven/org.neo4j/neo4j-jdbc@6.0.0-RC1
+- pkg:maven/org.neo4j/neo4j-jdbc@6.0.0-RC1?classifier=sources
+- pkg:maven/org.neo4j/neo4j-jdbc@6.0.0?classifier=sources

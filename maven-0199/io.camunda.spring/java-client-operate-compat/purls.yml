@@ -4,6 +4,12 @@
 - pkg:maven/io.camunda.spring/java-client-operate-compat@8.5.11?classifier=sources
 - pkg:maven/io.camunda.spring/java-client-operate-compat@8.5.12
 - pkg:maven/io.camunda.spring/java-client-operate-compat@8.5.12?classifier=sources
+- pkg:maven/io.camunda.spring/java-client-operate-compat@8.5.13
+- pkg:maven/io.camunda.spring/java-client-operate-compat@8.5.13?classifier=sources
+- pkg:maven/io.camunda.spring/java-client-operate-compat@8.5.14
+- pkg:maven/io.camunda.spring/java-client-operate-compat@8.5.14?classifier=sources
+- pkg:maven/io.camunda.spring/java-client-operate-compat@8.5.15
+- pkg:maven/io.camunda.spring/java-client-operate-compat@8.5.15?classifier=sources
 - pkg:maven/io.camunda.spring/java-client-operate-compat@8.5.9
 - pkg:maven/io.camunda.spring/java-client-operate-compat@8.5.9-rc1
 - pkg:maven/io.camunda.spring/java-client-operate-compat@8.5.9-rc1?classifier=sources

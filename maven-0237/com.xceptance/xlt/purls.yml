@@ -74,3 +74,5 @@
 - pkg:maven/com.xceptance/xlt@8.3.0?type=zip
 - pkg:maven/com.xceptance/xlt@8.4.0?classifier=sources
 - pkg:maven/com.xceptance/xlt@8.4.0?type=zip
+- pkg:maven/com.xceptance/xlt@8.4.1?classifier=sources
+- pkg:maven/com.xceptance/xlt@8.4.1?type=zip

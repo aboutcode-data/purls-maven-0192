@@ -430,3 +430,7 @@
 - pkg:maven/org.apache.hbase/hbase-protocol@2.6.0-hadoop3
 - pkg:maven/org.apache.hbase/hbase-protocol@2.6.0-hadoop3?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-protocol@2.6.0?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-protocol@2.6.1
+- pkg:maven/org.apache.hbase/hbase-protocol@2.6.1-hadoop3
+- pkg:maven/org.apache.hbase/hbase-protocol@2.6.1-hadoop3?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-protocol@2.6.1?classifier=sources

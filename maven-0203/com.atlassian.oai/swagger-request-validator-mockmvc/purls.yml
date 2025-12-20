@@ -147,6 +147,7 @@
 - pkg:maven/com.atlassian.oai/swagger-request-validator-mockmvc@2.40.0?classifier=sources
 - pkg:maven/com.atlassian.oai/swagger-request-validator-mockmvc@2.41.0?classifier=sources
 - pkg:maven/com.atlassian.oai/swagger-request-validator-mockmvc@2.42.0?classifier=sources
+- pkg:maven/com.atlassian.oai/swagger-request-validator-mockmvc@2.43.0?classifier=sources
 - pkg:maven/com.atlassian.oai/swagger-request-validator-mockmvc@2.5.0
 - pkg:maven/com.atlassian.oai/swagger-request-validator-mockmvc@2.5.0?classifier=sources
 - pkg:maven/com.atlassian.oai/swagger-request-validator-mockmvc@2.6.0

@@ -1,3 +1,4 @@
 - pkg:maven/org.webjars.npm/npm-normalize-package-bin@1.0.1
 - pkg:maven/org.webjars.npm/npm-normalize-package-bin@1.0.1?classifier=sources
 - pkg:maven/org.webjars.npm/npm-normalize-package-bin@3.0.1
+- pkg:maven/org.webjars.npm/npm-normalize-package-bin@4.0.0

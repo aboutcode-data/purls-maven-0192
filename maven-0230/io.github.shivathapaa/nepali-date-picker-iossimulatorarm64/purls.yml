@@ -21,3 +21,7 @@
 - pkg:maven/io.github.shivathapaa/nepali-date-picker-iossimulatorarm64@2.1.0-alpha01?classifier=sources
 - pkg:maven/io.github.shivathapaa/nepali-date-picker-iossimulatorarm64@2.1.0-alpha02?classifier=sources
 - pkg:maven/io.github.shivathapaa/nepali-date-picker-iossimulatorarm64@2.1.0-alpha03?classifier=sources
+- pkg:maven/io.github.shivathapaa/nepali-date-picker-iossimulatorarm64@2.1.0?classifier=sources
+- pkg:maven/io.github.shivathapaa/nepali-date-picker-iossimulatorarm64@2.2.0-beta01?classifier=sources
+- pkg:maven/io.github.shivathapaa/nepali-date-picker-iossimulatorarm64@2.2.1-beta01?classifier=sources
+- pkg:maven/io.github.shivathapaa/nepali-date-picker-iossimulatorarm64@2.2.1-dev01?classifier=sources

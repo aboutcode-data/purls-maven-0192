@@ -1,0 +1,2 @@
+- pkg:maven/io.github.sakurajimamaii/log-slf4j@1.3.10?classifier=sources
+- pkg:maven/io.github.sakurajimamaii/log-slf4j@1.3.7?classifier=sources

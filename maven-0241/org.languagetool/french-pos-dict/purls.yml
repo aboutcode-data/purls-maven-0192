@@ -4,3 +4,4 @@
 - pkg:maven/org.languagetool/french-pos-dict@0.4
 - pkg:maven/org.languagetool/french-pos-dict@0.5
 - pkg:maven/org.languagetool/french-pos-dict@0.6
+- pkg:maven/org.languagetool/french-pos-dict@0.7

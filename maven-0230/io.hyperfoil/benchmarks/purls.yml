@@ -1,0 +1,2 @@
+- pkg:maven/io.hyperfoil/benchmarks@0.27
+- pkg:maven/io.hyperfoil/benchmarks@0.27?classifier=sources

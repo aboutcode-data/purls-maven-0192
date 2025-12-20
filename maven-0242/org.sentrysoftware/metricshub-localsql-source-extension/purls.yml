@@ -1,0 +1,2 @@
+- pkg:maven/org.sentrysoftware/metricshub-localsql-source-extension@0.9.07
+- pkg:maven/org.sentrysoftware/metricshub-localsql-source-extension@0.9.07?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.montarre/com.io7m.montarre.adoptium@0.0.2
+- pkg:maven/com.io7m.montarre/com.io7m.montarre.adoptium@0.0.2?classifier=sources

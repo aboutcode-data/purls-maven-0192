@@ -44,3 +44,4 @@
 - pkg:maven/com.walletconnect/chat@1.0.0-beta34?classifier=sources
 - pkg:maven/com.walletconnect/chat@1.0.0-beta35?classifier=sources
 - pkg:maven/com.walletconnect/chat@1.0.0-beta36?classifier=sources
+- pkg:maven/com.walletconnect/chat@1.0.0-beta37?classifier=sources

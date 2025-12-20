@@ -1,0 +1,2 @@
+- pkg:maven/edu.jhuapl.ses.vtk/vtk-java-jogamp-jogl-2.4-rc4@9.2.6.0
+- pkg:maven/edu.jhuapl.ses.vtk/vtk-java-jogamp-jogl-2.4-rc4@9.2.6.0?classifier=sources

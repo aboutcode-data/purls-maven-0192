@@ -1,0 +1,1 @@
+- pkg:maven/io.quarkiverse.argocd/quarkus-argocd-cli@0.0.3?classifier=sources

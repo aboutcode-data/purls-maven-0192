@@ -131,6 +131,8 @@
 - pkg:maven/com.pulumi/slack@0.4.5-alpha.1714112741%2B19ce4442?classifier=sources
 - pkg:maven/com.pulumi/slack@0.4.5-alpha.1714457590%2B7cc18f56?classifier=sources
 - pkg:maven/com.pulumi/slack@0.4.5?classifier=sources
+- pkg:maven/com.pulumi/slack@0.4.8-alpha.1728321607?classifier=sources
+- pkg:maven/com.pulumi/slack@0.4.8?classifier=sources
 - pkg:maven/com.pulumi/slack@0.5.0-alpha.1714544133%2Bd8e7deb?classifier=sources
 - pkg:maven/com.pulumi/slack@0.5.0-alpha.1714565557%2B248207c?classifier=sources
 - pkg:maven/com.pulumi/slack@0.5.0-alpha.1715062776%2B6f865b2?classifier=sources
@@ -162,3 +164,8 @@
 - pkg:maven/com.pulumi/slack@0.5.0-alpha.1726034788?classifier=sources
 - pkg:maven/com.pulumi/slack@0.5.0-alpha.1726207557?classifier=sources
 - pkg:maven/com.pulumi/slack@0.5.0-alpha.1726726028?classifier=sources
+- pkg:maven/com.pulumi/slack@0.5.0-alpha.1727848655?classifier=sources
+- pkg:maven/com.pulumi/slack@0.5.0-alpha.1727887192?classifier=sources
+- pkg:maven/com.pulumi/slack@0.5.0-alpha.1728108414?classifier=sources
+- pkg:maven/com.pulumi/slack@0.5.0-alpha.1728367566?classifier=sources
+- pkg:maven/com.pulumi/slack@0.5.0-alpha.1729058829?classifier=sources

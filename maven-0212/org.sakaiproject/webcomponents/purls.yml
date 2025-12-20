@@ -54,3 +54,5 @@
 - pkg:maven/org.sakaiproject/webcomponents@23.1?type=war
 - pkg:maven/org.sakaiproject/webcomponents@23.2?classifier=sources
 - pkg:maven/org.sakaiproject/webcomponents@23.2?type=war
+- pkg:maven/org.sakaiproject/webcomponents@23.3?classifier=sources
+- pkg:maven/org.sakaiproject/webcomponents@23.3?type=war

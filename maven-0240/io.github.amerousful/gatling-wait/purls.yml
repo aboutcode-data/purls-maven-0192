@@ -1,0 +1,2 @@
+- pkg:maven/io.github.amerousful/gatling-wait@1.0
+- pkg:maven/io.github.amerousful/gatling-wait@1.0?classifier=sources

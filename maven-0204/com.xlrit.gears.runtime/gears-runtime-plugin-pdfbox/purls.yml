@@ -1,0 +1,2 @@
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-pdfbox@1.17.5
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-pdfbox@1.17.5?classifier=sources

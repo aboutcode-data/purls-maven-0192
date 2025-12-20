@@ -24,3 +24,4 @@
 - pkg:maven/io.quarkiverse.unleash/quarkus-unleash-test@1.6.0?classifier=sources
 - pkg:maven/io.quarkiverse.unleash/quarkus-unleash-test@1.7.0
 - pkg:maven/io.quarkiverse.unleash/quarkus-unleash-test@1.7.0?classifier=sources
+- pkg:maven/io.quarkiverse.unleash/quarkus-unleash-test@1.8.0?classifier=sources

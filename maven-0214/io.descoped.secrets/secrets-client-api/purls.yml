@@ -1,0 +1,4 @@
+- pkg:maven/io.descoped.secrets/secrets-client-api@2.0.1
+- pkg:maven/io.descoped.secrets/secrets-client-api@2.0.1?classifier=sources
+- pkg:maven/io.descoped.secrets/secrets-client-api@2.0.3
+- pkg:maven/io.descoped.secrets/secrets-client-api@2.0.3?classifier=sources

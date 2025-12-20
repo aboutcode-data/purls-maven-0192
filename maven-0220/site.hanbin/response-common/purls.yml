@@ -3,7 +3,9 @@
 - pkg:maven/site.hanbin/response-common@0.0.3?classifier=sources
 - pkg:maven/site.hanbin/response-common@2.6.1?classifier=sources
 - pkg:maven/site.hanbin/response-common@2.7.1?classifier=sources
+- pkg:maven/site.hanbin/response-common@2.7.2?classifier=sources
 - pkg:maven/site.hanbin/response-common@3.0.1?classifier=sources
+- pkg:maven/site.hanbin/response-common@3.0.2?classifier=sources
 - pkg:maven/site.hanbin/response-common@3.3.1?classifier=sources
 - pkg:maven/site.hanbin/response-common@page-2.6.1?classifier=sources
 - pkg:maven/site.hanbin/response-common@page-2.7.1?classifier=sources

@@ -66,6 +66,8 @@
 - pkg:maven/org.apache.tinkerpop/tinkerpop@3.6.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.tinkerpop/tinkerpop@3.6.6?classifier=source-release&type=zip
 - pkg:maven/org.apache.tinkerpop/tinkerpop@3.6.7?classifier=source-release&type=zip
+- pkg:maven/org.apache.tinkerpop/tinkerpop@3.6.8?classifier=source-release&type=zip
 - pkg:maven/org.apache.tinkerpop/tinkerpop@3.7.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.tinkerpop/tinkerpop@3.7.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.tinkerpop/tinkerpop@3.7.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.tinkerpop/tinkerpop@3.7.3?classifier=source-release&type=zip

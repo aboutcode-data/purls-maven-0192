@@ -36,3 +36,5 @@
 - pkg:maven/cn.hserver/hserver-plugin-loader@3.5.M4?classifier=sources
 - pkg:maven/cn.hserver/hserver-plugin-loader@3.5.M5
 - pkg:maven/cn.hserver/hserver-plugin-loader@3.5.M5?classifier=sources
+- pkg:maven/cn.hserver/hserver-plugin-loader@3.5.M6
+- pkg:maven/cn.hserver/hserver-plugin-loader@3.5.M6?classifier=sources

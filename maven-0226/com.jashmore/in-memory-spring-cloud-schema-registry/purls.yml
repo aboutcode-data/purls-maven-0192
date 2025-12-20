@@ -17,3 +17,4 @@
 - pkg:maven/com.jashmore/in-memory-spring-cloud-schema-registry@5.0.0?classifier=sources
 - pkg:maven/com.jashmore/in-memory-spring-cloud-schema-registry@5.1.0?classifier=sources
 - pkg:maven/com.jashmore/in-memory-spring-cloud-schema-registry@6.0.0?classifier=sources
+- pkg:maven/com.jashmore/in-memory-spring-cloud-schema-registry@7.0.0?classifier=sources
