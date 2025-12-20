@@ -1,3 +1,5 @@
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-antiddos@3.1.1002
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-antiddos@3.1.1002?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-antiddos@3.1.294
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-antiddos@3.1.294?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-antiddos@3.1.295
@@ -814,3 +816,5 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-antiddos@3.1.976?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-antiddos@3.1.977
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-antiddos@3.1.977?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-antiddos@3.1.998
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-antiddos@3.1.998?classifier=sources

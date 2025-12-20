@@ -16,6 +16,8 @@
 - pkg:maven/io.github.air-iot/sdk-client-http-starter@4.1.17-springboot3
 - pkg:maven/io.github.air-iot/sdk-client-http-starter@4.1.17-springboot3?classifier=sources
 - pkg:maven/io.github.air-iot/sdk-client-http-starter@4.1.17?classifier=sources
+- pkg:maven/io.github.air-iot/sdk-client-http-starter@4.1.19
+- pkg:maven/io.github.air-iot/sdk-client-http-starter@4.1.19?classifier=sources
 - pkg:maven/io.github.air-iot/sdk-client-http-starter@4.1.3
 - pkg:maven/io.github.air-iot/sdk-client-http-starter@4.1.3?classifier=sources
 - pkg:maven/io.github.air-iot/sdk-client-http-starter@4.1.4

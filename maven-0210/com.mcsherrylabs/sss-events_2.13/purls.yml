@@ -2,3 +2,5 @@
 - pkg:maven/com.mcsherrylabs/sss-events_2.13@0.0.1?classifier=sources
 - pkg:maven/com.mcsherrylabs/sss-events_2.13@0.0.5
 - pkg:maven/com.mcsherrylabs/sss-events_2.13@0.0.5?classifier=sources
+- pkg:maven/com.mcsherrylabs/sss-events_2.13@0.0.7
+- pkg:maven/com.mcsherrylabs/sss-events_2.13@0.0.7?classifier=sources

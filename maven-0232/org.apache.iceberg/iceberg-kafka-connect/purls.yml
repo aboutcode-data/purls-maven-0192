@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.iceberg/iceberg-kafka-connect@1.5.0?classifier=sources
+- pkg:maven/org.apache.iceberg/iceberg-kafka-connect@1.5.1?classifier=sources

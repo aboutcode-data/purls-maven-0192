@@ -1,0 +1,2 @@
+- pkg:maven/fun.fengwk.convention4j/convention4j-spring-boot-starter-webflux@0.0.41
+- pkg:maven/fun.fengwk.convention4j/convention4j-spring-boot-starter-webflux@0.0.41?classifier=sources

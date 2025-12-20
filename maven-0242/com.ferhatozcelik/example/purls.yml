@@ -1,0 +1,7 @@
+- pkg:maven/com.ferhatozcelik/example@1.0.0%27example%27%3D%221.0.1%22?classifier=sources
+- pkg:maven/com.ferhatozcelik/example@1.0.0?classifier=sources
+- pkg:maven/com.ferhatozcelik/example@1.0.1?classifier=sources
+- pkg:maven/com.ferhatozcelik/example@1.0.2?classifier=sources
+- pkg:maven/com.ferhatozcelik/example@1.0.3?classifier=sources
+- pkg:maven/com.ferhatozcelik/example@1.0.4?classifier=sources
+- pkg:maven/com.ferhatozcelik/example@1.0.5?classifier=sources

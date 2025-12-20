@@ -148,3 +148,6 @@
 - pkg:maven/com.pubnub/pubnub-gson@6.4.3?classifier=sources
 - pkg:maven/com.pubnub/pubnub-gson@6.4.4?classifier=sources
 - pkg:maven/com.pubnub/pubnub-gson@6.4.5?classifier=sources
+- pkg:maven/com.pubnub/pubnub-gson@9.0.0?classifier=sources
+- pkg:maven/com.pubnub/pubnub-gson@9.1.0?classifier=sources
+- pkg:maven/com.pubnub/pubnub-gson@9.1.1?classifier=sources

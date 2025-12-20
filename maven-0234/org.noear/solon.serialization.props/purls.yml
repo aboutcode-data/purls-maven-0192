@@ -1,0 +1,2 @@
+- pkg:maven/org.noear/solon.serialization.props@2.7.6-M6
+- pkg:maven/org.noear/solon.serialization.props@2.7.6-M6?classifier=sources

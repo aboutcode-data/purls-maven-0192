@@ -1,2 +1,8 @@
 - pkg:maven/uk.gov.nationalarchives/dynamo-formatters_3@0.0.12
 - pkg:maven/uk.gov.nationalarchives/dynamo-formatters_3@0.0.12?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/dynamo-formatters_3@0.0.13
+- pkg:maven/uk.gov.nationalarchives/dynamo-formatters_3@0.0.13?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/dynamo-formatters_3@0.0.14
+- pkg:maven/uk.gov.nationalarchives/dynamo-formatters_3@0.0.14?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/dynamo-formatters_3@0.0.15
+- pkg:maven/uk.gov.nationalarchives/dynamo-formatters_3@0.0.15?classifier=sources

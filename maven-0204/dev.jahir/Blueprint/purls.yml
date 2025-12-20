@@ -11,4 +11,5 @@
 - pkg:maven/dev.jahir/Blueprint@2.3.7?classifier=sources
 - pkg:maven/dev.jahir/Blueprint@2.3.9?classifier=sources
 - pkg:maven/dev.jahir/Blueprint@2.4.0?classifier=sources
+- pkg:maven/dev.jahir/Blueprint@2.4.1?classifier=sources
 - pkg:maven/dev.jahir/Blueprint@218?classifier=sources

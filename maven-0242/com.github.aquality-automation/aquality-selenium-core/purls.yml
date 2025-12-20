@@ -39,3 +39,5 @@
 - pkg:maven/com.github.aquality-automation/aquality-selenium-core@3.1.2?classifier=sources
 - pkg:maven/com.github.aquality-automation/aquality-selenium-core@4.0.0
 - pkg:maven/com.github.aquality-automation/aquality-selenium-core@4.0.0?classifier=sources
+- pkg:maven/com.github.aquality-automation/aquality-selenium-core@4.0.1
+- pkg:maven/com.github.aquality-automation/aquality-selenium-core@4.0.1?classifier=sources

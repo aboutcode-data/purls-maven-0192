@@ -354,3 +354,11 @@
 - pkg:maven/io.airlift/configuration@241?classifier=sources
 - pkg:maven/io.airlift/configuration@242
 - pkg:maven/io.airlift/configuration@242?classifier=sources
+- pkg:maven/io.airlift/configuration@243
+- pkg:maven/io.airlift/configuration@243?classifier=sources
+- pkg:maven/io.airlift/configuration@244
+- pkg:maven/io.airlift/configuration@244?classifier=sources
+- pkg:maven/io.airlift/configuration@245
+- pkg:maven/io.airlift/configuration@245?classifier=sources
+- pkg:maven/io.airlift/configuration@246
+- pkg:maven/io.airlift/configuration@246?classifier=sources

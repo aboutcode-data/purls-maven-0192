@@ -168,3 +168,6 @@
 - pkg:maven/org.apache.sling/slingfeature-maven-plugin@1.8.0
 - pkg:maven/org.apache.sling/slingfeature-maven-plugin@1.8.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/slingfeature-maven-plugin@1.8.0?classifier=sources
+- pkg:maven/org.apache.sling/slingfeature-maven-plugin@1.8.2
+- pkg:maven/org.apache.sling/slingfeature-maven-plugin@1.8.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/slingfeature-maven-plugin@1.8.2?classifier=sources

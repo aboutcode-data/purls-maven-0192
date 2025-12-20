@@ -8,3 +8,7 @@
 - pkg:maven/com.aizuda/easy-retry-client-job-core@2.6.1?classifier=sources
 - pkg:maven/com.aizuda/easy-retry-client-job-core@3.1.0
 - pkg:maven/com.aizuda/easy-retry-client-job-core@3.1.0?classifier=sources
+- pkg:maven/com.aizuda/easy-retry-client-job-core@3.1.1
+- pkg:maven/com.aizuda/easy-retry-client-job-core@3.1.1?classifier=sources
+- pkg:maven/com.aizuda/easy-retry-client-job-core@3.2.0
+- pkg:maven/com.aizuda/easy-retry-client-job-core@3.2.0?classifier=sources

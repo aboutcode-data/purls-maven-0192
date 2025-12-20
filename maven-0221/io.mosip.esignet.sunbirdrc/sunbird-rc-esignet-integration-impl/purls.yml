@@ -1,0 +1,2 @@
+- pkg:maven/io.mosip.esignet.sunbirdrc/sunbird-rc-esignet-integration-impl@0.1.0
+- pkg:maven/io.mosip.esignet.sunbirdrc/sunbird-rc-esignet-integration-impl@0.1.0?classifier=sources

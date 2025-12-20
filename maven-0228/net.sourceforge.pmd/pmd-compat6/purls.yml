@@ -4,3 +4,5 @@
 - pkg:maven/net.sourceforge.pmd/pmd-compat6@7.0.0-rc4%2Bwith-pr4749?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-compat6@7.0.0-rc4?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-compat6@7.0.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-compat6@7.1.0
+- pkg:maven/net.sourceforge.pmd/pmd-compat6@7.1.0?classifier=sources

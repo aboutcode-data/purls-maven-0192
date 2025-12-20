@@ -14,6 +14,8 @@
 - pkg:maven/com.immomo.cosmos.photon/thirdpush-fcm@1.1.4_11221551?type=aar
 - pkg:maven/com.immomo.cosmos.photon/thirdpush-fcm@1.1.5_061601?classifier=sources
 - pkg:maven/com.immomo.cosmos.photon/thirdpush-fcm@1.1.5_061601?type=aar
+- pkg:maven/com.immomo.cosmos.photon/thirdpush-fcm@1.1.5_24_0423_1128?classifier=sources
+- pkg:maven/com.immomo.cosmos.photon/thirdpush-fcm@1.1.5_24_0423_1128?type=aar
 - pkg:maven/com.immomo.cosmos.photon/thirdpush-fcm@2.4.0_061001_tt?classifier=sources
 - pkg:maven/com.immomo.cosmos.photon/thirdpush-fcm@2.4.0_061001_tt?type=aar
 - pkg:maven/com.immomo.cosmos.photon/thirdpush-fcm@2.4.0_061301_tt?classifier=sources

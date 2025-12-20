@@ -46,3 +46,5 @@
 - pkg:maven/org.ehrbase.openehr/jooq-pg@0.31.0?classifier=sources
 - pkg:maven/org.ehrbase.openehr/jooq-pg@0.32.0
 - pkg:maven/org.ehrbase.openehr/jooq-pg@0.32.0?classifier=sources
+- pkg:maven/org.ehrbase.openehr/jooq-pg@2.0.0
+- pkg:maven/org.ehrbase.openehr/jooq-pg@2.0.0?classifier=sources

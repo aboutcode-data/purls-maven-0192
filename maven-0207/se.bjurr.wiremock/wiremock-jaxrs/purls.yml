@@ -5,3 +5,5 @@
 - pkg:maven/se.bjurr.wiremock/wiremock-jaxrs@0.2?classifier=sources
 - pkg:maven/se.bjurr.wiremock/wiremock-jaxrs@1.0.0?classifier=sources
 - pkg:maven/se.bjurr.wiremock/wiremock-jaxrs@1.1.0?classifier=sources
+- pkg:maven/se.bjurr.wiremock/wiremock-jaxrs@1.1.1?classifier=sources
+- pkg:maven/se.bjurr.wiremock/wiremock-jaxrs@1.1.2?classifier=sources

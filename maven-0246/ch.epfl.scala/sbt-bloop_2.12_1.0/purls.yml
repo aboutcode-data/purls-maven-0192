@@ -10,6 +10,10 @@
 - pkg:maven/ch.epfl.scala/sbt-bloop_2.12_1.0@1.5.14?classifier=sources
 - pkg:maven/ch.epfl.scala/sbt-bloop_2.12_1.0@1.5.15
 - pkg:maven/ch.epfl.scala/sbt-bloop_2.12_1.0@1.5.15?classifier=sources
+- pkg:maven/ch.epfl.scala/sbt-bloop_2.12_1.0@1.5.16
+- pkg:maven/ch.epfl.scala/sbt-bloop_2.12_1.0@1.5.16?classifier=sources
+- pkg:maven/ch.epfl.scala/sbt-bloop_2.12_1.0@1.5.17
+- pkg:maven/ch.epfl.scala/sbt-bloop_2.12_1.0@1.5.17?classifier=sources
 - pkg:maven/ch.epfl.scala/sbt-bloop_2.12_1.0@1.5.2-14-4fb685f2
 - pkg:maven/ch.epfl.scala/sbt-bloop_2.12_1.0@1.5.2-14-4fb685f2?classifier=sources
 - pkg:maven/ch.epfl.scala/sbt-bloop_2.12_1.0@1.5.2-15-554bc607

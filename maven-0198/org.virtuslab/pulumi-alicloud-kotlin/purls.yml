@@ -17,3 +17,4 @@
 - pkg:maven/org.virtuslab/pulumi-alicloud-kotlin@3.49.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-alicloud-kotlin@3.49.1.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-alicloud-kotlin@3.50.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-alicloud-kotlin@3.52.1.0?classifier=sources

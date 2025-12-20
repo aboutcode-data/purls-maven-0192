@@ -1,2 +1,6 @@
 - pkg:maven/cc.uncarbon.framework/helio-starter-rate-limit-redis@1.10.0
 - pkg:maven/cc.uncarbon.framework/helio-starter-rate-limit-redis@1.10.0?classifier=sources
+- pkg:maven/cc.uncarbon.framework/helio-starter-rate-limit-redis@1.11.1
+- pkg:maven/cc.uncarbon.framework/helio-starter-rate-limit-redis@1.11.1?classifier=sources
+- pkg:maven/cc.uncarbon.framework/helio-starter-rate-limit-redis@2.0.0
+- pkg:maven/cc.uncarbon.framework/helio-starter-rate-limit-redis@2.0.0?classifier=sources

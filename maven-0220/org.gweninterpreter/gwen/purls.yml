@@ -528,6 +528,10 @@
 - pkg:maven/org.gweninterpreter/gwen@3.52.1?classifier=sources
 - pkg:maven/org.gweninterpreter/gwen@3.52.2
 - pkg:maven/org.gweninterpreter/gwen@3.52.2?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen@3.53.0
+- pkg:maven/org.gweninterpreter/gwen@3.53.0?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen@3.53.1
+- pkg:maven/org.gweninterpreter/gwen@3.53.1?classifier=sources
 - pkg:maven/org.gweninterpreter/gwen@3.6.0
 - pkg:maven/org.gweninterpreter/gwen@3.6.0?classifier=sources
 - pkg:maven/org.gweninterpreter/gwen@3.6.1

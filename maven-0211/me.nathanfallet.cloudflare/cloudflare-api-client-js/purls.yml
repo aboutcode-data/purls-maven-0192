@@ -15,3 +15,4 @@
 - pkg:maven/me.nathanfallet.cloudflare/cloudflare-api-client-js@4.2.1?classifier=sources
 - pkg:maven/me.nathanfallet.cloudflare/cloudflare-api-client-js@4.2.2?classifier=sources
 - pkg:maven/me.nathanfallet.cloudflare/cloudflare-api-client-js@4.2.3?classifier=sources
+- pkg:maven/me.nathanfallet.cloudflare/cloudflare-api-client-js@4.3.0-alpha1?classifier=sources

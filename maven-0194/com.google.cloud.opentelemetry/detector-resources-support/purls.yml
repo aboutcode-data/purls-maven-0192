@@ -1,1 +1,2 @@
 - pkg:maven/com.google.cloud.opentelemetry/detector-resources-support@0.27.0?classifier=sources
+- pkg:maven/com.google.cloud.opentelemetry/detector-resources-support@0.28.0?classifier=sources

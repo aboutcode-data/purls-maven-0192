@@ -1,0 +1,2 @@
+- pkg:maven/io.acryl.prometheus.jmx/jmx_prometheus_javaagent@0.20.1
+- pkg:maven/io.acryl.prometheus.jmx/jmx_prometheus_javaagent@0.20.1?classifier=sources

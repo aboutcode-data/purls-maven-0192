@@ -47,3 +47,7 @@
 - pkg:maven/be.woutschoovaerts/mollie@4.1.0?classifier=sources
 - pkg:maven/be.woutschoovaerts/mollie@4.2.0
 - pkg:maven/be.woutschoovaerts/mollie@4.2.0?classifier=sources
+- pkg:maven/be.woutschoovaerts/mollie@4.2.1
+- pkg:maven/be.woutschoovaerts/mollie@4.2.1?classifier=sources
+- pkg:maven/be.woutschoovaerts/mollie@4.3.0
+- pkg:maven/be.woutschoovaerts/mollie@4.3.0?classifier=sources

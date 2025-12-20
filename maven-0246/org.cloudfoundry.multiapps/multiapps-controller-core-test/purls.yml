@@ -193,5 +193,7 @@
 - pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-core-test@1.167.0?classifier=sources
 - pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-core-test@1.168.0
 - pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-core-test@1.168.0?classifier=sources
+- pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-core-test@1.169.0
+- pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-core-test@1.169.0?classifier=sources
 - pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-core-test@1.73.35
 - pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-core-test@1.73.35?classifier=sources

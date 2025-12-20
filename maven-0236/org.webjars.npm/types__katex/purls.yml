@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/types__katex@0.16.7
+- pkg:maven/org.webjars.npm/types__katex@0.16.7?classifier=sources

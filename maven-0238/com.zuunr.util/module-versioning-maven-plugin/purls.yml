@@ -8,3 +8,5 @@
 - pkg:maven/com.zuunr.util/module-versioning-maven-plugin@1.0.1-f4ae132?classifier=sources
 - pkg:maven/com.zuunr.util/module-versioning-maven-plugin@1.0.2-6f17ae7
 - pkg:maven/com.zuunr.util/module-versioning-maven-plugin@1.0.2-6f17ae7?classifier=sources
+- pkg:maven/com.zuunr.util/module-versioning-maven-plugin@1.0.3-f52b817
+- pkg:maven/com.zuunr.util/module-versioning-maven-plugin@1.0.3-f52b817?classifier=sources

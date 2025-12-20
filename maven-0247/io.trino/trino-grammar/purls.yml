@@ -40,3 +40,7 @@
 - pkg:maven/io.trino/trino-grammar@443?classifier=sources
 - pkg:maven/io.trino/trino-grammar@444
 - pkg:maven/io.trino/trino-grammar@444?classifier=sources
+- pkg:maven/io.trino/trino-grammar@445
+- pkg:maven/io.trino/trino-grammar@445?classifier=sources
+- pkg:maven/io.trino/trino-grammar@446
+- pkg:maven/io.trino/trino-grammar@446?classifier=sources

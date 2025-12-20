@@ -1,3 +1,5 @@
 - pkg:maven/com.shopify/checkout-sheet-kit@0.4.1?classifier=sources
 - pkg:maven/com.shopify/checkout-sheet-kit@0.5.0?classifier=sources
 - pkg:maven/com.shopify/checkout-sheet-kit@1.0.0?classifier=sources
+- pkg:maven/com.shopify/checkout-sheet-kit@2.0.0?classifier=sources
+- pkg:maven/com.shopify/checkout-sheet-kit@2.0.1?classifier=sources

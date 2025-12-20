@@ -1,0 +1,2 @@
+- pkg:maven/top.wu2020/wu-smart-agent-network-heartbeat-server-cluster@1.2.5-JDK17
+- pkg:maven/top.wu2020/wu-smart-agent-network-heartbeat-server-cluster@1.2.5-JDK17?classifier=sources

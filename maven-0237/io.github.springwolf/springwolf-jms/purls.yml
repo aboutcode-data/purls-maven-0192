@@ -2,3 +2,4 @@
 - pkg:maven/io.github.springwolf/springwolf-jms@0.18.0?classifier=sources
 - pkg:maven/io.github.springwolf/springwolf-jms@1.0.0?classifier=sources
 - pkg:maven/io.github.springwolf/springwolf-jms@1.1.0?classifier=sources
+- pkg:maven/io.github.springwolf/springwolf-jms@1.2.0?classifier=sources

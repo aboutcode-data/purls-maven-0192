@@ -321,6 +321,7 @@
 - pkg:maven/com.liferay/com.liferay.analytics.settings.impl@8.0.2
 - pkg:maven/com.liferay/com.liferay.analytics.settings.impl@8.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.settings.impl@8.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.analytics.settings.impl@8.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.settings.impl@9.0.0
 - pkg:maven/com.liferay/com.liferay.analytics.settings.impl@9.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.analytics.settings.impl@9.0.0?classifier=sources-commercial

@@ -1,0 +1,4 @@
+- pkg:maven/org.caseine/caseine.vpl.tools.notypeplugin@0.0.73
+- pkg:maven/org.caseine/caseine.vpl.tools.notypeplugin@0.0.73?classifier=sources
+- pkg:maven/org.caseine/caseine.vpl.tools.notypeplugin@0.0.74
+- pkg:maven/org.caseine/caseine.vpl.tools.notypeplugin@0.0.74?classifier=sources
