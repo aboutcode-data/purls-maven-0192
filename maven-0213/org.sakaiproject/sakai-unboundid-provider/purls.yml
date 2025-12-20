@@ -50,3 +50,5 @@
 - pkg:maven/org.sakaiproject/sakai-unboundid-provider@22.4?classifier=sources
 - pkg:maven/org.sakaiproject/sakai-unboundid-provider@23.0
 - pkg:maven/org.sakaiproject/sakai-unboundid-provider@23.0?classifier=sources
+- pkg:maven/org.sakaiproject/sakai-unboundid-provider@23.1
+- pkg:maven/org.sakaiproject/sakai-unboundid-provider@23.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/pw.avvero/kafka-test-support@1.0.0?classifier=sources
+- pkg:maven/pw.avvero/kafka-test-support@1.1.0?classifier=sources

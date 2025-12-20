@@ -4,3 +4,4 @@
 - pkg:maven/org.apache.commons/commons-imaging@1.0-alpha2?classifier=sources
 - pkg:maven/org.apache.commons/commons-imaging@1.0-alpha3
 - pkg:maven/org.apache.commons/commons-imaging@1.0-alpha3?classifier=sources
+- pkg:maven/org.apache.commons/commons-imaging@1.0.0-alpha4?classifier=sources

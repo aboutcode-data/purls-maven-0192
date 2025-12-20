@@ -187,6 +187,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.account.service@1.0.66
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.account.service@1.0.66?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.account.service@1.0.67?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.account.service@1.0.68?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.account.service@1.0.6?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.account.service@1.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.account.service@1.0.7
@@ -238,6 +239,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.account.service@2.0.20
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.account.service@2.0.20?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.account.service@2.0.21?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.account.service@2.0.22?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.account.service@2.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.account.service@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.account.service@2.0.3
@@ -364,6 +366,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.account.service@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.account.service@3.0.4
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.account.service@3.0.40?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.account.service@3.0.41?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.account.service@3.0.4?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.account.service@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.account.service@3.0.5

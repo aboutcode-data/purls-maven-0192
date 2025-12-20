@@ -86,6 +86,7 @@
 - pkg:maven/me.proton.core/auth-presentation@18.2.2?classifier=sources
 - pkg:maven/me.proton.core/auth-presentation@18.2.3?classifier=sources
 - pkg:maven/me.proton.core/auth-presentation@18.2.4?classifier=sources
+- pkg:maven/me.proton.core/auth-presentation@18.2.5?classifier=sources
 - pkg:maven/me.proton.core/auth-presentation@18.3.0?classifier=sources
 - pkg:maven/me.proton.core/auth-presentation@18.4.0?classifier=sources
 - pkg:maven/me.proton.core/auth-presentation@18.4.1?classifier=sources
@@ -95,6 +96,12 @@
 - pkg:maven/me.proton.core/auth-presentation@2.0.0-alpha01?classifier=sources
 - pkg:maven/me.proton.core/auth-presentation@2.0.0?classifier=sources
 - pkg:maven/me.proton.core/auth-presentation@20.0.0?classifier=sources
+- pkg:maven/me.proton.core/auth-presentation@21.0.0?classifier=sources
+- pkg:maven/me.proton.core/auth-presentation@21.1.0?classifier=sources
+- pkg:maven/me.proton.core/auth-presentation@21.2.0?classifier=sources
+- pkg:maven/me.proton.core/auth-presentation@21.2.1?classifier=sources
+- pkg:maven/me.proton.core/auth-presentation@22.0.0?classifier=sources
+- pkg:maven/me.proton.core/auth-presentation@22.1.0?classifier=sources
 - pkg:maven/me.proton.core/auth-presentation@3.0.0?classifier=sources
 - pkg:maven/me.proton.core/auth-presentation@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/auth-presentation@4.1.0?classifier=sources

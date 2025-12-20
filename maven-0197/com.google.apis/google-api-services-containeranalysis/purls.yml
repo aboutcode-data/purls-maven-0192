@@ -76,6 +76,8 @@
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1-rev20240105-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1-rev20240205-2.0.0
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1-rev20240205-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-containeranalysis@v1-rev20240301-2.0.0
+- pkg:maven/com.google.apis/google-api-services-containeranalysis@v1-rev20240301-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1alpha1-rev10-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1alpha1-rev10-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1alpha1-rev10-1.22.0
@@ -368,6 +370,8 @@
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1alpha1-rev20240105-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1alpha1-rev20240209-2.0.0
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1alpha1-rev20240209-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-containeranalysis@v1alpha1-rev20240301-2.0.0
+- pkg:maven/com.google.apis/google-api-services-containeranalysis@v1alpha1-rev20240301-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1alpha1-rev34-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1alpha1-rev34-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1alpha1-rev34-1.25.0
@@ -724,6 +728,8 @@
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1beta1-rev20240105-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1beta1-rev20240209-2.0.0
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1beta1-rev20240209-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-containeranalysis@v1beta1-rev20240301-2.0.0
+- pkg:maven/com.google.apis/google-api-services-containeranalysis@v1beta1-rev20240301-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1beta1-rev34-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1beta1-rev34-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-containeranalysis@v1beta1-rev34-1.25.0

@@ -70,6 +70,7 @@
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@1.0.12
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@1.0.120?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@1.0.121?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@1.0.122?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@1.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@1.0.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@1.0.13
@@ -388,6 +389,9 @@
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@2.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@2.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@2.0.11
+- pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@2.0.110?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@2.0.111?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@2.0.112?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@2.0.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@2.0.11?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@2.0.12
@@ -687,6 +691,10 @@
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@3.0.10
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@3.0.100?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@3.0.101?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@3.0.102?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@3.0.103?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@3.0.104?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@3.0.105?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@3.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@3.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.impl@3.0.11

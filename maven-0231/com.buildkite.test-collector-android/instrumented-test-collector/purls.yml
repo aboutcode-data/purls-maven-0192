@@ -1,0 +1,1 @@
+- pkg:maven/com.buildkite.test-collector-android/instrumented-test-collector@0.2.0?classifier=sources

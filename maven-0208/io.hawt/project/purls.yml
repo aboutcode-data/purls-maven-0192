@@ -142,3 +142,5 @@
 - pkg:maven/io.hawt/project@4.0-M3?classifier=source-release&type=zip
 - pkg:maven/io.hawt/project@4.0-M4?classifier=source-release&type=zip
 - pkg:maven/io.hawt/project@4.0-beta-1?classifier=source-release&type=zip
+- pkg:maven/io.hawt/project@4.0.0-RC2?classifier=source-release&type=zip
+- pkg:maven/io.hawt/project@4.0.0?classifier=source-release&type=zip

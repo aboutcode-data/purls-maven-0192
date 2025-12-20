@@ -1,7 +1,9 @@
+- pkg:maven/org.wicketstuff/wicketstuff-select2@10.0.0
 - pkg:maven/org.wicketstuff/wicketstuff-select2@10.0.0-M1
 - pkg:maven/org.wicketstuff/wicketstuff-select2@10.0.0-M1?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-select2@10.0.0-M2
 - pkg:maven/org.wicketstuff/wicketstuff-select2@10.0.0-M2?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-select2@10.0.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-select2@6.18.0
 - pkg:maven/org.wicketstuff/wicketstuff-select2@6.18.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-select2@6.19.0
@@ -154,6 +156,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-select2@9.15.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-select2@9.16.0
 - pkg:maven/org.wicketstuff/wicketstuff-select2@9.16.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-select2@9.17.0
+- pkg:maven/org.wicketstuff/wicketstuff-select2@9.17.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-select2@9.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-select2@9.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-select2@9.3.0

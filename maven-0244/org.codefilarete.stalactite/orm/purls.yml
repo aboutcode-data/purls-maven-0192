@@ -1,2 +1,4 @@
 - pkg:maven/org.codefilarete.stalactite/orm@1.0.0
 - pkg:maven/org.codefilarete.stalactite/orm@1.0.0?classifier=sources
+- pkg:maven/org.codefilarete.stalactite/orm@2.0.0
+- pkg:maven/org.codefilarete.stalactite/orm@2.0.0?classifier=sources

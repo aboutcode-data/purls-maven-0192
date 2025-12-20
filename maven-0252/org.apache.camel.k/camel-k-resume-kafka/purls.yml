@@ -9,3 +9,4 @@
 - pkg:maven/org.apache.camel.k/camel-k-resume-kafka@3.2.0
 - pkg:maven/org.apache.camel.k/camel-k-resume-kafka@3.2.3
 - pkg:maven/org.apache.camel.k/camel-k-resume-kafka@3.6.0
+- pkg:maven/org.apache.camel.k/camel-k-resume-kafka@3.8.1

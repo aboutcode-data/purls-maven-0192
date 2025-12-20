@@ -19,3 +19,6 @@
 - pkg:maven/org.orbit-mvi/orbit-core@5.0.0?classifier=sources
 - pkg:maven/org.orbit-mvi/orbit-core@6.0.0?classifier=sources
 - pkg:maven/org.orbit-mvi/orbit-core@6.1.0?classifier=sources
+- pkg:maven/org.orbit-mvi/orbit-core@6.1.1?classifier=sources
+- pkg:maven/org.orbit-mvi/orbit-core@7.0.0?classifier=sources
+- pkg:maven/org.orbit-mvi/orbit-core@7.0.1?classifier=sources

@@ -80,3 +80,4 @@
 - pkg:maven/org.opendaylight.transportpce/transportpce-networkmodel@8.0.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/transportpce-networkmodel@8.1.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/transportpce-networkmodel@8.2.0?classifier=sources
+- pkg:maven/org.opendaylight.transportpce/transportpce-networkmodel@9.0.0?classifier=sources

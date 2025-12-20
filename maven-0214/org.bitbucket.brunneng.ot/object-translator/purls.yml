@@ -20,3 +20,5 @@
 - pkg:maven/org.bitbucket.brunneng.ot/object-translator@1.0?classifier=sources
 - pkg:maven/org.bitbucket.brunneng.ot/object-translator@1.1.0
 - pkg:maven/org.bitbucket.brunneng.ot/object-translator@1.1.0?classifier=sources
+- pkg:maven/org.bitbucket.brunneng.ot/object-translator@1.1.1
+- pkg:maven/org.bitbucket.brunneng.ot/object-translator@1.1.1?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/tw.teddysoft.ezdoc/ezdoc-plugins@0.0.1-beta?classifier=sources
 - pkg:maven/tw.teddysoft.ezdoc/ezdoc-plugins@0.0.2-beta
 - pkg:maven/tw.teddysoft.ezdoc/ezdoc-plugins@0.0.2-beta?classifier=sources
+- pkg:maven/tw.teddysoft.ezdoc/ezdoc-plugins@0.0.3
+- pkg:maven/tw.teddysoft.ezdoc/ezdoc-plugins@0.0.3?classifier=sources

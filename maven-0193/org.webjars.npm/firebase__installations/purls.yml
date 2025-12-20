@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/firebase__installations@0.6.3?classifier=sources
 - pkg:maven/org.webjars.npm/firebase__installations@0.6.4
 - pkg:maven/org.webjars.npm/firebase__installations@0.6.4?classifier=sources
+- pkg:maven/org.webjars.npm/firebase__installations@0.6.6-canary.666dddae0
+- pkg:maven/org.webjars.npm/firebase__installations@0.6.6-canary.666dddae0?classifier=sources

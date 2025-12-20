@@ -30,3 +30,13 @@
 - pkg:maven/io.trino/trino-grammar@438?classifier=sources
 - pkg:maven/io.trino/trino-grammar@439
 - pkg:maven/io.trino/trino-grammar@439?classifier=sources
+- pkg:maven/io.trino/trino-grammar@440
+- pkg:maven/io.trino/trino-grammar@440?classifier=sources
+- pkg:maven/io.trino/trino-grammar@441
+- pkg:maven/io.trino/trino-grammar@441?classifier=sources
+- pkg:maven/io.trino/trino-grammar@442
+- pkg:maven/io.trino/trino-grammar@442?classifier=sources
+- pkg:maven/io.trino/trino-grammar@443
+- pkg:maven/io.trino/trino-grammar@443?classifier=sources
+- pkg:maven/io.trino/trino-grammar@444
+- pkg:maven/io.trino/trino-grammar@444?classifier=sources

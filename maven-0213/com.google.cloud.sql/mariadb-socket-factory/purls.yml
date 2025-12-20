@@ -22,3 +22,5 @@
 - pkg:maven/com.google.cloud.sql/mariadb-socket-factory@1.15.2?classifier=sources
 - pkg:maven/com.google.cloud.sql/mariadb-socket-factory@1.16.0
 - pkg:maven/com.google.cloud.sql/mariadb-socket-factory@1.16.0?classifier=sources
+- pkg:maven/com.google.cloud.sql/mariadb-socket-factory@1.17.0
+- pkg:maven/com.google.cloud.sql/mariadb-socket-factory@1.17.0?classifier=sources

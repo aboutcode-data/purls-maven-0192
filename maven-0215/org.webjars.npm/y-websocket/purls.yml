@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/y-websocket@1.4.5
 - pkg:maven/org.webjars.npm/y-websocket@1.4.5?classifier=sources
+- pkg:maven/org.webjars.npm/y-websocket@2.0.2
+- pkg:maven/org.webjars.npm/y-websocket@2.0.2?classifier=sources

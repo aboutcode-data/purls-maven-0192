@@ -1,1 +1,2 @@
 - pkg:maven/studio.lunabee.compose/material-color-utilities@1.1.0?classifier=sources
+- pkg:maven/studio.lunabee.compose/material-color-utilities@1.2.0?classifier=sources

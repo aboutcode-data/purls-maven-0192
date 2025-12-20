@@ -93,6 +93,8 @@
 - pkg:maven/io.dyte/core@1.32.0?classifier=sources
 - pkg:maven/io.dyte/core@1.32.2?classifier=sources
 - pkg:maven/io.dyte/core@1.32.3?classifier=sources
+- pkg:maven/io.dyte/core@1.32.4?classifier=sources
+- pkg:maven/io.dyte/core@1.32.5?classifier=sources
 - pkg:maven/io.dyte/core@1.4.0-staging.3?classifier=sources
 - pkg:maven/io.dyte/core@1.4.0-staging.4?classifier=sources
 - pkg:maven/io.dyte/core@1.5.0-staging.2?classifier=sources

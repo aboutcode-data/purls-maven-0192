@@ -48,3 +48,7 @@
 - pkg:maven/com.adobe.cq/core.wcm.components.it.e2e-selenium-utils@2.23.2?classifier=sources
 - pkg:maven/com.adobe.cq/core.wcm.components.it.e2e-selenium-utils@2.23.4
 - pkg:maven/com.adobe.cq/core.wcm.components.it.e2e-selenium-utils@2.23.4?classifier=sources
+- pkg:maven/com.adobe.cq/core.wcm.components.it.e2e-selenium-utils@2.24.0
+- pkg:maven/com.adobe.cq/core.wcm.components.it.e2e-selenium-utils@2.24.0?classifier=sources
+- pkg:maven/com.adobe.cq/core.wcm.components.it.e2e-selenium-utils@2.24.2
+- pkg:maven/com.adobe.cq/core.wcm.components.it.e2e-selenium-utils@2.24.2?classifier=sources

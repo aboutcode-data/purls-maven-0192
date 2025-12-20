@@ -1,1 +1,3 @@
 - pkg:maven/org.kontr/kontr-dsl@0.0.1?classifier=sources
+- pkg:maven/org.kontr/kontr-dsl@1.0.0?classifier=sources
+- pkg:maven/org.kontr/kontr-dsl@1.1.0?classifier=sources

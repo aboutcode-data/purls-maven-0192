@@ -1,1 +1,2 @@
 - pkg:maven/net.kigawa.kutil/kutil-jvm-jvm@3.0.0?classifier=sources
+- pkg:maven/net.kigawa.kutil/kutil-jvm-jvm@4.0.0?classifier=sources

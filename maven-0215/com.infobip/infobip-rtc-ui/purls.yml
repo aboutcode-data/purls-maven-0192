@@ -18,6 +18,7 @@
 - pkg:maven/com.infobip/infobip-rtc-ui@12.2.0?classifier=sources
 - pkg:maven/com.infobip/infobip-rtc-ui@12.2.1?classifier=sources
 - pkg:maven/com.infobip/infobip-rtc-ui@12.2.2?classifier=sources
+- pkg:maven/com.infobip/infobip-rtc-ui@12.3.0?classifier=sources
 - pkg:maven/com.infobip/infobip-rtc-ui@7.3.0-rc1?classifier=sources
 - pkg:maven/com.infobip/infobip-rtc-ui@7.3.0-rc2?classifier=sources
 - pkg:maven/com.infobip/infobip-rtc-ui@7.3.0-rc3?classifier=sources

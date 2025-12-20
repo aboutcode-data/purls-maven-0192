@@ -1,6 +1,7 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-slf4j-spring@1.100.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-slf4j-spring@1.102.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-slf4j-spring@1.103.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-slf4j-spring@1.105.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-slf4j-spring@1.41.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-slf4j-spring@1.42.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-slf4j-spring@1.43.0?classifier=sources
@@ -51,3 +52,4 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-slf4j-spring@1.97.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-slf4j-spring@1.98.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-slf4j-spring@1.99.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-slf4j-spring@2.0.0?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/com.admin4j.framework/elasticsearch-spring-boot-starter@8.x.2?classifier=sources
 - pkg:maven/com.admin4j.framework/elasticsearch-spring-boot-starter@8.x.3
 - pkg:maven/com.admin4j.framework/elasticsearch-spring-boot-starter@8.x.3?classifier=sources
+- pkg:maven/com.admin4j.framework/elasticsearch-spring-boot-starter@8.x.5
+- pkg:maven/com.admin4j.framework/elasticsearch-spring-boot-starter@8.x.5?classifier=sources

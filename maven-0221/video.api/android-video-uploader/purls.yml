@@ -11,3 +11,4 @@
 - pkg:maven/video.api/android-video-uploader@0.1.0
 - pkg:maven/video.api/android-video-uploader@0.1.0?classifier=sources
 - pkg:maven/video.api/android-video-uploader@1.3.4?classifier=sources
+- pkg:maven/video.api/android-video-uploader@1.3.5?classifier=sources

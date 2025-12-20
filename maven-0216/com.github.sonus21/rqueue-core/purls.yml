@@ -32,3 +32,4 @@
 - pkg:maven/com.github.sonus21/rqueue-core@3.0.0-RELEASE?classifier=sources
 - pkg:maven/com.github.sonus21/rqueue-core@3.0.1-RELEASE?classifier=sources
 - pkg:maven/com.github.sonus21/rqueue-core@3.1.0-RELEASE?classifier=sources
+- pkg:maven/com.github.sonus21/rqueue-core@3.1.1-RELEASE?classifier=sources

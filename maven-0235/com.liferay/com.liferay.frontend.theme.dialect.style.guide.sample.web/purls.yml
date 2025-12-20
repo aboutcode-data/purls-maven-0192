@@ -110,6 +110,8 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.dialect.style.guide.sample.web@2.0.50?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.dialect.style.guide.sample.web@2.0.51?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.dialect.style.guide.sample.web@2.0.52?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.dialect.style.guide.sample.web@2.0.53?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.dialect.style.guide.sample.web@2.0.54?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.dialect.style.guide.sample.web@2.0.8
 - pkg:maven/com.liferay/com.liferay.frontend.theme.dialect.style.guide.sample.web@2.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.dialect.style.guide.sample.web@2.0.8?classifier=sources-commercial

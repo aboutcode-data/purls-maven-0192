@@ -136,3 +136,5 @@
 - pkg:maven/com.johnsnowlabs.nlp/spark-nlp_2.12@5.2.3?classifier=sources
 - pkg:maven/com.johnsnowlabs.nlp/spark-nlp_2.12@5.3.0
 - pkg:maven/com.johnsnowlabs.nlp/spark-nlp_2.12@5.3.0?classifier=sources
+- pkg:maven/com.johnsnowlabs.nlp/spark-nlp_2.12@5.3.1
+- pkg:maven/com.johnsnowlabs.nlp/spark-nlp_2.12@5.3.1?classifier=sources

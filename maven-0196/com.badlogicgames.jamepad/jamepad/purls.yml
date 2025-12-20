@@ -5,3 +5,4 @@
 - pkg:maven/com.badlogicgames.jamepad/jamepad@2.0.20.0?classifier=sources
 - pkg:maven/com.badlogicgames.jamepad/jamepad@2.26.4.0?classifier=sources
 - pkg:maven/com.badlogicgames.jamepad/jamepad@2.26.5.0?classifier=sources
+- pkg:maven/com.badlogicgames.jamepad/jamepad@2.30.0.0?classifier=sources

@@ -170,6 +170,7 @@
 - pkg:maven/net.sourceforge.pmd/pmd-python@6.8.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-python@6.9.0
 - pkg:maven/net.sourceforge.pmd/pmd-python@6.9.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-python@7.0.0
 - pkg:maven/net.sourceforge.pmd/pmd-python@7.0.0-rc1
 - pkg:maven/net.sourceforge.pmd/pmd-python@7.0.0-rc1?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-python@7.0.0-rc2
@@ -178,3 +179,4 @@
 - pkg:maven/net.sourceforge.pmd/pmd-python@7.0.0-rc3?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-python@7.0.0-rc4
 - pkg:maven/net.sourceforge.pmd/pmd-python@7.0.0-rc4?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-python@7.0.0?classifier=sources

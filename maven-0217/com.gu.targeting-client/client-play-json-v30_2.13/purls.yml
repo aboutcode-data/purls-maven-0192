@@ -4,3 +4,5 @@
 - pkg:maven/com.gu.targeting-client/client-play-json-v30_2.13@1.1.7?classifier=sources
 - pkg:maven/com.gu.targeting-client/client-play-json-v30_2.13@1.1.8
 - pkg:maven/com.gu.targeting-client/client-play-json-v30_2.13@1.1.8?classifier=sources
+- pkg:maven/com.gu.targeting-client/client-play-json-v30_2.13@1.1.9
+- pkg:maven/com.gu.targeting-client/client-play-json-v30_2.13@1.1.9?classifier=sources

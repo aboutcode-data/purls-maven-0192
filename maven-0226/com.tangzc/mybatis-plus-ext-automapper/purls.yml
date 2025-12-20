@@ -84,3 +84,5 @@
 - pkg:maven/com.tangzc/mybatis-plus-ext-automapper@3.5.5-EXT561-boot3
 - pkg:maven/com.tangzc/mybatis-plus-ext-automapper@3.5.5-EXT561-boot3?classifier=sources
 - pkg:maven/com.tangzc/mybatis-plus-ext-automapper@3.5.5-EXT561?classifier=sources
+- pkg:maven/com.tangzc/mybatis-plus-ext-automapper@3.5.5-EXT600-beta?classifier=sources
+- pkg:maven/com.tangzc/mybatis-plus-ext-automapper@3.5.5-EXT601-beta?classifier=sources

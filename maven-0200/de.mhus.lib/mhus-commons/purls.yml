@@ -1,0 +1,2 @@
+- pkg:maven/de.mhus.lib/mhus-commons@8.0.0
+- pkg:maven/de.mhus.lib/mhus-commons@8.0.0?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/org.bedework.bw-tzsvr/bw-timezone-server-tzconvert@4.0.9?classifier=sources
 - pkg:maven/org.bedework.bw-tzsvr/bw-timezone-server-tzconvert@5.0.0?classifier=sources
 - pkg:maven/org.bedework.bw-tzsvr/bw-timezone-server-tzconvert@5.0.1?classifier=sources
+- pkg:maven/org.bedework.bw-tzsvr/bw-timezone-server-tzconvert@5.0.3?classifier=sources
+- pkg:maven/org.bedework.bw-tzsvr/bw-timezone-server-tzconvert@5.0.5?classifier=sources

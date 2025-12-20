@@ -64,3 +64,13 @@
 - pkg:maven/io.trino/trino-hive-formats@438?classifier=sources
 - pkg:maven/io.trino/trino-hive-formats@439
 - pkg:maven/io.trino/trino-hive-formats@439?classifier=sources
+- pkg:maven/io.trino/trino-hive-formats@440
+- pkg:maven/io.trino/trino-hive-formats@440?classifier=sources
+- pkg:maven/io.trino/trino-hive-formats@441
+- pkg:maven/io.trino/trino-hive-formats@441?classifier=sources
+- pkg:maven/io.trino/trino-hive-formats@442
+- pkg:maven/io.trino/trino-hive-formats@442?classifier=sources
+- pkg:maven/io.trino/trino-hive-formats@443
+- pkg:maven/io.trino/trino-hive-formats@443?classifier=sources
+- pkg:maven/io.trino/trino-hive-formats@444
+- pkg:maven/io.trino/trino-hive-formats@444?classifier=sources

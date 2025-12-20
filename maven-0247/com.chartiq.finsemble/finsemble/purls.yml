@@ -122,3 +122,5 @@
 - pkg:maven/com.chartiq.finsemble/finsemble@8.9.3?classifier=sources
 - pkg:maven/com.chartiq.finsemble/finsemble@8.9.4
 - pkg:maven/com.chartiq.finsemble/finsemble@8.9.4?classifier=sources
+- pkg:maven/com.chartiq.finsemble/finsemble@8.9.5
+- pkg:maven/com.chartiq.finsemble/finsemble@8.9.5?classifier=sources

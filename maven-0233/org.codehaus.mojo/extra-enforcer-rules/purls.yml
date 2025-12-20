@@ -70,3 +70,6 @@
 - pkg:maven/org.codehaus.mojo/extra-enforcer-rules@1.7.0
 - pkg:maven/org.codehaus.mojo/extra-enforcer-rules@1.7.0?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo/extra-enforcer-rules@1.7.0?classifier=sources
+- pkg:maven/org.codehaus.mojo/extra-enforcer-rules@1.8.0
+- pkg:maven/org.codehaus.mojo/extra-enforcer-rules@1.8.0?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo/extra-enforcer-rules@1.8.0?classifier=sources

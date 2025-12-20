@@ -1,0 +1,2 @@
+- pkg:maven/org.openl.rules/org.openl.rules.webstudio.ai@5.27.5
+- pkg:maven/org.openl.rules/org.openl.rules.webstudio.ai@5.27.5?classifier=sources

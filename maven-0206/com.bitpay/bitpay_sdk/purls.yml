@@ -1,3 +1,5 @@
+- pkg:maven/com.bitpay/bitpay_sdk@10.0.0
+- pkg:maven/com.bitpay/bitpay_sdk@10.0.0?classifier=sources
 - pkg:maven/com.bitpay/bitpay_sdk@4.0.1911
 - pkg:maven/com.bitpay/bitpay_sdk@4.0.1911?classifier=sources
 - pkg:maven/com.bitpay/bitpay_sdk@4.1.1911

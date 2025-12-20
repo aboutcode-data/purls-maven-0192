@@ -1,0 +1,2 @@
+- pkg:maven/org.graph4j/graph4j@1.0.7
+- pkg:maven/org.graph4j/graph4j@1.0.7?classifier=sources

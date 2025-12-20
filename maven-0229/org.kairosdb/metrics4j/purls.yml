@@ -28,3 +28,5 @@
 - pkg:maven/org.kairosdb/metrics4j@0.8.0?classifier=sources
 - pkg:maven/org.kairosdb/metrics4j@0.9.0
 - pkg:maven/org.kairosdb/metrics4j@0.9.0?classifier=sources
+- pkg:maven/org.kairosdb/metrics4j@1.0.0
+- pkg:maven/org.kairosdb/metrics4j@1.0.0?classifier=sources

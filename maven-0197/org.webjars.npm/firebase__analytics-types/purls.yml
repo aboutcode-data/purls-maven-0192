@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/firebase__analytics-types@0.7.0?classifier=sources
 - pkg:maven/org.webjars.npm/firebase__analytics-types@0.8.0
 - pkg:maven/org.webjars.npm/firebase__analytics-types@0.8.0?classifier=sources
+- pkg:maven/org.webjars.npm/firebase__analytics-types@0.8.1-canary.666dddae0
+- pkg:maven/org.webjars.npm/firebase__analytics-types@0.8.1-canary.666dddae0?classifier=sources

@@ -34,3 +34,7 @@
 - pkg:maven/cn.404z/id@3.1.0?classifier=sources
 - pkg:maven/cn.404z/id@3.1.1
 - pkg:maven/cn.404z/id@3.1.1?classifier=sources
+- pkg:maven/cn.404z/id@3.2.0
+- pkg:maven/cn.404z/id@3.2.0.single
+- pkg:maven/cn.404z/id@3.2.0.single?classifier=sources
+- pkg:maven/cn.404z/id@3.2.0?classifier=sources

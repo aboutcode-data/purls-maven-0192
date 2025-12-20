@@ -214,6 +214,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@3.0.53?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@3.0.53?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@3.0.54?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.template.freemarker@3.0.55?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@3.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@3.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@3.0.6
@@ -350,6 +351,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@4.0.45?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@4.0.46?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@4.0.47?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.template.freemarker@4.0.48?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@4.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@4.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@4.0.5
@@ -489,6 +491,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@5.0.45?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@5.0.46?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@5.0.47?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.template.freemarker@5.0.48?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@5.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@5.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@5.0.5
@@ -638,6 +641,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@6.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@6.0.5
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@6.0.50?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.template.freemarker@6.0.51?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@6.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@6.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@6.0.6
@@ -774,6 +778,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@7.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@7.0.5
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@7.0.50?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.template.freemarker@7.0.51?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.template.freemarker@7.0.52?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@7.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@7.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.template.freemarker@7.0.6
