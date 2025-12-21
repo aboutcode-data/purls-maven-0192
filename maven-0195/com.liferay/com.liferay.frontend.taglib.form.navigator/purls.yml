@@ -447,3 +447,4 @@
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@6.2.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@6.2.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@6.3.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.form.navigator@6.3.1?classifier=sources

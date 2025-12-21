@@ -902,6 +902,8 @@
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-remote@5.5.39?classifier=sources
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-remote@5.5.40
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-remote@5.5.40?classifier=sources
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-remote@5.5.41
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-remote@5.5.41?classifier=sources
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-remote@5.5.5
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-remote@5.5.5?classifier=sources
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-remote@5.5.6

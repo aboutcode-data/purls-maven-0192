@@ -13,3 +13,4 @@
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-ktor-legacy-js@4.4.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-ktor-legacy-js@4.5.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-ktor-legacy-js@9.0.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-ktor-legacy-js@9.1.0?classifier=sources

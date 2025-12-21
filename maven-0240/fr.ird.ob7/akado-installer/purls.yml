@@ -3,3 +3,6 @@
 - pkg:maven/fr.ird.ob7/akado-installer@4.0.0-RC-2
 - pkg:maven/fr.ird.ob7/akado-installer@4.0.0-RC-3
 - pkg:maven/fr.ird.ob7/akado-installer@4.0.0-RC-4
+- pkg:maven/fr.ird.ob7/akado-installer@4.0.1
+- pkg:maven/fr.ird.ob7/akado-installer@4.0.2
+- pkg:maven/fr.ird.ob7/akado-installer@4.0.3

@@ -23,6 +23,7 @@
 - pkg:maven/tech.carpentum.sdk.payment.java/payment-client-v2@2.1021.0?classifier=sources
 - pkg:maven/tech.carpentum.sdk.payment.java/payment-client-v2@2.1022.0?classifier=sources
 - pkg:maven/tech.carpentum.sdk.payment.java/payment-client-v2@2.1023.0?classifier=sources
+- pkg:maven/tech.carpentum.sdk.payment.java/payment-client-v2@2.1024.0?classifier=sources
 - pkg:maven/tech.carpentum.sdk.payment.java/payment-client-v2@2.15.0?classifier=sources
 - pkg:maven/tech.carpentum.sdk.payment.java/payment-client-v2@2.15.1?classifier=sources
 - pkg:maven/tech.carpentum.sdk.payment.java/payment-client-v2@2.15.2?classifier=sources

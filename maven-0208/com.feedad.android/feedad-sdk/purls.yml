@@ -41,3 +41,5 @@
 - pkg:maven/com.feedad.android/feedad-sdk@1.5.8?classifier=sources
 - pkg:maven/com.feedad.android/feedad-sdk@1.6.0?classifier=sources
 - pkg:maven/com.feedad.android/feedad-sdk@1.6.1?classifier=sources
+- pkg:maven/com.feedad.android/feedad-sdk@1.7.0?classifier=sources
+- pkg:maven/com.feedad.android/feedad-sdk@1.7.1?classifier=sources

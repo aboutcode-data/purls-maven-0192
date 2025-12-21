@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/async@1.5.2?classifier=sources
 - pkg:maven/org.mvnpm/async@2.6.3?classifier=sources

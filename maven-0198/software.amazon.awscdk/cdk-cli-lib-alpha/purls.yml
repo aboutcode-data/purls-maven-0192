@@ -2,6 +2,16 @@
 - pkg:maven/software.amazon.awscdk/cdk-cli-lib-alpha@2.100.0-alpha.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-cli-lib-alpha@2.1000.2-alpha.0
 - pkg:maven/software.amazon.awscdk/cdk-cli-lib-alpha@2.1000.2-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-cli-lib-alpha@2.1000.3-alpha.0
+- pkg:maven/software.amazon.awscdk/cdk-cli-lib-alpha@2.1000.3-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-cli-lib-alpha@2.1001.0-alpha.0
+- pkg:maven/software.amazon.awscdk/cdk-cli-lib-alpha@2.1001.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-cli-lib-alpha@2.1002.0-alpha.0
+- pkg:maven/software.amazon.awscdk/cdk-cli-lib-alpha@2.1002.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-cli-lib-alpha@2.1003.0-alpha.0
+- pkg:maven/software.amazon.awscdk/cdk-cli-lib-alpha@2.1003.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-cli-lib-alpha@2.1004.0-alpha.0
+- pkg:maven/software.amazon.awscdk/cdk-cli-lib-alpha@2.1004.0-alpha.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-cli-lib-alpha@2.101.0-alpha.0
 - pkg:maven/software.amazon.awscdk/cdk-cli-lib-alpha@2.101.0-alpha.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-cli-lib-alpha@2.101.1-alpha.0

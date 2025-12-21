@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/jwt-decode@3.1.2?classifier=sources
 - pkg:maven/org.mvnpm/jwt-decode@4.0.0?classifier=sources

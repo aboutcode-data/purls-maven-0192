@@ -7,3 +7,4 @@
 - pkg:maven/com.dua3.connect/connect@2.0.0-rc1?classifier=sources
 - pkg:maven/com.dua3.connect/connect@2.0.0-rc2?classifier=sources
 - pkg:maven/com.dua3.connect/connect@2.0.0?classifier=sources
+- pkg:maven/com.dua3.connect/connect@2.1.0?classifier=sources

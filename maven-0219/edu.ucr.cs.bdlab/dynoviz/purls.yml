@@ -1,0 +1,2 @@
+- pkg:maven/edu.ucr.cs.bdlab/dynoviz@0.10.1
+- pkg:maven/edu.ucr.cs.bdlab/dynoviz@0.10.1?classifier=sources

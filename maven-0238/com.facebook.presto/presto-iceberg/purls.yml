@@ -53,3 +53,4 @@
 - pkg:maven/com.facebook.presto/presto-iceberg@0.288?classifier=sources
 - pkg:maven/com.facebook.presto/presto-iceberg@0.289?classifier=sources
 - pkg:maven/com.facebook.presto/presto-iceberg@0.290?classifier=sources
+- pkg:maven/com.facebook.presto/presto-iceberg@0.291?classifier=sources

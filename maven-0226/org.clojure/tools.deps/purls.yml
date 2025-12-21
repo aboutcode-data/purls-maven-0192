@@ -80,3 +80,11 @@
 - pkg:maven/org.clojure/tools.deps@0.22.1488?classifier=sources
 - pkg:maven/org.clojure/tools.deps@0.22.1492
 - pkg:maven/org.clojure/tools.deps@0.22.1492?classifier=sources
+- pkg:maven/org.clojure/tools.deps@0.22.1497
+- pkg:maven/org.clojure/tools.deps@0.22.1497?classifier=sources
+- pkg:maven/org.clojure/tools.deps@0.22.1503
+- pkg:maven/org.clojure/tools.deps@0.22.1503?classifier=sources
+- pkg:maven/org.clojure/tools.deps@0.22.1507
+- pkg:maven/org.clojure/tools.deps@0.22.1507?classifier=sources
+- pkg:maven/org.clojure/tools.deps@0.23.1512
+- pkg:maven/org.clojure/tools.deps@0.23.1512?classifier=sources

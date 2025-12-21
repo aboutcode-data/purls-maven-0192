@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-jdbc-provider-hikari@9.2.0
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-jdbc-provider-hikari@9.2.0?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-jdbc-provider-hikari@9.2.1
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-jdbc-provider-hikari@9.2.1?classifier=sources

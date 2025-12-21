@@ -47,3 +47,5 @@
 - pkg:maven/org.aesh/aesh@2.7?classifier=sources
 - pkg:maven/org.aesh/aesh@2.8.2
 - pkg:maven/org.aesh/aesh@2.8.2?classifier=sources
+- pkg:maven/org.aesh/aesh@2.8.4
+- pkg:maven/org.aesh/aesh@2.8.4?classifier=sources

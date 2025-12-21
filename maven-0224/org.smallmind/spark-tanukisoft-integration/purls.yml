@@ -266,3 +266,5 @@
 - pkg:maven/org.smallmind/spark-tanukisoft-integration@6.2.0?classifier=sources
 - pkg:maven/org.smallmind/spark-tanukisoft-integration@6.3.0
 - pkg:maven/org.smallmind/spark-tanukisoft-integration@6.3.0?classifier=sources
+- pkg:maven/org.smallmind/spark-tanukisoft-integration@6.4.0?classifier=sources
+- pkg:maven/org.smallmind/spark-tanukisoft-integration@6.5.0?classifier=sources

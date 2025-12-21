@@ -154,3 +154,4 @@
 - pkg:maven/com.facebook.presto/presto-thrift-testing-server@0.288?classifier=sources
 - pkg:maven/com.facebook.presto/presto-thrift-testing-server@0.289?classifier=sources
 - pkg:maven/com.facebook.presto/presto-thrift-testing-server@0.290?classifier=sources
+- pkg:maven/com.facebook.presto/presto-thrift-testing-server@0.291?classifier=sources

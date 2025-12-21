@@ -10,3 +10,4 @@
 - pkg:maven/org.multi-os-engine/moe-gradle@1.8.2?classifier=sources
 - pkg:maven/org.multi-os-engine/moe-gradle@1.9.0
 - pkg:maven/org.multi-os-engine/moe-gradle@1.9.0?classifier=sources
+- pkg:maven/org.multi-os-engine/moe-gradle@2.0.0-alpha1?classifier=sources

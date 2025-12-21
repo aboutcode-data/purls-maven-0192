@@ -190,3 +190,4 @@
 - pkg:maven/com.pulumi/vault@6.5.0-alpha.1732603022?classifier=sources
 - pkg:maven/com.pulumi/vault@6.5.0-alpha.1732688851?classifier=sources
 - pkg:maven/com.pulumi/vault@6.5.0-alpha.1732775348?classifier=sources
+- pkg:maven/com.pulumi/vault@6.6.0?classifier=sources

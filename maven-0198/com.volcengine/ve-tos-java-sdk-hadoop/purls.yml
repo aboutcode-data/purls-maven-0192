@@ -1,0 +1,2 @@
+- pkg:maven/com.volcengine/ve-tos-java-sdk-hadoop@2.8.9
+- pkg:maven/com.volcengine/ve-tos-java-sdk-hadoop@2.8.9?classifier=sources

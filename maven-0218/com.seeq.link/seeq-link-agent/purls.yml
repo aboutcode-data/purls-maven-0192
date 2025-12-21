@@ -1,5 +1,7 @@
 - pkg:maven/com.seeq.link/seeq-link-agent@100.3.1099?classifier=sources
 - pkg:maven/com.seeq.link/seeq-link-agent@100.3.1100?classifier=sources
+- pkg:maven/com.seeq.link/seeq-link-agent@100.3.1485?classifier=sources
+- pkg:maven/com.seeq.link/seeq-link-agent@100.3.1637?classifier=sources
 - pkg:maven/com.seeq.link/seeq-link-agent@100.3.349?classifier=sources
 - pkg:maven/com.seeq.link/seeq-link-agent@100.3.352?classifier=sources
 - pkg:maven/com.seeq.link/seeq-link-agent@54.2.0-v202201281139?classifier=sources

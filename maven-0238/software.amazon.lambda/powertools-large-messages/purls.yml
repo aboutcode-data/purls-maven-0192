@@ -2,3 +2,5 @@
 - pkg:maven/software.amazon.lambda/powertools-large-messages@1.17.0?classifier=sources
 - pkg:maven/software.amazon.lambda/powertools-large-messages@1.18.0
 - pkg:maven/software.amazon.lambda/powertools-large-messages@1.18.0?classifier=sources
+- pkg:maven/software.amazon.lambda/powertools-large-messages@1.19.0
+- pkg:maven/software.amazon.lambda/powertools-large-messages@1.19.0?classifier=sources

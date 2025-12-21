@@ -2,3 +2,4 @@
 - pkg:maven/com.github.toolarium/toolarium-dependency-check-util@0.9.0?classifier=sources
 - pkg:maven/com.github.toolarium/toolarium-dependency-check-util@1.0.0?classifier=sources
 - pkg:maven/com.github.toolarium/toolarium-dependency-check-util@1.0.1?classifier=sources
+- pkg:maven/com.github.toolarium/toolarium-dependency-check-util@1.0.2?classifier=sources

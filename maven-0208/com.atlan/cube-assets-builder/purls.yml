@@ -47,3 +47,10 @@
 - pkg:maven/com.atlan/cube-assets-builder@4.2.0?classifier=sources
 - pkg:maven/com.atlan/cube-assets-builder@4.2.1?classifier=sources
 - pkg:maven/com.atlan/cube-assets-builder@4.2.2?classifier=sources
+- pkg:maven/com.atlan/cube-assets-builder@4.2.3?classifier=sources
+- pkg:maven/com.atlan/cube-assets-builder@4.3.0?classifier=sources
+- pkg:maven/com.atlan/cube-assets-builder@4.3.1?classifier=sources
+- pkg:maven/com.atlan/cube-assets-builder@5.0.0?classifier=sources
+- pkg:maven/com.atlan/cube-assets-builder@5.0.1?classifier=sources
+- pkg:maven/com.atlan/cube-assets-builder@5.0.2?classifier=sources
+- pkg:maven/com.atlan/cube-assets-builder@5.0.3?classifier=sources

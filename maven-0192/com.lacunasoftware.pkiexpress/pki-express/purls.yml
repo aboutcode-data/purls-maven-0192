@@ -39,6 +39,7 @@
 - pkg:maven/com.lacunasoftware.pkiexpress/pki-express@1.21.6?classifier=sources
 - pkg:maven/com.lacunasoftware.pkiexpress/pki-express@1.21.7?classifier=sources
 - pkg:maven/com.lacunasoftware.pkiexpress/pki-express@1.21.8?classifier=sources
+- pkg:maven/com.lacunasoftware.pkiexpress/pki-express@1.21.9?classifier=sources
 - pkg:maven/com.lacunasoftware.pkiexpress/pki-express@1.9.0
 - pkg:maven/com.lacunasoftware.pkiexpress/pki-express@1.9.0?classifier=sources
 - pkg:maven/com.lacunasoftware.pkiexpress/pki-express@1.9.1

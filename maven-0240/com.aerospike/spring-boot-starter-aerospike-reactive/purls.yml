@@ -1,2 +1,4 @@
 - pkg:maven/com.aerospike/spring-boot-starter-aerospike-reactive@0.17.0
 - pkg:maven/com.aerospike/spring-boot-starter-aerospike-reactive@0.17.0?classifier=sources
+- pkg:maven/com.aerospike/spring-boot-starter-aerospike-reactive@0.17.1
+- pkg:maven/com.aerospike/spring-boot-starter-aerospike-reactive@0.17.1?classifier=sources

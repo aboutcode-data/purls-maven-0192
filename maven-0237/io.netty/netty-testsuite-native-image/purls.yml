@@ -36,6 +36,8 @@
 - pkg:maven/io.netty/netty-testsuite-native-image@4.1.117.Final?classifier=sources
 - pkg:maven/io.netty/netty-testsuite-native-image@4.1.118.Final
 - pkg:maven/io.netty/netty-testsuite-native-image@4.1.118.Final?classifier=sources
+- pkg:maven/io.netty/netty-testsuite-native-image@4.1.119.Final
+- pkg:maven/io.netty/netty-testsuite-native-image@4.1.119.Final?classifier=sources
 - pkg:maven/io.netty/netty-testsuite-native-image@4.1.36.Final
 - pkg:maven/io.netty/netty-testsuite-native-image@4.1.36.Final?classifier=sources
 - pkg:maven/io.netty/netty-testsuite-native-image@4.1.37.Final
@@ -182,3 +184,5 @@
 - pkg:maven/io.netty/netty-testsuite-native-image@4.2.0.RC2?classifier=sources
 - pkg:maven/io.netty/netty-testsuite-native-image@4.2.0.RC3
 - pkg:maven/io.netty/netty-testsuite-native-image@4.2.0.RC3?classifier=sources
+- pkg:maven/io.netty/netty-testsuite-native-image@4.2.0.RC4
+- pkg:maven/io.netty/netty-testsuite-native-image@4.2.0.RC4?classifier=sources

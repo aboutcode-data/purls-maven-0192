@@ -1,0 +1,8 @@
+- pkg:maven/site.lingyang/YIM@3.0.0?classifier=sources
+- pkg:maven/site.lingyang/YIM@3.1.0?classifier=sources
+- pkg:maven/site.lingyang/YIM@3.2.0?classifier=sources
+- pkg:maven/site.lingyang/YIM@3.3.0?classifier=sources
+- pkg:maven/site.lingyang/YIM@3.6.0?classifier=sources
+- pkg:maven/site.lingyang/YIM@3.6.1?classifier=sources
+- pkg:maven/site.lingyang/YIM@3.6.2?classifier=sources
+- pkg:maven/site.lingyang/YIM@3.6.3?classifier=sources

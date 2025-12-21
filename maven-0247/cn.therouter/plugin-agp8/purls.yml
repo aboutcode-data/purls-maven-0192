@@ -101,3 +101,6 @@
 - pkg:maven/cn.therouter/plugin-agp8@1.2.4-rc7?classifier=sources
 - pkg:maven/cn.therouter/plugin-agp8@1.2.4-rc8?classifier=sources
 - pkg:maven/cn.therouter/plugin-agp8@1.2.4-rc9?classifier=sources
+- pkg:maven/cn.therouter/plugin-agp8@1.2.4?classifier=sources
+- pkg:maven/cn.therouter/plugin-agp8@1.2.5-beta2?classifier=sources
+- pkg:maven/cn.therouter/plugin-agp8@1.2.5-rc2?classifier=sources

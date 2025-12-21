@@ -1,0 +1,2 @@
+- pkg:maven/ch.randelshofer/org.monte.media.animconverter@17.2.1?classifier=sources
+- pkg:maven/ch.randelshofer/org.monte.media.animconverter@17.2?classifier=sources

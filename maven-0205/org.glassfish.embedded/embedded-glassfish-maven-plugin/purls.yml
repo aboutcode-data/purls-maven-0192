@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.embedded/embedded-glassfish-maven-plugin@7.0
+- pkg:maven/org.glassfish.embedded/embedded-glassfish-maven-plugin@7.0?classifier=sources

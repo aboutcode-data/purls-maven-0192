@@ -650,3 +650,5 @@
 - pkg:maven/org.gweninterpreter/gwen@4.3.2?classifier=sources
 - pkg:maven/org.gweninterpreter/gwen@4.3.3
 - pkg:maven/org.gweninterpreter/gwen@4.3.3?classifier=sources
+- pkg:maven/org.gweninterpreter/gwen@4.4.0
+- pkg:maven/org.gweninterpreter/gwen@4.4.0?classifier=sources

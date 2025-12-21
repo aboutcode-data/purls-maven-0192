@@ -16,4 +16,6 @@
 - pkg:maven/io.github.smyrgeorge/log4k-js@0.25.0?classifier=sources
 - pkg:maven/io.github.smyrgeorge/log4k-js@0.26.0?classifier=sources
 - pkg:maven/io.github.smyrgeorge/log4k-js@0.30.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/log4k-js@0.31.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/log4k-js@0.32.0?classifier=sources
 - pkg:maven/io.github.smyrgeorge/log4k-js@0.9.0?classifier=sources

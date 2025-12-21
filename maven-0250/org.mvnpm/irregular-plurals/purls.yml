@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/irregular-plurals@3.5.0?classifier=sources
+- pkg:maven/org.mvnpm/irregular-plurals@4.0.0?classifier=sources

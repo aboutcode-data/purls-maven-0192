@@ -67,3 +67,4 @@
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-function@5.7.1?classifier=sources
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-function@5.8.0?classifier=sources
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-function@5.8.1?classifier=sources
+- pkg:maven/io.micronaut.gcp/micronaut-gcp-function@5.9.0?classifier=sources

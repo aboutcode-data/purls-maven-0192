@@ -1,0 +1,4 @@
+- pkg:maven/dev.inmo/micro_utils.pagination.compose-mingwx64@0.24.8?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.pagination.compose-mingwx64@0.24.9?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.pagination.compose-mingwx64@0.25.0?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.pagination.compose-mingwx64@0.25.1?classifier=sources

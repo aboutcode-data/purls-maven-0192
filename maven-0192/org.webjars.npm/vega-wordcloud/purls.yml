@@ -9,3 +9,4 @@
 - pkg:maven/org.webjars.npm/vega-wordcloud@4.1.3
 - pkg:maven/org.webjars.npm/vega-wordcloud@4.1.3?classifier=sources
 - pkg:maven/org.webjars.npm/vega-wordcloud@4.1.5
+- pkg:maven/org.webjars.npm/vega-wordcloud@4.1.6

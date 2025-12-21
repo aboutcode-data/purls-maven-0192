@@ -20,3 +20,6 @@
 - pkg:maven/com.grapecitysoft.documents/gcexcel@7.2.4?classifier=sources
 - pkg:maven/com.grapecitysoft.documents/gcexcel@7.2.5?classifier=sources
 - pkg:maven/com.grapecitysoft.documents/gcexcel@7.2.6?classifier=sources
+- pkg:maven/com.grapecitysoft.documents/gcexcel@7.2.7?classifier=sources
+- pkg:maven/com.grapecitysoft.documents/gcexcel@7.2.8?classifier=sources
+- pkg:maven/com.grapecitysoft.documents/gcexcel@8.0.4?classifier=sources
