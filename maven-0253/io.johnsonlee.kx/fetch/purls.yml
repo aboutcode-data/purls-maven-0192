@@ -2,3 +2,5 @@
 - pkg:maven/io.johnsonlee.kx/fetch@0.2.0?classifier=sources
 - pkg:maven/io.johnsonlee.kx/fetch@0.3.0?classifier=sources
 - pkg:maven/io.johnsonlee.kx/fetch@0.4.0?classifier=sources
+- pkg:maven/io.johnsonlee.kx/fetch@1.0.0?classifier=sources
+- pkg:maven/io.johnsonlee.kx/fetch@1.1.0?classifier=sources

@@ -14,3 +14,4 @@
 - pkg:maven/jp.openstandia.connector/connector-github@1.2.2?classifier=sources
 - pkg:maven/jp.openstandia.connector/connector-github@1.2.3
 - pkg:maven/jp.openstandia.connector/connector-github@1.2.3?classifier=sources
+- pkg:maven/jp.openstandia.connector/connector-github@1.2.4?classifier=sources

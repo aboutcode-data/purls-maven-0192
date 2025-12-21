@@ -1,1 +1,2 @@
 - pkg:maven/org.kie/kie-tools-maven-base@10.0.0?classifier=source-release&type=zip
+- pkg:maven/org.kie/kie-tools-maven-base@10.1.0?classifier=source-release&type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/dev.lolyay/lyricsv2@1.2.2?classifier=sources
+- pkg:maven/dev.lolyay/lyricsv2@1.4.4?classifier=sources

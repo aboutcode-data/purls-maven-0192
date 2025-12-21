@@ -9,3 +9,9 @@
 - pkg:maven/io.vacco.oss.gitflow/io.vacco.oss.gitflow.gradle.plugin@1.5.1?classifier=sources
 - pkg:maven/io.vacco.oss.gitflow/io.vacco.oss.gitflow.gradle.plugin@1.5.3?classifier=sources
 - pkg:maven/io.vacco.oss.gitflow/io.vacco.oss.gitflow.gradle.plugin@1.5.4?classifier=sources
+- pkg:maven/io.vacco.oss.gitflow/io.vacco.oss.gitflow.gradle.plugin@1.8.0
+- pkg:maven/io.vacco.oss.gitflow/io.vacco.oss.gitflow.gradle.plugin@1.8.0?classifier=sources
+- pkg:maven/io.vacco.oss.gitflow/io.vacco.oss.gitflow.gradle.plugin@1.8.1
+- pkg:maven/io.vacco.oss.gitflow/io.vacco.oss.gitflow.gradle.plugin@1.8.1?classifier=sources
+- pkg:maven/io.vacco.oss.gitflow/io.vacco.oss.gitflow.gradle.plugin@1.8.2
+- pkg:maven/io.vacco.oss.gitflow/io.vacco.oss.gitflow.gradle.plugin@1.8.2?classifier=sources

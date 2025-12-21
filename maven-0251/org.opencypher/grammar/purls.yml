@@ -45,3 +45,4 @@
 - pkg:maven/org.opencypher/grammar@1.0.0-M23
 - pkg:maven/org.opencypher/grammar@1.0.0-M23?classifier=sources
 - pkg:maven/org.opencypher/grammar@2024.1
+- pkg:maven/org.opencypher/grammar@2024.2

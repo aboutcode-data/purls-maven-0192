@@ -24,3 +24,4 @@
 - pkg:maven/io.github.kevinnzou/compose-webview-multiplatform-iosarm64@1.9.7?classifier=sources
 - pkg:maven/io.github.kevinnzou/compose-webview-multiplatform-iosarm64@1.9.8?classifier=sources
 - pkg:maven/io.github.kevinnzou/compose-webview-multiplatform-iosarm64@2.0.0?classifier=sources
+- pkg:maven/io.github.kevinnzou/compose-webview-multiplatform-iosarm64@2.0.1?classifier=sources

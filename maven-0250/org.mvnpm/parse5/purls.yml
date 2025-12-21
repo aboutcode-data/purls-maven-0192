@@ -3,3 +3,5 @@
 - pkg:maven/org.mvnpm/parse5@7.2.1?classifier=sources
 - pkg:maven/org.mvnpm/parse5@7.3.0
 - pkg:maven/org.mvnpm/parse5@7.3.0?classifier=sources
+- pkg:maven/org.mvnpm/parse5@8.0.0
+- pkg:maven/org.mvnpm/parse5@8.0.0?classifier=sources

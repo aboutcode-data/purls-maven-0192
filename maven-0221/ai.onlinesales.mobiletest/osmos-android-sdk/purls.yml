@@ -1,0 +1,5 @@
+- pkg:maven/ai.onlinesales.mobiletest/osmos-android-sdk@1.5.2?classifier=sources
+- pkg:maven/ai.onlinesales.mobiletest/osmos-android-sdk@2.0.0?classifier=sources
+- pkg:maven/ai.onlinesales.mobiletest/osmos-android-sdk@2.0.1?classifier=sources
+- pkg:maven/ai.onlinesales.mobiletest/osmos-android-sdk@J182.0.0?classifier=sources
+- pkg:maven/ai.onlinesales.mobiletest/osmos-android-sdk@J182.0.1?classifier=sources

@@ -68,3 +68,4 @@
 - pkg:maven/net.algart/algart-tiff@1.3.9?classifier=sources
 - pkg:maven/net.algart/algart-tiff@1.4.0
 - pkg:maven/net.algart/algart-tiff@1.4.0?classifier=sources
+- pkg:maven/net.algart/algart-tiff@1.5.0?classifier=sources

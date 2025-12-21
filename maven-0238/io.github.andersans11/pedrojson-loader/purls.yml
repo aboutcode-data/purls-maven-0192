@@ -1,0 +1,2 @@
+- pkg:maven/io.github.andersans11/pedrojson-loader@2.0.2-alpha?classifier=sources
+- pkg:maven/io.github.andersans11/pedrojson-loader@2.1.4-alpha?classifier=sources

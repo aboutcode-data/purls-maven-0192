@@ -62,3 +62,15 @@
 - pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-eth@0.51?classifier=sources
 - pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-eth@0.52
 - pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-eth@0.52?classifier=sources
+- pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-eth@0.53
+- pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-eth@0.53?classifier=sources
+- pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-eth@0.54
+- pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-eth@0.54?classifier=sources
+- pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-eth@0.56?classifier=sources
+- pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-eth@0.57?classifier=sources
+- pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-eth@0.59?classifier=sources
+- pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-eth@0.60?classifier=sources
+- pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-eth@0.61?classifier=sources
+- pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-eth@0.62?classifier=sources
+- pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-eth@0.63?classifier=sources
+- pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-eth@0.64?classifier=sources

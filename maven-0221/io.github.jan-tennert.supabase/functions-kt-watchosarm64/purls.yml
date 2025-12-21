@@ -128,3 +128,6 @@
 - pkg:maven/io.github.jan-tennert.supabase/functions-kt-watchosarm64@3.2.0-beta-2?classifier=sources
 - pkg:maven/io.github.jan-tennert.supabase/functions-kt-watchosarm64@3.2.0-ksp-b1?classifier=sources
 - pkg:maven/io.github.jan-tennert.supabase/functions-kt-watchosarm64@3.2.0-rc-1?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/functions-kt-watchosarm64@3.2.0?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/functions-kt-watchosarm64@3.2.1?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/functions-kt-watchosarm64@3.2.2?classifier=sources

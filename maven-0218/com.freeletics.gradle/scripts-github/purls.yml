@@ -1,2 +1,11 @@
 - pkg:maven/com.freeletics.gradle/scripts-github@0.26.0?classifier=sources
+- pkg:maven/com.freeletics.gradle/scripts-github@0.26.1?classifier=sources
 - pkg:maven/com.freeletics.gradle/scripts-github@0.27.0-alpha01?classifier=sources
+- pkg:maven/com.freeletics.gradle/scripts-github@0.27.0-alpha2?classifier=sources
+- pkg:maven/com.freeletics.gradle/scripts-github@0.27.0-alpha3?classifier=sources
+- pkg:maven/com.freeletics.gradle/scripts-github@0.27.0?classifier=sources
+- pkg:maven/com.freeletics.gradle/scripts-github@0.27.1?classifier=sources
+- pkg:maven/com.freeletics.gradle/scripts-github@0.27.2?classifier=sources
+- pkg:maven/com.freeletics.gradle/scripts-github@0.27.3?classifier=sources
+- pkg:maven/com.freeletics.gradle/scripts-github@0.28.0?classifier=sources
+- pkg:maven/com.freeletics.gradle/scripts-github@0.29.0?classifier=sources

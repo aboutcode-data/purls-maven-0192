@@ -14,3 +14,4 @@
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.interceptor-manager@3.3.0?classifier=sources
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.interceptor-manager@4.0.0
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.interceptor-manager@4.0.0?classifier=sources
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.interceptor-manager@5.0.0?classifier=sources

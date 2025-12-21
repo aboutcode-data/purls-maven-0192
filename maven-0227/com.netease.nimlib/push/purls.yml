@@ -74,8 +74,16 @@
 - pkg:maven/com.netease.nimlib/push@10.9.0?type=aar
 - pkg:maven/com.netease.nimlib/push@10.9.10?classifier=sources
 - pkg:maven/com.netease.nimlib/push@10.9.10?type=aar
+- pkg:maven/com.netease.nimlib/push@10.9.11?classifier=sources
+- pkg:maven/com.netease.nimlib/push@10.9.11?type=aar
+- pkg:maven/com.netease.nimlib/push@10.9.12?classifier=sources
+- pkg:maven/com.netease.nimlib/push@10.9.12?type=aar
 - pkg:maven/com.netease.nimlib/push@10.9.1?classifier=sources
 - pkg:maven/com.netease.nimlib/push@10.9.1?type=aar
+- pkg:maven/com.netease.nimlib/push@10.9.20?classifier=sources
+- pkg:maven/com.netease.nimlib/push@10.9.20?type=aar
+- pkg:maven/com.netease.nimlib/push@10.9.30?classifier=sources
+- pkg:maven/com.netease.nimlib/push@10.9.30?type=aar
 - pkg:maven/com.netease.nimlib/push@5.2.0?classifier=sources
 - pkg:maven/com.netease.nimlib/push@5.2.0?type=aar
 - pkg:maven/com.netease.nimlib/push@5.3.0?classifier=sources
@@ -284,6 +292,8 @@
 - pkg:maven/com.netease.nimlib/push@8.6.504?type=aar
 - pkg:maven/com.netease.nimlib/push@8.6.505?classifier=sources
 - pkg:maven/com.netease.nimlib/push@8.6.505?type=aar
+- pkg:maven/com.netease.nimlib/push@8.6.506?classifier=sources
+- pkg:maven/com.netease.nimlib/push@8.6.506?type=aar
 - pkg:maven/com.netease.nimlib/push@8.6.6?classifier=sources
 - pkg:maven/com.netease.nimlib/push@8.6.6?type=aar
 - pkg:maven/com.netease.nimlib/push@8.6.8?classifier=sources
@@ -358,6 +368,10 @@
 - pkg:maven/com.netease.nimlib/push@8.9.116?type=aar
 - pkg:maven/com.netease.nimlib/push@8.9.117?classifier=sources
 - pkg:maven/com.netease.nimlib/push@8.9.117?type=aar
+- pkg:maven/com.netease.nimlib/push@8.9.11800?classifier=sources
+- pkg:maven/com.netease.nimlib/push@8.9.11800?type=aar
+- pkg:maven/com.netease.nimlib/push@8.9.11801?classifier=sources
+- pkg:maven/com.netease.nimlib/push@8.9.11801?type=aar
 - pkg:maven/com.netease.nimlib/push@8.9.118?classifier=sources
 - pkg:maven/com.netease.nimlib/push@8.9.118?type=aar
 - pkg:maven/com.netease.nimlib/push@8.9.119?classifier=sources

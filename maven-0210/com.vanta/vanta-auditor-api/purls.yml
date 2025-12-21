@@ -1,1 +1,2 @@
 - pkg:maven/com.vanta/vanta-auditor-api@0.2.0?classifier=sources
+- pkg:maven/com.vanta/vanta-auditor-api@0.3.0?classifier=sources

@@ -11,4 +11,6 @@
 - pkg:maven/dev.vortex/vortex-jni@0.37.2?classifier=sources
 - pkg:maven/dev.vortex/vortex-jni@0.38.0?classifier=sources
 - pkg:maven/dev.vortex/vortex-jni@0.39.0?classifier=sources
+- pkg:maven/dev.vortex/vortex-jni@0.40.0?classifier=sources
+- pkg:maven/dev.vortex/vortex-jni@0.41.2?classifier=sources
 - pkg:maven/dev.vortex/vortex-jni@cf08dc5.dirty?classifier=sources

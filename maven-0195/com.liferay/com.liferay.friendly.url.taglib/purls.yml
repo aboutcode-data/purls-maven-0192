@@ -117,3 +117,5 @@
 - pkg:maven/com.liferay/com.liferay.friendly.url.taglib@1.6.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.friendly.url.taglib@1.6.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.friendly.url.taglib@2.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.friendly.url.taglib@2.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.friendly.url.taglib@2.0.2?classifier=sources

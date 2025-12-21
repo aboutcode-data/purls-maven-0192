@@ -99,6 +99,7 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-speech-sdk-java@1.0.53?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-speech-sdk-java@1.0.54
 - pkg:maven/com.tencentcloudapi/tencentcloud-speech-sdk-java@1.0.54?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-speech-sdk-java@1.0.55?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-speech-sdk-java@1.0.5?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-speech-sdk-java@1.0.6
 - pkg:maven/com.tencentcloudapi/tencentcloud-speech-sdk-java@1.0.6?classifier=sources

@@ -61,3 +61,4 @@
 - pkg:maven/de.agilecoders.wicket.webjars/samples@2.0.3?classifier=sources
 - pkg:maven/de.agilecoders.wicket.webjars/samples@2.0.3?type=war
 - pkg:maven/de.agilecoders.wicket.webjars/samples@3.0.8?classifier=sources
+- pkg:maven/de.agilecoders.wicket.webjars/samples@4.0.11?classifier=sources

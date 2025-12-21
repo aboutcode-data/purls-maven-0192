@@ -7,3 +7,14 @@
 - pkg:maven/io.gitee.chenshaogui/sgchen-security@1.0.20?classifier=sources
 - pkg:maven/io.gitee.chenshaogui/sgchen-security@1.0.21?classifier=sources
 - pkg:maven/io.gitee.chenshaogui/sgchen-security@1.0.30?classifier=sources
+- pkg:maven/io.gitee.chenshaogui/sgchen-security@1.0.31?classifier=sources
+- pkg:maven/io.gitee.chenshaogui/sgchen-security@1.0.32?classifier=sources
+- pkg:maven/io.gitee.chenshaogui/sgchen-security@1.0.33?classifier=sources
+- pkg:maven/io.gitee.chenshaogui/sgchen-security@1.0.34?classifier=sources
+- pkg:maven/io.gitee.chenshaogui/sgchen-security@1.0.35?classifier=sources
+- pkg:maven/io.gitee.chenshaogui/sgchen-security@1.0.36?classifier=sources
+- pkg:maven/io.gitee.chenshaogui/sgchen-security@1.0.37?classifier=sources
+- pkg:maven/io.gitee.chenshaogui/sgchen-security@1.0.38?classifier=sources
+- pkg:maven/io.gitee.chenshaogui/sgchen-security@1.0.39?classifier=sources
+- pkg:maven/io.gitee.chenshaogui/sgchen-security@1.0.40?classifier=sources
+- pkg:maven/io.gitee.chenshaogui/sgchen-security@1.0.41?classifier=sources

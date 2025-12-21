@@ -1,0 +1,4 @@
+- pkg:maven/so.daro/daro-m@1.0.0?classifier=sources
+- pkg:maven/so.daro/daro-m@1.1.0?classifier=sources
+- pkg:maven/so.daro/daro-m@1.1.1?classifier=sources
+- pkg:maven/so.daro/daro-m@1.2.0?classifier=sources

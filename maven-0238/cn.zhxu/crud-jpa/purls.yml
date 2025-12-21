@@ -3,4 +3,6 @@
 - pkg:maven/cn.zhxu/crud-jpa@0.0.3
 - pkg:maven/cn.zhxu/crud-jpa@0.0.3?classifier=sources
 - pkg:maven/cn.zhxu/crud-jpa@0.0.4
+- pkg:maven/cn.zhxu/crud-jpa@0.0.4.sb2jdk8?classifier=sources
 - pkg:maven/cn.zhxu/crud-jpa@0.0.4?classifier=sources
+- pkg:maven/cn.zhxu/crud-jpa@0.0.5?classifier=sources

@@ -35,6 +35,9 @@
 - pkg:maven/io.mockk/mockk-dsl@1.13.9?classifier=sources
 - pkg:maven/io.mockk/mockk-dsl@1.14.0?classifier=sources
 - pkg:maven/io.mockk/mockk-dsl@1.14.2?classifier=sources
+- pkg:maven/io.mockk/mockk-dsl@1.14.3?classifier=sources
+- pkg:maven/io.mockk/mockk-dsl@1.14.4?classifier=sources
+- pkg:maven/io.mockk/mockk-dsl@1.14.5?classifier=sources
 - pkg:maven/io.mockk/mockk-dsl@1.6
 - pkg:maven/io.mockk/mockk-dsl@1.6.1
 - pkg:maven/io.mockk/mockk-dsl@1.6.1?classifier=sources

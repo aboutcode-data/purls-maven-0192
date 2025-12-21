@@ -87,6 +87,7 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-table-core@2025.6.11-8.21.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-table-core@2025.6.13-8.21.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-table-core@2025.6.14-8.21.3?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-table-core@2025.6.15-8.21.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-table-core@2025.6.2-8.21.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-table-core@2025.6.3-8.21.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-table-core@2025.6.4-8.21.3?classifier=sources
@@ -95,6 +96,17 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-table-core@2025.6.7-8.21.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-table-core@2025.6.8-8.21.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-table-core@2025.6.9-8.21.3?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-table-core@2025.7.0-8.21.3?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-table-core@2025.7.1-8.21.3?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-table-core@2025.7.10-8.21.3?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-table-core@2025.7.2-8.21.3?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-table-core@2025.7.3-8.21.3?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-table-core@2025.7.4-8.21.3?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-table-core@2025.7.5-8.21.3?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-table-core@2025.7.6-8.21.3?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-table-core@2025.7.7-8.21.3?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-table-core@2025.7.8-8.21.3?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-table-core@2025.7.9-8.21.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-table-core@8.10.0-pre.625?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-table-core@8.10.0-pre.626?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-table-core@8.10.0-pre.627?classifier=sources

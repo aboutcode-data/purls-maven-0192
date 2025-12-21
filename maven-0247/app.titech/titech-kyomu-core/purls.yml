@@ -6,3 +6,4 @@
 - pkg:maven/app.titech/titech-kyomu-core@3.0.0?classifier=sources
 - pkg:maven/app.titech/titech-kyomu-core@3.1.0?classifier=sources
 - pkg:maven/app.titech/titech-kyomu-core@4.0.0?classifier=sources
+- pkg:maven/app.titech/titech-kyomu-core@4.1.0?classifier=sources

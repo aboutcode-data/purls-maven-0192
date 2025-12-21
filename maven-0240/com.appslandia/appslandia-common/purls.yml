@@ -240,6 +240,7 @@
 - pkg:maven/com.appslandia/appslandia-common@19.39.2?classifier=sources
 - pkg:maven/com.appslandia/appslandia-common@19.4.0
 - pkg:maven/com.appslandia/appslandia-common@19.4.0?classifier=sources
+- pkg:maven/com.appslandia/appslandia-common@19.40.0?classifier=sources
 - pkg:maven/com.appslandia/appslandia-common@19.6.0
 - pkg:maven/com.appslandia/appslandia-common@19.6.0?classifier=sources
 - pkg:maven/com.appslandia/appslandia-common@19.8.0

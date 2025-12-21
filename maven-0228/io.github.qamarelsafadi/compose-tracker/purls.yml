@@ -1,1 +1,7 @@
 - pkg:maven/io.github.qamarelsafadi/compose-tracker@1.0.0?classifier=sources
+- pkg:maven/io.github.qamarelsafadi/compose-tracker@1.1.0?classifier=sources
+- pkg:maven/io.github.qamarelsafadi/compose-tracker@2.0.0?classifier=sources
+- pkg:maven/io.github.qamarelsafadi/compose-tracker@2.1.0?classifier=sources
+- pkg:maven/io.github.qamarelsafadi/compose-tracker@2.2.0?classifier=sources
+- pkg:maven/io.github.qamarelsafadi/compose-tracker@2.2.1?classifier=sources
+- pkg:maven/io.github.qamarelsafadi/compose-tracker@3.0.0?classifier=sources

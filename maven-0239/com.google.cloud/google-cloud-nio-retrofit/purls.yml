@@ -236,6 +236,8 @@
 - pkg:maven/com.google.cloud/google-cloud-nio-retrofit@0.127.36?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-nio-retrofit@0.127.37
 - pkg:maven/com.google.cloud/google-cloud-nio-retrofit@0.127.37?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-nio-retrofit@0.127.38
+- pkg:maven/com.google.cloud/google-cloud-nio-retrofit@0.127.38?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-nio-retrofit@0.127.3?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-nio-retrofit@0.127.4
 - pkg:maven/com.google.cloud/google-cloud-nio-retrofit@0.127.4?classifier=sources
@@ -249,3 +251,5 @@
 - pkg:maven/com.google.cloud/google-cloud-nio-retrofit@0.127.8?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-nio-retrofit@0.127.9
 - pkg:maven/com.google.cloud/google-cloud-nio-retrofit@0.127.9?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-nio-retrofit@0.128.0
+- pkg:maven/com.google.cloud/google-cloud-nio-retrofit@0.128.0?classifier=sources

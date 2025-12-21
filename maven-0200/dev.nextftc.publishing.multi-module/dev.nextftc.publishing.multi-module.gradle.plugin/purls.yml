@@ -1,0 +1,2 @@
+- pkg:maven/dev.nextftc.publishing.multi-module/dev.nextftc.publishing.multi-module.gradle.plugin@1.0.0?classifier=sources
+- pkg:maven/dev.nextftc.publishing.multi-module/dev.nextftc.publishing.multi-module.gradle.plugin@1.0.1?classifier=sources

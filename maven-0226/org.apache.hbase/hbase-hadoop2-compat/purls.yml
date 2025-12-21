@@ -370,3 +370,7 @@
 - pkg:maven/org.apache.hbase/hbase-hadoop2-compat@2.6.2-hadoop3
 - pkg:maven/org.apache.hbase/hbase-hadoop2-compat@2.6.2-hadoop3?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-hadoop2-compat@2.6.2?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-hadoop2-compat@2.6.3
+- pkg:maven/org.apache.hbase/hbase-hadoop2-compat@2.6.3-hadoop3
+- pkg:maven/org.apache.hbase/hbase-hadoop2-compat@2.6.3-hadoop3?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-hadoop2-compat@2.6.3?classifier=sources

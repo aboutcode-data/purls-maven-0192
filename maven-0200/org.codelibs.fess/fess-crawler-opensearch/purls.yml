@@ -1,1 +1,2 @@
 - pkg:maven/org.codelibs.fess/fess-crawler-opensearch@15.0.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-crawler-opensearch@15.1.0?classifier=sources

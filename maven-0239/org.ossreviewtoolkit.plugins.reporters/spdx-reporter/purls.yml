@@ -98,6 +98,10 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/spdx-reporter@61.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/spdx-reporter@61.2.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/spdx-reporter@61.3.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/spdx-reporter@62.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/spdx-reporter@62.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/spdx-reporter@62.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/spdx-reporter@63.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/spdx-reporter@7.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/spdx-reporter@7.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/spdx-reporter@8.0.0?classifier=sources

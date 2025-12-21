@@ -1,1 +1,2 @@
 - pkg:maven/com.osmerion.kotlin/kotlin-base32-mingwx64@0.1.0?classifier=sources
+- pkg:maven/com.osmerion.kotlin/kotlin-base32-mingwx64@1.0.0?classifier=sources

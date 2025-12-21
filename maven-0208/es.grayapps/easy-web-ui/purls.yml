@@ -1,3 +1,5 @@
 - pkg:maven/es.grayapps/easy-web-ui@0.1?classifier=sources
 - pkg:maven/es.grayapps/easy-web-ui@0.2.1?classifier=sources
+- pkg:maven/es.grayapps/easy-web-ui@0.2.2?classifier=sources
 - pkg:maven/es.grayapps/easy-web-ui@0.2?classifier=sources
+- pkg:maven/es.grayapps/easy-web-ui@0.3.0?classifier=sources

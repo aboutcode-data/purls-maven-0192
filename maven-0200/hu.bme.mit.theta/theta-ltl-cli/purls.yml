@@ -23,3 +23,4 @@
 - pkg:maven/hu.bme.mit.theta/theta-ltl-cli@6.15.5?classifier=sources
 - pkg:maven/hu.bme.mit.theta/theta-ltl-cli@6.16.0?classifier=sources
 - pkg:maven/hu.bme.mit.theta/theta-ltl-cli@6.16.1?classifier=sources
+- pkg:maven/hu.bme.mit.theta/theta-ltl-cli@6.17.0?classifier=sources

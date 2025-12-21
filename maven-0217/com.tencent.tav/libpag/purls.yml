@@ -3,6 +3,8 @@
 - pkg:maven/com.tencent.tav/libpag@0.1.2.19?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@0.1.2.20?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@0.1.2.8-noffavc?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@0.10001.0?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@0.10002.0?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@0.13.15-harfbuzz?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@0.13.15-harfbuzz?type=aar
 - pkg:maven/com.tencent.tav/libpag@0.13.15-noffavc?classifier=sources
@@ -15,6 +17,11 @@
 - pkg:maven/com.tencent.tav/libpag@0.13.25-noffavc?type=aar
 - pkg:maven/com.tencent.tav/libpag@0.13.25?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@0.13.25?type=aar
+- pkg:maven/com.tencent.tav/libpag@0.4.-noffavc?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@0.4.260-noffavc?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@0.8.63-harfbuzz?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@0.8.63-noffavc?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@0.8.63?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@1.0.73-harfbuzz?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@1.0.73-noffavc?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@1.0.73?classifier=sources
@@ -681,6 +688,12 @@
 - pkg:maven/com.tencent.tav/libpag@4.4.31-harfbuzz?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@4.4.31-noffavc?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@4.4.31?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@4.4.34-harfbuzz?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@4.4.34-noffavc?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@4.4.34?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@4.4.35-harfbuzz?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@4.4.35-noffavc?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@4.4.35?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@4.4.8-harfbuzz?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@4.4.8-noffavc?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@4.4.8?classifier=sources

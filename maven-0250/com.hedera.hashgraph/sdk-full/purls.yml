@@ -57,3 +57,6 @@
 - pkg:maven/com.hedera.hashgraph/sdk-full@2.56.1?classifier=sources
 - pkg:maven/com.hedera.hashgraph/sdk-full@2.57.0?classifier=sources
 - pkg:maven/com.hedera.hashgraph/sdk-full@2.58.0?classifier=sources
+- pkg:maven/com.hedera.hashgraph/sdk-full@2.59.0?classifier=sources
+- pkg:maven/com.hedera.hashgraph/sdk-full@2.60.0?classifier=sources
+- pkg:maven/com.hedera.hashgraph/sdk-full@2.61.0?classifier=sources

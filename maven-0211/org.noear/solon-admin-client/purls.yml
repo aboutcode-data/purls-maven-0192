@@ -323,3 +323,4 @@
 - pkg:maven/org.noear/solon-admin-client@3.3.3-M2?classifier=sources
 - pkg:maven/org.noear/solon-admin-client@3.3.3-M3?classifier=sources
 - pkg:maven/org.noear/solon-admin-client@3.3.3?classifier=sources
+- pkg:maven/org.noear/solon-admin-client@3.4.0?classifier=sources

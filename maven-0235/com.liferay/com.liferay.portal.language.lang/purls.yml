@@ -391,6 +391,10 @@
 - pkg:maven/com.liferay/com.liferay.portal.language.lang@1.0.251?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.language.lang@1.0.252?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.language.lang@1.0.253?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.language.lang@1.0.254?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.language.lang@1.0.255?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.language.lang@1.0.256?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.language.lang@1.0.257?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.language.lang@1.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.language.lang@1.0.25?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.language.lang@1.0.26

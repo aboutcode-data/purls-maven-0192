@@ -24,3 +24,4 @@
 - pkg:maven/com.vmlens/trace-agent-bootstrap-jdk9@1.2.4?classifier=sources
 - pkg:maven/com.vmlens/trace-agent-bootstrap-jdk9@1.2.5
 - pkg:maven/com.vmlens/trace-agent-bootstrap-jdk9@1.2.5?classifier=sources
+- pkg:maven/com.vmlens/trace-agent-bootstrap-jdk9@1.2.6?classifier=sources
