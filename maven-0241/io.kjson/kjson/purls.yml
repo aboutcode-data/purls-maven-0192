@@ -106,3 +106,7 @@
 - pkg:maven/io.kjson/kjson@9.6?classifier=sources
 - pkg:maven/io.kjson/kjson@9.7
 - pkg:maven/io.kjson/kjson@9.7?classifier=sources
+- pkg:maven/io.kjson/kjson@9.8
+- pkg:maven/io.kjson/kjson@9.8?classifier=sources
+- pkg:maven/io.kjson/kjson@9.9
+- pkg:maven/io.kjson/kjson@9.9?classifier=sources

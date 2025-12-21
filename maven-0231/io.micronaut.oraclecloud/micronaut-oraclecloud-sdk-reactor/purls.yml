@@ -74,3 +74,6 @@
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-sdk-reactor@4.3.9?classifier=sources
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-sdk-reactor@5.0.0?classifier=sources
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-sdk-reactor@5.0.1?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-sdk-reactor@5.0.2?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-sdk-reactor@5.1.0?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-sdk-reactor@5.2.0?classifier=sources

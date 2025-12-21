@@ -1,0 +1,4 @@
+- pkg:maven/com.markelliot.barista/barista-prometheus@0.103.0?classifier=sources
+- pkg:maven/com.markelliot.barista/barista-prometheus@0.104.0?classifier=sources
+- pkg:maven/com.markelliot.barista/barista-prometheus@0.105.0?classifier=sources
+- pkg:maven/com.markelliot.barista/barista-prometheus@0.106.0?classifier=sources

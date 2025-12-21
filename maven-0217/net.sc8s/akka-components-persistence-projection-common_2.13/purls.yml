@@ -1,0 +1,2 @@
+- pkg:maven/net.sc8s/akka-components-persistence-projection-common_2.13@0.104.0
+- pkg:maven/net.sc8s/akka-components-persistence-projection-common_2.13@0.104.0?classifier=sources

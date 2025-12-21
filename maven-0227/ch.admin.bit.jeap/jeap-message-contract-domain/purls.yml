@@ -3,3 +3,6 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-message-contract-domain@3.28.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-message-contract-domain@3.29.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-message-contract-domain@3.30.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-message-contract-domain@3.31.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-message-contract-domain@3.32.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-message-contract-domain@3.33.0?classifier=sources

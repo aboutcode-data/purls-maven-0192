@@ -52,3 +52,7 @@
 - pkg:maven/com.aliyun/alibabacloud-pai_dsw20220101@1.1.43?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-pai_dsw20220101@1.1.44
 - pkg:maven/com.aliyun/alibabacloud-pai_dsw20220101@1.1.44?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-pai_dsw20220101@1.1.45
+- pkg:maven/com.aliyun/alibabacloud-pai_dsw20220101@1.1.45?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-pai_dsw20220101@1.1.46
+- pkg:maven/com.aliyun/alibabacloud-pai_dsw20220101@1.1.46?classifier=sources

@@ -10,3 +10,4 @@
 - pkg:maven/org.webjars.npm/bootbox@5.5.3?classifier=sources
 - pkg:maven/org.webjars.npm/bootbox@6.0.0
 - pkg:maven/org.webjars.npm/bootbox@6.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/bootbox@6.0.4

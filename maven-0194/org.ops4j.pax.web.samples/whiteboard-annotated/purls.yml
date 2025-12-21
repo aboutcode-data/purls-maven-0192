@@ -1,3 +1,5 @@
+- pkg:maven/org.ops4j.pax.web.samples/whiteboard-annotated@10.0.0?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/whiteboard-annotated@11.0.0?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-annotated@8.0.10
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-annotated@8.0.10?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-annotated@8.0.11
@@ -42,6 +44,7 @@
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-annotated@8.0.30?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-annotated@8.0.31
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-annotated@8.0.31?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/whiteboard-annotated@8.0.32?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-annotated@8.0.7
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-annotated@8.0.7?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-annotated@8.0.8
@@ -75,6 +78,7 @@
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-annotated@9.0.2
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-annotated@9.0.20
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-annotated@9.0.20?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/whiteboard-annotated@9.0.21?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-annotated@9.0.2?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-annotated@9.0.3
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-annotated@9.0.3?classifier=sources

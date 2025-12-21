@@ -1,2 +1,10 @@
+- pkg:maven/io.gitee.huangjiaqi041015/anysdk-sms@0.0.1?classifier=sources
 - pkg:maven/io.gitee.huangjiaqi041015/anysdk-sms@0.0.2?classifier=sources
 - pkg:maven/io.gitee.huangjiaqi041015/anysdk-sms@0.0.3?classifier=sources
+- pkg:maven/io.gitee.huangjiaqi041015/anysdk-sms@0.0.7?classifier=sources
+- pkg:maven/io.gitee.huangjiaqi041015/anysdk-sms@0.0.8?classifier=sources
+- pkg:maven/io.gitee.huangjiaqi041015/anysdk-sms@0.0.9?classifier=sources
+- pkg:maven/io.gitee.huangjiaqi041015/anysdk-sms@1.0.0?classifier=sources
+- pkg:maven/io.gitee.huangjiaqi041015/anysdk-sms@2025.06.16.104226?classifier=sources
+- pkg:maven/io.gitee.huangjiaqi041015/anysdk-sms@2025.06.16.111217?classifier=sources
+- pkg:maven/io.gitee.huangjiaqi041015/anysdk-sms@2025.06.16.155128?classifier=sources

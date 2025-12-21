@@ -112,6 +112,11 @@
 - pkg:maven/com.gu/facia-json-play29_3@18.1.0?classifier=sources
 - pkg:maven/com.gu/facia-json-play29_3@18.1.1
 - pkg:maven/com.gu/facia-json-play29_3@18.1.1?classifier=sources
+- pkg:maven/com.gu/facia-json-play29_3@19.0.0
+- pkg:maven/com.gu/facia-json-play29_3@19.0.0-PREVIEW.abmedia-atom-model.2025-06-02T1753.f4c84cbe
+- pkg:maven/com.gu/facia-json-play29_3@19.0.0-PREVIEW.abmedia-atom-model.2025-06-02T1753.f4c84cbe?classifier=sources
+- pkg:maven/com.gu/facia-json-play29_3@19.0.0-PREVIEW.abmedia-atom-model.2025-06-03T1024.27743026
+- pkg:maven/com.gu/facia-json-play29_3@19.0.0-PREVIEW.abmedia-atom-model.2025-06-03T1024.27743026?classifier=sources
 - pkg:maven/com.gu/facia-json-play29_3@19.0.0-PREVIEW.fpallow-media-atoms.2025-04-14T1417.bc08f21d
 - pkg:maven/com.gu/facia-json-play29_3@19.0.0-PREVIEW.fpallow-media-atoms.2025-04-14T1417.bc08f21d?classifier=sources
 - pkg:maven/com.gu/facia-json-play29_3@19.0.0-PREVIEW.fpallow-media-atoms.2025-04-24T1539.ea7f07a0
@@ -130,6 +135,11 @@
 - pkg:maven/com.gu/facia-json-play29_3@19.0.0-PREVIEW.fpallow-media-atoms.2025-05-21T1547.ff60e956?classifier=sources
 - pkg:maven/com.gu/facia-json-play29_3@19.0.0-PREVIEW.fpallow-media-atoms.2025-05-22T1203.a24e2b9c
 - pkg:maven/com.gu/facia-json-play29_3@19.0.0-PREVIEW.fpallow-media-atoms.2025-05-22T1203.a24e2b9c?classifier=sources
+- pkg:maven/com.gu/facia-json-play29_3@19.0.0-PREVIEW.fpallow-media-atoms.2025-05-28T0836.e2495db5
+- pkg:maven/com.gu/facia-json-play29_3@19.0.0-PREVIEW.fpallow-media-atoms.2025-05-28T0836.e2495db5?classifier=sources
+- pkg:maven/com.gu/facia-json-play29_3@19.0.0?classifier=sources
+- pkg:maven/com.gu/facia-json-play29_3@20.0.0
+- pkg:maven/com.gu/facia-json-play29_3@20.0.0?classifier=sources
 - pkg:maven/com.gu/facia-json-play29_3@8.0.1
 - pkg:maven/com.gu/facia-json-play29_3@8.0.1-PREVIEW.drop-scala-212-and-play-27.2024-07-24T1515.3aa8aa15
 - pkg:maven/com.gu/facia-json-play29_3@8.0.1-PREVIEW.drop-scala-212-and-play-27.2024-07-24T1515.3aa8aa15?classifier=sources

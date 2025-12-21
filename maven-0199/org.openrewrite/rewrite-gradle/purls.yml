@@ -216,6 +216,11 @@
 - pkg:maven/org.openrewrite/rewrite-gradle@8.53.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-gradle@8.53.1?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-gradle@8.54.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-gradle@8.55.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-gradle@8.55.1?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-gradle@8.55.2?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-gradle@8.55.3?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-gradle@8.56.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-gradle@8.6.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-gradle@8.6.1?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-gradle@8.6.2?classifier=sources

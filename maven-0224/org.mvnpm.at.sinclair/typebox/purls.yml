@@ -1,4 +1,14 @@
 - pkg:maven/org.mvnpm.at.sinclair/typebox@0.27.8?classifier=sources
+- pkg:maven/org.mvnpm.at.sinclair/typebox@0.34.3
 - pkg:maven/org.mvnpm.at.sinclair/typebox@0.34.31?classifier=sources
 - pkg:maven/org.mvnpm.at.sinclair/typebox@0.34.32?classifier=sources
 - pkg:maven/org.mvnpm.at.sinclair/typebox@0.34.33?classifier=sources
+- pkg:maven/org.mvnpm.at.sinclair/typebox@0.34.34
+- pkg:maven/org.mvnpm.at.sinclair/typebox@0.34.34?classifier=sources
+- pkg:maven/org.mvnpm.at.sinclair/typebox@0.34.35
+- pkg:maven/org.mvnpm.at.sinclair/typebox@0.34.35?classifier=sources
+- pkg:maven/org.mvnpm.at.sinclair/typebox@0.34.36
+- pkg:maven/org.mvnpm.at.sinclair/typebox@0.34.36?classifier=sources
+- pkg:maven/org.mvnpm.at.sinclair/typebox@0.34.37
+- pkg:maven/org.mvnpm.at.sinclair/typebox@0.34.37?classifier=sources
+- pkg:maven/org.mvnpm.at.sinclair/typebox@0.34.3?classifier=sources

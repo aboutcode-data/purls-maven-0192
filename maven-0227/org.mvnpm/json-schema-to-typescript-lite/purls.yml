@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/json-schema-to-typescript-lite@14.1.0
+- pkg:maven/org.mvnpm/json-schema-to-typescript-lite@14.1.0?classifier=sources

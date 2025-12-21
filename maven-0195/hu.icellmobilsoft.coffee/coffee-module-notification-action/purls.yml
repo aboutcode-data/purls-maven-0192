@@ -54,5 +54,7 @@
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-module-notification-action@1.9.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-module-notification-action@2.10.0
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-module-notification-action@2.10.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-module-notification-action@2.11.0
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-module-notification-action@2.11.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-module-notification-action@2.9.0
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-module-notification-action@2.9.0?classifier=sources

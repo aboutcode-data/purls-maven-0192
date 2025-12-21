@@ -122,3 +122,4 @@
 - pkg:maven/io.trino/trino-geospatial@473?classifier=sources
 - pkg:maven/io.trino/trino-geospatial@474?classifier=sources
 - pkg:maven/io.trino/trino-geospatial@475?classifier=sources
+- pkg:maven/io.trino/trino-geospatial@476?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/aws.sdk.kotlin/mpa@1.4.106?classifier=sources
+- pkg:maven/aws.sdk.kotlin/mpa@1.4.107?classifier=sources
+- pkg:maven/aws.sdk.kotlin/mpa@1.4.108?classifier=sources
+- pkg:maven/aws.sdk.kotlin/mpa@1.4.109?classifier=sources
+- pkg:maven/aws.sdk.kotlin/mpa@1.4.110?classifier=sources

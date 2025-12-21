@@ -28,6 +28,7 @@
 - pkg:maven/com.swrve.sdk.android/swrve@11.3.0?classifier=sources
 - pkg:maven/com.swrve.sdk.android/swrve@11.4.0?classifier=sources
 - pkg:maven/com.swrve.sdk.android/swrve@11.4.1?classifier=sources
+- pkg:maven/com.swrve.sdk.android/swrve@11.5.0?classifier=sources
 - pkg:maven/com.swrve.sdk.android/swrve@4.6.2?type=aar
 - pkg:maven/com.swrve.sdk.android/swrve@4.9.0?type=aar
 - pkg:maven/com.swrve.sdk.android/swrve@5.3.0?classifier=sources

@@ -1,6 +1,8 @@
 - pkg:maven/org.mvnpm.at.ui5/webcomponents-fiori@1.20.1?classifier=sources
 - pkg:maven/org.mvnpm.at.ui5/webcomponents-fiori@2.10.0
 - pkg:maven/org.mvnpm.at.ui5/webcomponents-fiori@2.10.0?classifier=sources
+- pkg:maven/org.mvnpm.at.ui5/webcomponents-fiori@2.11.0
+- pkg:maven/org.mvnpm.at.ui5/webcomponents-fiori@2.11.0?classifier=sources
 - pkg:maven/org.mvnpm.at.ui5/webcomponents-fiori@2.4.0?classifier=sources
 - pkg:maven/org.mvnpm.at.ui5/webcomponents-fiori@2.8.0?classifier=sources
 - pkg:maven/org.mvnpm.at.ui5/webcomponents-fiori@2.9.0?classifier=sources

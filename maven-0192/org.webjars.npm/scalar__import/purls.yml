@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/scalar__import@0.2.27
 - pkg:maven/org.webjars.npm/scalar__import@0.3.16
+- pkg:maven/org.webjars.npm/scalar__import@0.4.6
+- pkg:maven/org.webjars.npm/scalar__import@0.4.8

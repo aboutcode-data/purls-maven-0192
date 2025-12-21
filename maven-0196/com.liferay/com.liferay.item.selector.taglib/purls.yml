@@ -961,3 +961,4 @@
 - pkg:maven/com.liferay/com.liferay.item.selector.taglib@6.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.item.selector.taglib@6.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.item.selector.taglib@6.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.item.selector.taglib@7.0.0?classifier=sources

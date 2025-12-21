@@ -78,3 +78,4 @@
 - pkg:maven/com.liferay/com.liferay.subscription.test.util@3.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.subscription.test.util@3.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.subscription.test.util@4.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.subscription.test.util@4.0.1?classifier=sources

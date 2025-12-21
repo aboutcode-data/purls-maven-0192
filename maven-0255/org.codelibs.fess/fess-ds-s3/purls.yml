@@ -64,3 +64,4 @@
 - pkg:maven/org.codelibs.fess/fess-ds-s3@14.8.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-s3@14.9.0
 - pkg:maven/org.codelibs.fess/fess-ds-s3@14.9.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-ds-s3@15.0.0?classifier=sources

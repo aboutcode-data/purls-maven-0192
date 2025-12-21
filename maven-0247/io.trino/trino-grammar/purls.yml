@@ -102,3 +102,5 @@
 - pkg:maven/io.trino/trino-grammar@474?classifier=sources
 - pkg:maven/io.trino/trino-grammar@475
 - pkg:maven/io.trino/trino-grammar@475?classifier=sources
+- pkg:maven/io.trino/trino-grammar@476
+- pkg:maven/io.trino/trino-grammar@476?classifier=sources

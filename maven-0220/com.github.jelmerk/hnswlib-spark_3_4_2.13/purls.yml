@@ -26,3 +26,7 @@
 - pkg:maven/com.github.jelmerk/hnswlib-spark_3_4_2.13@2.0.0-alpha.9?classifier=sources
 - pkg:maven/com.github.jelmerk/hnswlib-spark_3_4_2.13@2.0.0-beta.1
 - pkg:maven/com.github.jelmerk/hnswlib-spark_3_4_2.13@2.0.0-beta.1?classifier=sources
+- pkg:maven/com.github.jelmerk/hnswlib-spark_3_4_2.13@2.0.0-beta.2
+- pkg:maven/com.github.jelmerk/hnswlib-spark_3_4_2.13@2.0.0-beta.2?classifier=sources
+- pkg:maven/com.github.jelmerk/hnswlib-spark_3_4_2.13@HEAD%2B20250602-0820
+- pkg:maven/com.github.jelmerk/hnswlib-spark_3_4_2.13@HEAD%2B20250602-0820?classifier=sources

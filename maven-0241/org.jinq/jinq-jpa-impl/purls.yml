@@ -4,3 +4,4 @@
 - pkg:maven/org.jinq/jinq-jpa-impl@2.0.1?classifier=sources
 - pkg:maven/org.jinq/jinq-jpa-impl@2.0.2
 - pkg:maven/org.jinq/jinq-jpa-impl@2.0.2?classifier=sources
+- pkg:maven/org.jinq/jinq-jpa-impl@2.0.3?classifier=sources

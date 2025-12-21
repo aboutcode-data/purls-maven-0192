@@ -31,6 +31,7 @@
 - pkg:maven/com.netflix.frigga/frigga@0.24.0?classifier=sources
 - pkg:maven/com.netflix.frigga/frigga@0.25.0?classifier=sources
 - pkg:maven/com.netflix.frigga/frigga@0.26.0?classifier=sources
+- pkg:maven/com.netflix.frigga/frigga@0.27.0?classifier=sources
 - pkg:maven/com.netflix.frigga/frigga@0.2?classifier=sources
 - pkg:maven/com.netflix.frigga/frigga@0.3
 - pkg:maven/com.netflix.frigga/frigga@0.3?classifier=sources

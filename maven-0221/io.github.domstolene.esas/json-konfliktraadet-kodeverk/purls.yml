@@ -13,6 +13,8 @@
 - pkg:maven/io.github.domstolene.esas/json-konfliktraadet-kodeverk@03102024.42cf288
 - pkg:maven/io.github.domstolene.esas/json-konfliktraadet-kodeverk@04032025.307aacf
 - pkg:maven/io.github.domstolene.esas/json-konfliktraadet-kodeverk@04042025.ffb6808
+- pkg:maven/io.github.domstolene.esas/json-konfliktraadet-kodeverk@04062025.2b58a58
+- pkg:maven/io.github.domstolene.esas/json-konfliktraadet-kodeverk@04062025.4ae7fab
 - pkg:maven/io.github.domstolene.esas/json-konfliktraadet-kodeverk@04072024.3e4ba11
 - pkg:maven/io.github.domstolene.esas/json-konfliktraadet-kodeverk@04102024.7f9a121
 - pkg:maven/io.github.domstolene.esas/json-konfliktraadet-kodeverk@05032025.7155978
@@ -45,6 +47,8 @@
 - pkg:maven/io.github.domstolene.esas/json-konfliktraadet-kodeverk@10042025.52cbb85
 - pkg:maven/io.github.domstolene.esas/json-konfliktraadet-kodeverk@11032024.5e6618d
 - pkg:maven/io.github.domstolene.esas/json-konfliktraadet-kodeverk@11032025.7660e4a
+- pkg:maven/io.github.domstolene.esas/json-konfliktraadet-kodeverk@11062025.3e935d2
+- pkg:maven/io.github.domstolene.esas/json-konfliktraadet-kodeverk@11062025.be857af
 - pkg:maven/io.github.domstolene.esas/json-konfliktraadet-kodeverk@11092024.006eaf7
 - pkg:maven/io.github.domstolene.esas/json-konfliktraadet-kodeverk@11092024.15fecc6
 - pkg:maven/io.github.domstolene.esas/json-konfliktraadet-kodeverk@11092024.5a9c25b
@@ -52,6 +56,11 @@
 - pkg:maven/io.github.domstolene.esas/json-konfliktraadet-kodeverk@11112024.41ad4f1
 - pkg:maven/io.github.domstolene.esas/json-konfliktraadet-kodeverk@11112024.af01eb6
 - pkg:maven/io.github.domstolene.esas/json-konfliktraadet-kodeverk@11122024.cb3a97b
+- pkg:maven/io.github.domstolene.esas/json-konfliktraadet-kodeverk@12062025.01182ab
+- pkg:maven/io.github.domstolene.esas/json-konfliktraadet-kodeverk@12062025.10b9038
+- pkg:maven/io.github.domstolene.esas/json-konfliktraadet-kodeverk@12062025.19e01a4
+- pkg:maven/io.github.domstolene.esas/json-konfliktraadet-kodeverk@12062025.35eb7da
+- pkg:maven/io.github.domstolene.esas/json-konfliktraadet-kodeverk@12062025.570310e
 - pkg:maven/io.github.domstolene.esas/json-konfliktraadet-kodeverk@12082024.bb73262
 - pkg:maven/io.github.domstolene.esas/json-konfliktraadet-kodeverk@13022025.7ec6ab8
 - pkg:maven/io.github.domstolene.esas/json-konfliktraadet-kodeverk@13022025.bbbfce8

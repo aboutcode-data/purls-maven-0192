@@ -4,3 +4,5 @@
 - pkg:maven/org.mvnpm.at.carbon/icons-react@11.59.0?classifier=sources
 - pkg:maven/org.mvnpm.at.carbon/icons-react@11.60.0
 - pkg:maven/org.mvnpm.at.carbon/icons-react@11.60.0?classifier=sources
+- pkg:maven/org.mvnpm.at.carbon/icons-react@11.62.0
+- pkg:maven/org.mvnpm.at.carbon/icons-react@11.62.0?classifier=sources

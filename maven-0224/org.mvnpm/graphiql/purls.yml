@@ -41,3 +41,7 @@
 - pkg:maven/org.mvnpm/graphiql@4.1.0?classifier=sources
 - pkg:maven/org.mvnpm/graphiql@4.1.1
 - pkg:maven/org.mvnpm/graphiql@4.1.1?classifier=sources
+- pkg:maven/org.mvnpm/graphiql@4.1.2
+- pkg:maven/org.mvnpm/graphiql@4.1.2?classifier=sources
+- pkg:maven/org.mvnpm/graphiql@5.0.0
+- pkg:maven/org.mvnpm/graphiql@5.0.0?classifier=sources

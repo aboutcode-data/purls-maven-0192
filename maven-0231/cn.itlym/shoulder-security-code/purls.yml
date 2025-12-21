@@ -42,3 +42,5 @@
 - pkg:maven/cn.itlym/shoulder-security-code@1.0.0?classifier=sources
 - pkg:maven/cn.itlym/shoulder-security-code@1.1.0
 - pkg:maven/cn.itlym/shoulder-security-code@1.1.0?classifier=sources
+- pkg:maven/cn.itlym/shoulder-security-code@1.1.1
+- pkg:maven/cn.itlym/shoulder-security-code@1.1.1?classifier=sources

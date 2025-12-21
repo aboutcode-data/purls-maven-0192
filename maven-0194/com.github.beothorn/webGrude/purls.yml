@@ -20,3 +20,5 @@
 - pkg:maven/com.github.beothorn/webGrude@3.0.0?classifier=sources
 - pkg:maven/com.github.beothorn/webGrude@4.0.0
 - pkg:maven/com.github.beothorn/webGrude@4.0.0?classifier=sources
+- pkg:maven/com.github.beothorn/webGrude@5.0.0
+- pkg:maven/com.github.beothorn/webGrude@5.0.0?classifier=sources

@@ -116,6 +116,7 @@
 - pkg:maven/com.yandex.div/div-core@31.12.0?classifier=sources
 - pkg:maven/com.yandex.div/div-core@31.13.0?classifier=sources
 - pkg:maven/com.yandex.div/div-core@31.14.0?classifier=sources
+- pkg:maven/com.yandex.div/div-core@31.14.1?classifier=sources
 - pkg:maven/com.yandex.div/div-core@31.2.0?classifier=sources
 - pkg:maven/com.yandex.div/div-core@31.3.0?classifier=sources
 - pkg:maven/com.yandex.div/div-core@31.4.0?classifier=sources
@@ -127,6 +128,9 @@
 - pkg:maven/com.yandex.div/div-core@31.9.0?classifier=sources
 - pkg:maven/com.yandex.div/div-core@32.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-core@32.1.0?classifier=sources
+- pkg:maven/com.yandex.div/div-core@32.2.0?classifier=sources
+- pkg:maven/com.yandex.div/div-core@32.3.0?classifier=sources
+- pkg:maven/com.yandex.div/div-core@32.4.0?classifier=sources
 - pkg:maven/com.yandex.div/div-core@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-core@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-core@7.0.0?classifier=sources

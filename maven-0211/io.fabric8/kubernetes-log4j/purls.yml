@@ -16,6 +16,7 @@
 - pkg:maven/io.fabric8/kubernetes-log4j@6.13.4?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-log4j@6.13.5
 - pkg:maven/io.fabric8/kubernetes-log4j@6.13.5?classifier=sources
+- pkg:maven/io.fabric8/kubernetes-log4j@6.14.0?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-log4j@7.0.0
 - pkg:maven/io.fabric8/kubernetes-log4j@7.0.0?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-log4j@7.0.1

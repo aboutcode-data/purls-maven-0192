@@ -10,6 +10,9 @@
 - pkg:maven/org.opendcs/opendcs@7.0.15-RC04?classifier=sources
 - pkg:maven/org.opendcs/opendcs@7.0.15-RC05?classifier=sources
 - pkg:maven/org.opendcs/opendcs@7.0.15?classifier=sources
+- pkg:maven/org.opendcs/opendcs@7.0.16-RC01?classifier=sources
+- pkg:maven/org.opendcs/opendcs@7.0.16-RC03?classifier=sources
+- pkg:maven/org.opendcs/opendcs@7.0.16-RC04?classifier=sources
 - pkg:maven/org.opendcs/opendcs@7.0.5?classifier=sources
 - pkg:maven/org.opendcs/opendcs@7.0.6?classifier=sources
 - pkg:maven/org.opendcs/opendcs@7.0.7?classifier=sources

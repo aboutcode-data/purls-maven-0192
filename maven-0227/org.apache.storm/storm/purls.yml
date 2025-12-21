@@ -42,3 +42,4 @@
 - pkg:maven/org.apache.storm/storm@2.7.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.storm/storm@2.7.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.storm/storm@2.8.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.storm/storm@2.8.1?classifier=source-release&type=zip

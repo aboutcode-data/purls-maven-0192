@@ -23,3 +23,4 @@
 - pkg:maven/io.substrait/spark@0.55.0?classifier=sources
 - pkg:maven/io.substrait/spark@0.56.0?classifier=sources
 - pkg:maven/io.substrait/spark@0.57.0?classifier=sources
+- pkg:maven/io.substrait/spark@0.60.0?classifier=sources

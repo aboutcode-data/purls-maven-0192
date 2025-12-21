@@ -13,3 +13,6 @@
 - pkg:maven/net.hydromatic/morel@0.6.0
 - pkg:maven/net.hydromatic/morel@0.6.0?classifier=source-release&type=zip
 - pkg:maven/net.hydromatic/morel@0.6.0?classifier=sources
+- pkg:maven/net.hydromatic/morel@0.7.0
+- pkg:maven/net.hydromatic/morel@0.7.0?classifier=source-release&type=zip
+- pkg:maven/net.hydromatic/morel@0.7.0?classifier=sources

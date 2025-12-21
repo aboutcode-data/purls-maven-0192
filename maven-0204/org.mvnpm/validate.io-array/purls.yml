@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/validate.io-array@1.0.6
+- pkg:maven/org.mvnpm/validate.io-array@1.0.6?classifier=sources

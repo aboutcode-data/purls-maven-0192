@@ -1,1 +1,2 @@
 - pkg:maven/com.dxmdp.android/common@2.4.7?classifier=sources
+- pkg:maven/com.dxmdp.android/common@2.4.8?classifier=sources

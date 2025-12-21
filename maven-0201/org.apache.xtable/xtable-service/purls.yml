@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.xtable/xtable-service@0.3.0-incubating
+- pkg:maven/org.apache.xtable/xtable-service@0.3.0-incubating?classifier=sources

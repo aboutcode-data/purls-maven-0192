@@ -1,0 +1,4 @@
+- pkg:maven/com.bytedance.btrace/rhea-inhouse@3.0.0-rc02?classifier=sources
+- pkg:maven/com.bytedance.btrace/rhea-inhouse@3.0.0-rc02?type=aar
+- pkg:maven/com.bytedance.btrace/rhea-inhouse@3.0.0?classifier=sources
+- pkg:maven/com.bytedance.btrace/rhea-inhouse@3.0.0?type=aar

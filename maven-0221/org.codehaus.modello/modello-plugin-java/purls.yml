@@ -52,3 +52,4 @@
 - pkg:maven/org.codehaus.modello/modello-plugin-java@2.4.0?classifier=sources
 - pkg:maven/org.codehaus.modello/modello-plugin-java@2.5.0
 - pkg:maven/org.codehaus.modello/modello-plugin-java@2.5.0?classifier=sources
+- pkg:maven/org.codehaus.modello/modello-plugin-java@2.5.1?classifier=sources

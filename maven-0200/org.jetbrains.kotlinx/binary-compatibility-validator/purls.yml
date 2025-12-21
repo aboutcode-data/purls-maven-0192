@@ -18,6 +18,7 @@
 - pkg:maven/org.jetbrains.kotlinx/binary-compatibility-validator@0.16.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/binary-compatibility-validator@0.16.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/binary-compatibility-validator@0.17.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/binary-compatibility-validator@0.18.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/binary-compatibility-validator@0.2.1
 - pkg:maven/org.jetbrains.kotlinx/binary-compatibility-validator@0.2.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/binary-compatibility-validator@0.2.2

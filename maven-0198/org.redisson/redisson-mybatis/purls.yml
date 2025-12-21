@@ -192,3 +192,7 @@
 - pkg:maven/org.redisson/redisson-mybatis@3.47.0?classifier=sources
 - pkg:maven/org.redisson/redisson-mybatis@3.48.0
 - pkg:maven/org.redisson/redisson-mybatis@3.48.0?classifier=sources
+- pkg:maven/org.redisson/redisson-mybatis@3.49.0
+- pkg:maven/org.redisson/redisson-mybatis@3.49.0?classifier=sources
+- pkg:maven/org.redisson/redisson-mybatis@3.50.0
+- pkg:maven/org.redisson/redisson-mybatis@3.50.0?classifier=sources

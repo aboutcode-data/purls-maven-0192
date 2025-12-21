@@ -16,3 +16,5 @@
 - pkg:maven/io.continual/cpTelegram@0.3.31?classifier=sources
 - pkg:maven/io.continual/cpTelegram@0.3.32
 - pkg:maven/io.continual/cpTelegram@0.3.32?classifier=sources
+- pkg:maven/io.continual/cpTelegram@0.3.33
+- pkg:maven/io.continual/cpTelegram@0.3.33?classifier=sources

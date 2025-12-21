@@ -1,0 +1,2 @@
+- pkg:maven/io.github.robert-hanuschke/cdk-aws-grafana@0.0.31
+- pkg:maven/io.github.robert-hanuschke/cdk-aws-grafana@0.0.31?classifier=sources

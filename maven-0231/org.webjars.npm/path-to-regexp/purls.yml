@@ -13,10 +13,12 @@
 - pkg:maven/org.webjars.npm/path-to-regexp@1.7.0?classifier=sources
 - pkg:maven/org.webjars.npm/path-to-regexp@1.8.0
 - pkg:maven/org.webjars.npm/path-to-regexp@1.8.0?classifier=sources
+- pkg:maven/org.webjars.npm/path-to-regexp@1.9.0
 - pkg:maven/org.webjars.npm/path-to-regexp@2.4.0
 - pkg:maven/org.webjars.npm/path-to-regexp@2.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/path-to-regexp@3.2.0
 - pkg:maven/org.webjars.npm/path-to-regexp@3.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/path-to-regexp@3.3.0
 - pkg:maven/org.webjars.npm/path-to-regexp@6.2.0
 - pkg:maven/org.webjars.npm/path-to-regexp@6.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/path-to-regexp@6.2.1
@@ -24,3 +26,4 @@
 - pkg:maven/org.webjars.npm/path-to-regexp@6.2.2
 - pkg:maven/org.webjars.npm/path-to-regexp@6.2.2?classifier=sources
 - pkg:maven/org.webjars.npm/path-to-regexp@6.3.0
+- pkg:maven/org.webjars.npm/path-to-regexp@8.2.0

@@ -1,2 +1,5 @@
 - pkg:maven/za.co.absa.utils/rest-api-doc-generator_2.11@1.1.2
 - pkg:maven/za.co.absa.utils/rest-api-doc-generator_2.11@1.1.2?classifier=sources
+- pkg:maven/za.co.absa.utils/rest-api-doc-generator_2.11@1.1.3
+- pkg:maven/za.co.absa.utils/rest-api-doc-generator_2.11@1.1.3?classifier=sources
+- pkg:maven/za.co.absa.utils/rest-api-doc-generator_2.11@1.1.4?classifier=sources

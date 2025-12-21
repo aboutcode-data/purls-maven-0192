@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/object-path@0.11.8
+- pkg:maven/org.mvnpm/object-path@0.11.8?classifier=sources

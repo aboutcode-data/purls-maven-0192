@@ -26,3 +26,4 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-docker@2.5.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-docker@2.6.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-docker@2.7.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-docker@2.8.0?classifier=sources

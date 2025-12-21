@@ -1,3 +1,8 @@
+- pkg:maven/com.javiersc.hubdle/hubdle-gradle-plugin@0.10.0?classifier=sources
+- pkg:maven/com.javiersc.hubdle/hubdle-gradle-plugin@0.10.1?classifier=sources
+- pkg:maven/com.javiersc.hubdle/hubdle-gradle-plugin@0.11.0?classifier=sources
+- pkg:maven/com.javiersc.hubdle/hubdle-gradle-plugin@0.12.0?classifier=sources
+- pkg:maven/com.javiersc.hubdle/hubdle-gradle-plugin@0.13.0?classifier=sources
 - pkg:maven/com.javiersc.hubdle/hubdle-gradle-plugin@0.2.0-alpha.10?classifier=sources
 - pkg:maven/com.javiersc.hubdle/hubdle-gradle-plugin@0.2.0-alpha.11?classifier=sources
 - pkg:maven/com.javiersc.hubdle/hubdle-gradle-plugin@0.2.0-alpha.12?classifier=sources
@@ -158,3 +163,4 @@
 - pkg:maven/com.javiersc.hubdle/hubdle-gradle-plugin@0.8.6?classifier=sources
 - pkg:maven/com.javiersc.hubdle/hubdle-gradle-plugin@0.8.7?classifier=sources
 - pkg:maven/com.javiersc.hubdle/hubdle-gradle-plugin@0.9.0?classifier=sources
+- pkg:maven/com.javiersc.hubdle/hubdle-gradle-plugin@0.9.1?classifier=sources

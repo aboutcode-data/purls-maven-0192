@@ -1,2 +1,6 @@
 - pkg:maven/net.solarnetwork.external/net.solarnetwork.external.org.eclipse.gemini.blueprint.extender.config@3.0.0
 - pkg:maven/net.solarnetwork.external/net.solarnetwork.external.org.eclipse.gemini.blueprint.extender.config@3.0.0?classifier=sources
+- pkg:maven/net.solarnetwork.external/net.solarnetwork.external.org.eclipse.gemini.blueprint.extender.config@4.0.0
+- pkg:maven/net.solarnetwork.external/net.solarnetwork.external.org.eclipse.gemini.blueprint.extender.config@4.0.0.SN01
+- pkg:maven/net.solarnetwork.external/net.solarnetwork.external.org.eclipse.gemini.blueprint.extender.config@4.0.0.SN01?classifier=sources
+- pkg:maven/net.solarnetwork.external/net.solarnetwork.external.org.eclipse.gemini.blueprint.extender.config@4.0.0?classifier=sources
