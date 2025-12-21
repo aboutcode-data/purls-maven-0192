@@ -4,3 +4,4 @@
 - pkg:maven/hu.icellmobilsoft.ticker/ticker-samples-mockapi@1.4.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.ticker/ticker-samples-mockapi@1.5.0
 - pkg:maven/hu.icellmobilsoft.ticker/ticker-samples-mockapi@1.5.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.ticker/ticker-samples-mockapi@1.6.0?classifier=sources

@@ -36,3 +36,4 @@
 - pkg:maven/com.aliyun/chatbot20220408@2.1.1?classifier=sources
 - pkg:maven/com.aliyun/chatbot20220408@2.2.0
 - pkg:maven/com.aliyun/chatbot20220408@2.2.0?classifier=sources
+- pkg:maven/com.aliyun/chatbot20220408@2.3.0?classifier=sources

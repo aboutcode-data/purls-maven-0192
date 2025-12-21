@@ -3,3 +3,5 @@
 - pkg:maven/org.mvnpm.at.azure/core-util@1.12.0?classifier=sources
 - pkg:maven/org.mvnpm.at.azure/core-util@1.13.0
 - pkg:maven/org.mvnpm.at.azure/core-util@1.13.0?classifier=sources
+- pkg:maven/org.mvnpm.at.azure/core-util@1.13.1
+- pkg:maven/org.mvnpm.at.azure/core-util@1.13.1?classifier=sources

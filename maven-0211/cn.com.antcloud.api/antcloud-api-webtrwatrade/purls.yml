@@ -1,1 +1,2 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-webtrwatrade@1.0.13?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-webtrwatrade@1.0.21?classifier=sources

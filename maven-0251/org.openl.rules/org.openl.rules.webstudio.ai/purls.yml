@@ -6,6 +6,10 @@
 - pkg:maven/org.openl.rules/org.openl.rules.webstudio.ai@5.27.12-jakarta
 - pkg:maven/org.openl.rules/org.openl.rules.webstudio.ai@5.27.12-jakarta?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.webstudio.ai@5.27.12?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.webstudio.ai@5.27.13
+- pkg:maven/org.openl.rules/org.openl.rules.webstudio.ai@5.27.13-jakarta
+- pkg:maven/org.openl.rules/org.openl.rules.webstudio.ai@5.27.13-jakarta?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.webstudio.ai@5.27.13?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.webstudio.ai@5.27.5
 - pkg:maven/org.openl.rules/org.openl.rules.webstudio.ai@5.27.5?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.webstudio.ai@5.27.6

@@ -2,3 +2,4 @@
 - pkg:maven/io.mapsmessaging/dynamic_storage@2.4.11?classifier=sources
 - pkg:maven/io.mapsmessaging/dynamic_storage@2.4.12
 - pkg:maven/io.mapsmessaging/dynamic_storage@2.4.12?classifier=sources
+- pkg:maven/io.mapsmessaging/dynamic_storage@2.5.0?classifier=sources

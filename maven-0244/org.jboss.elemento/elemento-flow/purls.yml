@@ -34,3 +34,4 @@
 - pkg:maven/org.jboss.elemento/elemento-flow@2.0.2?classifier=sources
 - pkg:maven/org.jboss.elemento/elemento-flow@2.0.3?classifier=sources
 - pkg:maven/org.jboss.elemento/elemento-flow@2.0.5?classifier=sources
+- pkg:maven/org.jboss.elemento/elemento-flow@2.1.0?classifier=sources

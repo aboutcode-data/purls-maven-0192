@@ -30,3 +30,4 @@
 - pkg:maven/com.powsybl/powsybl-afs-spring-server@6.4.0?classifier=sources
 - pkg:maven/com.powsybl/powsybl-afs-spring-server@6.5.0
 - pkg:maven/com.powsybl/powsybl-afs-spring-server@6.5.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-afs-spring-server@6.6.0?classifier=sources

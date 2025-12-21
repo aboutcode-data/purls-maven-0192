@@ -16,3 +16,4 @@
 - pkg:maven/org.webjars.npm/firebase__component@0.6.6-canary.666dddae0
 - pkg:maven/org.webjars.npm/firebase__component@0.6.6-canary.666dddae0?classifier=sources
 - pkg:maven/org.webjars.npm/firebase__component@0.6.8
+- pkg:maven/org.webjars.npm/firebase__component@0.7.0

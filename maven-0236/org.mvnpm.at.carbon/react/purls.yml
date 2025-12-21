@@ -27,3 +27,7 @@
 - pkg:maven/org.mvnpm.at.carbon/react@1.88.0?classifier=sources
 - pkg:maven/org.mvnpm.at.carbon/react@1.89.0
 - pkg:maven/org.mvnpm.at.carbon/react@1.89.0?classifier=sources
+- pkg:maven/org.mvnpm.at.carbon/react@1.90.0
+- pkg:maven/org.mvnpm.at.carbon/react@1.90.0?classifier=sources
+- pkg:maven/org.mvnpm.at.carbon/react@1.91.0
+- pkg:maven/org.mvnpm.at.carbon/react@1.91.0?classifier=sources

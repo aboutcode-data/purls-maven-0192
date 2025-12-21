@@ -48,5 +48,6 @@
 - pkg:maven/com.walmartlabs.concord.plugins.basic/asserts-tasks@2.29.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins.basic/asserts-tasks@2.30.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins.basic/asserts-tasks@2.31.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.plugins.basic/asserts-tasks@2.32.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins.basic/asserts-tasks@2.9.0
 - pkg:maven/com.walmartlabs.concord.plugins.basic/asserts-tasks@2.9.0?classifier=sources

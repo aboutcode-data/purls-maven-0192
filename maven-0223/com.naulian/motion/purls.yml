@@ -2,3 +2,4 @@
 - pkg:maven/com.naulian/motion@0.1.0-beta01?classifier=sources
 - pkg:maven/com.naulian/motion@0.1.0-rc?classifier=sources
 - pkg:maven/com.naulian/motion@0.1.0?classifier=sources
+- pkg:maven/com.naulian/motion@0.1.1?classifier=sources

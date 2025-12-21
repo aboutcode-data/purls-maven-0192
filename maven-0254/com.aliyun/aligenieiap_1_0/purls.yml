@@ -34,3 +34,4 @@
 - pkg:maven/com.aliyun/aligenieiap_1_0@1.2.1?classifier=sources
 - pkg:maven/com.aliyun/aligenieiap_1_0@1.2.2
 - pkg:maven/com.aliyun/aligenieiap_1_0@1.2.2?classifier=sources
+- pkg:maven/com.aliyun/aligenieiap_1_0@2.0.0?classifier=sources

@@ -47,3 +47,5 @@
 - pkg:maven/com.unblu.openapi/models-v3@7.56.0?classifier=sources
 - pkg:maven/com.unblu.openapi/models-v3@7.56.5?classifier=sources
 - pkg:maven/com.unblu.openapi/models-v3@7.56.7?classifier=sources
+- pkg:maven/com.unblu.openapi/models-v3@7.56.9?classifier=sources
+- pkg:maven/com.unblu.openapi/models-v3@7.57.1?classifier=sources

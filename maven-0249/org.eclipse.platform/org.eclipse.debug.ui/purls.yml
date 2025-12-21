@@ -62,3 +62,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.debug.ui@3.18.700?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.debug.ui@3.18.800
 - pkg:maven/org.eclipse.platform/org.eclipse.debug.ui@3.18.800?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.debug.ui@3.19.0
+- pkg:maven/org.eclipse.platform/org.eclipse.debug.ui@3.19.0?classifier=sources

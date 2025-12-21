@@ -1,3 +1,4 @@
 - pkg:maven/io.github.nakovalev/data-fetcher@1.0.0.Final?classifier=sources
 - pkg:maven/io.github.nakovalev/data-fetcher@2.0.0.Final?classifier=sources
 - pkg:maven/io.github.nakovalev/data-fetcher@3.0.0.Final?classifier=sources
+- pkg:maven/io.github.nakovalev/data-fetcher@3.1.0.Final?classifier=sources

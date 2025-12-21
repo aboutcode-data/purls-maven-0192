@@ -1,0 +1,2 @@
+- pkg:maven/com.choicely.sdk/android-map@1.0.0-alpha?classifier=sources
+- pkg:maven/com.choicely.sdk/android-map@1.0.1-alpha?classifier=sources

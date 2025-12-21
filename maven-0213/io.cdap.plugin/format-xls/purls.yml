@@ -1,2 +1,3 @@
 - pkg:maven/io.cdap.plugin/format-xls@2.13.0
 - pkg:maven/io.cdap.plugin/format-xls@2.13.0?classifier=sources
+- pkg:maven/io.cdap.plugin/format-xls@2.13.1?classifier=sources

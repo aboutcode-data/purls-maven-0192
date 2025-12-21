@@ -18,3 +18,5 @@
 - pkg:maven/org.mvnpm.at.sinclair/typebox@0.34.3?classifier=sources
 - pkg:maven/org.mvnpm.at.sinclair/typebox@0.34.40
 - pkg:maven/org.mvnpm.at.sinclair/typebox@0.34.40?classifier=sources
+- pkg:maven/org.mvnpm.at.sinclair/typebox@0.34.41
+- pkg:maven/org.mvnpm.at.sinclair/typebox@0.34.41?classifier=sources

@@ -106,6 +106,7 @@
 - pkg:maven/com.mikepenz/aboutlibraries@13.0.0-a01?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries@13.0.0-a02?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries@13.0.0-b01?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries@13.0.0-rc01?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries@5.0.0?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries@5.0.0?type=aar
 - pkg:maven/com.mikepenz/aboutlibraries@5.0.1?classifier=sources

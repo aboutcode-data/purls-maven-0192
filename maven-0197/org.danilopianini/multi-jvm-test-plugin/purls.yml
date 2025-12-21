@@ -93,3 +93,4 @@
 - pkg:maven/org.danilopianini/multi-jvm-test-plugin@4.0.2?classifier=sources
 - pkg:maven/org.danilopianini/multi-jvm-test-plugin@4.0.3?classifier=sources
 - pkg:maven/org.danilopianini/multi-jvm-test-plugin@4.1.0?classifier=sources
+- pkg:maven/org.danilopianini/multi-jvm-test-plugin@4.1.1?classifier=sources

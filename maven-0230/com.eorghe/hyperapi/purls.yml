@@ -1,2 +1,6 @@
 - pkg:maven/com.eorghe/hyperapi@0.1.1?classifier=sources
 - pkg:maven/com.eorghe/hyperapi@0.2.0?classifier=sources
+- pkg:maven/com.eorghe/hyperapi@0.4.0
+- pkg:maven/com.eorghe/hyperapi@0.4.0?classifier=sources
+- pkg:maven/com.eorghe/hyperapi@0.5.0
+- pkg:maven/com.eorghe/hyperapi@0.5.0?classifier=sources

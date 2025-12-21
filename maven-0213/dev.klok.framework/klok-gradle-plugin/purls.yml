@@ -8,3 +8,5 @@
 - pkg:maven/dev.klok.framework/klok-gradle-plugin@0.2.0%2B250617032646?classifier=sources
 - pkg:maven/dev.klok.framework/klok-gradle-plugin@0.2.0%2B250617043235?classifier=sources
 - pkg:maven/dev.klok.framework/klok-gradle-plugin@0.2.0%2B250617054147?classifier=sources
+- pkg:maven/dev.klok.framework/klok-gradle-plugin@0.2.0-build.250909101955?classifier=sources
+- pkg:maven/dev.klok.framework/klok-gradle-plugin@0.2.0-build.250909113334?classifier=sources

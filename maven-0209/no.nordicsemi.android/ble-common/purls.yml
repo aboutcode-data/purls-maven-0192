@@ -11,6 +11,7 @@
 - pkg:maven/no.nordicsemi.android/ble-common@2.10.0?classifier=sources
 - pkg:maven/no.nordicsemi.android/ble-common@2.10.1?classifier=sources
 - pkg:maven/no.nordicsemi.android/ble-common@2.10.2?classifier=sources
+- pkg:maven/no.nordicsemi.android/ble-common@2.11.0?classifier=sources
 - pkg:maven/no.nordicsemi.android/ble-common@2.2.0-alpha06?classifier=sources
 - pkg:maven/no.nordicsemi.android/ble-common@2.2.0-alpha06?type=aar
 - pkg:maven/no.nordicsemi.android/ble-common@2.2.0-beta03?classifier=sources
@@ -51,3 +52,4 @@
 - pkg:maven/no.nordicsemi.android/ble-common@2.9.0-beta02?classifier=sources
 - pkg:maven/no.nordicsemi.android/ble-common@2.9.0-beta03?classifier=sources
 - pkg:maven/no.nordicsemi.android/ble-common@2.9.0?classifier=sources
+- pkg:maven/no.nordicsemi.android/ble-common@unspecified?classifier=sources

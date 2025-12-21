@@ -15,3 +15,4 @@
 - pkg:maven/com.aliyun/dlfnext20250310@2.5.0?classifier=sources
 - pkg:maven/com.aliyun/dlfnext20250310@3.0.0?classifier=sources
 - pkg:maven/com.aliyun/dlfnext20250310@3.1.0?classifier=sources
+- pkg:maven/com.aliyun/dlfnext20250310@3.1.1?classifier=sources

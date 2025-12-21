@@ -1,0 +1,1 @@
+- pkg:maven/io.cdap.cdap/cdap-metrics-writer-ext-gcp-monitoring@1.4.0?classifier=sources

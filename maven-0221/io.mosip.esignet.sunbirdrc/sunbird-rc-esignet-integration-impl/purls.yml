@@ -9,3 +9,4 @@
 - pkg:maven/io.mosip.esignet.sunbirdrc/sunbird-rc-esignet-integration-impl@0.4.0
 - pkg:maven/io.mosip.esignet.sunbirdrc/sunbird-rc-esignet-integration-impl@0.4.0?classifier=sources
 - pkg:maven/io.mosip.esignet.sunbirdrc/sunbird-rc-esignet-integration-impl@0.5.0-rc1?classifier=sources
+- pkg:maven/io.mosip.esignet.sunbirdrc/sunbird-rc-esignet-integration-impl@0.5.0?classifier=sources

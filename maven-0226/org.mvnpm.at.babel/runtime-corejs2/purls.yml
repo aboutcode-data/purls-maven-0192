@@ -11,3 +11,5 @@
 - pkg:maven/org.mvnpm.at.babel/runtime-corejs2@7.28.2?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/runtime-corejs2@7.28.3
 - pkg:maven/org.mvnpm.at.babel/runtime-corejs2@7.28.3?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/runtime-corejs2@7.28.4
+- pkg:maven/org.mvnpm.at.babel/runtime-corejs2@7.28.4?classifier=sources

@@ -1,2 +1,3 @@
 - pkg:maven/org.wildfly.clustering.vertx/wildfly-clustering-vertx@1.0.0.Beta1?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.clustering.vertx/wildfly-clustering-vertx@1.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.clustering.vertx/wildfly-clustering-vertx@2.0.0.Final?classifier=source-release&type=zip

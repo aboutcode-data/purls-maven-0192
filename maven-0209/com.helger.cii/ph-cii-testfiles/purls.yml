@@ -18,3 +18,4 @@
 - pkg:maven/com.helger.cii/ph-cii-testfiles@3.0.2?classifier=sources
 - pkg:maven/com.helger.cii/ph-cii-testfiles@3.1.0
 - pkg:maven/com.helger.cii/ph-cii-testfiles@3.1.0?classifier=sources
+- pkg:maven/com.helger.cii/ph-cii-testfiles@4.0.0?classifier=sources

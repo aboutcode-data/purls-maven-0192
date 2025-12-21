@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.cdt.core.linux@6.1.100
+- pkg:maven/org.eclipse.platform/org.eclipse.cdt.core.linux@6.1.100?classifier=sources

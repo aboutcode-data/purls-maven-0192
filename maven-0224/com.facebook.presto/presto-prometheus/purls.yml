@@ -47,3 +47,4 @@
 - pkg:maven/com.facebook.presto/presto-prometheus@0.291?classifier=sources
 - pkg:maven/com.facebook.presto/presto-prometheus@0.292?classifier=sources
 - pkg:maven/com.facebook.presto/presto-prometheus@0.293?classifier=sources
+- pkg:maven/com.facebook.presto/presto-prometheus@0.294?classifier=sources

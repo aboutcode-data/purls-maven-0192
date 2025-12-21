@@ -8,3 +8,4 @@
 - pkg:maven/net.raphimc/MinecraftAuth@4.0.2?classifier=sources
 - pkg:maven/net.raphimc/MinecraftAuth@4.1.0?classifier=sources
 - pkg:maven/net.raphimc/MinecraftAuth@4.1.1?classifier=sources
+- pkg:maven/net.raphimc/MinecraftAuth@4.1.2?classifier=sources

@@ -471,3 +471,14 @@
 - pkg:maven/io.airlift/bootstrap@344?classifier=sources
 - pkg:maven/io.airlift/bootstrap@345?classifier=sources
 - pkg:maven/io.airlift/bootstrap@346?classifier=sources
+- pkg:maven/io.airlift/bootstrap@347?classifier=sources
+- pkg:maven/io.airlift/bootstrap@348?classifier=sources
+- pkg:maven/io.airlift/bootstrap@349?classifier=sources
+- pkg:maven/io.airlift/bootstrap@350?classifier=sources
+- pkg:maven/io.airlift/bootstrap@351?classifier=sources
+- pkg:maven/io.airlift/bootstrap@352?classifier=sources
+- pkg:maven/io.airlift/bootstrap@353?classifier=sources
+- pkg:maven/io.airlift/bootstrap@354?classifier=sources
+- pkg:maven/io.airlift/bootstrap@355?classifier=sources
+- pkg:maven/io.airlift/bootstrap@356?classifier=sources
+- pkg:maven/io.airlift/bootstrap@357?classifier=sources

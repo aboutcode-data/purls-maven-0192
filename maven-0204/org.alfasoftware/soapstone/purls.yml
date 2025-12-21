@@ -82,3 +82,5 @@
 - pkg:maven/org.alfasoftware/soapstone@3.3.2?classifier=sources
 - pkg:maven/org.alfasoftware/soapstone@4.0.0
 - pkg:maven/org.alfasoftware/soapstone@4.0.0?classifier=sources
+- pkg:maven/org.alfasoftware/soapstone@5.0.0-RC1?classifier=sources
+- pkg:maven/org.alfasoftware/soapstone@5.0.0-RC2?classifier=sources

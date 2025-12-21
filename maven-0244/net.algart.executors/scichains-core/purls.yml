@@ -58,3 +58,4 @@
 - pkg:maven/net.algart.executors/scichains-core@4.4.8?classifier=sources
 - pkg:maven/net.algart.executors/scichains-core@4.4.9
 - pkg:maven/net.algart.executors/scichains-core@4.4.9?classifier=sources
+- pkg:maven/net.algart.executors/scichains-core@4.5.0?classifier=sources

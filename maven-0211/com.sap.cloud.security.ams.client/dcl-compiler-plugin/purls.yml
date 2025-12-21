@@ -16,3 +16,5 @@
 - pkg:maven/com.sap.cloud.security.ams.client/dcl-compiler-plugin@2.7.0
 - pkg:maven/com.sap.cloud.security.ams.client/dcl-compiler-plugin@3.3.0
 - pkg:maven/com.sap.cloud.security.ams.client/dcl-compiler-plugin@3.4.0
+- pkg:maven/com.sap.cloud.security.ams.client/dcl-compiler-plugin@3.6.0
+- pkg:maven/com.sap.cloud.security.ams.client/dcl-compiler-plugin@3.7.0

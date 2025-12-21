@@ -18,3 +18,5 @@
 - pkg:maven/com.eed3si9n/sjson-new-murmurhash_3@0.14.0-M3?classifier=sources
 - pkg:maven/com.eed3si9n/sjson-new-murmurhash_3@0.14.0-M4
 - pkg:maven/com.eed3si9n/sjson-new-murmurhash_3@0.14.0-M4?classifier=sources
+- pkg:maven/com.eed3si9n/sjson-new-murmurhash_3@0.14.0-M5
+- pkg:maven/com.eed3si9n/sjson-new-murmurhash_3@0.14.0-M5?classifier=sources

@@ -14,6 +14,7 @@
 - pkg:maven/com.ip2location/ip2location-java@8.12.2?classifier=sources
 - pkg:maven/com.ip2location/ip2location-java@8.12.3?classifier=sources
 - pkg:maven/com.ip2location/ip2location-java@8.12.4?classifier=sources
+- pkg:maven/com.ip2location/ip2location-java@8.13.0?classifier=sources
 - pkg:maven/com.ip2location/ip2location-java@8.3.0
 - pkg:maven/com.ip2location/ip2location-java@8.3.0?classifier=sources
 - pkg:maven/com.ip2location/ip2location-java@8.4.0

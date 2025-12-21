@@ -1,2 +1,5 @@
 - pkg:maven/com.wiliot/wiliot-virtual-bridge@0.13.0?classifier=sources
 - pkg:maven/com.wiliot/wiliot-virtual-bridge@0.15.0?classifier=sources
+- pkg:maven/com.wiliot/wiliot-virtual-bridge@0.15.1?classifier=sources
+- pkg:maven/com.wiliot/wiliot-virtual-bridge@0.15.2?classifier=sources
+- pkg:maven/com.wiliot/wiliot-virtual-bridge@0.15.4?classifier=sources

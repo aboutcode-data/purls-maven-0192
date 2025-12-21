@@ -1262,3 +1262,5 @@
 - pkg:maven/org.noear/sureness-solon-plugin@3.5.0-M3?classifier=sources
 - pkg:maven/org.noear/sureness-solon-plugin@3.5.0-RC?classifier=sources
 - pkg:maven/org.noear/sureness-solon-plugin@3.5.0?classifier=sources
+- pkg:maven/org.noear/sureness-solon-plugin@3.5.1?classifier=sources
+- pkg:maven/org.noear/sureness-solon-plugin@3.5.2-RC?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/com.amazonaws/athena-oracle@2025.34.3?classifier=sources

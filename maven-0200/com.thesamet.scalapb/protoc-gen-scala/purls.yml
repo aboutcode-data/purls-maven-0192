@@ -53,6 +53,7 @@
 - pkg:maven/com.thesamet.scalapb/protoc-gen-scala@0.11.18
 - pkg:maven/com.thesamet.scalapb/protoc-gen-scala@0.11.19
 - pkg:maven/com.thesamet.scalapb/protoc-gen-scala@0.11.2
+- pkg:maven/com.thesamet.scalapb/protoc-gen-scala@0.11.20
 - pkg:maven/com.thesamet.scalapb/protoc-gen-scala@0.11.3
 - pkg:maven/com.thesamet.scalapb/protoc-gen-scala@0.11.4
 - pkg:maven/com.thesamet.scalapb/protoc-gen-scala@0.11.5
@@ -68,3 +69,4 @@
 - pkg:maven/com.thesamet.scalapb/protoc-gen-scala@0.9.7
 - pkg:maven/com.thesamet.scalapb/protoc-gen-scala@0.9.8
 - pkg:maven/com.thesamet.scalapb/protoc-gen-scala@1.0.0-alpha.1
+- pkg:maven/com.thesamet.scalapb/protoc-gen-scala@1.0.0-alpha.2

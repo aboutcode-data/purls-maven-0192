@@ -7,7 +7,11 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-pako-wasm-js@2025.8.16-2.1.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-pako-wasm-js@2025.8.17-2.1.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-pako-wasm-js@2025.8.18-2.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-pako-wasm-js@2025.8.19-2.1.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-pako-wasm-js@2025.8.2-2.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-pako-wasm-js@2025.8.20-2.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-pako-wasm-js@2025.8.21-2.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-pako-wasm-js@2025.8.22-2.1.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-pako-wasm-js@2025.8.3-2.1.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-pako-wasm-js@2025.8.4-2.1.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-pako-wasm-js@2025.8.5-2.1.0?classifier=sources
@@ -15,3 +19,9 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-pako-wasm-js@2025.8.7-2.1.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-pako-wasm-js@2025.8.8-2.1.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-pako-wasm-js@2025.8.9-2.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-pako-wasm-js@2025.9.0-2.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-pako-wasm-js@2025.9.2-2.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-pako-wasm-js@2025.9.3-2.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-pako-wasm-js@2025.9.4-2.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-pako-wasm-js@2025.9.5-2.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-pako-wasm-js@2025.9.6-2.1.0?classifier=sources
