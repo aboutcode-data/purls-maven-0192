@@ -11,3 +11,17 @@
 - pkg:maven/org.mvnpm.at.tanstack/query-core@5.72.1?classifier=sources
 - pkg:maven/org.mvnpm.at.tanstack/query-core@5.72.2?classifier=sources
 - pkg:maven/org.mvnpm.at.tanstack/query-core@5.73.3?classifier=sources
+- pkg:maven/org.mvnpm.at.tanstack/query-core@5.74.0
+- pkg:maven/org.mvnpm.at.tanstack/query-core@5.74.0?classifier=sources
+- pkg:maven/org.mvnpm.at.tanstack/query-core@5.74.2
+- pkg:maven/org.mvnpm.at.tanstack/query-core@5.74.2?classifier=sources
+- pkg:maven/org.mvnpm.at.tanstack/query-core@5.74.3
+- pkg:maven/org.mvnpm.at.tanstack/query-core@5.74.3?classifier=sources
+- pkg:maven/org.mvnpm.at.tanstack/query-core@5.74.4
+- pkg:maven/org.mvnpm.at.tanstack/query-core@5.74.4?classifier=sources
+- pkg:maven/org.mvnpm.at.tanstack/query-core@5.74.7
+- pkg:maven/org.mvnpm.at.tanstack/query-core@5.74.7?classifier=sources
+- pkg:maven/org.mvnpm.at.tanstack/query-core@5.74.9
+- pkg:maven/org.mvnpm.at.tanstack/query-core@5.74.9?classifier=sources
+- pkg:maven/org.mvnpm.at.tanstack/query-core@5.75.0
+- pkg:maven/org.mvnpm.at.tanstack/query-core@5.75.0?classifier=sources

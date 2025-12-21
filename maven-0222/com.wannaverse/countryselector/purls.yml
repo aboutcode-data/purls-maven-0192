@@ -1,0 +1,2 @@
+- pkg:maven/com.wannaverse/countryselector@0.0.0?classifier=sources
+- pkg:maven/com.wannaverse/countryselector@1.0.0?classifier=sources

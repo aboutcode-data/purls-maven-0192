@@ -1,0 +1,5 @@
+- pkg:maven/nl.talsmasoftware.misc/misc-java-utils@0.0.1?classifier=sources
+- pkg:maven/nl.talsmasoftware.misc/misc-java-utils@0.0.2?classifier=sources
+- pkg:maven/nl.talsmasoftware.misc/misc-java-utils@0.0.3?classifier=sources
+- pkg:maven/nl.talsmasoftware.misc/misc-java-utils@0.0.4-1?classifier=sources
+- pkg:maven/nl.talsmasoftware.misc/misc-java-utils@0.0.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mullerhai/core_3@0.2.3-1.15.1
+- pkg:maven/io.github.mullerhai/core_3@0.2.3-1.15.1?classifier=sources

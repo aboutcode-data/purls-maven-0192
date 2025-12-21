@@ -1,1 +1,3 @@
 - pkg:maven/io.github.smyrgeorge/log4k-coroutines-wasm-wasi@0.40.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/log4k-coroutines-wasm-wasi@0.45.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/log4k-coroutines-wasm-wasi@0.50.0?classifier=sources

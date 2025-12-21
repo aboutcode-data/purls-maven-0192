@@ -52,3 +52,7 @@
 - pkg:maven/org.rdlinux/ez-security-spring-boot-start@0.2.8?classifier=sources
 - pkg:maven/org.rdlinux/ez-security-spring-boot-start@0.2.9
 - pkg:maven/org.rdlinux/ez-security-spring-boot-start@0.2.9?classifier=sources
+- pkg:maven/org.rdlinux/ez-security-spring-boot-start@0.3.0
+- pkg:maven/org.rdlinux/ez-security-spring-boot-start@0.3.0?classifier=sources
+- pkg:maven/org.rdlinux/ez-security-spring-boot-start@0.3.1
+- pkg:maven/org.rdlinux/ez-security-spring-boot-start@0.3.1?classifier=sources

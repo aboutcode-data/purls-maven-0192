@@ -1,1 +1,2 @@
 - pkg:maven/org.webjars.npm/sentry__node@7.119.2
+- pkg:maven/org.webjars.npm/sentry__node@9.12.0

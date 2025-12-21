@@ -296,3 +296,5 @@
 - pkg:maven/com.github.chengyuxing/rabbit-common@2.8.0?classifier=sources
 - pkg:maven/com.github.chengyuxing/rabbit-common@3.0.0
 - pkg:maven/com.github.chengyuxing/rabbit-common@3.0.0?classifier=sources
+- pkg:maven/com.github.chengyuxing/rabbit-common@3.0.1
+- pkg:maven/com.github.chengyuxing/rabbit-common@3.0.1?classifier=sources

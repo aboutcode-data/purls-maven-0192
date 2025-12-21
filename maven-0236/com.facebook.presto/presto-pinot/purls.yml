@@ -104,3 +104,4 @@
 - pkg:maven/com.facebook.presto/presto-pinot@0.289?classifier=sources
 - pkg:maven/com.facebook.presto/presto-pinot@0.290?classifier=sources
 - pkg:maven/com.facebook.presto/presto-pinot@0.291?classifier=sources
+- pkg:maven/com.facebook.presto/presto-pinot@0.292?classifier=sources

@@ -14,3 +14,4 @@
 - pkg:maven/io.github.bes2008.solution.langx.security/langx-java-security-gm-jca-tests@5.4.4
 - pkg:maven/io.github.bes2008.solution.langx.security/langx-java-security-gm-jca-tests@5.4.5
 - pkg:maven/io.github.bes2008.solution.langx.security/langx-java-security-gm-jca-tests@5.4.6
+- pkg:maven/io.github.bes2008.solution.langx.security/langx-java-security-gm-jca-tests@5.5.0

@@ -1,5 +1,6 @@
 - pkg:maven/com.pulumi/null@0.0.1-alpha.1686861024%2B0986795a?classifier=sources
 - pkg:maven/com.pulumi/null@0.0.10?classifier=sources
+- pkg:maven/com.pulumi/null@0.0.11?classifier=sources
 - pkg:maven/com.pulumi/null@0.0.1?classifier=sources
 - pkg:maven/com.pulumi/null@0.0.2-alpha.1695076774%2B12546910?classifier=sources
 - pkg:maven/com.pulumi/null@0.0.2-alpha.1695187989%2B71ccaf1e?classifier=sources

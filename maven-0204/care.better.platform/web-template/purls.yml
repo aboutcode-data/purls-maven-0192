@@ -70,3 +70,5 @@
 - pkg:maven/care.better.platform/web-template@4.0.6?classifier=sources
 - pkg:maven/care.better.platform/web-template@4.0.7
 - pkg:maven/care.better.platform/web-template@4.0.7?classifier=sources
+- pkg:maven/care.better.platform/web-template@4.1.0
+- pkg:maven/care.better.platform/web-template@4.1.0?classifier=sources

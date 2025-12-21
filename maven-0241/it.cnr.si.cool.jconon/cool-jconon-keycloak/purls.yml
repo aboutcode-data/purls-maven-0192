@@ -410,3 +410,5 @@
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-keycloak@5.5.8?classifier=sources
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-keycloak@5.5.9
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-keycloak@5.5.9?classifier=sources
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-keycloak@5.6.0
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-keycloak@5.6.0?classifier=sources

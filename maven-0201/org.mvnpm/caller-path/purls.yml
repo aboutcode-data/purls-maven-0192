@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/caller-path@0.1.0?classifier=sources
+- pkg:maven/org.mvnpm/caller-path@2.0.0
+- pkg:maven/org.mvnpm/caller-path@2.0.0?classifier=sources
 - pkg:maven/org.mvnpm/caller-path@4.0.0?classifier=sources

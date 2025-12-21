@@ -171,3 +171,4 @@
 - pkg:maven/org.nutz/nutz-spring-boot-starter@3.4.3
 - pkg:maven/org.nutz/nutz-spring-boot-starter@3.4.3?classifier=sources
 - pkg:maven/org.nutz/nutz-spring-boot-starter@3.4.4?classifier=sources
+- pkg:maven/org.nutz/nutz-spring-boot-starter@3.4.5?classifier=sources

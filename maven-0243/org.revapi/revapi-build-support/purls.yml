@@ -14,3 +14,5 @@
 - pkg:maven/org.revapi/revapi-build-support@7?classifier=sources
 - pkg:maven/org.revapi/revapi-build-support@8
 - pkg:maven/org.revapi/revapi-build-support@8?classifier=sources
+- pkg:maven/org.revapi/revapi-build-support@9
+- pkg:maven/org.revapi/revapi-build-support@9?classifier=sources

@@ -88,3 +88,5 @@
 - pkg:maven/com.johnsnowlabs.nlp/spark-nlp-aarch64_2.12@5.5.2?classifier=sources
 - pkg:maven/com.johnsnowlabs.nlp/spark-nlp-aarch64_2.12@5.5.3
 - pkg:maven/com.johnsnowlabs.nlp/spark-nlp-aarch64_2.12@5.5.3?classifier=sources
+- pkg:maven/com.johnsnowlabs.nlp/spark-nlp-aarch64_2.12@6.0.0
+- pkg:maven/com.johnsnowlabs.nlp/spark-nlp-aarch64_2.12@6.0.0?classifier=sources

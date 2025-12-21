@@ -2,3 +2,10 @@
 - pkg:maven/org.webjars.npm/graphiql__plugin-explorer@0.1.19?classifier=sources
 - pkg:maven/org.webjars.npm/graphiql__plugin-explorer@1.0.3
 - pkg:maven/org.webjars.npm/graphiql__plugin-explorer@1.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/graphiql__plugin-explorer@3.2.5
+- pkg:maven/org.webjars.npm/graphiql__plugin-explorer@3.2.6
+- pkg:maven/org.webjars.npm/graphiql__plugin-explorer@4.0.0
+- pkg:maven/org.webjars.npm/graphiql__plugin-explorer@4.0.1
+- pkg:maven/org.webjars.npm/graphiql__plugin-explorer@4.0.2
+- pkg:maven/org.webjars.npm/graphiql__plugin-explorer@4.0.3
+- pkg:maven/org.webjars.npm/graphiql__plugin-explorer@4.0.4

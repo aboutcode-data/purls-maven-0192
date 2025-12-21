@@ -9,3 +9,4 @@
 - pkg:maven/org.webjars.npm/libnpmteam@2.0.4
 - pkg:maven/org.webjars.npm/libnpmteam@2.0.4?classifier=sources
 - pkg:maven/org.webjars.npm/libnpmteam@6.0.5
+- pkg:maven/org.webjars.npm/libnpmteam@7.0.0

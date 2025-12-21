@@ -1,3 +1,4 @@
 - pkg:maven/org.webjars.npm/hast-util-sanitize@1.3.1
 - pkg:maven/org.webjars.npm/hast-util-sanitize@1.3.1?classifier=sources
 - pkg:maven/org.webjars.npm/hast-util-sanitize@4.1.0
+- pkg:maven/org.webjars.npm/hast-util-sanitize@5.0.2

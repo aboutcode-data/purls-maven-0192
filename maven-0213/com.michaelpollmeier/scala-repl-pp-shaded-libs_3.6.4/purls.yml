@@ -1,0 +1,2 @@
+- pkg:maven/com.michaelpollmeier/scala-repl-pp-shaded-libs_3.6.4@0.4.13
+- pkg:maven/com.michaelpollmeier/scala-repl-pp-shaded-libs_3.6.4@0.4.13?classifier=sources

@@ -1,1 +1,5 @@
 - pkg:maven/org.mvnpm.at.lwc/rollup-plugin@8.17.0?classifier=sources
+- pkg:maven/org.mvnpm.at.lwc/rollup-plugin@8.18.0
+- pkg:maven/org.mvnpm.at.lwc/rollup-plugin@8.18.0?classifier=sources
+- pkg:maven/org.mvnpm.at.lwc/rollup-plugin@8.18.2
+- pkg:maven/org.mvnpm.at.lwc/rollup-plugin@8.18.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cn.apptrace.sdk/apptrace-android-sdk@1.1.3?classifier=sources
+- pkg:maven/cn.apptrace.sdk/apptrace-android-sdk@1.1.4?classifier=sources

@@ -6,3 +6,7 @@
 - pkg:maven/edu.stanford.protege/webprotege-entity-data@0.9.2?classifier=sources
 - pkg:maven/edu.stanford.protege/webprotege-entity-data@0.9.3
 - pkg:maven/edu.stanford.protege/webprotege-entity-data@0.9.3?classifier=sources
+- pkg:maven/edu.stanford.protege/webprotege-entity-data@0.9.5-WHO
+- pkg:maven/edu.stanford.protege/webprotege-entity-data@0.9.5-WHO?classifier=sources
+- pkg:maven/edu.stanford.protege/webprotege-entity-data@0.9.6-WHO
+- pkg:maven/edu.stanford.protege/webprotege-entity-data@0.9.6-WHO?classifier=sources

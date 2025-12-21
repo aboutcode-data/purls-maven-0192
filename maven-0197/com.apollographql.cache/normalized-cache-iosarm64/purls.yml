@@ -1,0 +1,2 @@
+- pkg:maven/com.apollographql.cache/normalized-cache-iosarm64@0.0.9?classifier=sources
+- pkg:maven/com.apollographql.cache/normalized-cache-iosarm64@1.0.0-alpha.1?classifier=sources

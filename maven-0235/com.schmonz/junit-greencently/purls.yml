@@ -74,3 +74,8 @@
 - pkg:maven/com.schmonz/junit-greencently@20250401182447.0.0-g628d066-14203185440-1?classifier=sources
 - pkg:maven/com.schmonz/junit-greencently@20250402171221.0.0-g7a4aa00-14225507806-1?classifier=sources
 - pkg:maven/com.schmonz/junit-greencently@20250403000953.0.0-gb644268-14232023452-1?classifier=sources
+- pkg:maven/com.schmonz/junit-greencently@20250408173809.0.0-g1a44dde-14340018719-1?classifier=sources
+- pkg:maven/com.schmonz/junit-greencently@20250411150731.0.0-gf01cc83-14406206843-1?classifier=sources
+- pkg:maven/com.schmonz/junit-greencently@20250411174821.0.0-gf6147b1-14409035559-1?classifier=sources
+- pkg:maven/com.schmonz/junit-greencently@20250412045852.0.0-g99bd02f-14416383892-1?classifier=sources
+- pkg:maven/com.schmonz/junit-greencently@20250425124343.0.0-g413c1d3-14664884019-1?classifier=sources

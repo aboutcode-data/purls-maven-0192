@@ -1,0 +1,2 @@
+- pkg:maven/org.wikimedia.utils/lucene-regex-rewriter@1.0.1
+- pkg:maven/org.wikimedia.utils/lucene-regex-rewriter@1.0.1?classifier=sources

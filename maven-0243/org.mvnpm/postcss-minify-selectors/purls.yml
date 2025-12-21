@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/postcss-minify-selectors@2.1.1?classifier=sources
 - pkg:maven/org.mvnpm/postcss-minify-selectors@7.0.4?classifier=sources
+- pkg:maven/org.mvnpm/postcss-minify-selectors@7.0.5
+- pkg:maven/org.mvnpm/postcss-minify-selectors@7.0.5?classifier=sources

@@ -186,3 +186,5 @@
 - pkg:maven/org.opencb.biodata/biodata-tools@3.3.0?classifier=sources
 - pkg:maven/org.opencb.biodata/biodata-tools@3.4.0
 - pkg:maven/org.opencb.biodata/biodata-tools@3.4.0?classifier=sources
+- pkg:maven/org.opencb.biodata/biodata-tools@4.0.0
+- pkg:maven/org.opencb.biodata/biodata-tools@4.0.0?classifier=sources

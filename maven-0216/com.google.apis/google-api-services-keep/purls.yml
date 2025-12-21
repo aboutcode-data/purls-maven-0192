@@ -18,3 +18,5 @@
 - pkg:maven/com.google.apis/google-api-services-keep@v1-rev20220322-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-keep@v1-rev20220322-2.0.0
 - pkg:maven/com.google.apis/google-api-services-keep@v1-rev20220322-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-keep@v1-rev20250318-2.0.0
+- pkg:maven/com.google.apis/google-api-services-keep@v1-rev20250318-2.0.0?classifier=sources

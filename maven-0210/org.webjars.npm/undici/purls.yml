@@ -21,5 +21,6 @@
 - pkg:maven/org.webjars.npm/undici@5.28.3
 - pkg:maven/org.webjars.npm/undici@5.28.3?classifier=sources
 - pkg:maven/org.webjars.npm/undici@5.28.4
+- pkg:maven/org.webjars.npm/undici@5.29.0
 - pkg:maven/org.webjars.npm/undici@5.4.0
 - pkg:maven/org.webjars.npm/undici@5.4.0?classifier=sources

@@ -12,4 +12,5 @@
 - pkg:maven/tech.illuin/data-pipeline-resilience4j@0.23?classifier=sources
 - pkg:maven/tech.illuin/data-pipeline-resilience4j@0.24.1?classifier=sources
 - pkg:maven/tech.illuin/data-pipeline-resilience4j@0.24?classifier=sources
+- pkg:maven/tech.illuin/data-pipeline-resilience4j@0.25.1?classifier=sources
 - pkg:maven/tech.illuin/data-pipeline-resilience4j@0.25?classifier=sources

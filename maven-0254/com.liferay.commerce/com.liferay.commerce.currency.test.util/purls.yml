@@ -124,3 +124,4 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@5.0.8
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@5.0.8?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@5.0.9?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.test.util@5.1.0?classifier=sources

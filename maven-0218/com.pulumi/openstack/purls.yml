@@ -157,6 +157,7 @@
 - pkg:maven/com.pulumi/openstack@5.0.0?classifier=sources
 - pkg:maven/com.pulumi/openstack@5.0.2?classifier=sources
 - pkg:maven/com.pulumi/openstack@5.0.3?classifier=sources
+- pkg:maven/com.pulumi/openstack@5.0.4?classifier=sources
 - pkg:maven/com.pulumi/openstack@5.1.0-alpha.1727848181?classifier=sources
 - pkg:maven/com.pulumi/openstack@5.1.0-alpha.1727884409?classifier=sources
 - pkg:maven/com.pulumi/openstack@5.1.0-alpha.1728107855?classifier=sources

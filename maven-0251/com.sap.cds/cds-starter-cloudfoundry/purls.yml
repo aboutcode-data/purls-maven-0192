@@ -119,3 +119,4 @@
 - pkg:maven/com.sap.cds/cds-starter-cloudfoundry@3.8.0
 - pkg:maven/com.sap.cds/cds-starter-cloudfoundry@3.8.1
 - pkg:maven/com.sap.cds/cds-starter-cloudfoundry@3.9.0
+- pkg:maven/com.sap.cds/cds-starter-cloudfoundry@3.9.1

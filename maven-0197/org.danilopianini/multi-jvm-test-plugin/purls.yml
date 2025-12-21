@@ -77,3 +77,5 @@
 - pkg:maven/org.danilopianini/multi-jvm-test-plugin@3.2.3?classifier=sources
 - pkg:maven/org.danilopianini/multi-jvm-test-plugin@3.2.4?classifier=sources
 - pkg:maven/org.danilopianini/multi-jvm-test-plugin@3.3.0?classifier=sources
+- pkg:maven/org.danilopianini/multi-jvm-test-plugin@3.4.0?classifier=sources
+- pkg:maven/org.danilopianini/multi-jvm-test-plugin@3.4.1?classifier=sources

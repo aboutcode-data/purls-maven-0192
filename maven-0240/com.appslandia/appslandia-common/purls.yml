@@ -232,6 +232,8 @@
 - pkg:maven/com.appslandia/appslandia-common@19.37.0?classifier=sources
 - pkg:maven/com.appslandia/appslandia-common@19.38.0
 - pkg:maven/com.appslandia/appslandia-common@19.38.0?classifier=sources
+- pkg:maven/com.appslandia/appslandia-common@19.39.0
+- pkg:maven/com.appslandia/appslandia-common@19.39.0?classifier=sources
 - pkg:maven/com.appslandia/appslandia-common@19.4.0
 - pkg:maven/com.appslandia/appslandia-common@19.4.0?classifier=sources
 - pkg:maven/com.appslandia/appslandia-common@19.6.0

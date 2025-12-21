@@ -93,3 +93,4 @@
 - pkg:maven/io.trino/trino-mariadb@472?classifier=sources
 - pkg:maven/io.trino/trino-mariadb@473?classifier=sources
 - pkg:maven/io.trino/trino-mariadb@474?classifier=sources
+- pkg:maven/io.trino/trino-mariadb@475?classifier=sources

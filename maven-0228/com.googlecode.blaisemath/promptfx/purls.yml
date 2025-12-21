@@ -14,6 +14,8 @@
 - pkg:maven/com.googlecode.blaisemath/promptfx@0.10.0?classifier=sources
 - pkg:maven/com.googlecode.blaisemath/promptfx@0.10.2
 - pkg:maven/com.googlecode.blaisemath/promptfx@0.10.2?classifier=sources
+- pkg:maven/com.googlecode.blaisemath/promptfx@0.11.0
+- pkg:maven/com.googlecode.blaisemath/promptfx@0.11.0?classifier=sources
 - pkg:maven/com.googlecode.blaisemath/promptfx@0.2.1
 - pkg:maven/com.googlecode.blaisemath/promptfx@0.2.1?classifier=sources
 - pkg:maven/com.googlecode.blaisemath/promptfx@0.2.3

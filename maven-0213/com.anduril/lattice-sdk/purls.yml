@@ -6,3 +6,5 @@
 - pkg:maven/com.anduril/lattice-sdk@1.4.0?classifier=sources
 - pkg:maven/com.anduril/lattice-sdk@1.5.0?classifier=sources
 - pkg:maven/com.anduril/lattice-sdk@1.6.0?classifier=sources
+- pkg:maven/com.anduril/lattice-sdk@1.7.0?classifier=sources
+- pkg:maven/com.anduril/lattice-sdk@1.8.0?classifier=sources

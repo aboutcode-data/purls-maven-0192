@@ -29,6 +29,7 @@
 - pkg:maven/org.xhtmlrenderer/flying-saucer-pdf-osgi@9.11.4
 - pkg:maven/org.xhtmlrenderer/flying-saucer-pdf-osgi@9.11.5
 - pkg:maven/org.xhtmlrenderer/flying-saucer-pdf-osgi@9.11.6
+- pkg:maven/org.xhtmlrenderer/flying-saucer-pdf-osgi@9.12.0
 - pkg:maven/org.xhtmlrenderer/flying-saucer-pdf-osgi@9.2.0
 - pkg:maven/org.xhtmlrenderer/flying-saucer-pdf-osgi@9.2.1
 - pkg:maven/org.xhtmlrenderer/flying-saucer-pdf-osgi@9.2.2

@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm.at.graphql-yoga/subscription@5.0.3?classifier=sources
 - pkg:maven/org.mvnpm.at.graphql-yoga/subscription@5.0.4?classifier=sources
+- pkg:maven/org.mvnpm.at.graphql-yoga/subscription@5.0.5
+- pkg:maven/org.mvnpm.at.graphql-yoga/subscription@5.0.5?classifier=sources

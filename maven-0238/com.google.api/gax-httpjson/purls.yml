@@ -301,3 +301,11 @@
 - pkg:maven/com.google.api/gax-httpjson@2.63.0?classifier=sources
 - pkg:maven/com.google.api/gax-httpjson@2.63.1
 - pkg:maven/com.google.api/gax-httpjson@2.63.1?classifier=sources
+- pkg:maven/com.google.api/gax-httpjson@2.64.0
+- pkg:maven/com.google.api/gax-httpjson@2.64.0?classifier=sources
+- pkg:maven/com.google.api/gax-httpjson@2.64.1
+- pkg:maven/com.google.api/gax-httpjson@2.64.1?classifier=sources
+- pkg:maven/com.google.api/gax-httpjson@2.64.2
+- pkg:maven/com.google.api/gax-httpjson@2.64.2?classifier=sources
+- pkg:maven/com.google.api/gax-httpjson@2.64.3
+- pkg:maven/com.google.api/gax-httpjson@2.64.3?classifier=sources

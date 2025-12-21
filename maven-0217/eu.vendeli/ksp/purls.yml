@@ -67,3 +67,4 @@
 - pkg:maven/eu.vendeli/ksp@7.8.0?classifier=sources
 - pkg:maven/eu.vendeli/ksp@7.9.0?classifier=sources
 - pkg:maven/eu.vendeli/ksp@8.0.0?classifier=sources
+- pkg:maven/eu.vendeli/ksp@8.1.0?classifier=sources

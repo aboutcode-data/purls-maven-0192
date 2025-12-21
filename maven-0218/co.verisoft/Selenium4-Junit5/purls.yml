@@ -114,5 +114,13 @@
 - pkg:maven/co.verisoft/Selenium4-Junit5@2.3.8?classifier=sources
 - pkg:maven/co.verisoft/Selenium4-Junit5@2.3.9
 - pkg:maven/co.verisoft/Selenium4-Junit5@2.3.9?classifier=sources
+- pkg:maven/co.verisoft/Selenium4-Junit5@3.0.0
+- pkg:maven/co.verisoft/Selenium4-Junit5@3.0.0.1
+- pkg:maven/co.verisoft/Selenium4-Junit5@3.0.0.1?classifier=sources
+- pkg:maven/co.verisoft/Selenium4-Junit5@3.0.0?classifier=sources
 - pkg:maven/co.verisoft/Selenium4-Junit5@dummyVersion
 - pkg:maven/co.verisoft/Selenium4-Junit5@dummyVersion?classifier=sources
+- pkg:maven/co.verisoft/Selenium4-Junit5@null
+- pkg:maven/co.verisoft/Selenium4-Junit5@null?classifier=sources
+- pkg:maven/co.verisoft/Selenium4-Junit5@pipelineTriger.0.2
+- pkg:maven/co.verisoft/Selenium4-Junit5@pipelineTriger.0.2?classifier=sources

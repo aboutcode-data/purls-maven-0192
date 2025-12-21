@@ -12,3 +12,5 @@
 - pkg:maven/io.imunity.samly/samly2@2.7.1?classifier=sources
 - pkg:maven/io.imunity.samly/samly2@3.0.0
 - pkg:maven/io.imunity.samly/samly2@3.0.0?classifier=sources
+- pkg:maven/io.imunity.samly/samly2@3.1.0
+- pkg:maven/io.imunity.samly/samly2@3.1.0?classifier=sources

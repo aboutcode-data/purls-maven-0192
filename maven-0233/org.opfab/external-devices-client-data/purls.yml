@@ -55,3 +55,5 @@
 - pkg:maven/org.opfab/external-devices-client-data@4.6.0-RC.RELEASE?classifier=sources
 - pkg:maven/org.opfab/external-devices-client-data@4.6.0.RELEASE?classifier=sources
 - pkg:maven/org.opfab/external-devices-client-data@4.7.0-RC.RELEASE?classifier=sources
+- pkg:maven/org.opfab/external-devices-client-data@4.7.0.RELEASE?classifier=sources
+- pkg:maven/org.opfab/external-devices-client-data@4.7.1.RELEASE?classifier=sources

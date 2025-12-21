@@ -75,3 +75,5 @@
 - pkg:maven/org.webjars.npm/caniuse-lite@1.0.30001605
 - pkg:maven/org.webjars.npm/caniuse-lite@1.0.30001605?classifier=sources
 - pkg:maven/org.webjars.npm/caniuse-lite@1.0.30001651
+- pkg:maven/org.webjars.npm/caniuse-lite@1.0.30001715
+- pkg:maven/org.webjars.npm/caniuse-lite@1.0.30001718

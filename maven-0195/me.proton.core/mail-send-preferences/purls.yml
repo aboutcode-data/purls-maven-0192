@@ -85,3 +85,5 @@
 - pkg:maven/me.proton.core/mail-send-preferences@30.4.3?classifier=sources
 - pkg:maven/me.proton.core/mail-send-preferences@30.4.4?classifier=sources
 - pkg:maven/me.proton.core/mail-send-preferences@31.0.0?classifier=sources
+- pkg:maven/me.proton.core/mail-send-preferences@32.0.0?classifier=sources
+- pkg:maven/me.proton.core/mail-send-preferences@32.0.1?classifier=sources

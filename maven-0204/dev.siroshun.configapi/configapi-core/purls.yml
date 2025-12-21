@@ -1,1 +1,2 @@
 - pkg:maven/dev.siroshun.configapi/configapi-core@5.0.0-beta.4?classifier=sources
+- pkg:maven/dev.siroshun.configapi/configapi-core@5.0.0-beta.5?classifier=sources

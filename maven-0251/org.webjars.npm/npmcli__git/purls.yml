@@ -7,3 +7,4 @@
 - pkg:maven/org.webjars.npm/npmcli__git@2.1.0
 - pkg:maven/org.webjars.npm/npmcli__git@2.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/npmcli__git@5.0.8
+- pkg:maven/org.webjars.npm/npmcli__git@6.0.3

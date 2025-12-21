@@ -79,3 +79,4 @@
 - pkg:maven/com.adeptj/adeptj-maven-plugin@1.7.6?classifier=sources
 - pkg:maven/com.adeptj/adeptj-maven-plugin@1.8.0
 - pkg:maven/com.adeptj/adeptj-maven-plugin@1.8.0?classifier=sources
+- pkg:maven/com.adeptj/adeptj-maven-plugin@1.8.1?classifier=sources

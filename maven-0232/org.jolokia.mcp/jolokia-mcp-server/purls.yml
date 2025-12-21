@@ -1,0 +1,2 @@
+- pkg:maven/org.jolokia.mcp/jolokia-mcp-server@0.3.3
+- pkg:maven/org.jolokia.mcp/jolokia-mcp-server@0.3.3?classifier=sources

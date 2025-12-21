@@ -31,7 +31,10 @@
 - pkg:maven/net.taler/qtart@0.14.0?classifier=sources
 - pkg:maven/net.taler/qtart@0.14.10?classifier=sources
 - pkg:maven/net.taler/qtart@0.14.12?classifier=sources
+- pkg:maven/net.taler/qtart@0.14.15?classifier=sources
 - pkg:maven/net.taler/qtart@0.14.1?classifier=sources
+- pkg:maven/net.taler/qtart@0.14.22?classifier=sources
+- pkg:maven/net.taler/qtart@0.14.23?classifier=sources
 - pkg:maven/net.taler/qtart@0.14.3?classifier=sources
 - pkg:maven/net.taler/qtart@0.14.4?classifier=sources
 - pkg:maven/net.taler/qtart@0.1?classifier=sources
