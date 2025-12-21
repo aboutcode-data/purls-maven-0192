@@ -1,0 +1,4 @@
+- pkg:maven/com.olo.pay/digitalwallets-android-sdk@0.0.1-prerelease?classifier=sources
+- pkg:maven/com.olo.pay/digitalwallets-android-sdk@0.0.2-prerelease?classifier=sources
+- pkg:maven/com.olo.pay/digitalwallets-android-sdk@0.0.3-prerelease?classifier=sources
+- pkg:maven/com.olo.pay/digitalwallets-android-sdk@0.0.4-prerelease?classifier=sources

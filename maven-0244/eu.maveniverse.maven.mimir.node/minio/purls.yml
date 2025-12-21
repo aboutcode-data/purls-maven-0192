@@ -1,3 +1,8 @@
+- pkg:maven/eu.maveniverse.maven.mimir.node/minio@0.10.0?classifier=sources
+- pkg:maven/eu.maveniverse.maven.mimir.node/minio@0.10.1?classifier=sources
+- pkg:maven/eu.maveniverse.maven.mimir.node/minio@0.10.2?classifier=sources
+- pkg:maven/eu.maveniverse.maven.mimir.node/minio@0.10.3?classifier=sources
+- pkg:maven/eu.maveniverse.maven.mimir.node/minio@0.10.4?classifier=sources
 - pkg:maven/eu.maveniverse.maven.mimir.node/minio@0.3.0
 - pkg:maven/eu.maveniverse.maven.mimir.node/minio@0.3.0?classifier=sources
 - pkg:maven/eu.maveniverse.maven.mimir.node/minio@0.3.1
@@ -42,3 +47,4 @@
 - pkg:maven/eu.maveniverse.maven.mimir.node/minio@0.9.1?classifier=sources
 - pkg:maven/eu.maveniverse.maven.mimir.node/minio@0.9.2?classifier=sources
 - pkg:maven/eu.maveniverse.maven.mimir.node/minio@0.9.3?classifier=sources
+- pkg:maven/eu.maveniverse.maven.mimir.node/minio@0.9.4?classifier=sources

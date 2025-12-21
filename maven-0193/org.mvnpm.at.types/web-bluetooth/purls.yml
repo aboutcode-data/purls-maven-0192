@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.types/web-bluetooth@0.0.20
+- pkg:maven/org.mvnpm.at.types/web-bluetooth@0.0.20?classifier=sources

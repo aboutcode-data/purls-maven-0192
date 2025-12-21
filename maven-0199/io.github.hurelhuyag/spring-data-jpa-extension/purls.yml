@@ -1,0 +1,2 @@
+- pkg:maven/io.github.hurelhuyag/spring-data-jpa-extension@1.0.0?classifier=sources
+- pkg:maven/io.github.hurelhuyag/spring-data-jpa-extension@1.0.1?classifier=sources

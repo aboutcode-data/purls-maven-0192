@@ -1,1 +1,4 @@
 - pkg:maven/de.team33.patterns/streamable-galatea@2.3.0?classifier=sources
+- pkg:maven/de.team33.patterns/streamable-galatea@2.4.0?classifier=sources
+- pkg:maven/de.team33.patterns/streamable-galatea@2.4.1?classifier=sources
+- pkg:maven/de.team33.patterns/streamable-galatea@2.5.0?classifier=sources

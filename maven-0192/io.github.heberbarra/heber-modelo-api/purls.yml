@@ -1,3 +1,6 @@
+- pkg:maven/io.github.heberbarra/heber-modelo-api@0.0.10-SNAP?classifier=sources
+- pkg:maven/io.github.heberbarra/heber-modelo-api@0.0.11-SNAP?classifier=sources
 - pkg:maven/io.github.heberbarra/heber-modelo-api@0.0.6-SNAP?classifier=sources
 - pkg:maven/io.github.heberbarra/heber-modelo-api@0.0.7-SNAP?classifier=sources
 - pkg:maven/io.github.heberbarra/heber-modelo-api@0.0.8-SNAP?classifier=sources
+- pkg:maven/io.github.heberbarra/heber-modelo-api@0.0.9-SNAP?classifier=sources

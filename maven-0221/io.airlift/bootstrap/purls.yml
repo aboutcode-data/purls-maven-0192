@@ -489,3 +489,8 @@
 - pkg:maven/io.airlift/bootstrap@362?classifier=sources
 - pkg:maven/io.airlift/bootstrap@363?classifier=sources
 - pkg:maven/io.airlift/bootstrap@364?classifier=sources
+- pkg:maven/io.airlift/bootstrap@365?classifier=sources
+- pkg:maven/io.airlift/bootstrap@366?classifier=sources
+- pkg:maven/io.airlift/bootstrap@367?classifier=sources
+- pkg:maven/io.airlift/bootstrap@368?classifier=sources
+- pkg:maven/io.airlift/bootstrap@369?classifier=sources

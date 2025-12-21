@@ -76,3 +76,5 @@
 - pkg:maven/org.sonarsource.sonarlint.ls/sonarlint-language-server@4.0.0.76618?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.ls/sonarlint-language-server@4.1.0.76681?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.ls/sonarlint-language-server@4.2.0.77752?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.ls/sonarlint-language-server@4.3.0.77780?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.ls/sonarlint-language-server@4.3.1.77786?classifier=sources

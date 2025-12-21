@@ -16,3 +16,6 @@
 - pkg:maven/org.ossreviewtoolkit.clients/foojay@68.2.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/foojay@69.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/foojay@69.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/foojay@70.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/foojay@70.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/foojay@70.1.0?classifier=sources

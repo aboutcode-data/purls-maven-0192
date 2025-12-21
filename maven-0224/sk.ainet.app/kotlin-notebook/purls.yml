@@ -1,0 +1,2 @@
+- pkg:maven/sk.ainet.app/kotlin-notebook@0.0.1.1?classifier=sources
+- pkg:maven/sk.ainet.app/kotlin-notebook@0.0.1.2?classifier=sources

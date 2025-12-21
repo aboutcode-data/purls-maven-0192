@@ -68,3 +68,6 @@
 - pkg:maven/cn.zhxu/bean-searcher-boot-starter@4.6.0.beta?classifier=sources
 - pkg:maven/cn.zhxu/bean-searcher-boot-starter@4.6.0.gama?classifier=sources
 - pkg:maven/cn.zhxu/bean-searcher-boot-starter@4.6.0?classifier=sources
+- pkg:maven/cn.zhxu/bean-searcher-boot-starter@4.7.0?classifier=sources
+- pkg:maven/cn.zhxu/bean-searcher-boot-starter@4.7.1?classifier=sources
+- pkg:maven/cn.zhxu/bean-searcher-boot-starter@4.8.0?classifier=sources

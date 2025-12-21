@@ -60,3 +60,5 @@
 - pkg:maven/dev.jayo/jayo@0.1.0-alpha60?classifier=sources
 - pkg:maven/dev.jayo/jayo@0.1.0-alpha61?classifier=sources
 - pkg:maven/dev.jayo/jayo@0.1.0-alpha62?classifier=sources
+- pkg:maven/dev.jayo/jayo@0.1.0-alpha63?classifier=sources
+- pkg:maven/dev.jayo/jayo@0.1.0-alpha64?classifier=sources

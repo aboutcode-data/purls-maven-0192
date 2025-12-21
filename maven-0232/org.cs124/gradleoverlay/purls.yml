@@ -1,5 +1,6 @@
 - pkg:maven/org.cs124/gradleoverlay@2023.11.0?classifier=sources
 - pkg:maven/org.cs124/gradleoverlay@2024.10.0?classifier=sources
 - pkg:maven/org.cs124/gradleoverlay@2024.3.0?classifier=sources
+- pkg:maven/org.cs124/gradleoverlay@2025.10.0?classifier=sources
 - pkg:maven/org.cs124/gradleoverlay@2025.2.0?classifier=sources
 - pkg:maven/org.cs124/gradleoverlay@2025.7.0?classifier=sources

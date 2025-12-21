@@ -118,6 +118,7 @@
 - pkg:maven/com.vmware.avi.sdk/avisdk@31.1.1.RELEASE?classifier=sources
 - pkg:maven/com.vmware.avi.sdk/avisdk@31.1.2-beta?classifier=sources
 - pkg:maven/com.vmware.avi.sdk/avisdk@31.1.2.RELEASE?classifier=sources
+- pkg:maven/com.vmware.avi.sdk/avisdk@31.2.1.RELEASE?classifier=sources
 - pkg:maven/com.vmware.avi.sdk/avisdk@java.RELEASE
 - pkg:maven/com.vmware.avi.sdk/avisdk@java.RELEASE?classifier=sources
 - pkg:maven/com.vmware.avi.sdk/avisdk@v31.1.2.RELEASE?classifier=sources

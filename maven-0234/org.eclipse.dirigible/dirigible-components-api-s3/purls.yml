@@ -342,7 +342,15 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-components-api-s3@12.2.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-api-s3@12.2.1?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-api-s3@12.20.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-s3@12.21.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-s3@12.22.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-s3@12.23.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-s3@12.24.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-s3@12.28.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-s3@12.29.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-api-s3@12.3.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-s3@12.30.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-s3@12.31.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-api-s3@12.4.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-api-s3@12.4.1?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-api-s3@12.5.0?classifier=sources

@@ -121,5 +121,8 @@
 - pkg:maven/org.ossreviewtoolkit/advisor@69.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/advisor@7.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/advisor@7.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/advisor@70.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/advisor@70.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/advisor@70.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/advisor@8.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/advisor@9.0.0?classifier=sources

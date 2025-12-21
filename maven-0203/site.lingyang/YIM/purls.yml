@@ -38,3 +38,4 @@
 - pkg:maven/site.lingyang/YIM@5.0.8?classifier=sources
 - pkg:maven/site.lingyang/YIM@5.0.9?classifier=sources
 - pkg:maven/site.lingyang/YIM@5.1.0?classifier=sources
+- pkg:maven/site.lingyang/YIM@5.1.1?classifier=sources

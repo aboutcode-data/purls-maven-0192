@@ -79,3 +79,8 @@
 - pkg:maven/no.datek/slim-spring-webmvc@1.0.7?classifier=sources
 - pkg:maven/no.datek/slim-spring-webmvc@1.0.8?classifier=sources
 - pkg:maven/no.datek/slim-spring-webmvc@1.0.9?classifier=sources
+- pkg:maven/no.datek/slim-spring-webmvc@1.1.10?classifier=sources
+- pkg:maven/no.datek/slim-spring-webmvc@1.1.12?classifier=sources
+- pkg:maven/no.datek/slim-spring-webmvc@1.1.13?classifier=sources
+- pkg:maven/no.datek/slim-spring-webmvc@1.1.9.4?classifier=sources
+- pkg:maven/no.datek/slim-spring-webmvc@1.1.9.5?classifier=sources

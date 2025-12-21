@@ -4,3 +4,4 @@
 - pkg:maven/io.openlineage/transports-datazone@1.36.0?classifier=sources
 - pkg:maven/io.openlineage/transports-datazone@1.37.0?classifier=sources
 - pkg:maven/io.openlineage/transports-datazone@1.38.0?classifier=sources
+- pkg:maven/io.openlineage/transports-datazone@1.39.0?classifier=sources

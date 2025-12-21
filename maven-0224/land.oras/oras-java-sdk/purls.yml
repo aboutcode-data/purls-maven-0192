@@ -5,6 +5,7 @@
 - pkg:maven/land.oras/oras-java-sdk@0.2.13?classifier=sources
 - pkg:maven/land.oras/oras-java-sdk@0.2.14?classifier=sources
 - pkg:maven/land.oras/oras-java-sdk@0.2.15?classifier=sources
+- pkg:maven/land.oras/oras-java-sdk@0.2.16?classifier=sources
 - pkg:maven/land.oras/oras-java-sdk@0.2.1?classifier=sources
 - pkg:maven/land.oras/oras-java-sdk@0.2.2?classifier=sources
 - pkg:maven/land.oras/oras-java-sdk@0.2.3?classifier=sources
@@ -14,3 +15,4 @@
 - pkg:maven/land.oras/oras-java-sdk@0.2.7?classifier=sources
 - pkg:maven/land.oras/oras-java-sdk@0.2.8?classifier=sources
 - pkg:maven/land.oras/oras-java-sdk@0.2.9?classifier=sources
+- pkg:maven/land.oras/oras-java-sdk@0.3.0?classifier=sources

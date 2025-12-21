@@ -71,3 +71,4 @@
 - pkg:maven/com.github.vhall.android.base/vhall-module-rtc@2.6.9?type=aar
 - pkg:maven/com.github.vhall.android.base/vhall-module-rtc@2.7.0?classifier=sources
 - pkg:maven/com.github.vhall.android.base/vhall-module-rtc@2.7.0?type=aar
+- pkg:maven/com.github.vhall.android.base/vhall-module-rtc@2.8.0?classifier=sources

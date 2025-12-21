@@ -105,3 +105,7 @@
 - pkg:maven/org.mvnpm.at.tanstack/query-core@5.90.1?classifier=sources
 - pkg:maven/org.mvnpm.at.tanstack/query-core@5.90.2
 - pkg:maven/org.mvnpm.at.tanstack/query-core@5.90.2?classifier=sources
+- pkg:maven/org.mvnpm.at.tanstack/query-core@5.90.3
+- pkg:maven/org.mvnpm.at.tanstack/query-core@5.90.3?classifier=sources
+- pkg:maven/org.mvnpm.at.tanstack/query-core@5.90.5
+- pkg:maven/org.mvnpm.at.tanstack/query-core@5.90.5?classifier=sources

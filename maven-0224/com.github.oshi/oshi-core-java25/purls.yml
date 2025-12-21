@@ -1,1 +1,2 @@
 - pkg:maven/com.github.oshi/oshi-core-java25@6.9.0?classifier=sources
+- pkg:maven/com.github.oshi/oshi-core-java25@6.9.1?classifier=sources

@@ -241,6 +241,7 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.dataformat@25.2.1?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.dataformat@25.2.3?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.dataformat@25.2.7?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.dataformat@25.2.9?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.dataformat@9.0.0.030_Simrel_2019_12_M2
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.dataformat@9.0.0.030_Simrel_2019_12_M2?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.dataformat@9.0.0.031_Simrel_2019_12_M3

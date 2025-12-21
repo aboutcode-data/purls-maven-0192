@@ -38,3 +38,4 @@
 - pkg:maven/org.commonjava.util/path-mapped-pathdb-datastax@2.9?classifier=sources
 - pkg:maven/org.commonjava.util/path-mapped-pathdb-datastax@3.0
 - pkg:maven/org.commonjava.util/path-mapped-pathdb-datastax@3.0?classifier=sources
+- pkg:maven/org.commonjava.util/path-mapped-pathdb-datastax@3.1?classifier=sources

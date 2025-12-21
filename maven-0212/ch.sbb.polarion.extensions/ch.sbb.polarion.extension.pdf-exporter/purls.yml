@@ -1,3 +1,4 @@
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.pdf-exporter@10.0.0?classifier=sources
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.pdf-exporter@5.4.0
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.pdf-exporter@5.4.0?classifier=sources
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.pdf-exporter@5.4.1
@@ -76,3 +77,4 @@
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.pdf-exporter@9.4.1?classifier=sources
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.pdf-exporter@9.4.2?classifier=sources
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.pdf-exporter@9.4.3?classifier=sources
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.pdf-exporter@9.4.4?classifier=sources

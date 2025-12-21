@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.nextcloud/l10n@3.4.0
+- pkg:maven/org.mvnpm.at.nextcloud/l10n@3.4.0?classifier=sources

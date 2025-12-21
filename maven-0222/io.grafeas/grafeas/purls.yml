@@ -268,6 +268,12 @@
 - pkg:maven/io.grafeas/grafeas@2.75.0?classifier=sources
 - pkg:maven/io.grafeas/grafeas@2.76.0
 - pkg:maven/io.grafeas/grafeas@2.76.0?classifier=sources
+- pkg:maven/io.grafeas/grafeas@2.77.0
+- pkg:maven/io.grafeas/grafeas@2.77.0?classifier=sources
+- pkg:maven/io.grafeas/grafeas@2.78.0
+- pkg:maven/io.grafeas/grafeas@2.78.0?classifier=sources
+- pkg:maven/io.grafeas/grafeas@2.79.0
+- pkg:maven/io.grafeas/grafeas@2.79.0?classifier=sources
 - pkg:maven/io.grafeas/grafeas@2.8.0
 - pkg:maven/io.grafeas/grafeas@2.8.0?classifier=sources
 - pkg:maven/io.grafeas/grafeas@2.9.0

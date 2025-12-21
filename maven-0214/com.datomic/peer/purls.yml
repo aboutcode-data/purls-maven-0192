@@ -13,3 +13,5 @@
 - pkg:maven/com.datomic/peer@1.0.7393
 - pkg:maven/com.datomic/peer@1.0.7394
 - pkg:maven/com.datomic/peer@1.0.7394?classifier=sources
+- pkg:maven/com.datomic/peer@1.0.7469
+- pkg:maven/com.datomic/peer@1.0.7469?classifier=sources

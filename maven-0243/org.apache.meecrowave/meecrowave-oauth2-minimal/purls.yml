@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.meecrowave/meecrowave-oauth2-minimal@1.2.14?classifier=sources
 - pkg:maven/org.apache.meecrowave/meecrowave-oauth2-minimal@1.2.15
 - pkg:maven/org.apache.meecrowave/meecrowave-oauth2-minimal@1.2.15?classifier=sources
+- pkg:maven/org.apache.meecrowave/meecrowave-oauth2-minimal@2.0.0
+- pkg:maven/org.apache.meecrowave/meecrowave-oauth2-minimal@2.0.0?classifier=sources

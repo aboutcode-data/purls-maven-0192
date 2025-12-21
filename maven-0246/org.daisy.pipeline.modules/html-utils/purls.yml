@@ -43,3 +43,4 @@
 - pkg:maven/org.daisy.pipeline.modules/html-utils@6.4.2
 - pkg:maven/org.daisy.pipeline.modules/html-utils@6.4.2?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules/html-utils@6.4.3?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/html-utils@6.5.0?classifier=sources

@@ -57,3 +57,5 @@
 - pkg:maven/org.seleniumhq.selenium/selenium-os@4.34.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-os@4.35.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-os@4.36.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-os@4.37.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-os@4.38.0?classifier=sources

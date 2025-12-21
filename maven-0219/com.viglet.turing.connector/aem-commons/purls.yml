@@ -1,2 +1,4 @@
 - pkg:maven/com.viglet.turing.connector/aem-commons@2025.3.58?classifier=sources
 - pkg:maven/com.viglet.turing.connector/aem-commons@2025.3.61?classifier=sources
+- pkg:maven/com.viglet.turing.connector/aem-commons@2025.3.64?classifier=sources
+- pkg:maven/com.viglet.turing.connector/aem-commons@2025.3.65?classifier=sources

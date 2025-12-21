@@ -2,3 +2,4 @@
 - pkg:maven/com.alachisoft/nc-metricserver@5.3.3?classifier=sources
 - pkg:maven/com.alachisoft/nc-metricserver@5.3.5
 - pkg:maven/com.alachisoft/nc-metricserver@5.3.5?classifier=sources
+- pkg:maven/com.alachisoft/nc-metricserver@5.3.6?classifier=sources

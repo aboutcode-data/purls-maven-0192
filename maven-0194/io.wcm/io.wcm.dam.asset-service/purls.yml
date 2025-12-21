@@ -10,3 +10,4 @@
 - pkg:maven/io.wcm/io.wcm.dam.asset-service@1.4.0?classifier=sources
 - pkg:maven/io.wcm/io.wcm.dam.asset-service@1.5.0
 - pkg:maven/io.wcm/io.wcm.dam.asset-service@1.5.0?classifier=sources
+- pkg:maven/io.wcm/io.wcm.dam.asset-service@1.6.0?classifier=sources

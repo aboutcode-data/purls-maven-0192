@@ -82,6 +82,7 @@
 - pkg:maven/com.hivemq/hivemq-extension-sdk@4.42.0?classifier=sources
 - pkg:maven/com.hivemq/hivemq-extension-sdk@4.43.0?classifier=sources
 - pkg:maven/com.hivemq/hivemq-extension-sdk@4.44.0?classifier=sources
+- pkg:maven/com.hivemq/hivemq-extension-sdk@4.45.0?classifier=sources
 - pkg:maven/com.hivemq/hivemq-extension-sdk@4.5.0
 - pkg:maven/com.hivemq/hivemq-extension-sdk@4.5.0?classifier=sources
 - pkg:maven/com.hivemq/hivemq-extension-sdk@4.5.1

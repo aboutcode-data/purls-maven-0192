@@ -70,3 +70,4 @@
 - pkg:maven/com.thesamet.scalapb/protoc-gen-scala@0.9.8
 - pkg:maven/com.thesamet.scalapb/protoc-gen-scala@1.0.0-alpha.1
 - pkg:maven/com.thesamet.scalapb/protoc-gen-scala@1.0.0-alpha.2
+- pkg:maven/com.thesamet.scalapb/protoc-gen-scala@1.0.0-alpha.3
