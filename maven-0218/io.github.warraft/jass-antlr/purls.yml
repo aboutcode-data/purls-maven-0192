@@ -1,0 +1,3 @@
+- pkg:maven/io.github.warraft/jass-antlr@0.0.20?classifier=sources
+- pkg:maven/io.github.warraft/jass-antlr@0.0.21?classifier=sources
+- pkg:maven/io.github.warraft/jass-antlr@0.0.24?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.sap.cp.cf.div/div-java-client@3.3.0?classifier=sources
 - pkg:maven/com.sap.cp.cf.div/div-java-client@3.4.1
 - pkg:maven/com.sap.cp.cf.div/div-java-client@3.4.1?classifier=sources
+- pkg:maven/com.sap.cp.cf.div/div-java-client@3.6.1
+- pkg:maven/com.sap.cp.cf.div/div-java-client@3.6.1?classifier=sources

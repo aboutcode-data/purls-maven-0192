@@ -150,3 +150,4 @@
 - pkg:maven/org.craftercms/crafter-commons-upgrade-manager@4.2.0
 - pkg:maven/org.craftercms/crafter-commons-upgrade-manager@4.2.1
 - pkg:maven/org.craftercms/crafter-commons-upgrade-manager@4.2.2
+- pkg:maven/org.craftercms/crafter-commons-upgrade-manager@4.3.0

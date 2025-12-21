@@ -75,3 +75,4 @@
 - pkg:maven/io.zipkin/zipkin-lens@3.4.2
 - pkg:maven/io.zipkin/zipkin-lens@3.4.3
 - pkg:maven/io.zipkin/zipkin-lens@3.4.4
+- pkg:maven/io.zipkin/zipkin-lens@3.5.0

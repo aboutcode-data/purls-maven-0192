@@ -1,0 +1,2 @@
+- pkg:maven/com.aerospike/spring-boot-starter-aerospike@0.17.0
+- pkg:maven/com.aerospike/spring-boot-starter-aerospike@0.17.0?classifier=sources

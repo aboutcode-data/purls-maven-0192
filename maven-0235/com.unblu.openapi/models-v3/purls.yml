@@ -40,3 +40,4 @@
 - pkg:maven/com.unblu.openapi/models-v3@7.52.2?classifier=sources
 - pkg:maven/com.unblu.openapi/models-v3@7.53.2?classifier=sources
 - pkg:maven/com.unblu.openapi/models-v3@7.53.4?classifier=sources
+- pkg:maven/com.unblu.openapi/models-v3@7.54.1?classifier=sources

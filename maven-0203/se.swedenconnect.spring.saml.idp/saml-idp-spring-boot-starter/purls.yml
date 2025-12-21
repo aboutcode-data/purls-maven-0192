@@ -19,3 +19,6 @@
 - pkg:maven/se.swedenconnect.spring.saml.idp/saml-idp-spring-boot-starter@2.3.0
 - pkg:maven/se.swedenconnect.spring.saml.idp/saml-idp-spring-boot-starter@2.3.1
 - pkg:maven/se.swedenconnect.spring.saml.idp/saml-idp-spring-boot-starter@2.3.2
+- pkg:maven/se.swedenconnect.spring.saml.idp/saml-idp-spring-boot-starter@2.3.3
+- pkg:maven/se.swedenconnect.spring.saml.idp/saml-idp-spring-boot-starter@2.3.4
+- pkg:maven/se.swedenconnect.spring.saml.idp/saml-idp-spring-boot-starter@2.3.5

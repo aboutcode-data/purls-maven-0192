@@ -1,4 +1,5 @@
 - pkg:maven/com.tencent.edu/TCICSDK_LITE@1.8.10?classifier=sources
+- pkg:maven/com.tencent.edu/TCICSDK_LITE@1.8.11?classifier=sources
 - pkg:maven/com.tencent.edu/TCICSDK_LITE@1.8.7?classifier=sources
 - pkg:maven/com.tencent.edu/TCICSDK_LITE@1.8.8?classifier=sources
 - pkg:maven/com.tencent.edu/TCICSDK_LITE@1.8.9?classifier=sources

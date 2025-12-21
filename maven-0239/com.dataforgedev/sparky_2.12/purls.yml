@@ -1,0 +1,2 @@
+- pkg:maven/com.dataforgedev/sparky_2.12@8.2.0-alpha.17
+- pkg:maven/com.dataforgedev/sparky_2.12@8.2.0-alpha.17?classifier=sources

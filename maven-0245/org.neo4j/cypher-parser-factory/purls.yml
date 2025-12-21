@@ -1,3 +1,5 @@
+- pkg:maven/org.neo4j/cypher-parser-factory@2025.01.0
+- pkg:maven/org.neo4j/cypher-parser-factory@2025.01.0?classifier=sources
 - pkg:maven/org.neo4j/cypher-parser-factory@5.22.0
 - pkg:maven/org.neo4j/cypher-parser-factory@5.22.0?classifier=sources
 - pkg:maven/org.neo4j/cypher-parser-factory@5.23.0
@@ -14,3 +16,5 @@
 - pkg:maven/org.neo4j/cypher-parser-factory@5.26.0?classifier=sources
 - pkg:maven/org.neo4j/cypher-parser-factory@5.26.1
 - pkg:maven/org.neo4j/cypher-parser-factory@5.26.1?classifier=sources
+- pkg:maven/org.neo4j/cypher-parser-factory@5.26.2
+- pkg:maven/org.neo4j/cypher-parser-factory@5.26.2?classifier=sources

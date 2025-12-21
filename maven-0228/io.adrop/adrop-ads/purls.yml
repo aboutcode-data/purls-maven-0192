@@ -40,3 +40,12 @@
 - pkg:maven/io.adrop/adrop-ads@1.0.2?classifier=sources
 - pkg:maven/io.adrop/adrop-ads@1.1.0?classifier=sources
 - pkg:maven/io.adrop/adrop-ads@1.1.1?classifier=sources
+- pkg:maven/io.adrop/adrop-ads@1.1.2?classifier=sources
+- pkg:maven/io.adrop/adrop-ads@1.1.4-zing.0?classifier=sources
+- pkg:maven/io.adrop/adrop-ads@1.1.4-zing.1?classifier=sources
+- pkg:maven/io.adrop/adrop-ads@1.1.4-zing.2?classifier=sources
+- pkg:maven/io.adrop/adrop-ads@1.1.4-zing.3?classifier=sources
+- pkg:maven/io.adrop/adrop-ads@1.1.4-zing.4?classifier=sources
+- pkg:maven/io.adrop/adrop-ads@1.1.4?classifier=sources
+- pkg:maven/io.adrop/adrop-ads@1.2.0-alpha.mmtalk.1?classifier=sources
+- pkg:maven/io.adrop/adrop-ads@1.2.0-alpha.mmtalk?classifier=sources

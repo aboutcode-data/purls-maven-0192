@@ -38,5 +38,9 @@
 - pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-catalog@1.7.0?classifier=sources
 - pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-catalog@1.8.0
 - pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-catalog@1.8.0?classifier=sources
+- pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-catalog@1.9.1
+- pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-catalog@1.9.1?classifier=sources
+- pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-catalog@1.9.2
+- pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-catalog@1.9.2?classifier=sources
 - pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-catalog@v1.0.0-RC1
 - pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-catalog@v1.0.0-RC1?classifier=sources

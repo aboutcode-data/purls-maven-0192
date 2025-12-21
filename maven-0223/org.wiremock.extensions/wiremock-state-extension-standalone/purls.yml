@@ -9,4 +9,5 @@
 - pkg:maven/org.wiremock.extensions/wiremock-state-extension-standalone@0.6.4?classifier=sources
 - pkg:maven/org.wiremock.extensions/wiremock-state-extension-standalone@0.7.0?classifier=sources
 - pkg:maven/org.wiremock.extensions/wiremock-state-extension-standalone@0.8.0?classifier=sources
+- pkg:maven/org.wiremock.extensions/wiremock-state-extension-standalone@0.8.2?classifier=sources
 - pkg:maven/org.wiremock.extensions/wiremock-state-extension-standalone@next?classifier=sources

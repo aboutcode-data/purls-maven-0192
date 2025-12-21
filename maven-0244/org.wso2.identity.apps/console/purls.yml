@@ -7360,3 +7360,13 @@
 - pkg:maven/org.wso2.identity.apps/console@2.37.8?type=war
 - pkg:maven/org.wso2.identity.apps/console@2.37.9?classifier=sources
 - pkg:maven/org.wso2.identity.apps/console@2.37.9?type=war
+- pkg:maven/org.wso2.identity.apps/console@2.41.28?classifier=sources
+- pkg:maven/org.wso2.identity.apps/console@2.41.28?type=war
+- pkg:maven/org.wso2.identity.apps/console@2.41.29?classifier=sources
+- pkg:maven/org.wso2.identity.apps/console@2.41.29?type=war
+- pkg:maven/org.wso2.identity.apps/console@2.41.30?classifier=sources
+- pkg:maven/org.wso2.identity.apps/console@2.41.30?type=war
+- pkg:maven/org.wso2.identity.apps/console@2.41.31?classifier=sources
+- pkg:maven/org.wso2.identity.apps/console@2.41.31?type=war
+- pkg:maven/org.wso2.identity.apps/console@2.41.32?classifier=sources
+- pkg:maven/org.wso2.identity.apps/console@2.41.32?type=war

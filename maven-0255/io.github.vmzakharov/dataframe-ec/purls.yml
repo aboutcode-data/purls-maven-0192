@@ -98,3 +98,5 @@
 - pkg:maven/io.github.vmzakharov/dataframe-ec@1.1.0?classifier=sources
 - pkg:maven/io.github.vmzakharov/dataframe-ec@1.2.0
 - pkg:maven/io.github.vmzakharov/dataframe-ec@1.2.0?classifier=sources
+- pkg:maven/io.github.vmzakharov/dataframe-ec@1.3.0
+- pkg:maven/io.github.vmzakharov/dataframe-ec@1.3.0?classifier=sources

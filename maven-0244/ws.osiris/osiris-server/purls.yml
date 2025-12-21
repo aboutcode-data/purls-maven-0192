@@ -24,4 +24,6 @@
 - pkg:maven/ws.osiris/osiris-server@1.5.3
 - pkg:maven/ws.osiris/osiris-server@1.6.0
 - pkg:maven/ws.osiris/osiris-server@1.6.1
+- pkg:maven/ws.osiris/osiris-server@1.6.3
+- pkg:maven/ws.osiris/osiris-server@1.6.4
 - pkg:maven/ws.osiris/osiris-server@2.0.0

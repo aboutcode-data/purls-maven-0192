@@ -422,3 +422,15 @@
 - pkg:maven/io.airlift/bootstrap@295?classifier=sources
 - pkg:maven/io.airlift/bootstrap@296?classifier=sources
 - pkg:maven/io.airlift/bootstrap@297?classifier=sources
+- pkg:maven/io.airlift/bootstrap@298?classifier=sources
+- pkg:maven/io.airlift/bootstrap@299?classifier=sources
+- pkg:maven/io.airlift/bootstrap@300?classifier=sources
+- pkg:maven/io.airlift/bootstrap@301?classifier=sources
+- pkg:maven/io.airlift/bootstrap@302?classifier=sources
+- pkg:maven/io.airlift/bootstrap@303?classifier=sources
+- pkg:maven/io.airlift/bootstrap@304?classifier=sources
+- pkg:maven/io.airlift/bootstrap@305?classifier=sources
+- pkg:maven/io.airlift/bootstrap@306?classifier=sources
+- pkg:maven/io.airlift/bootstrap@307?classifier=sources
+- pkg:maven/io.airlift/bootstrap@308?classifier=sources
+- pkg:maven/io.airlift/bootstrap@309?classifier=sources

@@ -165,3 +165,4 @@
 - pkg:maven/com.github.hughwick/toolbox-cache@2.7.8?classifier=sources
 - pkg:maven/com.github.hughwick/toolbox-cache@2.7.9
 - pkg:maven/com.github.hughwick/toolbox-cache@2.7.9?classifier=sources
+- pkg:maven/com.github.hughwick/toolbox-cache@2.8.0?classifier=sources

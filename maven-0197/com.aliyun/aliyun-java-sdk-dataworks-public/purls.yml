@@ -258,3 +258,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-dataworks-public@5.1.9?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-dataworks-public@6.1.7
 - pkg:maven/com.aliyun/aliyun-java-sdk-dataworks-public@6.1.7?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-dataworks-public@6.1.8
+- pkg:maven/com.aliyun/aliyun-java-sdk-dataworks-public@6.1.8?classifier=sources

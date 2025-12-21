@@ -88,3 +88,9 @@
 - pkg:maven/io.trino/trino-grammar@467?classifier=sources
 - pkg:maven/io.trino/trino-grammar@468
 - pkg:maven/io.trino/trino-grammar@468?classifier=sources
+- pkg:maven/io.trino/trino-grammar@469
+- pkg:maven/io.trino/trino-grammar@469?classifier=sources
+- pkg:maven/io.trino/trino-grammar@470
+- pkg:maven/io.trino/trino-grammar@470?classifier=sources
+- pkg:maven/io.trino/trino-grammar@471
+- pkg:maven/io.trino/trino-grammar@471?classifier=sources

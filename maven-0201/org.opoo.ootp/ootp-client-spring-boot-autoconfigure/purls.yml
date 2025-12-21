@@ -36,3 +36,5 @@
 - pkg:maven/org.opoo.ootp/ootp-client-spring-boot-autoconfigure@1.6.4?classifier=sources
 - pkg:maven/org.opoo.ootp/ootp-client-spring-boot-autoconfigure@1.7.0
 - pkg:maven/org.opoo.ootp/ootp-client-spring-boot-autoconfigure@1.7.0?classifier=sources
+- pkg:maven/org.opoo.ootp/ootp-client-spring-boot-autoconfigure@1.7.1
+- pkg:maven/org.opoo.ootp/ootp-client-spring-boot-autoconfigure@1.7.1?classifier=sources

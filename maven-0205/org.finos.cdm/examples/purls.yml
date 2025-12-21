@@ -172,3 +172,6 @@
 - pkg:maven/org.finos.cdm/examples@6.0.0-dev.95?classifier=sources
 - pkg:maven/org.finos.cdm/examples@6.0.0-dev.96?classifier=sources
 - pkg:maven/org.finos.cdm/examples@6.0.0-dev.9?classifier=sources
+- pkg:maven/org.finos.cdm/examples@6.0.0?classifier=sources
+- pkg:maven/org.finos.cdm/examples@6.1.0?classifier=sources
+- pkg:maven/org.finos.cdm/examples@7.0.0-dev.1?classifier=sources

@@ -12,6 +12,8 @@
 - pkg:maven/org.wicketstuff/jqplot4java@10.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/jqplot4java@10.3.0
 - pkg:maven/org.wicketstuff/jqplot4java@10.3.0?classifier=sources
+- pkg:maven/org.wicketstuff/jqplot4java@10.4.0
+- pkg:maven/org.wicketstuff/jqplot4java@10.4.0?classifier=sources
 - pkg:maven/org.wicketstuff/jqplot4java@8.1.0
 - pkg:maven/org.wicketstuff/jqplot4java@8.1.0?classifier=sources
 - pkg:maven/org.wicketstuff/jqplot4java@8.10.0
@@ -28,6 +30,8 @@
 - pkg:maven/org.wicketstuff/jqplot4java@8.15.0?classifier=sources
 - pkg:maven/org.wicketstuff/jqplot4java@8.16.0
 - pkg:maven/org.wicketstuff/jqplot4java@8.16.0?classifier=sources
+- pkg:maven/org.wicketstuff/jqplot4java@8.17.0
+- pkg:maven/org.wicketstuff/jqplot4java@8.17.0?classifier=sources
 - pkg:maven/org.wicketstuff/jqplot4java@8.2.0
 - pkg:maven/org.wicketstuff/jqplot4java@8.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/jqplot4java@8.3.0
@@ -84,6 +88,8 @@
 - pkg:maven/org.wicketstuff/jqplot4java@9.19.0?classifier=sources
 - pkg:maven/org.wicketstuff/jqplot4java@9.2.0
 - pkg:maven/org.wicketstuff/jqplot4java@9.2.0?classifier=sources
+- pkg:maven/org.wicketstuff/jqplot4java@9.20.0
+- pkg:maven/org.wicketstuff/jqplot4java@9.20.0?classifier=sources
 - pkg:maven/org.wicketstuff/jqplot4java@9.3.0
 - pkg:maven/org.wicketstuff/jqplot4java@9.3.0?classifier=sources
 - pkg:maven/org.wicketstuff/jqplot4java@9.4.0

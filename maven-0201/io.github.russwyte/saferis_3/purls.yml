@@ -1,0 +1,6 @@
+- pkg:maven/io.github.russwyte/saferis_3@0.0.0
+- pkg:maven/io.github.russwyte/saferis_3@0.0.0%2B0-c9e725c9%2B20250219-1238
+- pkg:maven/io.github.russwyte/saferis_3@0.0.0%2B0-c9e725c9%2B20250219-1238?classifier=sources
+- pkg:maven/io.github.russwyte/saferis_3@0.0.0?classifier=sources
+- pkg:maven/io.github.russwyte/saferis_3@0.0.1
+- pkg:maven/io.github.russwyte/saferis_3@0.0.1?classifier=sources

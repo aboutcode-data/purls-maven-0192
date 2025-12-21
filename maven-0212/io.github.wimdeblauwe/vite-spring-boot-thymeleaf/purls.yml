@@ -8,3 +8,7 @@
 - pkg:maven/io.github.wimdeblauwe/vite-spring-boot-thymeleaf@0.4.0?classifier=sources
 - pkg:maven/io.github.wimdeblauwe/vite-spring-boot-thymeleaf@0.5.0
 - pkg:maven/io.github.wimdeblauwe/vite-spring-boot-thymeleaf@0.5.0?classifier=sources
+- pkg:maven/io.github.wimdeblauwe/vite-spring-boot-thymeleaf@0.6.0
+- pkg:maven/io.github.wimdeblauwe/vite-spring-boot-thymeleaf@0.6.0?classifier=sources
+- pkg:maven/io.github.wimdeblauwe/vite-spring-boot-thymeleaf@0.7.0
+- pkg:maven/io.github.wimdeblauwe/vite-spring-boot-thymeleaf@0.7.0?classifier=sources

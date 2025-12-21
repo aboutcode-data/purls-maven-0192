@@ -650,6 +650,9 @@
 - pkg:maven/com.tencent.tav/libpag@4.3.6?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@4.3.7-harfbuzz?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@4.3.7-noffavc?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@4.3.71-harfbuzz?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@4.3.71-noffavc?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@4.3.71?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@4.3.7?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@4.3.8-harfbuzz?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@4.3.8-noffavc?classifier=sources
@@ -666,6 +669,12 @@
 - pkg:maven/com.tencent.tav/libpag@4.4.20-harfbuzz?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@4.4.20-noffavc?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@4.4.20?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@4.4.24-harfbuzz?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@4.4.24-noffavc?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@4.4.24?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@4.4.25-harfbuzz?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@4.4.25-noffavc?classifier=sources
+- pkg:maven/com.tencent.tav/libpag@4.4.25?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@4.4.8-harfbuzz?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@4.4.8-noffavc?classifier=sources
 - pkg:maven/com.tencent.tav/libpag@4.4.8?classifier=sources

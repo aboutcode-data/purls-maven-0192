@@ -19,6 +19,7 @@
 - pkg:maven/com.netease.yunxin/nertc-full@4.2.179?type=aar
 - pkg:maven/com.netease.yunxin/nertc-full@4.2.180?type=aar
 - pkg:maven/com.netease.yunxin/nertc-full@4.2.182?type=aar
+- pkg:maven/com.netease.yunxin/nertc-full@4.2.183?type=aar
 - pkg:maven/com.netease.yunxin/nertc-full@4.6.101?type=aar
 - pkg:maven/com.netease.yunxin/nertc-full@4.6.10?type=aar
 - pkg:maven/com.netease.yunxin/nertc-full@4.6.120?type=aar

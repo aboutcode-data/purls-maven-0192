@@ -1,1 +1,2 @@
 - pkg:maven/com.codeborne/selenide-moon@7.7.0?classifier=sources
+- pkg:maven/com.codeborne/selenide-moon@7.7.1?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/com.optimetriks.unio.compose/pickers@36?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/pickers@40?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/pickers@46?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/pickers@68?classifier=sources

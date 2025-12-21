@@ -12,6 +12,7 @@
 - pkg:maven/io.quarkiverse.unleash/quarkus-unleash-test@1.0.1?classifier=sources
 - pkg:maven/io.quarkiverse.unleash/quarkus-unleash-test@1.1.0
 - pkg:maven/io.quarkiverse.unleash/quarkus-unleash-test@1.1.0?classifier=sources
+- pkg:maven/io.quarkiverse.unleash/quarkus-unleash-test@1.10.0?classifier=sources
 - pkg:maven/io.quarkiverse.unleash/quarkus-unleash-test@1.2.0
 - pkg:maven/io.quarkiverse.unleash/quarkus-unleash-test@1.2.0?classifier=sources
 - pkg:maven/io.quarkiverse.unleash/quarkus-unleash-test@1.3.0
@@ -25,3 +26,4 @@
 - pkg:maven/io.quarkiverse.unleash/quarkus-unleash-test@1.7.0
 - pkg:maven/io.quarkiverse.unleash/quarkus-unleash-test@1.7.0?classifier=sources
 - pkg:maven/io.quarkiverse.unleash/quarkus-unleash-test@1.8.0?classifier=sources
+- pkg:maven/io.quarkiverse.unleash/quarkus-unleash-test@1.9.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.kroxylicious/kroxylicious-kms-provider-fortanix-dsm@0.10.0
+- pkg:maven/io.kroxylicious/kroxylicious-kms-provider-fortanix-dsm@0.10.0?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/net.jsign/jsign-ant@6.0?classifier=sources
 - pkg:maven/net.jsign/jsign-ant@7.0
 - pkg:maven/net.jsign/jsign-ant@7.0?classifier=sources
+- pkg:maven/net.jsign/jsign-ant@7.1
+- pkg:maven/net.jsign/jsign-ant@7.1?classifier=sources

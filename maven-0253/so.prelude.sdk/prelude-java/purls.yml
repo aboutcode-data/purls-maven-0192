@@ -1,1 +1,2 @@
 - pkg:maven/so.prelude.sdk/prelude-java@0.1.0-beta.3?classifier=sources
+- pkg:maven/so.prelude.sdk/prelude-java@0.1.0?classifier=sources

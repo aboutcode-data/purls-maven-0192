@@ -24,4 +24,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-editor-base@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-editor-base@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-editor-base@RELEASE240?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-editor-base@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-editor-base@RELEASE90?classifier=sources

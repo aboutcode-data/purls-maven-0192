@@ -50,6 +50,7 @@
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@09112023.a42051b
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@09112023.bf8eaf9
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@09112023.d1e6333
+- pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@10022025.b6cc4e3
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@10042024.3816add
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@10042024.b1887e0
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@10082023.366d334
@@ -68,6 +69,9 @@
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@12102023.c90582a
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@12122023.262f23b
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@13022024.dbaaf79
+- pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@13022025.7ec6ab8
+- pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@13022025.bbbfce8
+- pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@13022025.e4efb2a
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@13082024.149fd3a
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@13092023.364fce2
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@13092023.f5c087c
@@ -84,12 +88,15 @@
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@15112024.e51ff1f
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@16042024.d56562f
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@16122024.194fdac
+- pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@17022025.01cad54
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@17092024.cdcf544
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@17102023.c1096fe
+- pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@18022025.b9ee7f3
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@18092024.394bb17
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@18092024.cb232df
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@18092024.ed79b9c
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@18102023.84f0299
+- pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@19022025.3c7654b
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@19092023.1cc0f0f
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@19092024.0c0807a
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@19112024.98a84a7
@@ -131,6 +138,8 @@
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@28102024.cc6a5d3
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@28112024.21bb619
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@29012024.c41ed69
+- pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@29012025.78d08e0
+- pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@29012025.c5d49e7
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@29052024.70b5a6a
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@29082023.7dd8a4e
 - pkg:maven/io.github.domstolene.esas/kjennelsevaretektpoliti@29082023.b2627a2

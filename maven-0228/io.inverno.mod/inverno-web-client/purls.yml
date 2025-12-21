@@ -1,0 +1,4 @@
+- pkg:maven/io.inverno.mod/inverno-web-client@1.12.0
+- pkg:maven/io.inverno.mod/inverno-web-client@1.12.0?classifier=sources
+- pkg:maven/io.inverno.mod/inverno-web-client@1.12.1
+- pkg:maven/io.inverno.mod/inverno-web-client@1.12.1?classifier=sources

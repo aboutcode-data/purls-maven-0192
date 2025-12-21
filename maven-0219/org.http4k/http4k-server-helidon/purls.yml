@@ -100,6 +100,8 @@
 - pkg:maven/org.http4k/http4k-server-helidon@5.45.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-server-helidon@5.45.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-server-helidon@5.45.2.0?classifier=sources
+- pkg:maven/org.http4k/http4k-server-helidon@5.46.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-server-helidon@5.47.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-server-helidon@5.5.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-server-helidon@5.6.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-server-helidon@5.6.1.0?classifier=sources
@@ -122,3 +124,5 @@
 - pkg:maven/org.http4k/http4k-server-helidon@5.8.5.1?classifier=sources
 - pkg:maven/org.http4k/http4k-server-helidon@5.8.6.0?classifier=sources
 - pkg:maven/org.http4k/http4k-server-helidon@5.9.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-server-helidon@6.0.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-server-helidon@6.0.1.0?classifier=sources

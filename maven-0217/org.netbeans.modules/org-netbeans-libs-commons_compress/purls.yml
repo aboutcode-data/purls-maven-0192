@@ -24,4 +24,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-commons_compress@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-commons_compress@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-commons_compress@RELEASE240?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-commons_compress@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-commons_compress@RELEASE90?classifier=sources

@@ -15,3 +15,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-lsp-server@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-lsp-server@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-lsp-server@RELEASE240?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-java-lsp-server@RELEASE250?classifier=sources

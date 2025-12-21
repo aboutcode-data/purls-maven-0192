@@ -9,3 +9,4 @@
 - pkg:maven/org.apache.streampipes/streampipes-archetype-pe-sinks-flink@0.93.0?classifier=sources
 - pkg:maven/org.apache.streampipes/streampipes-archetype-pe-sinks-flink@0.95.0?classifier=sources
 - pkg:maven/org.apache.streampipes/streampipes-archetype-pe-sinks-flink@0.95.1?classifier=sources
+- pkg:maven/org.apache.streampipes/streampipes-archetype-pe-sinks-flink@0.97.0?classifier=sources

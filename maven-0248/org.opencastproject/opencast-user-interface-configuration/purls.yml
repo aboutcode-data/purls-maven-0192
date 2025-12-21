@@ -166,6 +166,8 @@
 - pkg:maven/org.opencastproject/opencast-user-interface-configuration@16.7?classifier=sources
 - pkg:maven/org.opencastproject/opencast-user-interface-configuration@16.8
 - pkg:maven/org.opencastproject/opencast-user-interface-configuration@16.8?classifier=sources
+- pkg:maven/org.opencastproject/opencast-user-interface-configuration@16.9
+- pkg:maven/org.opencastproject/opencast-user-interface-configuration@16.9?classifier=sources
 - pkg:maven/org.opencastproject/opencast-user-interface-configuration@7.2
 - pkg:maven/org.opencastproject/opencast-user-interface-configuration@7.2?classifier=sources
 - pkg:maven/org.opencastproject/opencast-user-interface-configuration@7.3

@@ -23,3 +23,4 @@
 - pkg:maven/com.ashampoo/kim-linuxx64@0.20.1?classifier=sources
 - pkg:maven/com.ashampoo/kim-linuxx64@0.20.2?classifier=sources
 - pkg:maven/com.ashampoo/kim-linuxx64@0.20?classifier=sources
+- pkg:maven/com.ashampoo/kim-linuxx64@0.21?classifier=sources
