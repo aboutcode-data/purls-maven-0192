@@ -1,4 +1,6 @@
 - pkg:maven/org.mvnpm.at.vueuse/core@10.11.1
 - pkg:maven/org.mvnpm.at.vueuse/core@10.11.1?classifier=sources
+- pkg:maven/org.mvnpm.at.vueuse/core@11.0.1
+- pkg:maven/org.mvnpm.at.vueuse/core@11.0.1?classifier=sources
 - pkg:maven/org.mvnpm.at.vueuse/core@11.3.0
 - pkg:maven/org.mvnpm.at.vueuse/core@11.3.0?classifier=sources

@@ -17,6 +17,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-nashorn@10.5.0
 - pkg:maven/org.wicketstuff/wicketstuff-nashorn@10.5.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-nashorn@10.6.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-nashorn@10.7.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-nashorn@7.10.0
 - pkg:maven/org.wicketstuff/wicketstuff-nashorn@7.10.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-nashorn@7.11.0

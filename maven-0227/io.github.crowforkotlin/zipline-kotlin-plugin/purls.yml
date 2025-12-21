@@ -1,0 +1,2 @@
+- pkg:maven/io.github.crowforkotlin/zipline-kotlin-plugin@1.23.0?classifier=sources
+- pkg:maven/io.github.crowforkotlin/zipline-kotlin-plugin@1.23.1?classifier=sources

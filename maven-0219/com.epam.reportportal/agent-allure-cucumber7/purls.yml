@@ -1,1 +1,4 @@
 - pkg:maven/com.epam.reportportal/agent-allure-cucumber7@5.3.0?classifier=sources
+- pkg:maven/com.epam.reportportal/agent-allure-cucumber7@5.3.1?classifier=sources
+- pkg:maven/com.epam.reportportal/agent-allure-cucumber7@5.3.2?classifier=sources
+- pkg:maven/com.epam.reportportal/agent-allure-cucumber7@5.4.0?classifier=sources

@@ -3,3 +3,4 @@
 - pkg:maven/nl.mirila.scheduling/mirila-scheduling-dbs@2.3.1
 - pkg:maven/nl.mirila.scheduling/mirila-scheduling-dbs@2.3.1?classifier=sources
 - pkg:maven/nl.mirila.scheduling/mirila-scheduling-dbs@3.0.0?classifier=sources
+- pkg:maven/nl.mirila.scheduling/mirila-scheduling-dbs@3.1.0?classifier=sources

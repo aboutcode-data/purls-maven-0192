@@ -6,3 +6,4 @@
 - pkg:maven/org.apache.pig/pigunit@0.15.0
 - pkg:maven/org.apache.pig/pigunit@0.16.0
 - pkg:maven/org.apache.pig/pigunit@0.17.0
+- pkg:maven/org.apache.pig/pigunit@0.18.0

@@ -1,0 +1,4 @@
+- pkg:maven/dev.alteration/branch_3@0.0.10
+- pkg:maven/dev.alteration/branch_3@0.0.10?classifier=sources
+- pkg:maven/dev.alteration/branch_3@0.0.11
+- pkg:maven/dev.alteration/branch_3@0.0.11?classifier=sources

@@ -1,1 +1,7 @@
 - pkg:maven/cz.cybersecurityhub.maven/crczp-elasticsearch-documents@1.0.1?classifier=sources
+- pkg:maven/cz.cybersecurityhub.maven/crczp-elasticsearch-documents@1.2.0?classifier=sources
+- pkg:maven/cz.cybersecurityhub.maven/crczp-elasticsearch-documents@v1.0.1-dev?classifier=sources
+- pkg:maven/cz.cybersecurityhub.maven/crczp-elasticsearch-documents@v1.2.0-dev-65df6d5?classifier=sources
+- pkg:maven/cz.cybersecurityhub.maven/crczp-elasticsearch-documents@v1.2.0-dev-949999bd56b4073a9692103a45edbce449bebfa6?classifier=sources
+- pkg:maven/cz.cybersecurityhub.maven/crczp-elasticsearch-documents@v1.2.0-dev?classifier=sources
+- pkg:maven/cz.cybersecurityhub.maven/crczp-elasticsearch-documents@v2.0.0-dev?classifier=sources

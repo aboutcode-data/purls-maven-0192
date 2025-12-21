@@ -60,3 +60,7 @@
 - pkg:maven/org.codehaus.mojo/exec-maven-plugin@3.5.0?classifier=sources
 - pkg:maven/org.codehaus.mojo/exec-maven-plugin@3.5.1?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo/exec-maven-plugin@3.5.1?classifier=sources
+- pkg:maven/org.codehaus.mojo/exec-maven-plugin@3.6.0?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo/exec-maven-plugin@3.6.0?classifier=sources
+- pkg:maven/org.codehaus.mojo/exec-maven-plugin@3.6.1?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo/exec-maven-plugin@3.6.1?classifier=sources

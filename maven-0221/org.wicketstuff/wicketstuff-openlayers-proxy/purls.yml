@@ -49,6 +49,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers-proxy@10.5.0
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers-proxy@10.5.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers-proxy@10.6.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-openlayers-proxy@10.7.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers-proxy@6.0.0
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers-proxy@6.0.0-beta3
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers-proxy@6.0.0-beta3?classifier=sources

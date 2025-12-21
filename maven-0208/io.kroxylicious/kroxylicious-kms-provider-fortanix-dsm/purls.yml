@@ -8,3 +8,4 @@
 - pkg:maven/io.kroxylicious/kroxylicious-kms-provider-fortanix-dsm@0.13.0?classifier=sources
 - pkg:maven/io.kroxylicious/kroxylicious-kms-provider-fortanix-dsm@0.14.0?classifier=sources
 - pkg:maven/io.kroxylicious/kroxylicious-kms-provider-fortanix-dsm@0.15.0?classifier=sources
+- pkg:maven/io.kroxylicious/kroxylicious-kms-provider-fortanix-dsm@0.16.0?classifier=sources

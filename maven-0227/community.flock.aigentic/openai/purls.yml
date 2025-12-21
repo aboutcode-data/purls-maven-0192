@@ -8,3 +8,4 @@
 - pkg:maven/community.flock.aigentic/openai@0.2.0?classifier=sources
 - pkg:maven/community.flock.aigentic/openai@0.3.0?classifier=sources
 - pkg:maven/community.flock.aigentic/openai@0.3?classifier=sources
+- pkg:maven/community.flock.aigentic/openai@0.4.0?classifier=sources

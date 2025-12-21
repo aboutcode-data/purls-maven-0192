@@ -30,3 +30,4 @@
 - pkg:maven/com.grapecitysoft.documents/gcexcel@8.1.5?classifier=sources
 - pkg:maven/com.grapecitysoft.documents/gcexcel@8.2.0?classifier=sources
 - pkg:maven/com.grapecitysoft.documents/gcexcel@8.2.1?classifier=sources
+- pkg:maven/com.grapecitysoft.documents/gcexcel@8.2.2?classifier=sources

@@ -8,6 +8,8 @@
 - pkg:maven/io.gravitee.am.dataplane/gravitee-am-dataplane-mongodb@4.7.12-hotfix.1?classifier=sources
 - pkg:maven/io.gravitee.am.dataplane/gravitee-am-dataplane-mongodb@4.7.12?classifier=sources
 - pkg:maven/io.gravitee.am.dataplane/gravitee-am-dataplane-mongodb@4.7.13?classifier=sources
+- pkg:maven/io.gravitee.am.dataplane/gravitee-am-dataplane-mongodb@4.7.14?classifier=sources
+- pkg:maven/io.gravitee.am.dataplane/gravitee-am-dataplane-mongodb@4.7.15?classifier=sources
 - pkg:maven/io.gravitee.am.dataplane/gravitee-am-dataplane-mongodb@4.7.1?classifier=sources
 - pkg:maven/io.gravitee.am.dataplane/gravitee-am-dataplane-mongodb@4.7.2?classifier=sources
 - pkg:maven/io.gravitee.am.dataplane/gravitee-am-dataplane-mongodb@4.7.3?classifier=sources
@@ -21,4 +23,6 @@
 - pkg:maven/io.gravitee.am.dataplane/gravitee-am-dataplane-mongodb@4.8.4-alpha.1?classifier=sources
 - pkg:maven/io.gravitee.am.dataplane/gravitee-am-dataplane-mongodb@4.8.4?classifier=sources
 - pkg:maven/io.gravitee.am.dataplane/gravitee-am-dataplane-mongodb@4.8.5?classifier=sources
+- pkg:maven/io.gravitee.am.dataplane/gravitee-am-dataplane-mongodb@4.8.6?classifier=sources
+- pkg:maven/io.gravitee.am.dataplane/gravitee-am-dataplane-mongodb@4.8.7?classifier=sources
 - pkg:maven/io.gravitee.am.dataplane/gravitee-am-dataplane-mongodb@4.9.0-alpha.1?classifier=sources

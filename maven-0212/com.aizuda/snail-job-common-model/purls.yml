@@ -5,3 +5,6 @@
 - pkg:maven/com.aizuda/snail-job-common-model@1.7.1-jdk8?classifier=sources
 - pkg:maven/com.aizuda/snail-job-common-model@1.7.1?classifier=sources
 - pkg:maven/com.aizuda/snail-job-common-model@1.7.2?classifier=sources
+- pkg:maven/com.aizuda/snail-job-common-model@1.8.0-beta1?classifier=sources
+- pkg:maven/com.aizuda/snail-job-common-model@1.8.0-jdk8?classifier=sources
+- pkg:maven/com.aizuda/snail-job-common-model@1.8.0?classifier=sources

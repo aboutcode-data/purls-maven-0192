@@ -15,3 +15,4 @@
 - pkg:maven/studio.lunabee.compose/material-color-utilities@1.6.0?classifier=sources
 - pkg:maven/studio.lunabee.compose/material-color-utilities@1.7.0?classifier=sources
 - pkg:maven/studio.lunabee.compose/material-color-utilities@1.8.0?classifier=sources
+- pkg:maven/studio.lunabee.compose/material-color-utilities@1.9.0?classifier=sources

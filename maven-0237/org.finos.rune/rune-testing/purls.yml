@@ -1,0 +1,6 @@
+- pkg:maven/org.finos.rune/rune-testing@9.67.0?classifier=sources
+- pkg:maven/org.finos.rune/rune-testing@9.67.1?classifier=sources
+- pkg:maven/org.finos.rune/rune-testing@9.67.2?classifier=sources
+- pkg:maven/org.finos.rune/rune-testing@9.67.3?classifier=sources
+- pkg:maven/org.finos.rune/rune-testing@9.67.4?classifier=sources
+- pkg:maven/org.finos.rune/rune-testing@9.67.5?classifier=sources

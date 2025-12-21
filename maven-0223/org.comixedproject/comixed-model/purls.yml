@@ -52,3 +52,4 @@
 - pkg:maven/org.comixedproject/comixed-model@2.3.8?classifier=sources
 - pkg:maven/org.comixedproject/comixed-model@2.3.9
 - pkg:maven/org.comixedproject/comixed-model@2.3.9?classifier=sources
+- pkg:maven/org.comixedproject/comixed-model@3.0.0?classifier=sources

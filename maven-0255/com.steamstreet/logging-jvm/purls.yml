@@ -7,3 +7,5 @@
 - pkg:maven/com.steamstreet/logging-jvm@2.1.26?classifier=sources
 - pkg:maven/com.steamstreet/logging-jvm@2.1.27?classifier=sources
 - pkg:maven/com.steamstreet/logging-jvm@2.1.28?classifier=sources
+- pkg:maven/com.steamstreet/logging-jvm@2.2.0?classifier=sources
+- pkg:maven/com.steamstreet/logging-jvm@2.2.1?classifier=sources

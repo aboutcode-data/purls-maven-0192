@@ -22,6 +22,8 @@
 - pkg:maven/org.neo4j/neo4j-kernel-api@2025.07.1?classifier=sources
 - pkg:maven/org.neo4j/neo4j-kernel-api@2025.08.0
 - pkg:maven/org.neo4j/neo4j-kernel-api@2025.08.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-kernel-api@2025.09.0
+- pkg:maven/org.neo4j/neo4j-kernel-api@2025.09.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-kernel-api@3.3.0
 - pkg:maven/org.neo4j/neo4j-kernel-api@3.3.0-alpha07
 - pkg:maven/org.neo4j/neo4j-kernel-api@3.3.0-alpha07?classifier=sources
@@ -439,6 +441,8 @@
 - pkg:maven/org.neo4j/neo4j-kernel-api@4.4.44?classifier=sources
 - pkg:maven/org.neo4j/neo4j-kernel-api@4.4.45
 - pkg:maven/org.neo4j/neo4j-kernel-api@4.4.45?classifier=sources
+- pkg:maven/org.neo4j/neo4j-kernel-api@4.4.46
+- pkg:maven/org.neo4j/neo4j-kernel-api@4.4.46?classifier=sources
 - pkg:maven/org.neo4j/neo4j-kernel-api@4.4.4?classifier=sources
 - pkg:maven/org.neo4j/neo4j-kernel-api@4.4.5
 - pkg:maven/org.neo4j/neo4j-kernel-api@4.4.5?classifier=sources

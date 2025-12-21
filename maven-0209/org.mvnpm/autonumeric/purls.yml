@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/autonumeric@4.10.9
+- pkg:maven/org.mvnpm/autonumeric@4.10.9?classifier=sources

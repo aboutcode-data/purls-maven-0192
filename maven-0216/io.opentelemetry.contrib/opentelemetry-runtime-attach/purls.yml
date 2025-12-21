@@ -41,5 +41,6 @@
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-runtime-attach@1.47.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-runtime-attach@1.48.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-runtime-attach@1.49.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.contrib/opentelemetry-runtime-attach@1.50.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-runtime-attach@1.7.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-runtime-attach@1.9.0-alpha?classifier=sources

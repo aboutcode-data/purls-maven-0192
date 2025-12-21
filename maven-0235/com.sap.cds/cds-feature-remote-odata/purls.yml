@@ -248,3 +248,5 @@
 - pkg:maven/com.sap.cds/cds-feature-remote-odata@4.2.0?classifier=sources
 - pkg:maven/com.sap.cds/cds-feature-remote-odata@4.3.0
 - pkg:maven/com.sap.cds/cds-feature-remote-odata@4.3.0?classifier=sources
+- pkg:maven/com.sap.cds/cds-feature-remote-odata@4.3.1
+- pkg:maven/com.sap.cds/cds-feature-remote-odata@4.3.1?classifier=sources

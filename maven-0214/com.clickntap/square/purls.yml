@@ -62,6 +62,7 @@
 - pkg:maven/com.clickntap/square@0.43?classifier=sources
 - pkg:maven/com.clickntap/square@0.44?classifier=sources
 - pkg:maven/com.clickntap/square@0.45?classifier=sources
+- pkg:maven/com.clickntap/square@0.46?classifier=sources
 - pkg:maven/com.clickntap/square@0.4?classifier=sources
 - pkg:maven/com.clickntap/square@0.5
 - pkg:maven/com.clickntap/square@0.5?classifier=sources

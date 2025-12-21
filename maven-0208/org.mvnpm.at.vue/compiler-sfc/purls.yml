@@ -1,4 +1,20 @@
+- pkg:maven/org.mvnpm.at.vue/compiler-sfc@2.7.10
+- pkg:maven/org.mvnpm.at.vue/compiler-sfc@2.7.10?classifier=sources
+- pkg:maven/org.mvnpm.at.vue/compiler-sfc@2.7.11
+- pkg:maven/org.mvnpm.at.vue/compiler-sfc@2.7.11?classifier=sources
+- pkg:maven/org.mvnpm.at.vue/compiler-sfc@2.7.12
+- pkg:maven/org.mvnpm.at.vue/compiler-sfc@2.7.12?classifier=sources
+- pkg:maven/org.mvnpm.at.vue/compiler-sfc@2.7.15
+- pkg:maven/org.mvnpm.at.vue/compiler-sfc@2.7.15?classifier=sources
 - pkg:maven/org.mvnpm.at.vue/compiler-sfc@2.7.16?classifier=sources
+- pkg:maven/org.mvnpm.at.vue/compiler-sfc@2.7.2
+- pkg:maven/org.mvnpm.at.vue/compiler-sfc@2.7.2?classifier=sources
+- pkg:maven/org.mvnpm.at.vue/compiler-sfc@2.7.3
+- pkg:maven/org.mvnpm.at.vue/compiler-sfc@2.7.3?classifier=sources
+- pkg:maven/org.mvnpm.at.vue/compiler-sfc@2.7.5
+- pkg:maven/org.mvnpm.at.vue/compiler-sfc@2.7.5?classifier=sources
+- pkg:maven/org.mvnpm.at.vue/compiler-sfc@2.7.9
+- pkg:maven/org.mvnpm.at.vue/compiler-sfc@2.7.9?classifier=sources
 - pkg:maven/org.mvnpm.at.vue/compiler-sfc@3.3.11?classifier=sources
 - pkg:maven/org.mvnpm.at.vue/compiler-sfc@3.4.15
 - pkg:maven/org.mvnpm.at.vue/compiler-sfc@3.4.15?classifier=sources
@@ -24,4 +40,6 @@
 - pkg:maven/org.mvnpm.at.vue/compiler-sfc@3.5.20?classifier=sources
 - pkg:maven/org.mvnpm.at.vue/compiler-sfc@3.5.21
 - pkg:maven/org.mvnpm.at.vue/compiler-sfc@3.5.21?classifier=sources
+- pkg:maven/org.mvnpm.at.vue/compiler-sfc@3.5.22
+- pkg:maven/org.mvnpm.at.vue/compiler-sfc@3.5.22?classifier=sources
 - pkg:maven/org.mvnpm.at.vue/compiler-sfc@3.5.8?classifier=sources

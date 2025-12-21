@@ -34,6 +34,8 @@
 - pkg:maven/com.umtone/uw-auth-service@6.1.53?classifier=sources
 - pkg:maven/com.umtone/uw-auth-service@6.1.55?classifier=sources
 - pkg:maven/com.umtone/uw-auth-service@6.1.56?classifier=sources
+- pkg:maven/com.umtone/uw-auth-service@6.1.57?classifier=sources
+- pkg:maven/com.umtone/uw-auth-service@6.1.58?classifier=sources
 - pkg:maven/com.umtone/uw-auth-service@6.1.5?classifier=sources
 - pkg:maven/com.umtone/uw-auth-service@6.1.6?classifier=sources
 - pkg:maven/com.umtone/uw-auth-service@6.1.7?classifier=sources

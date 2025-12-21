@@ -3,4 +3,5 @@
 - pkg:maven/io.opentelemetry.android/services@0.12.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.android/services@0.13.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.android/services@0.14.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.android/services@0.15.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.android/services@0.9.1-alpha?classifier=sources

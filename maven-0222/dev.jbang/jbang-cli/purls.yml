@@ -29,3 +29,6 @@
 - pkg:maven/dev.jbang/jbang-cli@0.128.7?classifier=sources
 - pkg:maven/dev.jbang/jbang-cli@0.129.0?classifier=sources
 - pkg:maven/dev.jbang/jbang-cli@0.130.0?classifier=sources
+- pkg:maven/dev.jbang/jbang-cli@0.131.0?classifier=sources
+- pkg:maven/dev.jbang/jbang-cli@0.132.0?classifier=sources
+- pkg:maven/dev.jbang/jbang-cli@0.132.1?classifier=sources

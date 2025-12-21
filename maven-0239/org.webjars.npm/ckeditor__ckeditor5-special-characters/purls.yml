@@ -9,3 +9,5 @@
 - pkg:maven/org.webjars.npm/ckeditor__ckeditor5-special-characters@40.1.0
 - pkg:maven/org.webjars.npm/ckeditor__ckeditor5-special-characters@40.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/ckeditor__ckeditor5-special-characters@44.1.0
+- pkg:maven/org.webjars.npm/ckeditor__ckeditor5-special-characters@44.3.0
+- pkg:maven/org.webjars.npm/ckeditor__ckeditor5-special-characters@46.1.1

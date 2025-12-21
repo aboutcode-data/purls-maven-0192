@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/cytoscape@3.32.0
 - pkg:maven/org.mvnpm/cytoscape@3.32.0?classifier=sources
+- pkg:maven/org.mvnpm/cytoscape@3.33.1
+- pkg:maven/org.mvnpm/cytoscape@3.33.1?classifier=sources

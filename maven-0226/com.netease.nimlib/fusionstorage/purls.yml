@@ -50,6 +50,8 @@
 - pkg:maven/com.netease.nimlib/fusionstorage@10.9.45?type=aar
 - pkg:maven/com.netease.nimlib/fusionstorage@10.9.50?classifier=sources
 - pkg:maven/com.netease.nimlib/fusionstorage@10.9.50?type=aar
+- pkg:maven/com.netease.nimlib/fusionstorage@10.9.52?classifier=sources
+- pkg:maven/com.netease.nimlib/fusionstorage@10.9.52?type=aar
 - pkg:maven/com.netease.nimlib/fusionstorage@9.16.600?classifier=sources
 - pkg:maven/com.netease.nimlib/fusionstorage@9.16.600?type=aar
 - pkg:maven/com.netease.nimlib/fusionstorage@9.16.700?classifier=sources
@@ -106,5 +108,7 @@
 - pkg:maven/com.netease.nimlib/fusionstorage@9.20.14?type=aar
 - pkg:maven/com.netease.nimlib/fusionstorage@9.20.15?classifier=sources
 - pkg:maven/com.netease.nimlib/fusionstorage@9.20.15?type=aar
+- pkg:maven/com.netease.nimlib/fusionstorage@9.20.16?classifier=sources
+- pkg:maven/com.netease.nimlib/fusionstorage@9.20.16?type=aar
 - pkg:maven/com.netease.nimlib/fusionstorage@9.20.1?classifier=sources
 - pkg:maven/com.netease.nimlib/fusionstorage@9.20.1?type=aar

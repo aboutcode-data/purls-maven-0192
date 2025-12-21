@@ -20,6 +20,7 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-docker@2.10.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-docker@2.11.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-docker@2.11.1?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-docker@2.11.2?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-docker@2.2.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-docker@2.2.1?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-docker@2.3.0?classifier=sources

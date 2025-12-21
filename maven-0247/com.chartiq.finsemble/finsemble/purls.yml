@@ -274,5 +274,7 @@
 - pkg:maven/com.chartiq.finsemble/finsemble@9.9.0?classifier=sources
 - pkg:maven/com.chartiq.finsemble/finsemble@9.9.1-BETA-1?classifier=sources
 - pkg:maven/com.chartiq.finsemble/finsemble@9.9.1?classifier=sources
+- pkg:maven/com.chartiq.finsemble/finsemble@9.9.2-BETA-1?classifier=sources
+- pkg:maven/com.chartiq.finsemble/finsemble@9.9.2?classifier=sources
 - pkg:maven/com.chartiq.finsemble/finsemble@9.9.4-0-BETA.1?classifier=sources
 - pkg:maven/com.chartiq.finsemble/finsemble@9.9.4-BETA-1?classifier=sources

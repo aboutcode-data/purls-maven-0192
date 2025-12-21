@@ -16,3 +16,4 @@
 - pkg:maven/me.chrissw-r1/multi-module-maven-plugin@1.1.6?classifier=sources
 - pkg:maven/me.chrissw-r1/multi-module-maven-plugin@1.1.7
 - pkg:maven/me.chrissw-r1/multi-module-maven-plugin@1.1.7?classifier=sources
+- pkg:maven/me.chrissw-r1/multi-module-maven-plugin@1.2.0?classifier=sources
