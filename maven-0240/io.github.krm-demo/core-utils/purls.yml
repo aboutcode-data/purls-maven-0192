@@ -1,0 +1,4 @@
+- pkg:maven/io.github.krm-demo/core-utils@21.28
+- pkg:maven/io.github.krm-demo/core-utils@21.28.001
+- pkg:maven/io.github.krm-demo/core-utils@21.28.001?classifier=sources
+- pkg:maven/io.github.krm-demo/core-utils@21.28?classifier=sources

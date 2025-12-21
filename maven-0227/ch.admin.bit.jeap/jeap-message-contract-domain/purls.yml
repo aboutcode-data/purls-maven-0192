@@ -18,3 +18,5 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-message-contract-domain@3.43.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-message-contract-domain@3.44.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-message-contract-domain@3.45.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-message-contract-domain@4.0.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-message-contract-domain@4.0.1?classifier=sources

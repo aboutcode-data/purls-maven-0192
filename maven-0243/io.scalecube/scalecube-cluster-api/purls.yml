@@ -120,3 +120,4 @@
 - pkg:maven/io.scalecube/scalecube-cluster-api@2.7.2?classifier=sources
 - pkg:maven/io.scalecube/scalecube-cluster-api@2.7.3?classifier=sources
 - pkg:maven/io.scalecube/scalecube-cluster-api@2.7.4?classifier=sources
+- pkg:maven/io.scalecube/scalecube-cluster-api@2.7.5?classifier=sources

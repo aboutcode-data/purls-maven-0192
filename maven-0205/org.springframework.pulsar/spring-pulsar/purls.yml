@@ -43,3 +43,4 @@
 - pkg:maven/org.springframework.pulsar/spring-pulsar@2.0.0-M2?classifier=sources
 - pkg:maven/org.springframework.pulsar/spring-pulsar@2.0.0-M3?classifier=sources
 - pkg:maven/org.springframework.pulsar/spring-pulsar@2.0.0-RC1?classifier=sources
+- pkg:maven/org.springframework.pulsar/spring-pulsar@2.0.0?classifier=sources

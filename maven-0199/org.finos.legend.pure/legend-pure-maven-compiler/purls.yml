@@ -1,3 +1,4 @@
+- pkg:maven/org.finos.legend.pure/legend-pure-maven-compiler@4.65.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-maven-compiler@5.60.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-maven-compiler@5.61.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-maven-compiler@5.61.1?classifier=sources
@@ -5,3 +6,9 @@
 - pkg:maven/org.finos.legend.pure/legend-pure-maven-compiler@5.62.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-maven-compiler@5.63.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-maven-compiler@5.63.1?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-maven-compiler@5.64.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-maven-compiler@5.64.1?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-maven-compiler@5.64.2?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-maven-compiler@5.65.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-maven-compiler@5.66.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-maven-compiler@5.67.0?classifier=sources

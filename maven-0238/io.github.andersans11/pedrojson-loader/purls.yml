@@ -3,4 +3,7 @@
 - pkg:maven/io.github.andersans11/pedrojson-loader@2.2.0-alpha?classifier=sources
 - pkg:maven/io.github.andersans11/pedrojson-loader@2.2.1-alpha.2?classifier=sources
 - pkg:maven/io.github.andersans11/pedrojson-loader@2.2.2-alpha?classifier=sources
+- pkg:maven/io.github.andersans11/pedrojson-loader@2.3.0-alpha?classifier=sources
+- pkg:maven/io.github.andersans11/pedrojson-loader@2.3.1-alpha?classifier=sources
+- pkg:maven/io.github.andersans11/pedrojson-loader@2.3.2-alpha?classifier=sources
 - pkg:maven/io.github.andersans11/pedrojson-loader@testing-4?classifier=sources

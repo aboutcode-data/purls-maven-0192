@@ -1,5 +1,9 @@
+- pkg:maven/org.mvnpm.at.mantine/hooks@7.12.2
+- pkg:maven/org.mvnpm.at.mantine/hooks@7.12.2?classifier=sources
 - pkg:maven/org.mvnpm.at.mantine/hooks@7.13.2
 - pkg:maven/org.mvnpm.at.mantine/hooks@7.13.2?classifier=sources
+- pkg:maven/org.mvnpm.at.mantine/hooks@7.13.5
+- pkg:maven/org.mvnpm.at.mantine/hooks@7.13.5?classifier=sources
 - pkg:maven/org.mvnpm.at.mantine/hooks@7.17.5
 - pkg:maven/org.mvnpm.at.mantine/hooks@7.17.5?classifier=sources
 - pkg:maven/org.mvnpm.at.mantine/hooks@7.17.6
@@ -48,3 +52,9 @@
 - pkg:maven/org.mvnpm.at.mantine/hooks@8.3.4?classifier=sources
 - pkg:maven/org.mvnpm.at.mantine/hooks@8.3.5
 - pkg:maven/org.mvnpm.at.mantine/hooks@8.3.5?classifier=sources
+- pkg:maven/org.mvnpm.at.mantine/hooks@8.3.6
+- pkg:maven/org.mvnpm.at.mantine/hooks@8.3.6?classifier=sources
+- pkg:maven/org.mvnpm.at.mantine/hooks@8.3.7
+- pkg:maven/org.mvnpm.at.mantine/hooks@8.3.7?classifier=sources
+- pkg:maven/org.mvnpm.at.mantine/hooks@8.3.8
+- pkg:maven/org.mvnpm.at.mantine/hooks@8.3.8?classifier=sources

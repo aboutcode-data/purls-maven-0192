@@ -1,0 +1,2 @@
+- pkg:maven/ch.imagic/robust-openapi-generator@0.1.0
+- pkg:maven/ch.imagic/robust-openapi-generator@0.1.0?classifier=sources

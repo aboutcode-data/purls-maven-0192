@@ -95,3 +95,4 @@
 - pkg:maven/io.trino/trino-exchange-filesystem@474?classifier=sources
 - pkg:maven/io.trino/trino-exchange-filesystem@475?classifier=sources
 - pkg:maven/io.trino/trino-exchange-filesystem@476?classifier=sources
+- pkg:maven/io.trino/trino-exchange-filesystem@478?classifier=sources

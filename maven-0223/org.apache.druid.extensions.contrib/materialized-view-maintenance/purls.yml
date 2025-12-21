@@ -78,3 +78,5 @@
 - pkg:maven/org.apache.druid.extensions.contrib/materialized-view-maintenance@33.0.0?classifier=sources
 - pkg:maven/org.apache.druid.extensions.contrib/materialized-view-maintenance@34.0.0
 - pkg:maven/org.apache.druid.extensions.contrib/materialized-view-maintenance@34.0.0?classifier=sources
+- pkg:maven/org.apache.druid.extensions.contrib/materialized-view-maintenance@35.0.0
+- pkg:maven/org.apache.druid.extensions.contrib/materialized-view-maintenance@35.0.0?classifier=sources

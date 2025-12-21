@@ -21,6 +21,8 @@
 - pkg:maven/org.onebusaway/onebusaway-collections@10.0.1?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-collections@10.1.0?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-collections@10.2.0?classifier=sources
+- pkg:maven/org.onebusaway/onebusaway-collections@10.3.0?classifier=sources
+- pkg:maven/org.onebusaway/onebusaway-collections@11.0.0?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-collections@3.2.0?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-collections@3.2.1?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-collections@3.2.2?classifier=sources

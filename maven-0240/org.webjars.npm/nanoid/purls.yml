@@ -51,3 +51,4 @@
 - pkg:maven/org.webjars.npm/nanoid@5.0.9
 - pkg:maven/org.webjars.npm/nanoid@5.1.2
 - pkg:maven/org.webjars.npm/nanoid@5.1.5
+- pkg:maven/org.webjars.npm/nanoid@5.1.6

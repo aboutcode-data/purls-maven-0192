@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/cloudevents@8.0.3
+- pkg:maven/org.mvnpm/cloudevents@8.0.3?classifier=sources

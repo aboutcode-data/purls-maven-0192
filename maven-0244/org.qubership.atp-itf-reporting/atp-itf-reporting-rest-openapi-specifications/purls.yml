@@ -3,3 +3,4 @@
 - pkg:maven/org.qubership.atp-itf-reporting/atp-itf-reporting-rest-openapi-specifications@4.4.110?classifier=sources
 - pkg:maven/org.qubership.atp-itf-reporting/atp-itf-reporting-rest-openapi-specifications@4.4.111?classifier=sources
 - pkg:maven/org.qubership.atp-itf-reporting/atp-itf-reporting-rest-openapi-specifications@4.4.112?classifier=sources
+- pkg:maven/org.qubership.atp-itf-reporting/atp-itf-reporting-rest-openapi-specifications@4.4.115?classifier=sources

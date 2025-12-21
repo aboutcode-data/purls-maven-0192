@@ -1,5 +1,7 @@
 - pkg:maven/org.mvnpm.at.types/estree@0.0.39
 - pkg:maven/org.mvnpm.at.types/estree@0.0.39?classifier=sources
+- pkg:maven/org.mvnpm.at.types/estree@0.0.45
+- pkg:maven/org.mvnpm.at.types/estree@0.0.45?classifier=sources
 - pkg:maven/org.mvnpm.at.types/estree@1.0.0?classifier=sources
 - pkg:maven/org.mvnpm.at.types/estree@1.0.1?classifier=sources
 - pkg:maven/org.mvnpm.at.types/estree@1.0.2?classifier=sources

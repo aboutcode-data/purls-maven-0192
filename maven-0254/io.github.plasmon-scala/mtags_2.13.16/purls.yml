@@ -2,3 +2,5 @@
 - pkg:maven/io.github.plasmon-scala/mtags_2.13.16@1.6.1-1
 - pkg:maven/io.github.plasmon-scala/mtags_2.13.16@1.6.1-1?classifier=sources
 - pkg:maven/io.github.plasmon-scala/mtags_2.13.16@1.6.1?classifier=sources
+- pkg:maven/io.github.plasmon-scala/mtags_2.13.16@1.6.2-1
+- pkg:maven/io.github.plasmon-scala/mtags_2.13.16@1.6.2-1?classifier=sources

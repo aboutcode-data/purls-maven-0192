@@ -122,6 +122,9 @@
 - pkg:maven/com.suchtool/nicecommon-spring-boot-starter@1.1.44?classifier=sources
 - pkg:maven/com.suchtool/nicecommon-spring-boot-starter@1.1.45?classifier=sources
 - pkg:maven/com.suchtool/nicecommon-spring-boot-starter@1.1.46?classifier=sources
+- pkg:maven/com.suchtool/nicecommon-spring-boot-starter@1.1.47?classifier=sources
+- pkg:maven/com.suchtool/nicecommon-spring-boot-starter@1.1.48?classifier=sources
+- pkg:maven/com.suchtool/nicecommon-spring-boot-starter@1.1.49?classifier=sources
 - pkg:maven/com.suchtool/nicecommon-spring-boot-starter@1.1.4?classifier=sources
 - pkg:maven/com.suchtool/nicecommon-spring-boot-starter@1.1.5
 - pkg:maven/com.suchtool/nicecommon-spring-boot-starter@1.1.5?classifier=sources

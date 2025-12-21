@@ -26,3 +26,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-j2ee-core@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-j2ee-core@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-j2ee-core@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-j2ee-core@RELEASE280?classifier=sources

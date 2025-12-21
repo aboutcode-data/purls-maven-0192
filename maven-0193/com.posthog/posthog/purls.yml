@@ -95,3 +95,5 @@
 - pkg:maven/com.posthog/posthog@4.0.0?classifier=sources
 - pkg:maven/com.posthog/posthog@4.1.0?classifier=sources
 - pkg:maven/com.posthog/posthog@4.2.0?classifier=sources
+- pkg:maven/com.posthog/posthog@5.0.0?classifier=sources
+- pkg:maven/com.posthog/posthog@5.1.0?classifier=sources

@@ -51,4 +51,5 @@
 - pkg:maven/io.servicetalk/servicetalk-grpc-health@0.42.58?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-grpc-health@0.42.59?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-grpc-health@0.42.60?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-grpc-health@0.42.61?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-grpc-health@0.42.9?classifier=sources

@@ -10,3 +10,8 @@
 - pkg:maven/xyz.meowing/knit-1.21.5-fabric@110?classifier=sources
 - pkg:maven/xyz.meowing/knit-1.21.5-fabric@111?classifier=sources
 - pkg:maven/xyz.meowing/knit-1.21.5-fabric@112?classifier=sources
+- pkg:maven/xyz.meowing/knit-1.21.5-fabric@113?classifier=sources
+- pkg:maven/xyz.meowing/knit-1.21.5-fabric@114?classifier=sources
+- pkg:maven/xyz.meowing/knit-1.21.5-fabric@115?classifier=sources
+- pkg:maven/xyz.meowing/knit-1.21.5-fabric@116?classifier=sources
+- pkg:maven/xyz.meowing/knit-1.21.5-fabric@117?classifier=sources

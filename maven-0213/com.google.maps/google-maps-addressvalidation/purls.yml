@@ -114,6 +114,10 @@
 - pkg:maven/com.google.maps/google-maps-addressvalidation@0.71.0?classifier=sources
 - pkg:maven/com.google.maps/google-maps-addressvalidation@0.72.0
 - pkg:maven/com.google.maps/google-maps-addressvalidation@0.72.0?classifier=sources
+- pkg:maven/com.google.maps/google-maps-addressvalidation@0.73.0
+- pkg:maven/com.google.maps/google-maps-addressvalidation@0.73.0?classifier=sources
+- pkg:maven/com.google.maps/google-maps-addressvalidation@0.74.0
+- pkg:maven/com.google.maps/google-maps-addressvalidation@0.74.0?classifier=sources
 - pkg:maven/com.google.maps/google-maps-addressvalidation@0.8.0
 - pkg:maven/com.google.maps/google-maps-addressvalidation@0.8.0?classifier=sources
 - pkg:maven/com.google.maps/google-maps-addressvalidation@0.9.0

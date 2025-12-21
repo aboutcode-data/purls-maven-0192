@@ -1,0 +1,2 @@
+- pkg:maven/dev.soundness/anthology-bundle@0.46.0
+- pkg:maven/dev.soundness/anthology-bundle@0.46.0?classifier=sources

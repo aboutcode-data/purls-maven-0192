@@ -210,3 +210,4 @@
 - pkg:maven/io.trino/trino-testing-containers@475?classifier=sources
 - pkg:maven/io.trino/trino-testing-containers@476
 - pkg:maven/io.trino/trino-testing-containers@476?classifier=sources
+- pkg:maven/io.trino/trino-testing-containers@478?classifier=sources

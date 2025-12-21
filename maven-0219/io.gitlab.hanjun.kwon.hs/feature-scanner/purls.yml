@@ -1,0 +1,2 @@
+- pkg:maven/io.gitlab.hanjun.kwon.hs/feature-scanner@0.0.1?classifier=sources
+- pkg:maven/io.gitlab.hanjun.kwon.hs/feature-scanner@0.0.2?classifier=sources

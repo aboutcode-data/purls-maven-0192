@@ -27,3 +27,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-documentation@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-documentation@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-documentation@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-documentation@RELEASE280?classifier=sources

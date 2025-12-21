@@ -1,0 +1,2 @@
+- pkg:maven/net.javacrumbs.shedlock/shedlock-sql-support@7.0.0-RC1?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-sql-support@7.0.0?classifier=sources

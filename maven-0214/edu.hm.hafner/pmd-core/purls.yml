@@ -10,6 +10,7 @@
 - pkg:maven/edu.hm.hafner/pmd-core@7.15.0-metrics?classifier=sources
 - pkg:maven/edu.hm.hafner/pmd-core@7.16.0-metrics?classifier=sources
 - pkg:maven/edu.hm.hafner/pmd-core@7.17.0-metrics?classifier=sources
+- pkg:maven/edu.hm.hafner/pmd-core@7.18.0-metrics?classifier=sources
 - pkg:maven/edu.hm.hafner/pmd-core@7.5.0-metrics
 - pkg:maven/edu.hm.hafner/pmd-core@7.5.0-metrics?classifier=sources
 - pkg:maven/edu.hm.hafner/pmd-core@7.7.0-metrics

@@ -1,3 +1,4 @@
 - pkg:maven/net.faraday/mobileconnectsdk@0.0.1?type=aar
 - pkg:maven/net.faraday/mobileconnectsdk@1.0.0?type=aar
 - pkg:maven/net.faraday/mobileconnectsdk@1.1.0?type=aar
+- pkg:maven/net.faraday/mobileconnectsdk@1.2.0?type=aar

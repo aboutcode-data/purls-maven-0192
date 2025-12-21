@@ -1,0 +1,2 @@
+- pkg:maven/io.digified/feature-license@0.0.1?classifier=sources
+- pkg:maven/io.digified/feature-license@0.0.3?classifier=sources

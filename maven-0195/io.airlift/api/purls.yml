@@ -1,0 +1,6 @@
+- pkg:maven/io.airlift/api@372?classifier=sources
+- pkg:maven/io.airlift/api@373?classifier=sources
+- pkg:maven/io.airlift/api@374?classifier=sources
+- pkg:maven/io.airlift/api@375?classifier=sources
+- pkg:maven/io.airlift/api@376?classifier=sources
+- pkg:maven/io.airlift/api@377?classifier=sources

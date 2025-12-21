@@ -33,6 +33,12 @@
 - pkg:maven/com.pexip.webrtc/webrtc@132.0.0?classifier=sources
 - pkg:maven/com.pexip.webrtc/webrtc@133.0.0?classifier=sources
 - pkg:maven/com.pexip.webrtc/webrtc@134.0.0?classifier=sources
+- pkg:maven/com.pexip.webrtc/webrtc@135.0.0?classifier=sources
+- pkg:maven/com.pexip.webrtc/webrtc@136.0.0?classifier=sources
+- pkg:maven/com.pexip.webrtc/webrtc@137.0.0?classifier=sources
+- pkg:maven/com.pexip.webrtc/webrtc@138.0.0?classifier=sources
+- pkg:maven/com.pexip.webrtc/webrtc@139.0.0?classifier=sources
+- pkg:maven/com.pexip.webrtc/webrtc@140.0.0?classifier=sources
 - pkg:maven/com.pexip.webrtc/webrtc@96.0.0?classifier=sources
 - pkg:maven/com.pexip.webrtc/webrtc@97.0.0?classifier=sources
 - pkg:maven/com.pexip.webrtc/webrtc@98.0.0?classifier=sources

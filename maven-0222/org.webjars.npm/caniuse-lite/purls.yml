@@ -79,3 +79,5 @@
 - pkg:maven/org.webjars.npm/caniuse-lite@1.0.30001718
 - pkg:maven/org.webjars.npm/caniuse-lite@1.0.30001731
 - pkg:maven/org.webjars.npm/caniuse-lite@1.0.30001750
+- pkg:maven/org.webjars.npm/caniuse-lite@1.0.30001751
+- pkg:maven/org.webjars.npm/caniuse-lite@1.0.30001754

@@ -1,0 +1,2 @@
+- pkg:maven/cc.duduhuo/simple-mem-cache@1.0.0?classifier=sources
+- pkg:maven/cc.duduhuo/simple-mem-cache@1.1.0?classifier=sources

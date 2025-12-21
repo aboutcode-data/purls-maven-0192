@@ -1,1 +1,2 @@
 - pkg:maven/io.decisionrules/decisionrules@2.0.3?classifier=sources
+- pkg:maven/io.decisionrules/decisionrules@2.0.4?classifier=sources

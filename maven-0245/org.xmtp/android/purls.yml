@@ -222,3 +222,4 @@
 - pkg:maven/org.xmtp/android@4.6.0-dev.d35f496?classifier=sources
 - pkg:maven/org.xmtp/android@4.6.0-dev.d8e8151?classifier=sources
 - pkg:maven/org.xmtp/android@4.6.1-dev.ea22f7d?classifier=sources
+- pkg:maven/org.xmtp/android@4.6.1-rc1?classifier=sources

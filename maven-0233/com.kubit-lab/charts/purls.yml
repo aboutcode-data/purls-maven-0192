@@ -3,3 +3,4 @@
 - pkg:maven/com.kubit-lab/charts@0.1.0-alpha3?classifier=sources
 - pkg:maven/com.kubit-lab/charts@0.1.0-alpha4?classifier=sources
 - pkg:maven/com.kubit-lab/charts@0.1.0?classifier=sources
+- pkg:maven/com.kubit-lab/charts@0.1.1?classifier=sources

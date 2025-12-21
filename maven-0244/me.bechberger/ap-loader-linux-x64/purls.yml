@@ -22,3 +22,4 @@
 - pkg:maven/me.bechberger/ap-loader-linux-x64@3.0-9?classifier=sources
 - pkg:maven/me.bechberger/ap-loader-linux-x64@4.0-10?classifier=sources
 - pkg:maven/me.bechberger/ap-loader-linux-x64@4.1-10?classifier=sources
+- pkg:maven/me.bechberger/ap-loader-linux-x64@4.2-10?classifier=sources

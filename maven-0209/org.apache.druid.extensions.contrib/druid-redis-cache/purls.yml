@@ -78,3 +78,5 @@
 - pkg:maven/org.apache.druid.extensions.contrib/druid-redis-cache@33.0.0?classifier=sources
 - pkg:maven/org.apache.druid.extensions.contrib/druid-redis-cache@34.0.0
 - pkg:maven/org.apache.druid.extensions.contrib/druid-redis-cache@34.0.0?classifier=sources
+- pkg:maven/org.apache.druid.extensions.contrib/druid-redis-cache@35.0.0
+- pkg:maven/org.apache.druid.extensions.contrib/druid-redis-cache@35.0.0?classifier=sources

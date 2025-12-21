@@ -36,3 +36,5 @@
 - pkg:maven/org.apache.druid.integration-tests/druid-it-cases@33.0.0?classifier=sources
 - pkg:maven/org.apache.druid.integration-tests/druid-it-cases@34.0.0
 - pkg:maven/org.apache.druid.integration-tests/druid-it-cases@34.0.0?classifier=sources
+- pkg:maven/org.apache.druid.integration-tests/druid-it-cases@35.0.0
+- pkg:maven/org.apache.druid.integration-tests/druid-it-cases@35.0.0?classifier=sources

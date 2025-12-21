@@ -86,3 +86,4 @@
 - pkg:maven/com.aliyun/green20220302@2.23.0?classifier=sources
 - pkg:maven/com.aliyun/green20220302@2.24.0?classifier=sources
 - pkg:maven/com.aliyun/green20220302@3.0.0?classifier=sources
+- pkg:maven/com.aliyun/green20220302@3.0.1?classifier=sources

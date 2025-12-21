@@ -14,3 +14,5 @@
 - pkg:maven/com.freeletics.gradle/scripts-github@0.30.2?classifier=sources
 - pkg:maven/com.freeletics.gradle/scripts-github@0.31.0?classifier=sources
 - pkg:maven/com.freeletics.gradle/scripts-github@0.32.0?classifier=sources
+- pkg:maven/com.freeletics.gradle/scripts-github@0.33.0?classifier=sources
+- pkg:maven/com.freeletics.gradle/scripts-github@0.33.1?classifier=sources
