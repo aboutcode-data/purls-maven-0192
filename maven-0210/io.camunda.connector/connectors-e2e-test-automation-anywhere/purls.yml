@@ -7,6 +7,7 @@
 - pkg:maven/io.camunda.connector/connectors-e2e-test-automation-anywhere@8.4.15
 - pkg:maven/io.camunda.connector/connectors-e2e-test-automation-anywhere@8.4.16
 - pkg:maven/io.camunda.connector/connectors-e2e-test-automation-anywhere@8.4.18
+- pkg:maven/io.camunda.connector/connectors-e2e-test-automation-anywhere@8.4.19
 - pkg:maven/io.camunda.connector/connectors-e2e-test-automation-anywhere@8.4.2
 - pkg:maven/io.camunda.connector/connectors-e2e-test-automation-anywhere@8.4.3
 - pkg:maven/io.camunda.connector/connectors-e2e-test-automation-anywhere@8.4.4
@@ -40,6 +41,7 @@
 - pkg:maven/io.camunda.connector/connectors-e2e-test-automation-anywhere@8.6.1
 - pkg:maven/io.camunda.connector/connectors-e2e-test-automation-anywhere@8.6.10
 - pkg:maven/io.camunda.connector/connectors-e2e-test-automation-anywhere@8.6.11
+- pkg:maven/io.camunda.connector/connectors-e2e-test-automation-anywhere@8.6.12
 - pkg:maven/io.camunda.connector/connectors-e2e-test-automation-anywhere@8.6.2
 - pkg:maven/io.camunda.connector/connectors-e2e-test-automation-anywhere@8.6.5
 - pkg:maven/io.camunda.connector/connectors-e2e-test-automation-anywhere@8.6.6
@@ -51,5 +53,9 @@
 - pkg:maven/io.camunda.connector/connectors-e2e-test-automation-anywhere@8.7.0-alpha3.2
 - pkg:maven/io.camunda.connector/connectors-e2e-test-automation-anywhere@8.7.0-alpha3.3
 - pkg:maven/io.camunda.connector/connectors-e2e-test-automation-anywhere@8.7.0-alpha4
+- pkg:maven/io.camunda.connector/connectors-e2e-test-automation-anywhere@8.7.1
+- pkg:maven/io.camunda.connector/connectors-e2e-test-automation-anywhere@8.7.2
 - pkg:maven/io.camunda.connector/connectors-e2e-test-automation-anywhere@8.8.0-alpha3
 - pkg:maven/io.camunda.connector/connectors-e2e-test-automation-anywhere@8.8.0-alpha3.1
+- pkg:maven/io.camunda.connector/connectors-e2e-test-automation-anywhere@8.8.0-alpha4
+- pkg:maven/io.camunda.connector/connectors-e2e-test-automation-anywhere@8.8.0-alpha4.1

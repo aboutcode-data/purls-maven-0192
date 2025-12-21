@@ -8,6 +8,7 @@
 - pkg:maven/com.axonivy.ivy.test/unit-tester@11.3.0
 - pkg:maven/com.axonivy.ivy.test/unit-tester@12.0.0
 - pkg:maven/com.axonivy.ivy.test/unit-tester@12.0.1
+- pkg:maven/com.axonivy.ivy.test/unit-tester@13.1.0
 - pkg:maven/com.axonivy.ivy.test/unit-tester@9.2.0
 - pkg:maven/com.axonivy.ivy.test/unit-tester@9.2.1
 - pkg:maven/com.axonivy.ivy.test/unit-tester@9.2.2

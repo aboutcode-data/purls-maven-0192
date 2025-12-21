@@ -1,3 +1,5 @@
+- pkg:maven/dev.cerus.maps/bukkit-20_R3@3.8.10
+- pkg:maven/dev.cerus.maps/bukkit-20_R3@3.8.10?classifier=sources
 - pkg:maven/dev.cerus.maps/bukkit-20_R3@3.8.3
 - pkg:maven/dev.cerus.maps/bukkit-20_R3@3.8.3?classifier=sources
 - pkg:maven/dev.cerus.maps/bukkit-20_R3@3.8.4

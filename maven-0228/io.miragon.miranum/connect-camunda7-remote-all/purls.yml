@@ -1,4 +1,6 @@
 - pkg:maven/io.miragon.miranum/connect-camunda7-remote-all@0.10.0
 - pkg:maven/io.miragon.miranum/connect-camunda7-remote-all@0.11.0
+- pkg:maven/io.miragon.miranum/connect-camunda7-remote-all@0.12.0
+- pkg:maven/io.miragon.miranum/connect-camunda7-remote-all@0.13.0
 - pkg:maven/io.miragon.miranum/connect-camunda7-remote-all@0.8.0
 - pkg:maven/io.miragon.miranum/connect-camunda7-remote-all@0.9.0

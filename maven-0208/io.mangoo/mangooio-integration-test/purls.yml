@@ -1122,3 +1122,5 @@
 - pkg:maven/io.mangoo/mangooio-integration-test@9.4.0-Beta1
 - pkg:maven/io.mangoo/mangooio-integration-test@9.4.0-Beta1?classifier=sources
 - pkg:maven/io.mangoo/mangooio-integration-test@9.4.0?classifier=sources
+- pkg:maven/io.mangoo/mangooio-integration-test@9.5.0-Beta1?classifier=sources
+- pkg:maven/io.mangoo/mangooio-integration-test@9.5.0?classifier=sources

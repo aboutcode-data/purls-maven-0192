@@ -25,4 +25,5 @@
 - pkg:maven/ru.astrainteractive.klibs/kstorage-js@3.2.8?classifier=sources
 - pkg:maven/ru.astrainteractive.klibs/kstorage-js@3.3.0?classifier=sources
 - pkg:maven/ru.astrainteractive.klibs/kstorage-js@4.0.0?classifier=sources
+- pkg:maven/ru.astrainteractive.klibs/kstorage-js@4.1.0?classifier=sources
 - pkg:maven/ru.astrainteractive.klibs/kstorage-js@unspecified?classifier=sources

@@ -2,6 +2,7 @@
 - pkg:maven/com.ucasoft.komm/komm-plugins-exposed-jvm@0.20.2?classifier=sources
 - pkg:maven/com.ucasoft.komm/komm-plugins-exposed-jvm@0.22.8?classifier=sources
 - pkg:maven/com.ucasoft.komm/komm-plugins-exposed-jvm@0.24.3?classifier=sources
+- pkg:maven/com.ucasoft.komm/komm-plugins-exposed-jvm@0.25.0?classifier=sources
 - pkg:maven/com.ucasoft.komm/komm-plugins-exposed-jvm@0.7.4?classifier=sources
 - pkg:maven/com.ucasoft.komm/komm-plugins-exposed-jvm@0.7.5?classifier=sources
 - pkg:maven/com.ucasoft.komm/komm-plugins-exposed-jvm@0.9.10?classifier=sources

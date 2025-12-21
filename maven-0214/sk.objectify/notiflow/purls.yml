@@ -34,4 +34,5 @@
 - pkg:maven/sk.objectify/notiflow@1.1.43?classifier=sources
 - pkg:maven/sk.objectify/notiflow@1.1.44?classifier=sources
 - pkg:maven/sk.objectify/notiflow@1.1.45?classifier=sources
+- pkg:maven/sk.objectify/notiflow@1.1.47?classifier=sources
 - pkg:maven/sk.objectify/notiflow@1.1.9?classifier=sources

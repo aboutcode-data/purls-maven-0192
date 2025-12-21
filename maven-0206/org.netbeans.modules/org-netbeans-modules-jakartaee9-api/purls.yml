@@ -14,3 +14,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jakartaee9-api@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jakartaee9-api@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jakartaee9-api@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-jakartaee9-api@RELEASE260?classifier=sources

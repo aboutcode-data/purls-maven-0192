@@ -1,2 +1,4 @@
 - pkg:maven/live.100ms.room-kit/virtual-background-bottomsheet@1.2.21?classifier=sources
 - pkg:maven/live.100ms.room-kit/virtual-background-bottomsheet@1.2.22?classifier=sources
+- pkg:maven/live.100ms.room-kit/virtual-background-bottomsheet@1.2.28?classifier=sources
+- pkg:maven/live.100ms.room-kit/virtual-background-bottomsheet@update-secret?classifier=sources

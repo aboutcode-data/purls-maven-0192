@@ -26,3 +26,5 @@
 - pkg:maven/com.memority.api.domino/domino-sync-schema@3.48.3
 - pkg:maven/com.memority.api.domino/domino-sync-schema@4.0.0
 - pkg:maven/com.memority.api.domino/domino-sync-schema@4.0.2
+- pkg:maven/com.memority.api.domino/domino-sync-schema@4.0.3
+- pkg:maven/com.memority.api.domino/domino-sync-schema@4.1.0

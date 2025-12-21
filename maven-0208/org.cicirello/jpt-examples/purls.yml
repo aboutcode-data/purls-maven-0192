@@ -44,3 +44,4 @@
 - pkg:maven/org.cicirello/jpt-examples@5.1.0?classifier=sources
 - pkg:maven/org.cicirello/jpt-examples@6.0.0
 - pkg:maven/org.cicirello/jpt-examples@6.0.0?classifier=sources
+- pkg:maven/org.cicirello/jpt-examples@6.0.1?classifier=sources

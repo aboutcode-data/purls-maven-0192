@@ -30,3 +30,5 @@
 - pkg:maven/edu.berkeley.cs.jqf/jqf-maven-plugin@1.9?classifier=sources
 - pkg:maven/edu.berkeley.cs.jqf/jqf-maven-plugin@2.0
 - pkg:maven/edu.berkeley.cs.jqf/jqf-maven-plugin@2.0?classifier=sources
+- pkg:maven/edu.berkeley.cs.jqf/jqf-maven-plugin@2.1
+- pkg:maven/edu.berkeley.cs.jqf/jqf-maven-plugin@2.1?classifier=sources

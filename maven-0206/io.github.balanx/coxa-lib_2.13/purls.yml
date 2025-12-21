@@ -1,0 +1,2 @@
+- pkg:maven/io.github.balanx/coxa-lib_2.13@0.0.3
+- pkg:maven/io.github.balanx/coxa-lib_2.13@0.0.3?classifier=sources

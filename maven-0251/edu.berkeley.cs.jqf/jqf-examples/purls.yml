@@ -26,3 +26,5 @@
 - pkg:maven/edu.berkeley.cs.jqf/jqf-examples@1.7?classifier=sources
 - pkg:maven/edu.berkeley.cs.jqf/jqf-examples@2.0
 - pkg:maven/edu.berkeley.cs.jqf/jqf-examples@2.0?classifier=sources
+- pkg:maven/edu.berkeley.cs.jqf/jqf-examples@2.1
+- pkg:maven/edu.berkeley.cs.jqf/jqf-examples@2.1?classifier=sources

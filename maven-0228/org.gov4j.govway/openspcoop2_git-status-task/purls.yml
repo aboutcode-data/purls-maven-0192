@@ -1,1 +1,2 @@
 - pkg:maven/org.gov4j.govway/openspcoop2_git-status-task@1.0?classifier=sources
+- pkg:maven/org.gov4j.govway/openspcoop2_git-status-task@2.0?classifier=sources

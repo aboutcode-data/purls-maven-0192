@@ -48,3 +48,4 @@
 - pkg:maven/org.codelibs.opensearch/opensearch-configsync@2.8.0?type=zip
 - pkg:maven/org.codelibs.opensearch/opensearch-configsync@2.9.0?classifier=sources
 - pkg:maven/org.codelibs.opensearch/opensearch-configsync@2.9.0?type=zip
+- pkg:maven/org.codelibs.opensearch/opensearch-configsync@3.0.0?classifier=sources

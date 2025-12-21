@@ -23,4 +23,10 @@
 - pkg:maven/dev.vality/testcontainers-annotations@2.0.4
 - pkg:maven/dev.vality/testcontainers-annotations@2.0.4?classifier=sources
 - pkg:maven/dev.vality/testcontainers-annotations@2.1.0-SNAPSHOT-0.0.1
+- pkg:maven/dev.vality/testcontainers-annotations@2.1.0-SNAPSHOT-0.0.1001
+- pkg:maven/dev.vality/testcontainers-annotations@2.1.0-SNAPSHOT-0.0.1001?classifier=sources
 - pkg:maven/dev.vality/testcontainers-annotations@2.1.0-SNAPSHOT-0.0.1?classifier=sources
+- pkg:maven/dev.vality/testcontainers-annotations@2.1.0-SNAPSHOT-0.0.2
+- pkg:maven/dev.vality/testcontainers-annotations@2.1.0-SNAPSHOT-0.0.2?classifier=sources
+- pkg:maven/dev.vality/testcontainers-annotations@3.0.0
+- pkg:maven/dev.vality/testcontainers-annotations@3.0.0?classifier=sources

@@ -25,4 +25,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-schema-completion@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-schema-completion@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-schema-completion@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-xml-schema-completion@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-schema-completion@RELEASE90?classifier=sources

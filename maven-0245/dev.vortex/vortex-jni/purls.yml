@@ -1,4 +1,8 @@
+- pkg:maven/dev.vortex/vortex-jni@0.1.0?classifier=sources
 - pkg:maven/dev.vortex/vortex-jni@0.27.0-31-g9a912cd?classifier=sources
 - pkg:maven/dev.vortex/vortex-jni@0.31.0?classifier=sources
 - pkg:maven/dev.vortex/vortex-jni@0.32.0?classifier=sources
+- pkg:maven/dev.vortex/vortex-jni@0.33.0?classifier=sources
+- pkg:maven/dev.vortex/vortex-jni@0.34.0?classifier=sources
+- pkg:maven/dev.vortex/vortex-jni@0.35.0?classifier=sources
 - pkg:maven/dev.vortex/vortex-jni@cf08dc5.dirty?classifier=sources

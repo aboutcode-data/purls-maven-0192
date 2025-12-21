@@ -1,0 +1,4 @@
+- pkg:maven/cn.wjee.boot/wjee-oss-spring-boot-starter@2.7.18-2.0.0
+- pkg:maven/cn.wjee.boot/wjee-oss-spring-boot-starter@2.7.18-2.0.0?classifier=sources
+- pkg:maven/cn.wjee.boot/wjee-oss-spring-boot-starter@2.7.18.4
+- pkg:maven/cn.wjee.boot/wjee-oss-spring-boot-starter@2.7.18.4?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/jest-docblock@26.0.0?classifier=sources
 - pkg:maven/org.mvnpm/jest-docblock@29.7.0?classifier=sources
+- pkg:maven/org.mvnpm/jest-docblock@30.0.0-beta.3
+- pkg:maven/org.mvnpm/jest-docblock@30.0.0-beta.3?classifier=sources

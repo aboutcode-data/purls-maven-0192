@@ -640,3 +640,5 @@
 - pkg:maven/org.noear/file-s3-solon-cloud-plugin@3.2.1-RC?classifier=sources
 - pkg:maven/org.noear/file-s3-solon-cloud-plugin@3.2.1?classifier=sources
 - pkg:maven/org.noear/file-s3-solon-cloud-plugin@3.3.0?classifier=sources
+- pkg:maven/org.noear/file-s3-solon-cloud-plugin@3.3.1-RC?classifier=sources
+- pkg:maven/org.noear/file-s3-solon-cloud-plugin@3.3.1?classifier=sources

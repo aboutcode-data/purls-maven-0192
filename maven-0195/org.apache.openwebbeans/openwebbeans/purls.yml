@@ -52,6 +52,7 @@
 - pkg:maven/org.apache.openwebbeans/openwebbeans@2.0.25?classifier=source-release&type=zip
 - pkg:maven/org.apache.openwebbeans/openwebbeans@2.0.26?classifier=source-release&type=zip
 - pkg:maven/org.apache.openwebbeans/openwebbeans@2.0.27?classifier=source-release&type=zip
+- pkg:maven/org.apache.openwebbeans/openwebbeans@2.0.28?classifier=source-release&type=zip
 - pkg:maven/org.apache.openwebbeans/openwebbeans@2.0.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.openwebbeans/openwebbeans@2.0.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.openwebbeans/openwebbeans@2.0.4?classifier=source-release&type=zip

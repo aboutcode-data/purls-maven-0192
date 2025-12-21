@@ -9,6 +9,8 @@
 - pkg:maven/com.onetrust.cmp/native-sdk@6.18.0.0?type=aar
 - pkg:maven/com.onetrust.cmp/native-sdk@6.19.0.0?type=aar
 - pkg:maven/com.onetrust.cmp/native-sdk@6.19.0.10?type=aar
+- pkg:maven/com.onetrust.cmp/native-sdk@6.19.0.14?type=aar
+- pkg:maven/com.onetrust.cmp/native-sdk@6.19.0.15?type=aar
 - pkg:maven/com.onetrust.cmp/native-sdk@6.19.0.1?type=aar
 - pkg:maven/com.onetrust.cmp/native-sdk@6.19.0.2?type=aar
 - pkg:maven/com.onetrust.cmp/native-sdk@6.19.0.3?type=aar

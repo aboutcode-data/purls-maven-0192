@@ -174,3 +174,4 @@
 - pkg:maven/com.pulumi/openstack@5.1.0-alpha.1732601510?classifier=sources
 - pkg:maven/com.pulumi/openstack@5.1.0-alpha.1732687520?classifier=sources
 - pkg:maven/com.pulumi/openstack@5.1.0-alpha.1732773915?classifier=sources
+- pkg:maven/com.pulumi/openstack@5.1.0?classifier=sources

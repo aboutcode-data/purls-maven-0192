@@ -5,3 +5,4 @@
 - pkg:maven/org.arquillian.cube/arquillian-cube-parent@1.0.0.Alpha5?classifier=source-release&type=zip
 - pkg:maven/org.arquillian.cube/arquillian-cube-parent@2.0.0.Alpha1?classifier=source-release&type=zip
 - pkg:maven/org.arquillian.cube/arquillian-cube-parent@2.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.arquillian.cube/arquillian-cube-parent@2.1.0.Alpha1?classifier=source-release&type=zip

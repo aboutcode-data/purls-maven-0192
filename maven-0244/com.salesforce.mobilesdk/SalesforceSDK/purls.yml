@@ -11,6 +11,7 @@
 - pkg:maven/com.salesforce.mobilesdk/SalesforceSDK@12.1.1?classifier=sources
 - pkg:maven/com.salesforce.mobilesdk/SalesforceSDK@12.2.0?classifier=sources
 - pkg:maven/com.salesforce.mobilesdk/SalesforceSDK@13.0.0?classifier=sources
+- pkg:maven/com.salesforce.mobilesdk/SalesforceSDK@13.0.1?classifier=sources
 - pkg:maven/com.salesforce.mobilesdk/SalesforceSDK@9.1.1?classifier=sources
 - pkg:maven/com.salesforce.mobilesdk/SalesforceSDK@9.2.0?classifier=sources
 - pkg:maven/com.salesforce.mobilesdk/SalesforceSDK@9.2.1?classifier=sources

@@ -78,3 +78,4 @@
 - pkg:maven/org.pac4j/spring-webmvc-pac4j@8.0.0-RC5
 - pkg:maven/org.pac4j/spring-webmvc-pac4j@8.0.0-RC5?classifier=sources
 - pkg:maven/org.pac4j/spring-webmvc-pac4j@8.0.0?classifier=sources
+- pkg:maven/org.pac4j/spring-webmvc-pac4j@8.0.1?classifier=sources

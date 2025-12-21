@@ -185,6 +185,10 @@
 - pkg:maven/com.volcengine/cdp-openapisdk-java@1.25.32?classifier=sources
 - pkg:maven/com.volcengine/cdp-openapisdk-java@1.25.33
 - pkg:maven/com.volcengine/cdp-openapisdk-java@1.25.33?classifier=sources
+- pkg:maven/com.volcengine/cdp-openapisdk-java@1.25.34
+- pkg:maven/com.volcengine/cdp-openapisdk-java@1.25.34?classifier=sources
+- pkg:maven/com.volcengine/cdp-openapisdk-java@1.25.35
+- pkg:maven/com.volcengine/cdp-openapisdk-java@1.25.35?classifier=sources
 - pkg:maven/com.volcengine/cdp-openapisdk-java@1.25.3?classifier=sources
 - pkg:maven/com.volcengine/cdp-openapisdk-java@1.25.4
 - pkg:maven/com.volcengine/cdp-openapisdk-java@1.25.4?classifier=sources
@@ -198,5 +202,7 @@
 - pkg:maven/com.volcengine/cdp-openapisdk-java@1.25.8?classifier=sources
 - pkg:maven/com.volcengine/cdp-openapisdk-java@1.25.9
 - pkg:maven/com.volcengine/cdp-openapisdk-java@1.25.9?classifier=sources
+- pkg:maven/com.volcengine/cdp-openapisdk-java@1.26-asset
+- pkg:maven/com.volcengine/cdp-openapisdk-java@1.26-asset?classifier=sources
 - pkg:maven/com.volcengine/cdp-openapisdk-java@udf.1.23.2
 - pkg:maven/com.volcengine/cdp-openapisdk-java@udf.1.23.2?classifier=sources

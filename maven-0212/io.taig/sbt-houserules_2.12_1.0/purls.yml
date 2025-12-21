@@ -18,6 +18,8 @@
 - pkg:maven/io.taig/sbt-houserules_2.12_1.0@0.11.3?classifier=sources
 - pkg:maven/io.taig/sbt-houserules_2.12_1.0@0.11.4
 - pkg:maven/io.taig/sbt-houserules_2.12_1.0@0.11.4?classifier=sources
+- pkg:maven/io.taig/sbt-houserules_2.12_1.0@0.11.5
+- pkg:maven/io.taig/sbt-houserules_2.12_1.0@0.11.5?classifier=sources
 - pkg:maven/io.taig/sbt-houserules_2.12_1.0@0.7.0
 - pkg:maven/io.taig/sbt-houserules_2.12_1.0@0.7.0?classifier=sources
 - pkg:maven/io.taig/sbt-houserules_2.12_1.0@0.7.1

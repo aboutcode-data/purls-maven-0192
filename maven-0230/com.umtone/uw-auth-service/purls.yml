@@ -15,7 +15,17 @@
 - pkg:maven/com.umtone/uw-auth-service@6.1.22?classifier=sources
 - pkg:maven/com.umtone/uw-auth-service@6.1.23?classifier=sources
 - pkg:maven/com.umtone/uw-auth-service@6.1.25?classifier=sources
+- pkg:maven/com.umtone/uw-auth-service@6.1.26?classifier=sources
+- pkg:maven/com.umtone/uw-auth-service@6.1.27?classifier=sources
+- pkg:maven/com.umtone/uw-auth-service@6.1.28?classifier=sources
+- pkg:maven/com.umtone/uw-auth-service@6.1.29?classifier=sources
 - pkg:maven/com.umtone/uw-auth-service@6.1.2?classifier=sources
+- pkg:maven/com.umtone/uw-auth-service@6.1.30?classifier=sources
+- pkg:maven/com.umtone/uw-auth-service@6.1.31?classifier=sources
+- pkg:maven/com.umtone/uw-auth-service@6.1.32?classifier=sources
+- pkg:maven/com.umtone/uw-auth-service@6.1.33?classifier=sources
+- pkg:maven/com.umtone/uw-auth-service@6.1.35?classifier=sources
+- pkg:maven/com.umtone/uw-auth-service@6.1.36?classifier=sources
 - pkg:maven/com.umtone/uw-auth-service@6.1.3?classifier=sources
 - pkg:maven/com.umtone/uw-auth-service@6.1.5?classifier=sources
 - pkg:maven/com.umtone/uw-auth-service@6.1.6?classifier=sources

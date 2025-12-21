@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.ws.cxf/jbossws-cxf@7.3.2.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.ws.cxf/jbossws-cxf@7.3.3.Final?classifier=source-release&type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.rnx-kit/chromium-edge-launcher@1.0.0
+- pkg:maven/org.mvnpm.at.rnx-kit/chromium-edge-launcher@1.0.0?classifier=sources

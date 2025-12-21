@@ -80,3 +80,7 @@
 - pkg:maven/com.aliyun/cloudauth_intl20220809@3.5.0?classifier=sources
 - pkg:maven/com.aliyun/cloudauth_intl20220809@3.6.0
 - pkg:maven/com.aliyun/cloudauth_intl20220809@3.6.0?classifier=sources
+- pkg:maven/com.aliyun/cloudauth_intl20220809@3.6.1
+- pkg:maven/com.aliyun/cloudauth_intl20220809@3.6.1?classifier=sources
+- pkg:maven/com.aliyun/cloudauth_intl20220809@3.7.0
+- pkg:maven/com.aliyun/cloudauth_intl20220809@3.7.0?classifier=sources

@@ -23,3 +23,5 @@
 - pkg:maven/org.onebusaway/onebusaway-gtfs-merge-cli@6.1.0?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-gtfs-merge-cli@6.1.1?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-gtfs-merge-cli@6.1.2?classifier=sources
+- pkg:maven/org.onebusaway/onebusaway-gtfs-merge-cli@7.0.0?classifier=sources
+- pkg:maven/org.onebusaway/onebusaway-gtfs-merge-cli@7.0.1?classifier=sources

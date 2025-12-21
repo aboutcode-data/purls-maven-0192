@@ -1,3 +1,5 @@
 - pkg:maven/org.mvnpm.at.inquirer/type@1.5.5?classifier=sources
 - pkg:maven/org.mvnpm.at.inquirer/type@3.0.5?classifier=sources
 - pkg:maven/org.mvnpm.at.inquirer/type@3.0.6?classifier=sources
+- pkg:maven/org.mvnpm.at.inquirer/type@3.0.7
+- pkg:maven/org.mvnpm.at.inquirer/type@3.0.7?classifier=sources

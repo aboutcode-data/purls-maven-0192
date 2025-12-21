@@ -228,6 +228,10 @@
 - pkg:maven/com.google.api.grpc/proto-google-common-protos@2.55.2?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-common-protos@2.55.3
 - pkg:maven/com.google.api.grpc/proto-google-common-protos@2.55.3?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-common-protos@2.56.0
+- pkg:maven/com.google.api.grpc/proto-google-common-protos@2.56.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-common-protos@2.57.0
+- pkg:maven/com.google.api.grpc/proto-google-common-protos@2.57.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-common-protos@2.6.0
 - pkg:maven/com.google.api.grpc/proto-google-common-protos@2.6.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-common-protos@2.7.0

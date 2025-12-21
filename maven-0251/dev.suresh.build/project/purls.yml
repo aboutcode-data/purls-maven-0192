@@ -36,7 +36,14 @@
 - pkg:maven/dev.suresh.build/project@1.32.0?classifier=sources
 - pkg:maven/dev.suresh.build/project@1.33.0?classifier=sources
 - pkg:maven/dev.suresh.build/project@1.34.0?classifier=sources
+- pkg:maven/dev.suresh.build/project@1.35.0?classifier=sources
+- pkg:maven/dev.suresh.build/project@1.36.0?classifier=sources
+- pkg:maven/dev.suresh.build/project@1.37.0?classifier=sources
+- pkg:maven/dev.suresh.build/project@1.38.0?classifier=sources
 - pkg:maven/dev.suresh.build/project@1.4.0?classifier=sources
+- pkg:maven/dev.suresh.build/project@1.40.0?classifier=sources
+- pkg:maven/dev.suresh.build/project@1.41.0?classifier=sources
+- pkg:maven/dev.suresh.build/project@1.42.0?classifier=sources
 - pkg:maven/dev.suresh.build/project@1.5.0?classifier=sources
 - pkg:maven/dev.suresh.build/project@1.6.0?classifier=sources
 - pkg:maven/dev.suresh.build/project@1.7.0?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/com.umtone/uw-httpclient@2.1.118?classifier=sources
 - pkg:maven/com.umtone/uw-httpclient@2.1.120?classifier=sources
 - pkg:maven/com.umtone/uw-httpclient@2.1.121?classifier=sources
+- pkg:maven/com.umtone/uw-httpclient@2.1.122?classifier=sources

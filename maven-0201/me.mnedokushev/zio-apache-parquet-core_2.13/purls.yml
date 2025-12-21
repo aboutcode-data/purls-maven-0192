@@ -32,3 +32,5 @@
 - pkg:maven/me.mnedokushev/zio-apache-parquet-core_2.13@0.1.8?classifier=sources
 - pkg:maven/me.mnedokushev/zio-apache-parquet-core_2.13@0.1.9
 - pkg:maven/me.mnedokushev/zio-apache-parquet-core_2.13@0.1.9?classifier=sources
+- pkg:maven/me.mnedokushev/zio-apache-parquet-core_2.13@0.2.1
+- pkg:maven/me.mnedokushev/zio-apache-parquet-core_2.13@0.2.1?classifier=sources

@@ -25,4 +25,5 @@
 - pkg:maven/org.netbeans.external/org-netbeans-modules-usersguide@RELEASE230
 - pkg:maven/org.netbeans.external/org-netbeans-modules-usersguide@RELEASE240
 - pkg:maven/org.netbeans.external/org-netbeans-modules-usersguide@RELEASE250
+- pkg:maven/org.netbeans.external/org-netbeans-modules-usersguide@RELEASE260
 - pkg:maven/org.netbeans.external/org-netbeans-modules-usersguide@RELEASE90
