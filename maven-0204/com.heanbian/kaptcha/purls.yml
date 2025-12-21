@@ -1,3 +1,4 @@
+- pkg:maven/com.heanbian/kaptcha@2025.1?classifier=sources
 - pkg:maven/com.heanbian/kaptcha@3.0.0
 - pkg:maven/com.heanbian/kaptcha@3.0.0?classifier=sources
 - pkg:maven/com.heanbian/kaptcha@3.0.1

@@ -4,6 +4,7 @@
 - pkg:maven/com.expofp/crowdconnectedbackground@4.10.3?classifier=sources
 - pkg:maven/com.expofp/crowdconnectedbackground@4.10.4?classifier=sources
 - pkg:maven/com.expofp/crowdconnectedbackground@4.10.5?classifier=sources
+- pkg:maven/com.expofp/crowdconnectedbackground@4.11.0?classifier=sources
 - pkg:maven/com.expofp/crowdconnectedbackground@4.9.0?classifier=sources
 - pkg:maven/com.expofp/crowdconnectedbackground@4.9.2?classifier=sources
 - pkg:maven/com.expofp/crowdconnectedbackground@4.9.3?classifier=sources

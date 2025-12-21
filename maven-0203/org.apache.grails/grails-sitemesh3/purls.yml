@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.grails/grails-sitemesh3@7.0.0-M4?classifier=sources
+- pkg:maven/org.apache.grails/grails-sitemesh3@7.0.0-RC1?classifier=sources

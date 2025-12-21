@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/jspdf-autotable@3.8.4
+- pkg:maven/org.mvnpm/jspdf-autotable@3.8.4?classifier=sources

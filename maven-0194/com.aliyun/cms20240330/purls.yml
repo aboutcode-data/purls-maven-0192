@@ -5,3 +5,5 @@
 - pkg:maven/com.aliyun/cms20240330@2.0.1?classifier=sources
 - pkg:maven/com.aliyun/cms20240330@2.1.0?classifier=sources
 - pkg:maven/com.aliyun/cms20240330@2.2.0?classifier=sources
+- pkg:maven/com.aliyun/cms20240330@2.3.0?classifier=sources
+- pkg:maven/com.aliyun/cms20240330@3.0.0?classifier=sources

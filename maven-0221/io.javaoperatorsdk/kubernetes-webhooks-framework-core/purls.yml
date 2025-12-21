@@ -20,3 +20,4 @@
 - pkg:maven/io.javaoperatorsdk/kubernetes-webhooks-framework-core@2.0.0?classifier=sources
 - pkg:maven/io.javaoperatorsdk/kubernetes-webhooks-framework-core@3.0.0
 - pkg:maven/io.javaoperatorsdk/kubernetes-webhooks-framework-core@3.0.0?classifier=sources
+- pkg:maven/io.javaoperatorsdk/kubernetes-webhooks-framework-core@3.0.1?classifier=sources

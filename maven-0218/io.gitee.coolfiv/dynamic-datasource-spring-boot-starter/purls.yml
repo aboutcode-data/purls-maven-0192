@@ -1,1 +1,2 @@
 - pkg:maven/io.gitee.coolfiv/dynamic-datasource-spring-boot-starter@1.0?classifier=sources
+- pkg:maven/io.gitee.coolfiv/dynamic-datasource-spring-boot-starter@1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/ai.nextbillion/sdk-client-okhttp@0.1.0-alpha.15-test.2?classifier=sources
+- pkg:maven/ai.nextbillion/sdk-client-okhttp@0.1.0-alpha.16?classifier=sources

@@ -71,4 +71,5 @@
 - pkg:maven/org.apache.tinkerpop/tinkerpop@3.7.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.tinkerpop/tinkerpop@3.7.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.tinkerpop/tinkerpop@3.7.3?classifier=source-release&type=zip
+- pkg:maven/org.apache.tinkerpop/tinkerpop@3.7.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.tinkerpop/tinkerpop@4.0.0-beta.1?classifier=source-release&type=zip

@@ -324,6 +324,10 @@
 - pkg:maven/org.openl.rules/org.openl.rules@5.27.11-jakarta?type=zip
 - pkg:maven/org.openl.rules/org.openl.rules@5.27.11?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules@5.27.11?type=zip
+- pkg:maven/org.openl.rules/org.openl.rules@5.27.12-jakarta?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules@5.27.12-jakarta?type=zip
+- pkg:maven/org.openl.rules/org.openl.rules@5.27.12?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules@5.27.12?type=zip
 - pkg:maven/org.openl.rules/org.openl.rules@5.27.1?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules@5.27.1?type=zip
 - pkg:maven/org.openl.rules/org.openl.rules@5.27.2?classifier=sources

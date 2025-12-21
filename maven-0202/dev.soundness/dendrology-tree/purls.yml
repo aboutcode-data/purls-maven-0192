@@ -62,3 +62,5 @@
 - pkg:maven/dev.soundness/dendrology-tree@0.39.0?classifier=sources
 - pkg:maven/dev.soundness/dendrology-tree@0.4.0
 - pkg:maven/dev.soundness/dendrology-tree@0.4.0?classifier=sources
+- pkg:maven/dev.soundness/dendrology-tree@0.40.0
+- pkg:maven/dev.soundness/dendrology-tree@0.40.0?classifier=sources

@@ -49,4 +49,5 @@
 - pkg:maven/dev.zacsweers.moshix/moshi-gradle-plugin@0.30.0?classifier=sources
 - pkg:maven/dev.zacsweers.moshix/moshi-gradle-plugin@0.31.0-alpha01?classifier=sources
 - pkg:maven/dev.zacsweers.moshix/moshi-gradle-plugin@0.31.0?classifier=sources
+- pkg:maven/dev.zacsweers.moshix/moshi-gradle-plugin@0.32.0-2.2.20-Beta2-alpha01?classifier=sources
 - pkg:maven/dev.zacsweers.moshix/moshi-gradle-plugin@1.7.20-Beta-0.18.3?classifier=sources

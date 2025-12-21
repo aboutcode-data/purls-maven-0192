@@ -12,3 +12,4 @@
 - pkg:maven/org.glassfish.soteria/jakarta.security.enterprise@3.0.2?classifier=sources
 - pkg:maven/org.glassfish.soteria/jakarta.security.enterprise@3.0.3
 - pkg:maven/org.glassfish.soteria/jakarta.security.enterprise@3.0.3?classifier=sources
+- pkg:maven/org.glassfish.soteria/jakarta.security.enterprise@3.0.4?classifier=sources

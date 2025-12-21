@@ -132,6 +132,9 @@
 - pkg:maven/net.optionfactory.spring/pdf@21.9?classifier=sources
 - pkg:maven/net.optionfactory.spring/pdf@22.0?classifier=sources
 - pkg:maven/net.optionfactory.spring/pdf@22.1?classifier=sources
+- pkg:maven/net.optionfactory.spring/pdf@22.2?classifier=sources
+- pkg:maven/net.optionfactory.spring/pdf@22.3?classifier=sources
+- pkg:maven/net.optionfactory.spring/pdf@22.4?classifier=sources
 - pkg:maven/net.optionfactory.spring/pdf@6.0
 - pkg:maven/net.optionfactory.spring/pdf@6.0?classifier=sources
 - pkg:maven/net.optionfactory.spring/pdf@6.1

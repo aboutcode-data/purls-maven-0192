@@ -3,3 +3,4 @@
 - pkg:maven/org.apache.torque/torque@5.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.torque/torque@5.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.torque/torque@6.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.torque/torque@7.0?classifier=source-release&type=zip

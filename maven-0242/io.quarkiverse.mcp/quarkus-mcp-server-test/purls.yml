@@ -1,1 +1,2 @@
 - pkg:maven/io.quarkiverse.mcp/quarkus-mcp-server-test@1.4.0?classifier=sources
+- pkg:maven/io.quarkiverse.mcp/quarkus-mcp-server-test@1.4.1?classifier=sources

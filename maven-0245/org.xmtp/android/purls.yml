@@ -181,3 +181,16 @@
 - pkg:maven/org.xmtp/android@4.3.0-rc1?classifier=sources
 - pkg:maven/org.xmtp/android@4.3.0-rc2?classifier=sources
 - pkg:maven/org.xmtp/android@4.3.0?classifier=sources
+- pkg:maven/org.xmtp/android@4.3.1?classifier=sources
+- pkg:maven/org.xmtp/android@4.3.2?classifier=sources
+- pkg:maven/org.xmtp/android@4.3.3?classifier=sources
+- pkg:maven/org.xmtp/android@4.3.4?classifier=sources
+- pkg:maven/org.xmtp/android@4.3.5?classifier=sources
+- pkg:maven/org.xmtp/android@4.3.6?classifier=sources
+- pkg:maven/org.xmtp/android@4.4.0-dev.7f5d8e0?classifier=sources
+- pkg:maven/org.xmtp/android@4.4.0-rc1?classifier=sources
+- pkg:maven/org.xmtp/android@4.4.0-rc2?classifier=sources
+- pkg:maven/org.xmtp/android@4.4.1-dev.30478a6?classifier=sources
+- pkg:maven/org.xmtp/android@4.5.0-dev.08bd5fb?classifier=sources
+- pkg:maven/org.xmtp/android@4.5.0-dev.7976818?classifier=sources
+- pkg:maven/org.xmtp/android@4.5.0-dev.fb036ed?classifier=sources

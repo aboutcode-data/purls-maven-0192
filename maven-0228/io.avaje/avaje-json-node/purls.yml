@@ -39,3 +39,4 @@
 - pkg:maven/io.avaje/avaje-json-node@3.6-RC2?classifier=sources
 - pkg:maven/io.avaje/avaje-json-node@3.6-RC3?classifier=sources
 - pkg:maven/io.avaje/avaje-json-node@3.6?classifier=sources
+- pkg:maven/io.avaje/avaje-json-node@3.7-RC1?classifier=sources

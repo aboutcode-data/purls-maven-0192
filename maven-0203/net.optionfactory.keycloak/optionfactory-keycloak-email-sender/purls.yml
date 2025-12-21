@@ -148,3 +148,4 @@
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-email-sender@7.3?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-email-sender@7.4?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-email-sender@8.0?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-email-sender@8.1?classifier=sources

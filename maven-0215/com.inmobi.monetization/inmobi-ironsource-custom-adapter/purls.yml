@@ -2,3 +2,4 @@
 - pkg:maven/com.inmobi.monetization/inmobi-ironsource-custom-adapter@10.7.8.0?type=aar
 - pkg:maven/com.inmobi.monetization/inmobi-ironsource-custom-adapter@10.8.0.0?type=aar
 - pkg:maven/com.inmobi.monetization/inmobi-ironsource-custom-adapter@10.8.2.0?type=aar
+- pkg:maven/com.inmobi.monetization/inmobi-ironsource-custom-adapter@10.8.2.1?type=aar

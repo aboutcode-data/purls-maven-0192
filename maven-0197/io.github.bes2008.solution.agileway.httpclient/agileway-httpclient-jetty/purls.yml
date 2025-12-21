@@ -1,0 +1,2 @@
+- pkg:maven/io.github.bes2008.solution.agileway.httpclient/agileway-httpclient-jetty@5.2.2?classifier=sources
+- pkg:maven/io.github.bes2008.solution.agileway.httpclient/agileway-httpclient-jetty@5.2.3?classifier=sources

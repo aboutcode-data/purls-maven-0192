@@ -13,3 +13,7 @@
 - pkg:maven/org.mvnpm.at.vitejs/plugin-react@4.6.0?classifier=sources
 - pkg:maven/org.mvnpm.at.vitejs/plugin-react@4.7.0
 - pkg:maven/org.mvnpm.at.vitejs/plugin-react@4.7.0?classifier=sources
+- pkg:maven/org.mvnpm.at.vitejs/plugin-react@5.0.0
+- pkg:maven/org.mvnpm.at.vitejs/plugin-react@5.0.0?classifier=sources
+- pkg:maven/org.mvnpm.at.vitejs/plugin-react@5.0.1
+- pkg:maven/org.mvnpm.at.vitejs/plugin-react@5.0.1?classifier=sources

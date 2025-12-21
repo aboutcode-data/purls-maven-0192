@@ -34,3 +34,4 @@
 - pkg:maven/dev.gitlive/firebase-functions-android@1.9.0?classifier=sources
 - pkg:maven/dev.gitlive/firebase-functions-android@2.0.0?classifier=sources
 - pkg:maven/dev.gitlive/firebase-functions-android@2.1.0?classifier=sources
+- pkg:maven/dev.gitlive/firebase-functions-android@2.2.0?classifier=sources

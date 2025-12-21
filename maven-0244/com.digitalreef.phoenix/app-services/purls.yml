@@ -2,3 +2,5 @@
 - pkg:maven/com.digitalreef.phoenix/app-services@5.4.1?classifier=sources
 - pkg:maven/com.digitalreef.phoenix/app-services@5.5.0?classifier=sources
 - pkg:maven/com.digitalreef.phoenix/app-services@5.6.0?classifier=sources
+- pkg:maven/com.digitalreef.phoenix/app-services@5.7.0?classifier=sources
+- pkg:maven/com.digitalreef.phoenix/app-services@5.8.0?classifier=sources

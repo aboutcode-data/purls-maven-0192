@@ -1,0 +1,5 @@
+- pkg:maven/io.github.devaro95.vro/vro-compose@1.1.0?classifier=sources
+- pkg:maven/io.github.devaro95.vro/vro-compose@2.0.0?classifier=sources
+- pkg:maven/io.github.devaro95.vro/vro-compose@2.0.1?classifier=sources
+- pkg:maven/io.github.devaro95.vro/vro-compose@2.0.2?classifier=sources
+- pkg:maven/io.github.devaro95.vro/vro-compose@2.0.3?classifier=sources

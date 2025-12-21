@@ -17,3 +17,4 @@
 - pkg:maven/org.cikit/kotlin_script@2.1.0.26?classifier=sources
 - pkg:maven/org.cikit/kotlin_script@2.1.20.27?classifier=sources
 - pkg:maven/org.cikit/kotlin_script@2.2.0.28?classifier=sources
+- pkg:maven/org.cikit/kotlin_script@2.2.10.29?classifier=sources

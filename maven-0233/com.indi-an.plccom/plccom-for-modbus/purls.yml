@@ -1,1 +1,2 @@
 - pkg:maven/com.indi-an.plccom/plccom-for-modbus@8.3.8?classifier=sources
+- pkg:maven/com.indi-an.plccom/plccom-for-modbus@9.1.1?classifier=sources

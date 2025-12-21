@@ -20,3 +20,9 @@
 - pkg:maven/org.mvnpm.at.carbon/web-components@2.34.0-rc.0
 - pkg:maven/org.mvnpm.at.carbon/web-components@2.34.0-rc.0?classifier=sources
 - pkg:maven/org.mvnpm.at.carbon/web-components@2.34.0?classifier=sources
+- pkg:maven/org.mvnpm.at.carbon/web-components@2.34.1
+- pkg:maven/org.mvnpm.at.carbon/web-components@2.34.1?classifier=sources
+- pkg:maven/org.mvnpm.at.carbon/web-components@2.35.0
+- pkg:maven/org.mvnpm.at.carbon/web-components@2.35.0?classifier=sources
+- pkg:maven/org.mvnpm.at.carbon/web-components@2.36.0
+- pkg:maven/org.mvnpm.at.carbon/web-components@2.36.0?classifier=sources

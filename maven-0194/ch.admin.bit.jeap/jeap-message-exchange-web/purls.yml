@@ -13,3 +13,6 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-message-exchange-web@2.22.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-message-exchange-web@2.23.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-message-exchange-web@2.24.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-message-exchange-web@2.25.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-message-exchange-web@2.26.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-message-exchange-web@2.27.0?classifier=sources

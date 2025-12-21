@@ -129,3 +129,4 @@
 - pkg:maven/com.mappedin.sdk/mappedin@5.1.0?type=aar
 - pkg:maven/com.mappedin.sdk/mappedin@5.2.0?type=aar
 - pkg:maven/com.mappedin.sdk/mappedin@5.2.1?type=aar
+- pkg:maven/com.mappedin.sdk/mappedin@5.9.1-alpha-1?classifier=sources

@@ -246,6 +246,8 @@
 - pkg:maven/com.google.api.grpc/proto-google-common-protos@2.59.2?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-common-protos@2.6.0
 - pkg:maven/com.google.api.grpc/proto-google-common-protos@2.6.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-common-protos@2.60.0
+- pkg:maven/com.google.api.grpc/proto-google-common-protos@2.60.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-common-protos@2.7.0
 - pkg:maven/com.google.api.grpc/proto-google-common-protos@2.7.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-common-protos@2.7.1

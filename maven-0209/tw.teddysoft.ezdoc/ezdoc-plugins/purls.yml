@@ -4,3 +4,4 @@
 - pkg:maven/tw.teddysoft.ezdoc/ezdoc-plugins@0.0.2-beta?classifier=sources
 - pkg:maven/tw.teddysoft.ezdoc/ezdoc-plugins@0.0.3
 - pkg:maven/tw.teddysoft.ezdoc/ezdoc-plugins@0.0.3?classifier=sources
+- pkg:maven/tw.teddysoft.ezdoc/ezdoc-plugins@1.0.0?classifier=sources

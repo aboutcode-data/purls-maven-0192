@@ -86,3 +86,4 @@
 - pkg:maven/com.github.marc-christian-schulze.structs4java/structs4java-core@1.2.6?classifier=sources
 - pkg:maven/com.github.marc-christian-schulze.structs4java/structs4java-core@1.2.7?classifier=sources
 - pkg:maven/com.github.marc-christian-schulze.structs4java/structs4java-core@1.2.8?classifier=sources
+- pkg:maven/com.github.marc-christian-schulze.structs4java/structs4java-core@1.2.9?classifier=sources

@@ -26,4 +26,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javawebstart@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javawebstart@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javawebstart@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javawebstart@RELEASE270?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javawebstart@RELEASE90?classifier=sources

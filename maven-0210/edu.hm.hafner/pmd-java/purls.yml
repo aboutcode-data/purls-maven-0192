@@ -8,6 +8,7 @@
 - pkg:maven/edu.hm.hafner/pmd-java@7.14.0-metrics?classifier=sources
 - pkg:maven/edu.hm.hafner/pmd-java@7.15.0-metrics
 - pkg:maven/edu.hm.hafner/pmd-java@7.15.0-metrics?classifier=sources
+- pkg:maven/edu.hm.hafner/pmd-java@7.16.0-metrics?classifier=sources
 - pkg:maven/edu.hm.hafner/pmd-java@7.5.0-metrics
 - pkg:maven/edu.hm.hafner/pmd-java@7.5.0-metrics?classifier=sources
 - pkg:maven/edu.hm.hafner/pmd-java@7.7.0-metrics

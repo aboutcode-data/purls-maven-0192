@@ -16,3 +16,4 @@
 - pkg:maven/io.github.suppierk/spring-boot-multilevel-cache-starter@3.4.5.0?classifier=sources
 - pkg:maven/io.github.suppierk/spring-boot-multilevel-cache-starter@3.5.0.0?classifier=sources
 - pkg:maven/io.github.suppierk/spring-boot-multilevel-cache-starter@3.5.3.0?classifier=sources
+- pkg:maven/io.github.suppierk/spring-boot-multilevel-cache-starter@3.5.4.0?classifier=sources

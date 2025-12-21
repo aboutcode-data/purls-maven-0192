@@ -1,3 +1,5 @@
 - pkg:maven/com.indigitall/android-commons@5.19.0?classifier=sources
 - pkg:maven/com.indigitall/android-commons@5.20.0?classifier=sources
 - pkg:maven/com.indigitall/android-commons@5.20.1?classifier=sources
+- pkg:maven/com.indigitall/android-commons@5.20.2?classifier=sources
+- pkg:maven/com.indigitall/android-commons@5.21.0?classifier=sources

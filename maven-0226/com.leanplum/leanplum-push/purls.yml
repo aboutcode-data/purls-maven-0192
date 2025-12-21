@@ -56,3 +56,4 @@
 - pkg:maven/com.leanplum/leanplum-push@7.6.2?classifier=sources
 - pkg:maven/com.leanplum/leanplum-push@7.6.3?classifier=sources
 - pkg:maven/com.leanplum/leanplum-push@7.7.0?classifier=sources
+- pkg:maven/com.leanplum/leanplum-push@7.8.0?classifier=sources

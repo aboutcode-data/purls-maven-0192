@@ -1,1 +1,3 @@
 - pkg:maven/com.onfido.sdk/onfido-devtools-bridge@22.10.0?classifier=sources
+- pkg:maven/com.onfido.sdk/onfido-devtools-bridge@23.0.0?classifier=sources
+- pkg:maven/com.onfido.sdk/onfido-devtools-bridge@23.1.0?classifier=sources

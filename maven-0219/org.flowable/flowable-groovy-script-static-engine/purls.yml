@@ -42,3 +42,4 @@
 - pkg:maven/org.flowable/flowable-groovy-script-static-engine@7.0.1?classifier=sources
 - pkg:maven/org.flowable/flowable-groovy-script-static-engine@7.1.0
 - pkg:maven/org.flowable/flowable-groovy-script-static-engine@7.1.0?classifier=sources
+- pkg:maven/org.flowable/flowable-groovy-script-static-engine@7.2.0?classifier=sources

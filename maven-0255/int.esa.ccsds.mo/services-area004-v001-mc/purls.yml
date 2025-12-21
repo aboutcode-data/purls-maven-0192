@@ -1,0 +1,2 @@
+- pkg:maven/int.esa.ccsds.mo/services-area004-v001-mc@12.2
+- pkg:maven/int.esa.ccsds.mo/services-area004-v001-mc@12.2?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/org.apache.skywalking/kafka-config-extension@9.2.0
 - pkg:maven/org.apache.skywalking/kafka-config-extension@9.3.0
 - pkg:maven/org.apache.skywalking/kafka-config-extension@9.4.0
+- pkg:maven/org.apache.skywalking/kafka-config-extension@9.5.0

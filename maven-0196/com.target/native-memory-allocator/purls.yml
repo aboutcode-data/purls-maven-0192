@@ -1,0 +1,2 @@
+- pkg:maven/com.target/native-memory-allocator@3.0.7?classifier=sources
+- pkg:maven/com.target/native-memory-allocator@3.0.8?classifier=sources

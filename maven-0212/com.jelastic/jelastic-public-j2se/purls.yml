@@ -122,6 +122,7 @@
 - pkg:maven/com.jelastic/jelastic-public-j2se@8.12-1?classifier=sources
 - pkg:maven/com.jelastic/jelastic-public-j2se@8.13-1
 - pkg:maven/com.jelastic/jelastic-public-j2se@8.13-1?classifier=sources
+- pkg:maven/com.jelastic/jelastic-public-j2se@8.14-2?classifier=sources
 - pkg:maven/com.jelastic/jelastic-public-j2se@8.14.1?classifier=sources
 - pkg:maven/com.jelastic/jelastic-public-j2se@8.2-1
 - pkg:maven/com.jelastic/jelastic-public-j2se@8.2-1?classifier=sources

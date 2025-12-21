@@ -9,3 +9,4 @@
 - pkg:maven/com.cognitect.aws/entityresolution@871.2.31.23
 - pkg:maven/com.cognitect.aws/entityresolution@871.2.31.23?classifier=sources
 - pkg:maven/com.cognitect.aws/entityresolution@871.2.31.64?classifier=sources
+- pkg:maven/com.cognitect.aws/entityresolution@871.2.32.15?classifier=sources

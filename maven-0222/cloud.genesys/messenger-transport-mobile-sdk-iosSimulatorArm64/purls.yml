@@ -1,5 +1,6 @@
 - pkg:maven/cloud.genesys/messenger-transport-mobile-sdk-iosSimulatorArm64@2.0.0?classifier=sources
 - pkg:maven/cloud.genesys/messenger-transport-mobile-sdk-iosSimulatorArm64@2.1.0?classifier=sources
+- pkg:maven/cloud.genesys/messenger-transport-mobile-sdk-iosSimulatorArm64@2.10.0-rc1?classifier=sources
 - pkg:maven/cloud.genesys/messenger-transport-mobile-sdk-iosSimulatorArm64@2.2.0?classifier=sources
 - pkg:maven/cloud.genesys/messenger-transport-mobile-sdk-iosSimulatorArm64@2.3.0?classifier=sources
 - pkg:maven/cloud.genesys/messenger-transport-mobile-sdk-iosSimulatorArm64@2.3.1?classifier=sources
@@ -36,9 +37,15 @@
 - pkg:maven/cloud.genesys/messenger-transport-mobile-sdk-iosSimulatorArm64@2.8.6?classifier=sources
 - pkg:maven/cloud.genesys/messenger-transport-mobile-sdk-iosSimulatorArm64@2.8.7-rc1?classifier=sources
 - pkg:maven/cloud.genesys/messenger-transport-mobile-sdk-iosSimulatorArm64@2.8.7-rc2?classifier=sources
+- pkg:maven/cloud.genesys/messenger-transport-mobile-sdk-iosSimulatorArm64@2.8.7?classifier=sources
 - pkg:maven/cloud.genesys/messenger-transport-mobile-sdk-iosSimulatorArm64@2.9.0-rc1?classifier=sources
 - pkg:maven/cloud.genesys/messenger-transport-mobile-sdk-iosSimulatorArm64@2.9.0-rc4?classifier=sources
 - pkg:maven/cloud.genesys/messenger-transport-mobile-sdk-iosSimulatorArm64@2.9.0-rc5?classifier=sources
+- pkg:maven/cloud.genesys/messenger-transport-mobile-sdk-iosSimulatorArm64@2.9.0-rc6-fix-reg-poc?classifier=sources
 - pkg:maven/cloud.genesys/messenger-transport-mobile-sdk-iosSimulatorArm64@2.9.0-rc6?classifier=sources
+- pkg:maven/cloud.genesys/messenger-transport-mobile-sdk-iosSimulatorArm64@2.9.0-rc7?classifier=sources
+- pkg:maven/cloud.genesys/messenger-transport-mobile-sdk-iosSimulatorArm64@2.9.0-rc8?classifier=sources
 - pkg:maven/cloud.genesys/messenger-transport-mobile-sdk-iosSimulatorArm64@2.9.0.2?classifier=sources
 - pkg:maven/cloud.genesys/messenger-transport-mobile-sdk-iosSimulatorArm64@2.9.0.3?classifier=sources
+- pkg:maven/cloud.genesys/messenger-transport-mobile-sdk-iosSimulatorArm64@2.9.0?classifier=sources
+- pkg:maven/cloud.genesys/messenger-transport-mobile-sdk-iosSimulatorArm64@2.9.1?classifier=sources

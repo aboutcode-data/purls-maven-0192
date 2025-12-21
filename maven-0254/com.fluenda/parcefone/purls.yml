@@ -4,3 +4,4 @@
 - pkg:maven/com.fluenda/parcefone@2.1.0?classifier=sources
 - pkg:maven/com.fluenda/parcefone@3.0.0
 - pkg:maven/com.fluenda/parcefone@3.0.0?classifier=sources
+- pkg:maven/com.fluenda/parcefone@3.1.0?classifier=sources

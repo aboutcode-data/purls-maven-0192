@@ -26,4 +26,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-projectsupport@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-projectsupport@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-projectsupport@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-projectsupport@RELEASE270?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-projectsupport@RELEASE90?classifier=sources

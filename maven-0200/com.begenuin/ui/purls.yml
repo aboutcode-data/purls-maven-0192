@@ -1,0 +1,4 @@
+- pkg:maven/com.begenuin/ui@0.2.1.b?classifier=sources
+- pkg:maven/com.begenuin/ui@0.2.b?classifier=sources
+- pkg:maven/com.begenuin/ui@2.0.0?classifier=sources
+- pkg:maven/com.begenuin/ui@2.0.1?classifier=sources

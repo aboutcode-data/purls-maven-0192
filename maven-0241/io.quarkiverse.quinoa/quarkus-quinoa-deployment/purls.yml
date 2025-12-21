@@ -128,3 +128,6 @@
 - pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-deployment@2.5.3?classifier=sources
 - pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-deployment@2.5.4?classifier=sources
 - pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-deployment@2.5.5?classifier=sources
+- pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-deployment@2.6.0?classifier=sources
+- pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-deployment@2.6.1?classifier=sources
+- pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-deployment@2.6.2?classifier=sources

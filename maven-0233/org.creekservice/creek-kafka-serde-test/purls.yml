@@ -1,1 +1,2 @@
 - pkg:maven/org.creekservice/creek-kafka-serde-test@0.4.1?classifier=sources
+- pkg:maven/org.creekservice/creek-kafka-serde-test@0.4.3?classifier=sources

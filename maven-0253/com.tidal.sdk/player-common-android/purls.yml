@@ -14,3 +14,4 @@
 - pkg:maven/com.tidal.sdk/player-common-android@0.0.52?classifier=sources
 - pkg:maven/com.tidal.sdk/player-common-android@0.0.53?classifier=sources
 - pkg:maven/com.tidal.sdk/player-common-android@0.0.54?classifier=sources
+- pkg:maven/com.tidal.sdk/player-common-android@0.0.55?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.linecorp.armeria/armeria-thrift0.21@1.33.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-thrift0.21@1.33.1?classifier=sources
