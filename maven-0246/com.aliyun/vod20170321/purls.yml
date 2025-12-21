@@ -87,3 +87,4 @@
 - pkg:maven/com.aliyun/vod20170321@3.7.0?classifier=sources
 - pkg:maven/com.aliyun/vod20170321@3.7.1?classifier=sources
 - pkg:maven/com.aliyun/vod20170321@3.8.0?classifier=sources
+- pkg:maven/com.aliyun/vod20170321@3.8.1?classifier=sources

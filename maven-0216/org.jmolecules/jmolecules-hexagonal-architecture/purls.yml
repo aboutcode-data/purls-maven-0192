@@ -14,3 +14,4 @@
 - pkg:maven/org.jmolecules/jmolecules-hexagonal-architecture@2.0.0-RC1?classifier=sources
 - pkg:maven/org.jmolecules/jmolecules-hexagonal-architecture@2.0.0-RC2?classifier=sources
 - pkg:maven/org.jmolecules/jmolecules-hexagonal-architecture@2.0.0?classifier=sources
+- pkg:maven/org.jmolecules/jmolecules-hexagonal-architecture@2.0.1?classifier=sources

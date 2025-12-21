@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.opentelemetry.android/kotlin-sdk-auth@0.0.0?classifier=sources
+- pkg:maven/software.amazon.opentelemetry.android/kotlin-sdk-auth@1.0.0?classifier=sources

@@ -2,3 +2,6 @@
 - pkg:maven/com.github.xpenatan.jParser/idl-teavm@1.0.0-b25?classifier=sources
 - pkg:maven/com.github.xpenatan.jParser/idl-teavm@1.0.0-b26?classifier=sources
 - pkg:maven/com.github.xpenatan.jParser/idl-teavm@1.0.0-b27?classifier=sources
+- pkg:maven/com.github.xpenatan.jParser/idl-teavm@1.0.0-b28?classifier=sources
+- pkg:maven/com.github.xpenatan.jParser/idl-teavm@1.0.0-b29?classifier=sources
+- pkg:maven/com.github.xpenatan.jParser/idl-teavm@1.0.0-b30?classifier=sources

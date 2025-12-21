@@ -1,0 +1,1 @@
+- pkg:maven/jakarta.cdi/jakarta.cdi-tck-lang-model@5.0.0.Alpha2?classifier=sources

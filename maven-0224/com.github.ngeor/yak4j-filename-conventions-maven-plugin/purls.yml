@@ -22,6 +22,7 @@
 - pkg:maven/com.github.ngeor/yak4j-filename-conventions-maven-plugin@0.18.2?classifier=sources
 - pkg:maven/com.github.ngeor/yak4j-filename-conventions-maven-plugin@0.18.3
 - pkg:maven/com.github.ngeor/yak4j-filename-conventions-maven-plugin@0.18.3?classifier=sources
+- pkg:maven/com.github.ngeor/yak4j-filename-conventions-maven-plugin@0.18.4?classifier=sources
 - pkg:maven/com.github.ngeor/yak4j-filename-conventions-maven-plugin@0.8.0
 - pkg:maven/com.github.ngeor/yak4j-filename-conventions-maven-plugin@0.8.0?classifier=sources
 - pkg:maven/com.github.ngeor/yak4j-filename-conventions-maven-plugin@0.9.0

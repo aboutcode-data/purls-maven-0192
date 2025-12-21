@@ -45,3 +45,5 @@
 - pkg:maven/org.mvnpm.at.carbon/react@1.94.2?classifier=sources
 - pkg:maven/org.mvnpm.at.carbon/react@1.95.0
 - pkg:maven/org.mvnpm.at.carbon/react@1.95.0?classifier=sources
+- pkg:maven/org.mvnpm.at.carbon/react@1.96.0
+- pkg:maven/org.mvnpm.at.carbon/react@1.96.0?classifier=sources

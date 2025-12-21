@@ -2,3 +2,11 @@
 - pkg:maven/software.sava/idl-clients-jupiter@25.1.5?classifier=sources
 - pkg:maven/software.sava/idl-clients-jupiter@25.1.8?classifier=sources
 - pkg:maven/software.sava/idl-clients-jupiter@25.1.9?classifier=sources
+- pkg:maven/software.sava/idl-clients-jupiter@25.2.1?classifier=sources
+- pkg:maven/software.sava/idl-clients-jupiter@25.2.2?classifier=sources
+- pkg:maven/software.sava/idl-clients-jupiter@25.2.3?classifier=sources
+- pkg:maven/software.sava/idl-clients-jupiter@25.3.0?classifier=sources
+- pkg:maven/software.sava/idl-clients-jupiter@25.3.1?classifier=sources
+- pkg:maven/software.sava/idl-clients-jupiter@25.3.3?classifier=sources
+- pkg:maven/software.sava/idl-clients-jupiter@25.3.4?classifier=sources
+- pkg:maven/software.sava/idl-clients-jupiter@25.4.0?classifier=sources

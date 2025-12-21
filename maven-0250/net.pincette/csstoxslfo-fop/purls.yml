@@ -1,0 +1,3 @@
+- pkg:maven/net.pincette/csstoxslfo-fop@2.2.2?classifier=sources
+- pkg:maven/net.pincette/csstoxslfo-fop@2.2.3?classifier=sources
+- pkg:maven/net.pincette/csstoxslfo-fop@2.2.4?classifier=sources

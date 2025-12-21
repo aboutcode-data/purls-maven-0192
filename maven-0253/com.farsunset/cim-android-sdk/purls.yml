@@ -22,3 +22,5 @@
 - pkg:maven/com.farsunset/cim-android-sdk@4.2.8?classifier=sources
 - pkg:maven/com.farsunset/cim-android-sdk@4.2.9
 - pkg:maven/com.farsunset/cim-android-sdk@4.2.9?classifier=sources
+- pkg:maven/com.farsunset/cim-android-sdk@4.3.0?classifier=sources
+- pkg:maven/com.farsunset/cim-android-sdk@4.3.1?classifier=sources

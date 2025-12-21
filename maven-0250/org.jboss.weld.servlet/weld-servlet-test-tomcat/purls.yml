@@ -406,3 +406,4 @@
 - pkg:maven/org.jboss.weld.servlet/weld-servlet-test-tomcat@6.0.2.Final
 - pkg:maven/org.jboss.weld.servlet/weld-servlet-test-tomcat@6.0.2.Final?classifier=sources
 - pkg:maven/org.jboss.weld.servlet/weld-servlet-test-tomcat@6.0.3.Final?classifier=sources
+- pkg:maven/org.jboss.weld.servlet/weld-servlet-test-tomcat@7.0.0.Alpha1?classifier=sources

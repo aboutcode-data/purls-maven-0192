@@ -72,3 +72,7 @@
 - pkg:maven/de.gesellix/docker-client@2025-11-12T21-15-00?classifier=sources
 - pkg:maven/de.gesellix/docker-client@2025-11-14T09-45-00-groovy-4?classifier=sources
 - pkg:maven/de.gesellix/docker-client@2025-11-14T09-45-00?classifier=sources
+- pkg:maven/de.gesellix/docker-client@2025-11-20T23-00-00-groovy-4?classifier=sources
+- pkg:maven/de.gesellix/docker-client@2025-11-20T23-00-00?classifier=sources
+- pkg:maven/de.gesellix/docker-client@2025-11-30T22-30-00-groovy-4?classifier=sources
+- pkg:maven/de.gesellix/docker-client@2025-11-30T22-30-00?classifier=sources

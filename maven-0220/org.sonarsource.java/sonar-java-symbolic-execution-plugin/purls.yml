@@ -23,3 +23,4 @@
 - pkg:maven/org.sonarsource.java/sonar-java-symbolic-execution-plugin@8.9.1.38281?classifier=sources
 - pkg:maven/org.sonarsource.java/sonar-java-symbolic-execution-plugin@8.9.2.39294?classifier=sources
 - pkg:maven/org.sonarsource.java/sonar-java-symbolic-execution-plugin@8.9.3.40165?classifier=sources
+- pkg:maven/org.sonarsource.java/sonar-java-symbolic-execution-plugin@8.9.4.40912?classifier=sources

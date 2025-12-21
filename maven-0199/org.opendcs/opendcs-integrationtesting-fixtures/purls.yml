@@ -7,3 +7,5 @@
 - pkg:maven/org.opendcs/opendcs-integrationtesting-fixtures@7.5.1-RC11?classifier=sources
 - pkg:maven/org.opendcs/opendcs-integrationtesting-fixtures@7.5.1-RC12?classifier=sources
 - pkg:maven/org.opendcs/opendcs-integrationtesting-fixtures@7.5.1-RC13?classifier=sources
+- pkg:maven/org.opendcs/opendcs-integrationtesting-fixtures@7.5.1-RC14?classifier=sources
+- pkg:maven/org.opendcs/opendcs-integrationtesting-fixtures@7.5.1-RC17?classifier=sources

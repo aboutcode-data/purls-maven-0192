@@ -2,3 +2,4 @@
 - pkg:maven/org.firebirdsql.embedded/jaybird-firebird-embedded-win32-x86-64@4.0.2.0-alpha-1?classifier=sources
 - pkg:maven/org.firebirdsql.embedded/jaybird-firebird-embedded-win32-x86-64@4.0.4.0-alpha-1
 - pkg:maven/org.firebirdsql.embedded/jaybird-firebird-embedded-win32-x86-64@4.0.4.0-alpha-1?classifier=sources
+- pkg:maven/org.firebirdsql.embedded/jaybird-firebird-embedded-win32-x86-64@5.0.3.0-alpha-1?classifier=sources

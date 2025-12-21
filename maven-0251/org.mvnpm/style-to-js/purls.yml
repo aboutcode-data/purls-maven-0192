@@ -7,3 +7,5 @@
 - pkg:maven/org.mvnpm/style-to-js@1.1.19?classifier=sources
 - pkg:maven/org.mvnpm/style-to-js@1.1.20
 - pkg:maven/org.mvnpm/style-to-js@1.1.20?classifier=sources
+- pkg:maven/org.mvnpm/style-to-js@1.1.21
+- pkg:maven/org.mvnpm/style-to-js@1.1.21?classifier=sources

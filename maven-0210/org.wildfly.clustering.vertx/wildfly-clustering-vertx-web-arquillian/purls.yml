@@ -4,3 +4,4 @@
 - pkg:maven/org.wildfly.clustering.vertx/wildfly-clustering-vertx-web-arquillian@1.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering.vertx/wildfly-clustering-vertx-web-arquillian@2.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering.vertx/wildfly-clustering-vertx-web-arquillian@3.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering.vertx/wildfly-clustering-vertx-web-arquillian@3.5.0.Final?classifier=sources

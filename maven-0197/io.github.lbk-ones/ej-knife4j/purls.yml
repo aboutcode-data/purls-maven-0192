@@ -1,0 +1,2 @@
+- pkg:maven/io.github.lbk-ones/ej-knife4j@1.0.0?classifier=sources
+- pkg:maven/io.github.lbk-ones/ej-knife4j@2.0.0?classifier=sources

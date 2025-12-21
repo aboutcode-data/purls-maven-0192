@@ -13,3 +13,4 @@
 - pkg:maven/ru.astrainteractive.astralibs/core-forge@3.28.3?classifier=sources
 - pkg:maven/ru.astrainteractive.astralibs/core-forge@3.28.4?classifier=sources
 - pkg:maven/ru.astrainteractive.astralibs/core-forge@3.29.0?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/core-forge@3.29.1?classifier=sources

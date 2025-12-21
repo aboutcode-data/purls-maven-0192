@@ -28,3 +28,7 @@
 - pkg:maven/money.onramp.onrampwebview/OnrampSDK@1.2.4-beta?type=aar
 - pkg:maven/money.onramp.onrampwebview/OnrampSDK@1.2.5-beta?classifier=sources
 - pkg:maven/money.onramp.onrampwebview/OnrampSDK@1.2.5-beta?type=aar
+- pkg:maven/money.onramp.onrampwebview/OnrampSDK@1.2.6-beta?classifier=sources
+- pkg:maven/money.onramp.onrampwebview/OnrampSDK@1.2.6-beta?type=aar
+- pkg:maven/money.onramp.onrampwebview/OnrampSDK@1.2.7?classifier=sources
+- pkg:maven/money.onramp.onrampwebview/OnrampSDK@1.2.7?type=aar

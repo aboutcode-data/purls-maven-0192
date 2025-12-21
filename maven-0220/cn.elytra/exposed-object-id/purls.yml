@@ -1,0 +1,2 @@
+- pkg:maven/cn.elytra/exposed-object-id@1.0.0?classifier=sources
+- pkg:maven/cn.elytra/exposed-object-id@1.0.1-rc?classifier=sources

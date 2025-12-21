@@ -19,6 +19,7 @@
 - pkg:maven/io.github.salute-developers/sdds-uikit@0.28.0?classifier=sources
 - pkg:maven/io.github.salute-developers/sdds-uikit@0.29.0?classifier=sources
 - pkg:maven/io.github.salute-developers/sdds-uikit@0.3.0?classifier=sources
+- pkg:maven/io.github.salute-developers/sdds-uikit@0.30.0?classifier=sources
 - pkg:maven/io.github.salute-developers/sdds-uikit@0.4.0?classifier=sources
 - pkg:maven/io.github.salute-developers/sdds-uikit@0.5.0?classifier=sources
 - pkg:maven/io.github.salute-developers/sdds-uikit@0.6.0?classifier=sources

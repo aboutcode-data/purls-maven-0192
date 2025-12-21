@@ -52,3 +52,4 @@
 - pkg:maven/no.ks.fiks/kryptering@2.0.7?classifier=sources
 - pkg:maven/no.ks.fiks/kryptering@2.0.8
 - pkg:maven/no.ks.fiks/kryptering@2.0.8?classifier=sources
+- pkg:maven/no.ks.fiks/kryptering@2.1.0?classifier=sources

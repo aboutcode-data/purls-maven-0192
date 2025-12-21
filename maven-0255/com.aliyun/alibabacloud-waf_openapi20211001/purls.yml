@@ -87,3 +87,5 @@
 - pkg:maven/com.aliyun/alibabacloud-waf_openapi20211001@6.0.8?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-waf_openapi20211001@6.0.9?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-waf_openapi20211001@7.0.0?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-waf_openapi20211001@7.0.1?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-waf_openapi20211001@7.0.2?classifier=sources

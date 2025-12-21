@@ -25,3 +25,4 @@
 - pkg:maven/org.ossreviewtoolkit.clients/foojay@71.2.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/foojay@71.3.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/foojay@71.4.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/foojay@71.5.0?classifier=sources

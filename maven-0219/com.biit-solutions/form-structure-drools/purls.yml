@@ -1,1 +1,2 @@
+- pkg:maven/com.biit-solutions/form-structure-drools@1.0.71?classifier=sources
 - pkg:maven/com.biit-solutions/form-structure-drools@1.2.118?classifier=sources

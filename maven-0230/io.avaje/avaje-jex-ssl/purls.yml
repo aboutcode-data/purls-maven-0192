@@ -2,3 +2,4 @@
 - pkg:maven/io.avaje/avaje-jex-ssl@3.3-RC4?classifier=sources
 - pkg:maven/io.avaje/avaje-jex-ssl@3.3-RC5?classifier=sources
 - pkg:maven/io.avaje/avaje-jex-ssl@3.3?classifier=sources
+- pkg:maven/io.avaje/avaje-jex-ssl@3.4-RC1?classifier=sources

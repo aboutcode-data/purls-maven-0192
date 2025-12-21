@@ -1,0 +1,2 @@
+- pkg:maven/com.smushytaco/friend-api@1.0.14?classifier=sources
+- pkg:maven/com.smushytaco/friend-api@1.0.15?classifier=sources

@@ -86,3 +86,5 @@
 - pkg:maven/com.xceptance/xlt@9.1.1?classifier=sources
 - pkg:maven/com.xceptance/xlt@9.1.2?classifier=sources
 - pkg:maven/com.xceptance/xlt@9.2.0?classifier=sources
+- pkg:maven/com.xceptance/xlt@9.2.1?classifier=sources
+- pkg:maven/com.xceptance/xlt@9.2.2?classifier=sources

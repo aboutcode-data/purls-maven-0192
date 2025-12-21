@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.shenyu/shenyu-register-client-beat@2.7.0.3
+- pkg:maven/org.apache.shenyu/shenyu-register-client-beat@2.7.0.3?classifier=sources

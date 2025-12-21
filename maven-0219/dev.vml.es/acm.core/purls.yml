@@ -1,5 +1,6 @@
 - pkg:maven/dev.vml.es/acm.core@0.1.0-beta30?classifier=sources
 - pkg:maven/dev.vml.es/acm.core@0.9.0?classifier=sources
+- pkg:maven/dev.vml.es/acm.core@0.9.100?classifier=sources
 - pkg:maven/dev.vml.es/acm.core@0.9.10?classifier=sources
 - pkg:maven/dev.vml.es/acm.core@0.9.11?classifier=sources
 - pkg:maven/dev.vml.es/acm.core@0.9.12?classifier=sources
@@ -94,4 +95,8 @@
 - pkg:maven/dev.vml.es/acm.core@0.9.95?classifier=sources
 - pkg:maven/dev.vml.es/acm.core@0.9.96?classifier=sources
 - pkg:maven/dev.vml.es/acm.core@0.9.97?classifier=sources
+- pkg:maven/dev.vml.es/acm.core@0.9.98?classifier=sources
+- pkg:maven/dev.vml.es/acm.core@0.9.99?classifier=sources
 - pkg:maven/dev.vml.es/acm.core@0.9.9?classifier=sources
+- pkg:maven/dev.vml.es/acm.core@1.0.0?classifier=sources
+- pkg:maven/dev.vml.es/acm.core@1.0.1?classifier=sources

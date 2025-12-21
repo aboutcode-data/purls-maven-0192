@@ -150,6 +150,9 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-core-js@2025.10.9-1.8.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-core-js@2025.11.0-1.8.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-core-js@2025.11.1-1.8.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-core-js@2025.11.10-1.8.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-core-js@2025.11.11-1.8.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-core-js@2025.11.12-1.8.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-core-js@2025.11.2-1.8.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-core-js@2025.11.3-1.8.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-core-js@2025.11.4-1.8.0?classifier=sources

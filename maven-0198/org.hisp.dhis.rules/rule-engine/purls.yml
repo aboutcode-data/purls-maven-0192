@@ -129,3 +129,4 @@
 - pkg:maven/org.hisp.dhis.rules/rule-engine@3.3.7?classifier=sources
 - pkg:maven/org.hisp.dhis.rules/rule-engine@3.3.8?classifier=sources
 - pkg:maven/org.hisp.dhis.rules/rule-engine@3.3.9?classifier=sources
+- pkg:maven/org.hisp.dhis.rules/rule-engine@3.4.0?classifier=sources

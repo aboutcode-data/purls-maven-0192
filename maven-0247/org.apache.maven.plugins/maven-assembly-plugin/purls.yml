@@ -95,3 +95,6 @@
 - pkg:maven/org.apache.maven.plugins/maven-assembly-plugin@3.7.1
 - pkg:maven/org.apache.maven.plugins/maven-assembly-plugin@3.7.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.plugins/maven-assembly-plugin@3.7.1?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-assembly-plugin@3.8.0
+- pkg:maven/org.apache.maven.plugins/maven-assembly-plugin@3.8.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-assembly-plugin@3.8.0?classifier=sources

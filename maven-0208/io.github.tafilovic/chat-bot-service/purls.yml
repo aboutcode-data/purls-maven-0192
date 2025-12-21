@@ -1,6 +1,7 @@
 - pkg:maven/io.github.tafilovic/chat-bot-service@0.0.1-SHAPSHOT?type=aar
 - pkg:maven/io.github.tafilovic/chat-bot-service@0.0.10?type=aar
 - pkg:maven/io.github.tafilovic/chat-bot-service@0.0.12?type=aar
+- pkg:maven/io.github.tafilovic/chat-bot-service@0.0.13?type=aar
 - pkg:maven/io.github.tafilovic/chat-bot-service@0.0.2?type=aar
 - pkg:maven/io.github.tafilovic/chat-bot-service@0.0.3?type=aar
 - pkg:maven/io.github.tafilovic/chat-bot-service@0.0.4?type=aar

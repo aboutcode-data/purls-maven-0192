@@ -4,3 +4,10 @@
 - pkg:maven/io.airlift/api@375?classifier=sources
 - pkg:maven/io.airlift/api@376?classifier=sources
 - pkg:maven/io.airlift/api@377?classifier=sources
+- pkg:maven/io.airlift/api@378?classifier=sources
+- pkg:maven/io.airlift/api@379?classifier=sources
+- pkg:maven/io.airlift/api@380?classifier=sources
+- pkg:maven/io.airlift/api@381?classifier=sources
+- pkg:maven/io.airlift/api@382?classifier=sources
+- pkg:maven/io.airlift/api@383?classifier=sources
+- pkg:maven/io.airlift/api@384?classifier=sources

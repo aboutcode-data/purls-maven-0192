@@ -6,3 +6,4 @@
 - pkg:maven/com.github.workerframework/worker-message-prioritization-distribution-container@2.3.1-432
 - pkg:maven/com.github.workerframework/worker-message-prioritization-distribution-container@2.3.2-445
 - pkg:maven/com.github.workerframework/worker-message-prioritization-distribution-container@2.3.3-490
+- pkg:maven/com.github.workerframework/worker-message-prioritization-distribution-container@2.3.4-505

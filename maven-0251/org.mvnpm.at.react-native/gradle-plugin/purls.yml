@@ -1,4 +1,8 @@
 - pkg:maven/org.mvnpm.at.react-native/gradle-plugin@0.74.0
 - pkg:maven/org.mvnpm.at.react-native/gradle-plugin@0.74.0?classifier=sources
+- pkg:maven/org.mvnpm.at.react-native/gradle-plugin@0.76.9
+- pkg:maven/org.mvnpm.at.react-native/gradle-plugin@0.76.9?classifier=sources
 - pkg:maven/org.mvnpm.at.react-native/gradle-plugin@0.81.0
 - pkg:maven/org.mvnpm.at.react-native/gradle-plugin@0.81.0?classifier=sources
+- pkg:maven/org.mvnpm.at.react-native/gradle-plugin@0.82.1
+- pkg:maven/org.mvnpm.at.react-native/gradle-plugin@0.82.1?classifier=sources

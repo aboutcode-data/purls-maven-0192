@@ -416,6 +416,7 @@
 - pkg:maven/berlin.yuna/nats-streaming-server-embedded@0.25.7-rc.13
 - pkg:maven/berlin.yuna/nats-streaming-server-embedded@0.25.7-rc.130?classifier=sources
 - pkg:maven/berlin.yuna/nats-streaming-server-embedded@0.25.7-rc.131?classifier=sources
+- pkg:maven/berlin.yuna/nats-streaming-server-embedded@0.25.7-rc.132?classifier=sources
 - pkg:maven/berlin.yuna/nats-streaming-server-embedded@0.25.7-rc.13?classifier=sources
 - pkg:maven/berlin.yuna/nats-streaming-server-embedded@0.25.7-rc.14
 - pkg:maven/berlin.yuna/nats-streaming-server-embedded@0.25.7-rc.14?classifier=sources

@@ -86,3 +86,4 @@
 - pkg:maven/org.opencds.cqf.fhir/cqf-fhir-test@3.8.0?classifier=sources
 - pkg:maven/org.opencds.cqf.fhir/cqf-fhir-test@3.9.0
 - pkg:maven/org.opencds.cqf.fhir/cqf-fhir-test@3.9.0?classifier=sources
+- pkg:maven/org.opencds.cqf.fhir/cqf-fhir-test@4.0.0?classifier=sources

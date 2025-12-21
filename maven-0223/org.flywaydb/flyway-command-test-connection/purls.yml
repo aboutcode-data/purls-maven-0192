@@ -1,2 +1,5 @@
 - pkg:maven/org.flywaydb/flyway-command-test-connection@11.16.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-command-test-connection@11.17.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-command-test-connection@11.17.1?classifier=sources
+- pkg:maven/org.flywaydb/flyway-command-test-connection@11.17.2?classifier=sources
+- pkg:maven/org.flywaydb/flyway-command-test-connection@11.18.0?classifier=sources

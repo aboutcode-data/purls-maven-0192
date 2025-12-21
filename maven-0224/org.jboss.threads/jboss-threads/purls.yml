@@ -76,6 +76,8 @@
 - pkg:maven/org.jboss.threads/jboss-threads@2.4.0.Final
 - pkg:maven/org.jboss.threads/jboss-threads@2.4.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.threads/jboss-threads@2.4.0.Final?classifier=sources
+- pkg:maven/org.jboss.threads/jboss-threads@2.5.0?classifier=source-release&type=zip
+- pkg:maven/org.jboss.threads/jboss-threads@2.5.0?classifier=sources
 - pkg:maven/org.jboss.threads/jboss-threads@3.0.0.Alpha1
 - pkg:maven/org.jboss.threads/jboss-threads@3.0.0.Alpha1?classifier=source-release&type=zip
 - pkg:maven/org.jboss.threads/jboss-threads@3.0.0.Alpha1?classifier=sources
@@ -158,3 +160,5 @@
 - pkg:maven/org.jboss.threads/jboss-threads@3.9.1
 - pkg:maven/org.jboss.threads/jboss-threads@3.9.1?classifier=source-release&type=zip
 - pkg:maven/org.jboss.threads/jboss-threads@3.9.1?classifier=sources
+- pkg:maven/org.jboss.threads/jboss-threads@3.9.2?classifier=source-release&type=zip
+- pkg:maven/org.jboss.threads/jboss-threads@3.9.2?classifier=sources

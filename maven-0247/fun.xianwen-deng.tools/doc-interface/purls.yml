@@ -2,3 +2,6 @@
 - pkg:maven/fun.xianwen-deng.tools/doc-interface@1.0.12?classifier=sources
 - pkg:maven/fun.xianwen-deng.tools/doc-interface@1.0.13?classifier=sources
 - pkg:maven/fun.xianwen-deng.tools/doc-interface@1.0.14?classifier=sources
+- pkg:maven/fun.xianwen-deng.tools/doc-interface@1.0.18?classifier=sources
+- pkg:maven/fun.xianwen-deng.tools/doc-interface@1.0.19?classifier=sources
+- pkg:maven/fun.xianwen-deng.tools/doc-interface@1.0.20?classifier=sources
