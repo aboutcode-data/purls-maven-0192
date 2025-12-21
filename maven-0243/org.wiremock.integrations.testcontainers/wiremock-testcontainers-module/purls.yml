@@ -2,3 +2,5 @@
 - pkg:maven/org.wiremock.integrations.testcontainers/wiremock-testcontainers-module@1.0-alpha-13?classifier=sources
 - pkg:maven/org.wiremock.integrations.testcontainers/wiremock-testcontainers-module@1.0-alpha-14
 - pkg:maven/org.wiremock.integrations.testcontainers/wiremock-testcontainers-module@1.0-alpha-14?classifier=sources
+- pkg:maven/org.wiremock.integrations.testcontainers/wiremock-testcontainers-module@1.0-alpha-15
+- pkg:maven/org.wiremock.integrations.testcontainers/wiremock-testcontainers-module@1.0-alpha-15?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.virtuslab/besom-cloudflare_3@5.25.0-core.0.3?classifier=sources
 - pkg:maven/org.virtuslab/besom-cloudflare_3@5.26.0-core.0.3
 - pkg:maven/org.virtuslab/besom-cloudflare_3@5.26.0-core.0.3?classifier=sources
+- pkg:maven/org.virtuslab/besom-cloudflare_3@5.49.1-core.0.4
+- pkg:maven/org.virtuslab/besom-cloudflare_3@5.49.1-core.0.4?classifier=sources

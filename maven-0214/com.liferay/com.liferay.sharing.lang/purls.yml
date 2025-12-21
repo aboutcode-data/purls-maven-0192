@@ -20,6 +20,7 @@
 - pkg:maven/com.liferay/com.liferay.sharing.lang@1.0.15
 - pkg:maven/com.liferay/com.liferay.sharing.lang@1.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.lang@1.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sharing.lang@1.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.lang@1.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.lang@1.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sharing.lang@1.0.2
@@ -86,6 +87,7 @@
 - pkg:maven/com.liferay/com.liferay.sharing.lang@2.0.20
 - pkg:maven/com.liferay/com.liferay.sharing.lang@2.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.lang@2.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sharing.lang@2.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.lang@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.lang@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sharing.lang@2.0.3

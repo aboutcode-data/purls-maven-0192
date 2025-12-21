@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.types/mysql@2.15.26?classifier=sources
+- pkg:maven/org.mvnpm.at.types/mysql@2.15.27?classifier=sources

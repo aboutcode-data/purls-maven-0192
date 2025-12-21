@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/dom7@2.1.5?classifier=sources
 - pkg:maven/org.mvnpm/dom7@4.0.6?classifier=sources

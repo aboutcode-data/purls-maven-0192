@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/to-regex-range@2.1.1?classifier=sources
 - pkg:maven/org.mvnpm/to-regex-range@5.0.1?classifier=sources

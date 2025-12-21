@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab/besom-authentik_3@2024.12.1-core.0.4
+- pkg:maven/org.virtuslab/besom-authentik_3@2024.12.1-core.0.4?classifier=sources

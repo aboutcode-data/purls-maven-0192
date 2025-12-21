@@ -1,0 +1,3 @@
+- pkg:maven/org.mvnpm/node-notifier@10.0.1?classifier=sources
+- pkg:maven/org.mvnpm/node-notifier@8.0.2?classifier=sources
+- pkg:maven/org.mvnpm/node-notifier@9.0.1?classifier=sources

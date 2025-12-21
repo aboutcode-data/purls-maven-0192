@@ -66,6 +66,8 @@
 - pkg:maven/com.qttaudio/android-sdk@1.12.7EX?type=aar
 - pkg:maven/com.qttaudio/android-sdk@1.12.8.1?classifier=sources
 - pkg:maven/com.qttaudio/android-sdk@1.12.8.1?type=aar
+- pkg:maven/com.qttaudio/android-sdk@1.12.8EX?classifier=sources
+- pkg:maven/com.qttaudio/android-sdk@1.12.8EX?type=aar
 - pkg:maven/com.qttaudio/android-sdk@1.12.9.1?classifier=sources
 - pkg:maven/com.qttaudio/android-sdk@1.12.9.1?type=aar
 - pkg:maven/com.qttaudio/android-sdk@1.12.9?classifier=sources

@@ -10,3 +10,4 @@
 - pkg:maven/ru.perveevm/polygon-api@1.3?classifier=sources
 - pkg:maven/ru.perveevm/polygon-api@1.4
 - pkg:maven/ru.perveevm/polygon-api@1.4?classifier=sources
+- pkg:maven/ru.perveevm/polygon-api@1.5?classifier=sources

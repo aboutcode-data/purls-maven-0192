@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/postcss-minify-params@1.2.2?classifier=sources
+- pkg:maven/org.mvnpm/postcss-minify-params@7.0.2?classifier=sources

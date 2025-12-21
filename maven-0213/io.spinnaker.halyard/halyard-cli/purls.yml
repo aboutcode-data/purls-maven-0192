@@ -22,4 +22,5 @@
 - pkg:maven/io.spinnaker.halyard/halyard-cli@1.66.0?classifier=sources
 - pkg:maven/io.spinnaker.halyard/halyard-cli@1.67.0?classifier=sources
 - pkg:maven/io.spinnaker.halyard/halyard-cli@1.68.0?classifier=sources
+- pkg:maven/io.spinnaker.halyard/halyard-cli@1.69.0?classifier=sources
 - pkg:maven/io.spinnaker.halyard/halyard-cli@version-1.44.1?classifier=sources

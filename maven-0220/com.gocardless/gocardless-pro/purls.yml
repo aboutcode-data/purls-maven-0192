@@ -213,3 +213,6 @@
 - pkg:maven/com.gocardless/gocardless-pro@5.9.0?classifier=sources
 - pkg:maven/com.gocardless/gocardless-pro@6.0.0?classifier=sources
 - pkg:maven/com.gocardless/gocardless-pro@6.2.0?classifier=sources
+- pkg:maven/com.gocardless/gocardless-pro@6.3.0?classifier=sources
+- pkg:maven/com.gocardless/gocardless-pro@6.4.0?classifier=sources
+- pkg:maven/com.gocardless/gocardless-pro@6.6.0?classifier=sources

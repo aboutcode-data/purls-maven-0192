@@ -62,3 +62,4 @@
 - pkg:maven/me.ehp246/auf-rest@4.1.3?classifier=sources
 - pkg:maven/me.ehp246/auf-rest@5.0.0
 - pkg:maven/me.ehp246/auf-rest@5.0.0?classifier=sources
+- pkg:maven/me.ehp246/auf-rest@6.0.0?classifier=sources

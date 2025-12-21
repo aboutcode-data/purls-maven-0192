@@ -1,5 +1,6 @@
 - pkg:maven/org.mvnpm/debug@2.6.9?classifier=sources
 - pkg:maven/org.mvnpm/debug@3.1.0?classifier=sources
+- pkg:maven/org.mvnpm/debug@3.2.7?classifier=sources
 - pkg:maven/org.mvnpm/debug@4.0.0?classifier=sources
 - pkg:maven/org.mvnpm/debug@4.0.1?classifier=sources
 - pkg:maven/org.mvnpm/debug@4.1.0?classifier=sources

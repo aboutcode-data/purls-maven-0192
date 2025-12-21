@@ -1,3 +1,5 @@
+- pkg:maven/org.virtuslab/besom-okta_3@4.15.0-core.0.4
+- pkg:maven/org.virtuslab/besom-okta_3@4.15.0-core.0.4?classifier=sources
 - pkg:maven/org.virtuslab/besom-okta_3@4.4.0-core.0.1.0
 - pkg:maven/org.virtuslab/besom-okta_3@4.4.0-core.0.1.0?classifier=sources
 - pkg:maven/org.virtuslab/besom-okta_3@4.6.3-core.0.2

@@ -73,4 +73,5 @@
 - pkg:maven/com.github.nagyesta.abort-mission.reports/abort.flight-evaluation-report@5.1.2?classifier=sources
 - pkg:maven/com.github.nagyesta.abort-mission.reports/abort.flight-evaluation-report@5.1.7?classifier=sources
 - pkg:maven/com.github.nagyesta.abort-mission.reports/abort.flight-evaluation-report@5.2.0?classifier=sources
+- pkg:maven/com.github.nagyesta.abort-mission.reports/abort.flight-evaluation-report@5.2.29?classifier=sources
 - pkg:maven/com.github.nagyesta.abort-mission.reports/abort.flight-evaluation-report@5.2.6?classifier=sources

@@ -59,3 +59,6 @@
 - pkg:maven/io.spinnaker.fiat/fiat-sql-mysql@1.52.0?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-sql-mysql@1.53.0?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-sql-mysql@1.54.0?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-sql-mysql@1.54.1?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-sql-mysql@1.55.0?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-sql-mysql@1.56.0?classifier=sources

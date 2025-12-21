@@ -64,3 +64,5 @@
 - pkg:maven/org.metaeffekt.core/ae-test-common@0.135.6?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-test-common@0.135.7
 - pkg:maven/org.metaeffekt.core/ae-test-common@0.135.7?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-test-common@0.135.8
+- pkg:maven/org.metaeffekt.core/ae-test-common@0.135.8?classifier=sources

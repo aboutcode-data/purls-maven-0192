@@ -14,3 +14,5 @@
 - pkg:maven/eu.maveniverse.maven.mimir.node/minio@0.3.6?classifier=sources
 - pkg:maven/eu.maveniverse.maven.mimir.node/minio@0.4.0
 - pkg:maven/eu.maveniverse.maven.mimir.node/minio@0.4.0?classifier=sources
+- pkg:maven/eu.maveniverse.maven.mimir.node/minio@0.4.1
+- pkg:maven/eu.maveniverse.maven.mimir.node/minio@0.4.1?classifier=sources

@@ -1,4 +1,5 @@
 - pkg:maven/fun.krinsiman.llm/llm-agent-dify@1.0.0-beta.10?classifier=sources
+- pkg:maven/fun.krinsiman.llm/llm-agent-dify@1.0.0-beta.11?classifier=sources
 - pkg:maven/fun.krinsiman.llm/llm-agent-dify@1.0.0-beta.3?classifier=sources
 - pkg:maven/fun.krinsiman.llm/llm-agent-dify@1.0.0-beta.4?classifier=sources
 - pkg:maven/fun.krinsiman.llm/llm-agent-dify@1.0.0-beta.5?classifier=sources

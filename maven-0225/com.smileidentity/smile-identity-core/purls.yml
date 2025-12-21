@@ -33,3 +33,5 @@
 - pkg:maven/com.smileidentity/smile-identity-core@2.1.2?classifier=sources
 - pkg:maven/com.smileidentity/smile-identity-core@2.1.3?classifier=sources
 - pkg:maven/com.smileidentity/smile-identity-core@2.1.4?classifier=sources
+- pkg:maven/com.smileidentity/smile-identity-core@2.1.6?classifier=sources
+- pkg:maven/com.smileidentity/smile-identity-core@2.1.7?classifier=sources

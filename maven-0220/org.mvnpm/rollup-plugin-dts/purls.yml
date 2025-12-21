@@ -1,0 +1,1 @@
+- pkg:maven/org.mvnpm/rollup-plugin-dts@6.2.1?classifier=sources

@@ -25,3 +25,4 @@
 - pkg:maven/com.palantir.ri/resource-identifier@2.6.0?classifier=sources
 - pkg:maven/com.palantir.ri/resource-identifier@2.7.0?classifier=sources
 - pkg:maven/com.palantir.ri/resource-identifier@2.8.0?classifier=sources
+- pkg:maven/com.palantir.ri/resource-identifier@2.9.0?classifier=sources

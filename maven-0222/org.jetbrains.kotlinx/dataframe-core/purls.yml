@@ -427,6 +427,7 @@
 - pkg:maven/org.jetbrains.kotlinx/dataframe-core@0.16.0-dev-6332?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe-core@0.16.0-dev-6361?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe-core@0.16.0-dev-6363?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-core@0.16.0-dev-6396?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe-core@0.8.0-dev-1019?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe-core@0.8.0-dev-1022?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe-core@0.8.0-dev-1023?classifier=sources
@@ -535,5 +536,18 @@
 - pkg:maven/org.jetbrains.kotlinx/dataframe-core@0.9.0-dev-1323?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe-core@0.9.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe-core@0.9.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-core@1.0.0-dev-6428?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-core@1.0.0-dev-6444?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-core@1.0.0-dev-6446?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-core@1.0.0-dev-6498?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-core@1.0.0-dev-6538?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-core@1.0.0-dev-6547?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-core@1.0.0-dev-6559?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-core@1.0.0-dev-6561?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-core@1.0.0-dev-6575?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-core@1.0.0-dev-6596?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-core@1.0.0-dev-6599?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-core@1.0.0-dev-6620?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-core@1.0.0-dev-6624?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe-core@1548?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe-core@1727?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/io.github.smyrgeorge/log4k-coroutines-wasm-wasi@0.40.0?classifier=sources

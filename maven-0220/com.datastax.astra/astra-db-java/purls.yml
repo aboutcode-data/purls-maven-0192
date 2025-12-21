@@ -31,4 +31,5 @@
 - pkg:maven/com.datastax.astra/astra-db-java@2.0.0-PREVIEW
 - pkg:maven/com.datastax.astra/astra-db-java@2.0.0-PREVIEW1
 - pkg:maven/com.datastax.astra/astra-db-java@2.0.0-PREVIEW1?classifier=sources
+- pkg:maven/com.datastax.astra/astra-db-java@2.0.0-PREVIEW2?classifier=sources
 - pkg:maven/com.datastax.astra/astra-db-java@2.0.0-PREVIEW?classifier=sources

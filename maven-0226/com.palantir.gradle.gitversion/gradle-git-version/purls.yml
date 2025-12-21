@@ -71,3 +71,4 @@
 - pkg:maven/com.palantir.gradle.gitversion/gradle-git-version@2.0.0?classifier=sources
 - pkg:maven/com.palantir.gradle.gitversion/gradle-git-version@3.0.0?classifier=sources
 - pkg:maven/com.palantir.gradle.gitversion/gradle-git-version@3.1.0?classifier=sources
+- pkg:maven/com.palantir.gradle.gitversion/gradle-git-version@3.2.0?classifier=sources

@@ -131,3 +131,4 @@
 - pkg:maven/com.liferay/com.liferay.depot.api@6.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.depot.api@7.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.depot.api@7.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.depot.api@7.2.0?classifier=sources

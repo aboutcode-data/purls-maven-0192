@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.webpack-cli/serve@1.7.0?classifier=sources
+- pkg:maven/org.mvnpm.at.webpack-cli/serve@3.0.1?classifier=sources

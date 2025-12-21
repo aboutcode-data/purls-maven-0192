@@ -18,6 +18,7 @@
 - pkg:maven/io.github.beijiyi/dlsql@1.0.22?classifier=sources
 - pkg:maven/io.github.beijiyi/dlsql@1.0.24
 - pkg:maven/io.github.beijiyi/dlsql@1.0.24?classifier=sources
+- pkg:maven/io.github.beijiyi/dlsql@1.0.26?classifier=sources
 - pkg:maven/io.github.beijiyi/dlsql@1.0.3
 - pkg:maven/io.github.beijiyi/dlsql@1.0.3?classifier=sources
 - pkg:maven/io.github.beijiyi/dlsql@1.0.4

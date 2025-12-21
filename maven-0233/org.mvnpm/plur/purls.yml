@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/plur@1.0.0?classifier=sources
 - pkg:maven/org.mvnpm/plur@5.1.0?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/com.aliyun/alibabacloud-aiworkspace20210204@3.0.2?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-aiworkspace20210204@4.0.0
 - pkg:maven/com.aliyun/alibabacloud-aiworkspace20210204@4.0.0?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-aiworkspace20210204@4.0.1
+- pkg:maven/com.aliyun/alibabacloud-aiworkspace20210204@4.0.1?classifier=sources

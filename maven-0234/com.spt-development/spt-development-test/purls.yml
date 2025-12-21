@@ -57,6 +57,8 @@
 - pkg:maven/com.spt-development/spt-development-test@3.1.14?classifier=sources
 - pkg:maven/com.spt-development/spt-development-test@3.1.15
 - pkg:maven/com.spt-development/spt-development-test@3.1.15?classifier=sources
+- pkg:maven/com.spt-development/spt-development-test@3.1.16
+- pkg:maven/com.spt-development/spt-development-test@3.1.16?classifier=sources
 - pkg:maven/com.spt-development/spt-development-test@3.1.1?classifier=sources
 - pkg:maven/com.spt-development/spt-development-test@3.1.2
 - pkg:maven/com.spt-development/spt-development-test@3.1.2?classifier=sources

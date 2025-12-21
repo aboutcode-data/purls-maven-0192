@@ -1,1 +1,2 @@
 - pkg:maven/com.umtone/uw-tinyurl-client@1.0.18?classifier=sources
+- pkg:maven/com.umtone/uw-tinyurl-client@1.0.19?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/mem@1.1.0?classifier=sources
+- pkg:maven/org.mvnpm/mem@10.0.0?classifier=sources

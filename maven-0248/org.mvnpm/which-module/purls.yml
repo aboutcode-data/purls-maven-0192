@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/which-module@1.0.0?classifier=sources
 - pkg:maven/org.mvnpm/which-module@2.0.1?classifier=sources

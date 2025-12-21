@@ -31,3 +31,4 @@
 - pkg:maven/com.snap.camerakit/camerakit-extension-auth-token-provider@1.37.0?classifier=sources
 - pkg:maven/com.snap.camerakit/camerakit-extension-auth-token-provider@1.38.0?classifier=sources
 - pkg:maven/com.snap.camerakit/camerakit-extension-auth-token-provider@1.39.0?classifier=sources
+- pkg:maven/com.snap.camerakit/camerakit-extension-auth-token-provider@1.40.0?classifier=sources

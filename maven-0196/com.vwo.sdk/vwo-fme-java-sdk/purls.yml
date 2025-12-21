@@ -2,3 +2,4 @@
 - pkg:maven/com.vwo.sdk/vwo-fme-java-sdk@1.0.0?classifier=sources
 - pkg:maven/com.vwo.sdk/vwo-fme-java-sdk@1.1.0
 - pkg:maven/com.vwo.sdk/vwo-fme-java-sdk@1.1.0?classifier=sources
+- pkg:maven/com.vwo.sdk/vwo-fme-java-sdk@1.5.0?classifier=sources

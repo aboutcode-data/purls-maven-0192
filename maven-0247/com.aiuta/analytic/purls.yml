@@ -38,3 +38,4 @@
 - pkg:maven/com.aiuta/analytic@1.2.7?classifier=sources
 - pkg:maven/com.aiuta/analytic@1.2.8?classifier=sources
 - pkg:maven/com.aiuta/analytic@1.2.9?classifier=sources
+- pkg:maven/com.aiuta/analytic@4.0.0?classifier=sources

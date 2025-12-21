@@ -1,3 +1,4 @@
 - pkg:maven/org.mvnpm/npmlog@4.1.2?classifier=sources
 - pkg:maven/org.mvnpm/npmlog@5.0.1?classifier=sources
+- pkg:maven/org.mvnpm/npmlog@6.0.2?classifier=sources
 - pkg:maven/org.mvnpm/npmlog@7.0.1?classifier=sources

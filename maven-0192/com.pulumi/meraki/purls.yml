@@ -49,3 +49,4 @@
 - pkg:maven/com.pulumi/meraki@0.4.0-alpha.1732687069?classifier=sources
 - pkg:maven/com.pulumi/meraki@0.4.0-alpha.1732773431?classifier=sources
 - pkg:maven/com.pulumi/meraki@0.4.0?classifier=sources
+- pkg:maven/com.pulumi/meraki@0.4.1?classifier=sources

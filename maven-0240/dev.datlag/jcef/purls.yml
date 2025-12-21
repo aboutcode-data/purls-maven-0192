@@ -7,3 +7,4 @@
 - pkg:maven/dev.datlag/jcef@2024.04.20.3?classifier=sources
 - pkg:maven/dev.datlag/jcef@2024.04.20.4?classifier=sources
 - pkg:maven/dev.datlag/jcef@2024.04.20?classifier=sources
+- pkg:maven/dev.datlag/jcef@2025.03.23?classifier=sources

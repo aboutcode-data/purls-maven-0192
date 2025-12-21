@@ -16,3 +16,4 @@
 - pkg:maven/org.opencms/opencms-modules@16.0?classifier=sources
 - pkg:maven/org.opencms/opencms-modules@17.0?classifier=sources
 - pkg:maven/org.opencms/opencms-modules@18.0?classifier=sources
+- pkg:maven/org.opencms/opencms-modules@19.0?classifier=sources

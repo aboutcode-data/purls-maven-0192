@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/postcss-merge-idents@2.1.7?classifier=sources
+- pkg:maven/org.mvnpm/postcss-merge-idents@7.0.0?classifier=sources
